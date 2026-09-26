@@ -12005,3 +12005,21 @@ IoT허브=smart hub
 코베아=Kovea
 몽벨=Montbell
 라켓=แร็กเก็ต
+
+# --- 네 번째 검토 20: 브랜드와 겹치는 낱말 (캐리어 에어컨=กระเป๋าเดินทาง 여행가방, 닌자 블렌더=นินจา 닌자) 과 생활 브랜드 ---
+캐리어에어컨=แอร์ Carrier
+닌자블렌더=เครื่องปั่น Ninja
+닌자에어프라이어=หม้อทอดไร้น้ำมัน Ninja
+압타밀=Aptamil
+럭스=Lux
+아비노=Aveeno
+세바메드=Sebamed
+피지오겔=Physiogel
+바이타믹스=Vitamix
+브레빌=Breville
+글라스락=Glasslock
+코멕스=Komax
+엘라스틴=Elastine
+케라시스=Kerasys
+해피바스=Happy Bath
+온더바디=On The Body
