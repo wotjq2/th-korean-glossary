@@ -12240,3 +12240,46 @@ NAS=NAS
 프레지덩=President
 하인즈=Heinz
 켈로그=Kellogg's
+
+# --- 네 번째 검토 27: 생활용품 꾸밈말 @꾸밈말 ---
+미셀라=micellar
+
+# --- 네 번째 검토 27: 세제·휴지·위생·세면 브랜드 (마마레몬=เลมอน มาม่า 라면, 클리어 샴푸=ใส 투명) ---
+마마레몬=Mama Lemon
+클리어샴푸=แชมพู Clear
+질레트=Gillette
+크리넥스=Kleenex
+템포=Tempo
+라이솔=Lysol
+글레이드=Glade
+아리엘세제=ผงซักฟอก Ariel
+타이드=Tide
+컴포트섬유유연제=น้ำยาปรับผ้านุ่ม Comfort
+오모=OMO
+브리즈=Breeze
+선라이트=Sunlight
+매직클린=Magiclean
+카오=Kao
+라이온치약=ยาสีฟัน Lion
+로토=Rohto
+센카=Senka
+메리트샴푸=แชมพู Merit
+츠바키=Tsubaki
+선실크=Sunsilk
+가르니에=Garnier
+레블론=Revlon
+폰즈=Pond's
+시트라=Citra
+베이비마인드=Babi Mild
+프로텍스=Protex
+팜올리브=Palmolive
+라이프부이=Lifebuoy
+하이터=Haiter
+스카치브라이트=Scotch-Brite
+폴리브라이트=Poly-Brite
+지퍼락=Ziploc
+글래드=Glad
+유니참=Unicharm
+소피=Sofy
+코텍스=Kotex
+위스퍼=Whisper
