@@ -12182,3 +12182,21 @@ NAS=NAS
 보이차=ชาผู่เอ๋อ
 밀크차=ชานม
 귤피차=ชาเปลือกส้ม
+
+# --- 네 번째 검토 25: 화장품 꾸밈말 @꾸밈말 ---
+퓨어=pure
+
+# --- 네 번째 검토 25: 한국 화장품 브랜드·제품명 (공식 영문명) ---
+윤조에센스=First Care Activating Serum
+후천기단=Whoo Cheongidan
+더히스토리오브후=The History of Whoo
+숨37=su:m37
+비욘드=BEYOND
+파티온=Fation
+더마비=Derma:B
+라곰=LAGOM
+아비브=Abib
+이즈앤트리=Isntree
+클레어스=Klairs
+퓨리토=Purito
+벤튼=Benton
