@@ -28,6 +28,7 @@
 아래 파일에는 국립국어원 「한국어기초사전」(<https://krdict.korean.go.kr>, 2026-10-19 전체 내려받기 자료)에서 가져온 낱말이 들어 있습니다.
 
 - `glossary-ar.txt` `glossary-en.txt` `glossary-es.txt` `glossary-fr.txt` `glossary-id.txt` `glossary-ja.txt` `glossary-mn.txt` `glossary-ru.txt` `glossary-vi.txt` `glossary-zh.txt` `glossary-th-krdict.txt`
+- `reverse-ar.txt` `reverse-en.txt` `reverse-es.txt` `reverse-fr.txt` `reverse-id.txt` `reverse-ja.txt` `reverse-mn.txt` `reverse-ru.txt` `reverse-th.txt` `reverse-vi.txt` `reverse-zh.txt` — 언어 교차용 거꾸로 표. 한 줄에 `그 언어=한국어`. 사전 전체에서 한국어 한 표기로만 이어지는 낱말 가운데 어느 뜻의 첫 대역어이고 짧은 말만 골랐습니다. 입력·메시지 전체가 왼쪽과 같을 때 그 언어 → 한국어, 또는 한국어를 거쳐 다른 언어로 옮기는 데 씁니다(통합 번역 1.30.1 다음 판부터, 번역 도우미의 LINE 은 먼저).
 - 라이선스: 크리에이티브 커먼즈 저작자표시-동일조건변경허락 2.0 대한민국 (CC BY-SA 2.0 KR, <https://creativecommons.org/licenses/by-sa/2.0/kr/>). 위 파일들은 전체를 같은 라이선스로 배포합니다.
 - 변경 사항: 동형어까지 합쳐 뜻이 하나뿐인 낱말만 골랐고, 첫 대역어만 남겼으며, 괄호·음역 표기를 손질했습니다.
 - 파일 안에서 `# === 한국어기초사전 끝` 줄 위가 사전 낱말, 아래가 직접 고른 말입니다. 같은 한국어는 아래쪽이 이기므로 직접 고른 말이 우선합니다.

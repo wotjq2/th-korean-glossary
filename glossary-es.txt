@@ -8017,7 +8017,7 @@
 디지털카메라=cámara digital
 딜레마=dilema
 딥다=mucho
-딩동딩동=¡ring
+딩동딩동=ring
 따귀=carrillo
 따끈따끈=calientemente
 따끈따끈하다=caliente
@@ -8034,7 +8034,7 @@
 따라지=persona miserable
 따로국밥=ttarogukbap
 따로따로=separadamente
-따르릉=¡ring
+따르릉=ring
 따습다=agradablemente templado
 따오다=citar
 따옴표=comillas
@@ -8200,7 +8200,7 @@
 뚱딴지=persona ridícula
 뚱땅거리다=repiquetear
 뚱땅대다=repiquetear
-뚱땅뚱땅=¡tan
+뚱땅뚱땅=tan
 뚱땅뚱땅하다=repiquetear
 뚱뚱보=gordo
 뚱뚱이=gordo
@@ -9045,7 +9045,7 @@
 멋있다=elegante
 멋쟁이=dandi
 멋지다=elegante
-멍멍=¡guau
+멍멍=guau
 멍멍이=cachorro
 멍멍하다=aturdido
 멍석=meongseok
@@ -17313,7 +17313,7 @@
 아편=opio
 아프가니스탄=Afganistán
 아프리카=África
-아하=¡vaya
+아하=vaya
 악기=instrumento musical
 악기점=tienda de instrumentos musicales
 악다물다=apretar los dientes
