@@ -22,3 +22,13 @@
 - 반영: 브라우저·번역 도우미 모두 1시간 안에 (확장 업데이트·웹스토어 심사 필요 없음)
 - 새 언어: 여기에 파일 하나 + th-korean 저장소 `config.json` 의 그 언어 줄에 `"glossary": "glossary-xx.txt"`
 - 처음 넣은 것(2026-11-04): 21개 언어에 인사·쇼핑·식당·길 묻기 기본 말 62개 — 구글이 한국어에서 바로 옮기면 틀리는 말('깎아 주세요' → 면도, '공항' → 비행기)을 바로잡아 둠. 영어·중국어는 예전 샘플 188줄도 들어 있음
+
+## 출처·라이선스
+
+아래 파일에는 국립국어원 「한국어기초사전」(<https://krdict.korean.go.kr>, 2026-10-19 전체 내려받기 자료)에서 가져온 낱말이 들어 있습니다.
+
+- `glossary-ar.txt` `glossary-en.txt` `glossary-es.txt` `glossary-fr.txt` `glossary-id.txt` `glossary-ja.txt` `glossary-mn.txt` `glossary-ru.txt` `glossary-vi.txt` `glossary-zh.txt` `glossary-th-krdict.txt`
+- 라이선스: 크리에이티브 커먼즈 저작자표시-동일조건변경허락 2.0 대한민국 (CC BY-SA 2.0 KR, <https://creativecommons.org/licenses/by-sa/2.0/kr/>). 위 파일들은 전체를 같은 라이선스로 배포합니다.
+- 변경 사항: 동형어까지 합쳐 뜻이 하나뿐인 낱말만 골랐고, 첫 대역어만 남겼으며, 괄호·음역 표기를 손질했습니다.
+- 파일 안에서 `# === 한국어기초사전 끝` 줄 위가 사전 낱말, 아래가 직접 고른 말입니다. 같은 한국어는 아래쪽이 이기므로 직접 고른 말이 우선합니다.
+- `glossary.txt` 와 나머지 언어 파일에는 이 자료를 넣지 않았습니다. `glossary-th-krdict.txt` 는 `glossary.txt` 에 없는 태국어 낱말만 따로 모은 것으로, 아직 스크립트가 읽지 않습니다.
