@@ -2,7 +2,7 @@
 # 같은 한국어가 두 번 나오면 아래 것이 이깁니다 — 아래쪽 직접 고른 말이 사전보다 우선합니다.
 # 아래 '# === 한국어기초사전 끝' 줄이 사전 낱말과 직접 고른 말의 경계입니다(번역 도우미가 이 이름으로 찾습니다).
 
-# 위키낱말사전 부분 (20547줄)
+# 위키낱말사전 부분 (20405줄)
 # 출처: 영어판 위키낱말사전(Wiktionary)의 번역표 — Wiktionary 기여자들, https://en.wiktionary.org
 #   kaikki.org 의 wiktextract 추출 자료(2026-10-01 덤프)에서 가져왔습니다. https://kaikki.org
 # 라이선스: 크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0 국제 (CC BY-SA 4.0)
@@ -154,7 +154,6 @@
 가이아나=Guiana
 가입자=assinante
 가입하다=juntar-se a
-가자=Gaza
 가자 지구=Faixa de Gaza
 가자미=linguado
 가장 나쁜=pior
@@ -223,10 +222,8 @@
 간섭=interferência
 간식=lanche
 간암=câncer de fígado
-간에=entre
 간염=hepatite
 간유=óleo de fígado de bacalhau
-간을=entre
 간음=fornicação
 간음자=adúltero
 간접명령법=jussivo
@@ -426,7 +423,6 @@
 개연성=probabilidade
 개오동=catalpa
 개울=riacho
-개의=canino
 개인 메시지=mensagem privada
 개인 소유=pessoal
 개인숭배=culto de personalidade
@@ -488,7 +484,6 @@
 거북이=tartaruga
 거석기념물=megálito
 거스러미=espiga
-거슬러=contra
 거슬리다=dar nos nervos
 거시경제학=macroeconomia
 거실=sala de estar
@@ -887,7 +882,6 @@
 고린도전서=1 Coríntios
 고릴라=gorila
 고립=isolamento
-고립된=abandonado
 고립어=língua isolada
 고립주의=isolacionismo
 고마워요=obrigado
@@ -1128,7 +1122,6 @@
 공정하다=justo
 공준=postulado
 공중위생=saneamento
-공중의=público
 공중전화 박스=cabine telefônica
 공중전화 부스=cabine telefônica
 공중제비=salto mortal
@@ -1504,7 +1497,6 @@
 구타하다=espancar
 구토공포증=emetofobia
 구풍금=gaita
-구피=Pateta
 구형성=esfericidade
 구호금=esmola
 구화=fogueira
@@ -1771,7 +1763,6 @@
 그으즈어=geez
 그을다=bronzear
 그을음=fuligem
-그의=seu
 그저 그래요=mais ou menos
 그저 그렇게=mais ou menos
 극간=fenda
@@ -1815,7 +1806,6 @@
 근육 기억=memória muscular
 근일점=periélio
 근처=vizinhança
-근처에=perto de
 근청석=cordierita
 근친교배=endocruzamento
 근친상간=incesto
@@ -2101,7 +2091,6 @@
 깨진 글자=mojibake
 깨진 링크=apodrecimento de links
 깨진 문자=mojibake
-깨짐=pane
 꺅도요=narceja-comum
 꺾은선 그래프=gráfico de linha
 꼬까울새=pisco-de-peito-ruivo
@@ -2162,7 +2151,6 @@
 나 너 좋아해=gosto de você
 나 좀 내버려 둬=me deixa quieto
 나 죽어요=estou morrendo
-나가=naga
 나가노=Nagano
 나가는 곳=saída
 나가사키=Nagasaki
@@ -2382,7 +2370,6 @@
 남오세티야=Ossétia do Sul
 남우=ator
 남유럽=Europa meridional
-남의=do sul
 남자 같은=macho
 남자공포증=androfobia
 남자다운=macho
@@ -2495,7 +2482,6 @@
 너도밤나무=faia
 너라고 부르다=tutear
 너를 사랑해=eu estou apaixonado por você
-너의=teu
 너의 바램은 나에게 명령이다=o seu pedido é uma ordem
 너클=soco-inglês
 너트=porca
@@ -2682,7 +2668,6 @@
 논증=demonstração
 논평=comentário
 논하다=discutir
-놀거리=inútil
 놀라게 하다=surpreender
 놀란=espantado
 놀랍게도=surpreendentemente
@@ -3671,8 +3656,6 @@
 돼지고기=carne de porco
 돼지의=porcino
 돼지콜레라=peste suína clássica
-됐습니다=não, obrigado
-됐어요=não, obrigado
 되감다=rebobinar
 되네르=churrasco grego
 되네르 케밥=churrasco grego
@@ -3710,7 +3693,6 @@
 두부=tofu
 두브늄=dúbnio
 두샨베=Dushanbe
-두시=duas horas
 두에로=Douro
 두운=aliteração
 두운법=aliterativo
@@ -3732,7 +3714,6 @@
 둘 다=ambos
 둘세데레체=doce de leite
 둘째로=segundamente
-둘째어머니=tia
 둥근귀코끼리=elefante-da-floresta
 둥글게=ao redor
 둥지=ninho
@@ -3812,7 +3793,6 @@
 등선=navio-farol
 등신=idiota
 등어선=isoglossa
-등에=moscardo
 등자=estribo
 등자뼈=estribo
 등잔=lampião
@@ -4079,7 +4059,6 @@
 랑스킵=dracar
 래브라도=Labrador
 래브라도 리트리버=labrador
-래커=laca
 래퍼=rapper
 랜덤 박스=caixa de saque
 랜드=rand
@@ -4093,7 +4072,6 @@
 랩톱=computador portátil
 랭킹=classificação
 랴잔=Riazan
-러닝=regata
 러닝셔츠=regata
 러닝타임=duração
 러더포듐=ruterfórdio
@@ -4386,7 +4364,6 @@
 르노카라바흐 공화국=República de Nagorno-Karabakh
 르완다=Ruanda
 르호보암=Roboão
-리가=Riga
 리가만=Golfo de Riga
 리간드=ligando
 리게이스=ligase
@@ -4454,7 +4431,6 @@
 리케차=rickettsia
 리코타=ricota
 리큐어=licor
-리크=vazamento
 리터=litro
 리터치=retoque
 리투아니아=Lituânia
@@ -4557,7 +4533,6 @@
 마르세유=Marselha
 마르세유 비누=sabão de Marselha
 마르스=Marte
-마르코=Marcos
 마르코 복음서=Marcos
 마르크스=Marx
 마르크스주의=marxismo
@@ -4673,7 +4648,6 @@
 마취약=anestesia
 마취제=anestesia
 마침표=ponto
-마카=Meca
 마카다미아=macadâmia
 마카로니=macarrão
 마카롱=macaron
@@ -4819,7 +4793,6 @@
 말씨름=querela
 말을 더듬다=gaguejar
 말을 타다=andar de
-말의=equino
 말장난=trocadilho
 말줄임표=reticências
 말차=matcha
@@ -4983,7 +4956,6 @@
 먹는 샘물 생수=garrafa d'água
 먹방=mukbang
 먹보=glutão
-먹었다=de
 먹을 것=comida
 먹을 수 있는=comestível
 먹이 그물=rede trófica
@@ -5076,7 +5048,6 @@
 메타픽션=metaficção
 메탄=metano
 메탄올=metanol
-메탈=metal
 메테인=metano
 메트로=metrô
 메트로놈=metrônomo
@@ -5424,7 +5395,6 @@
 무게중심=baricentro
 무과립구증=agranulocitose
 무관심하다=indiferente
-무광=afótico
 무교 입니다=eu sou ateu
 무국적자=apátrida
 무궁화=hibisco
@@ -5824,7 +5794,6 @@
 민간의=civil
 민간인=civil
 민감하다=sensível
-민감한=sentimental
 민남어=minnan
 민달팽이=lesma
 민들레=dente-de-leão
@@ -5951,8 +5920,6 @@
 바둑=go
 바들은=eufônio
 바디 워시=gel de banho
-바디슈트=macaquinho
-바라=prato
 바라나시=Varanasi
 바라문=brâmane
 바라문디=perca-gigante
@@ -6151,7 +6118,6 @@
 반소=alumínio
 반송파=onda portadora
 반숙란=ovo quente
-반시=banshee
 반시간=meia hora
 반시계 방향=anti-horário
 반시오니즘=antissionismo
@@ -6889,7 +6855,6 @@
 보도교=passarela
 보도기관=imprensa
 보도자료=comunicado
-보드=conselho
 보드게임=jogo de tabuleiro
 보드카=vodca
 보디 랭귀지=linguagem corporal
@@ -7188,7 +7153,6 @@
 부정한 돈=dinheiro preto
 부조리=absurdismo
 부조화=discórdia
-부족한=escasso
 부줌부라=Bujumbura
 부지깽이=atiçador
 부지런하다=diligente
@@ -7357,7 +7321,6 @@
 불륜하다=ter um caso
 불리=desvantagem
 불리언=booleano
-불리한=deficiente
 불만스럽다=insatisfeito
 불만을 말하다=reclamar
 불만족=descontentamento
@@ -7510,7 +7473,6 @@
 브리튼 제도=Ilhas Britânicas
 브리티시컬럼비아=Colúmbia Britânica
 브리핑=resumo
-브릭=BRIC
 브릭스=BRICS
 브이=vê
 브이로거=vlogger
@@ -7554,7 +7516,6 @@
 블룸폰테인=Bloemfontein
 블리니=panqueca
 블린=panqueca
-비가=elegia
 비가 억수같이 내리다=o céu vir abaixo
 비가 오는=chuvoso
 비가 옵니다=está chovendo
@@ -7564,7 +7525,6 @@
 비겁자=covarde
 비결정론=indeterminismo
 비공개 합의=contrato de confidencialidade
-비관적인=conservador
 비관주의=pessimismo
 비교=comparação
 비교가 가능하다=comparável
@@ -7692,7 +7652,6 @@
 비제이=streamer
 비종교자=incrédulo
 비주얼 노벨=novela visual
-비즈=conta
 비즈니스맨=empresário
 비직업=amador
 비참하다=trágico
@@ -7797,7 +7756,6 @@
 빚지고 있다=dever
 빛나는 것이 모두 금 아니라=nem tudo que reluz é ouro
 빛샘=fonte luminosa
-빛의=fótico
 빛이 있으라=haja luz
 빛줄기=feixe
 빠구리=transa
@@ -7908,7 +7866,6 @@
 사랑앵무=periquito australiano
 사랑에 빠지다=apaixonar-se
 사랑을 하면 눈이 먼다=o amor é cego
-사랑의=amoroso
 사랑의 둥지=garçonnière
 사랑의 보금자리=garçonnière
 사랑적=erótico
@@ -8107,7 +8064,6 @@
 사진술=fotografia
 사진을 찍다=fotografar
 사차원의=quadridimensional
-사천=Sichuan
 사촌=primo
 사춘기=puberdade
 사치=extravagante
@@ -8234,7 +8190,6 @@
 살라트=salá
 살람=salama
 살레하르트=Salekhard
-살로=toicinho
 살루키=saluki
 살리실산=ácido salicílico
 살벤자리=peixe-zebra violão
@@ -8302,7 +8257,6 @@
 삼십이=trinta e dois
 삼십이강=16 avos-de-final
 삼십이분음표=fusa
-삼십일=trinta e um
 삼십칠=trinta e sete
 삼십팔=trinta e oito
 삼엽충=trilobita
@@ -8625,7 +8579,6 @@
 서예=caligrafia
 서예가=calígrafo
 서울 사람=seulês
-서울의=seulês
 서울인=seulês
 서유럽=Europa Ocidental
 서의=ocidental
@@ -9261,7 +9214,6 @@
 송장까마귀=gralha-preta
 송지유=aguarrás
 송진=colofónia
-송풍구=ventaneira
 송화기=transmissor
 송환=repatriação
 쇄골=clavícula
@@ -9438,7 +9390,6 @@
 수잔=Susana
 수장국=emirado
 수장룡=plesiossauro
-수전=arrozal
 수전노=avarento
 수정 시온주의=sionismo revisionista
 수정관=ducto deferente
@@ -9791,7 +9742,6 @@
 스토리 아크=arco de história
 스토브=fogão
 스토커=perseguidor
-스토퍼=rolha
 스톡홀름=Estocolmo
 스톡홀름 증후군=síndrome de Estocolmo
 스톤헨지=Stonehenge
@@ -9816,8 +9766,6 @@
 스트립쇼=striptease
 스티븐=Estêvão
 스티어링 휠=volante
-스틱=stique
-스틸레토=estilete
 스파게티=spaghetti
 스파게티 웨스턴=spaghetti western
 스파게티화=esparguetificação
@@ -9836,7 +9784,6 @@
 스팽킹=surra
 스펀지=esponja
 스펀지 케이크=pão de ló
-스페셜=oferta
 스페어타이어=estepe
 스페이스=espaço
 스페이스 바=espaço
@@ -9885,7 +9832,6 @@
 슬라브학=eslavística
 슬라이드=slide
 슬라이스=fatia
-슬라이스 치즈=queijo americano
 슬랑오르=Selangor
 슬래시=barra
 슬랩스틱=pastelão
@@ -9967,7 +9913,6 @@
 시금치=espinafre
 시기하다=invejoso
 시끄러=cala a boca
-시끄러워=cala a boca
 시나고그=sinagoga
 시나이 반도=Sinai
 시너지=sinergia
@@ -10206,7 +10151,6 @@
 신조=crença
 신조어=neologismo
 신종 코로나바이러스 감염증=Covid-19
-신중하게=discretamente
 신중하다=cauteloso
 신중히=cuidadosamente
 신지학=teosofia
@@ -10237,7 +10181,6 @@
 실다비아=Sildávia
 실드=campo de força
 실뜨기=cama de gato
-실러=Schiller
 실레브리티=celebridade
 실레지아=Silésia
 실로폰=xilofone
@@ -10249,7 +10192,6 @@
 실리콘=silício
 실리콘 밸리=Vale do Silício
 실린더=cilindro
-실링=xelim
 실망=decepção
 실망시키다=desapontar
 실망하다=decepcionado
@@ -10287,7 +10229,6 @@
 실현하다=realizar
 실황 플레이=let's play
 싫든 좋든=querendo ou não
-싫어요=descurtida
 심각한=sério
 심각함=gravidade
 심근=miocárdio
@@ -10362,7 +10303,6 @@
 십이월=dezembro
 십이지장=duodeno
 십이진법의=duodecimal
-십일=onze
 십일각형=hendecágono
 십일월=novembro
 십일조=dízimo
@@ -10442,7 +10382,6 @@
 쓰레기봉투=saco de lixo
 쓰레기차=caminhão de lixo
 쓰레받기=pá de lixo
-쓰레빠=chinelo
 쓰르라미=cigarra
 쓰리=três
 쓰리 오브 어 카인드=trinca
@@ -10506,7 +10445,6 @@
 아니메=anime
 아니면=ou
 아니스=anis
-아니에요=de nada
 아다만티움=adamantium
 아담=Adão
 아담과 이브=Adão e Eva
@@ -10644,7 +10582,6 @@
 아몬드=amêndoa
 아몬드밀크=leite de amêndoa
 아무개=fulano
-아무것도=qualquer coisa
 아무것도 사고 싶지 않습니다=eu não quero comprar nada
 아무데도=em nenhum lugar
 아무르강=Amur
@@ -10695,7 +10632,6 @@
 아세트아미노펜=paracetamol
 아세틸콜린에스터레이스=acetilcolinesterase
 아소카=Asoka
-아속=subgénero
 아순시온=Assunção
 아스가르드=Asgard
 아스마라=Asmara
@@ -10767,7 +10703,6 @@
 아이비에스에이=IBSA
 아이섀도우=sombra
 아이소포스=Esopo
-아이스=gelado
 아이스 캔디=picolé
 아이스 커피=café gelado
 아이스링크=rinque de patinação
@@ -10983,7 +10918,6 @@
 안과의사=oftalmologista
 안과학=oftalmologia
 안구=globo ocular
-안나=Ana
 안나바=Annaba
 안나스=Anás
 안남=Annam
@@ -11001,7 +10935,6 @@
 안됐다=que pena
 안드라프라데시=Andhra Pradesh
 안드라프라데시 주=Andhra Pradesh
-안드레아=André
 안뜰=pátio
 안락사=eutanásia
 안락의자=poltrona
@@ -11046,7 +10979,6 @@
 앉아라=sente-se por favor
 앉으세요=sente-se por favor
 앉으십시오=sente-se por favor
-앉은=sedentário
 알게로=Alghero
 알게르어=alguerês
 알고 싶습니다=quero saber
@@ -11084,7 +11016,6 @@
 알렉시오스=Aleixo
 알렉토=Alecto
 알렐루야=aleluia
-알려진=familiar
 알로르스타르=Alor Star
 알로사우루스=alossauro
 알로스타=Alor Star
@@ -11105,11 +11036,9 @@
 알리에주=Allier
 알리프=alef
 알릴기=alila
-알림=notícias
 알림법=modo indicativo
 알마티=Almaty
 알맞다=apropriado
-알맞은=acessível
 알바=trabalho
 알바니아=Albânia
 알바니아 사람=albanês
@@ -11127,7 +11056,6 @@
 알비노의=albino
 알뿌리=bulbo
 알스트=Aalst
-알아=você sabe
 알았어=OK
 알았어요=OK
 알약=comprimido
@@ -11321,7 +11249,6 @@
 액체=líquido
 액체비누=sabonete líquido
 액취증=odor corporal
-액티비티=actividade
 액화석유가스=gás liquefeito de petróleo
 액화시키다=liquefazer
 앤드루=André
@@ -11543,7 +11470,6 @@
 어느 정도=bem
 어댑터=adaptador
 어도비=adobe
-어두운=escuro
 어두움=escuridão
 어둠=escuro
 어드민=admin
@@ -11554,8 +11480,6 @@
 어디 살아=onde mora você?
 어디 살아요=onde mora você?
 어디 삽니까=onde mora você?
-어디서=donde
-어디에=aonde
 어디에나=em toda parte
 어디에도=em qualquer lugar
 어떤 사람=alguém
@@ -11568,7 +11492,6 @@
 어류=peixe
 어류학=ictiologia
 어리석은 소리=besteira
-어린=pequeno
 어린 수탉=frango
 어린 시절=infância
 어린 암탉=franga
@@ -11648,7 +11571,6 @@
 언어의=linguístico
 언어장벽=barreira linguística
 언어학=linguística
-언제든=alguma vez
 언짢다=desagradável
 언청이=lábio leporino
 언팔로우하다=desseguir
@@ -11664,7 +11586,6 @@
 얼음화산=criovulcão
 얼터너티브 록=rock alternativo
 얽매임=confinamento
-엄격하게=severamente
 엄격하다=austero
 엄격함=gravidade
 엄니=presa
@@ -11682,7 +11603,6 @@
 업로드=carregamento
 업로드하다=carregar
 업보의=cármico
-없는=ausente
 없어서는 안 될 것=sine qua non
 엇각기둥=antiprisma
 엉겅퀴=cardo
@@ -11884,7 +11804,6 @@
 여과기=filtro
 여기 안전하고이다=aqui é seguro?
 여기 있어요=aqui está
-여기로=acá
 여기저기=aqui e ali
 여단=brigada
 여덟시=oito horas
@@ -12063,7 +11982,6 @@
 연유하여=por
 연음=sândi
 연음화=lenização
-연의=ondulação
 연잎성게=bolacha-da-praia
 연장전=prorrogação
 연접=conjunção
@@ -12227,7 +12145,6 @@
 영어를 못합니다=eu não falo inglês
 영어의=inglês
 영어화된=anglicizado
-영업 이익=movimento
 영연방=Comunidade das Nações
 영웅=herói
 영웅심=heroísmo
@@ -12890,7 +12807,6 @@
 우눈헥슘=ununhéxio
 우단=veludo
 우두=abdeste
-우드=ud
 우디네=Udine
 우디르급 태세변환=reviravolta
 우라누스=Urano
@@ -13047,7 +12963,6 @@
 움치러지다=encolher
 움푹한 지대=depressão
 웁살라=Uppsala
-웃기=risada
 웃으운=ridículo
 웃음=risada
 웃음물총새=kookaburra
@@ -13245,7 +13160,6 @@
 위험관리=gestão de riscos
 위험물질=material perigoso
 위험하다=perigoso
-위험한=arriscado
 윅셔너리=Wikcionário
 윈난=Yunnan
 윈도스=Windows
@@ -13342,7 +13256,6 @@
 유머=humor
 유명=fama
 유목민=nômade
-유미=quilo
 유미즙=quimo
 유발하다=ativar
 유방암=câncer de mama
@@ -13380,7 +13293,6 @@
 유인원=macaco
 유일무이하다=único
 유일하다=único
-유일한=único
 유자격의=competente
 유저=usuário
 유저 인터페이스=interface de usuário
@@ -13805,7 +13717,6 @@
 이어링=brinco
 이언=éon
 이엉=colmo
-이염=otite
 이오=Io
 이오니아해=Mar Jônico
 이오섬=Iwo Jima
@@ -13825,7 +13736,6 @@
 이인칭=segunda pessoa
 이전에=antes de
 이점=vantagem
-이제까지=sempre
 이제부터=de agora em diante
 이제부터는=doravante
 이젭스크=Izhevsk
@@ -13858,7 +13768,6 @@
 이차원의=bidimensional
 이처럼=assim
 이천=dois mil
-이층=camada de abscisão
 이치=razão
 이케바나=iquebana
 이콘=ícone
@@ -13907,7 +13816,6 @@
 이화=catabolismo
 이화작용=catabolismo
 이회암=marga
-이후에=em
 익룡=pterossauro
 익명=pseudónimo
 익명의=anônimo
@@ -14111,7 +14019,6 @@
 일반사회=cidadania
 일반상대론=relatividade geral
 일반선원=tripulação
-일반적으로=de todo
 일방통행로=rua de mão única
 일보일보=passo a passo
 일본=Japão
@@ -14264,7 +14171,6 @@
 자격이 있는=qualificado
 자격지심=consciência pesada
 자결권=autodeterminação
-자고=francolim
 자군 절제=histerectomia
 자궁=útero
 자궁 내 장치=dispositivo intrauterino
@@ -14350,7 +14256,6 @@
 자살골=autogolo
 자살자=suicida
 자살하다=suicidar-se
-자서=dicionário
 자서전=autobiografia
 자석=ímã
 자석의=magnético
@@ -14373,7 +14278,6 @@
 자역하다=transliterar
 자연과학=ciência natural
 자연도태=seleção natural
-자연력=intempérie
 자연로그=logaritmo natural
 자연선택=seleção natural
 자연신론=deísmo
@@ -14502,7 +14406,6 @@
 잘 했어요=parabéns
 잘랄라바드=Jalalabad
 잘레비=jalebi
-잘생겼다=gostoso
 잘츠부르크=Salisburgo
 잠깐만 기다리세요=um momento, por favor
 잠꾸러기=dorminhoco
@@ -14542,7 +14445,6 @@
 장갑=luva
 장갑열차=comboio blindado
 장갑차=blindado
-장과=baga
 장교=oficial
 장궁=arco longo
 장난감=brinquedo
@@ -14728,7 +14630,6 @@
 적그리스도=anticristo
 적극조치공작=medidas ativas
 적당하게=devidamente
-적당한=acessível
 적대자=adversário
 적대적인=hostil
 적도=equador
@@ -14923,7 +14824,6 @@
 전투원=combatente
 전투화=coturno
 전파 망원경=radiotelescópio
-전해=eletrólise
 전해질=eletrólito
 전화 교환원=telefonista
 전화를 끊다=desligar
@@ -14944,7 +14844,6 @@
 절대다수=maioria absoluta
 절대로=nunca
 절대의=real
-절대적으로=incondicionalmente
 절망적인=desesperado
 절멸수용소=campo de extermínio
 절박하다=iminente
@@ -15001,7 +14900,6 @@
 접수인=recepcionista
 접수처=recepção
 접시꽃=malva-rosa
-접어=clítico
 접영=nado borboleta
 접의자=cadeira de praia
 접종=vacinação
@@ -15203,7 +15101,6 @@
 제일 좋아하는=favorito
 제일세계=primeiro mundo
 제일차 세계 대전=Primeira Guerra Mundial
-제임스=Diogo
 제임스 본드=James Bond
 제작하다=fazer
 제재소=serraria
@@ -15282,7 +15179,6 @@
 조선무=daikon
 조선민주주의인민공화국=República Democrática Popular da Coreia
 조선소=estaleiro
-조선의=coreano
 조선인=coreano
 조선인민공화국=República Popular da Coreia
 조세=imposto
@@ -15410,9 +15306,7 @@
 좆밥=esmegma
 좆질=sexo
 좋든 싫든 간에=goste ou não
-좋아요=like
 좋아요하다=curtir
-좋아해요=amo-te
 좋은 냄새=aroma
 좋은 아침입니다=bom dia
 좋은 여행 되세요=boa viagem
@@ -15661,7 +15555,6 @@
 쥐덫=ratoeira
 쥐라기=Jurássico
 쥐며느리=bicho-de-conta
-쥐의=murino
 즈미이니섬=Ilha da Serpente
 즉석라면=macarrão instantâneo
 즉석식품=fast food
@@ -15732,7 +15625,6 @@
 지도자=líder
 지도책=atlas
 지도학=cartografia
-지독한=fedorento
 지라=baço
 지랄하다=surtar
 지렁이=minhoca
@@ -15897,7 +15789,6 @@
 진주만=Pearl Harbor
 진주모=madrepérola
 진주층=madrepérola
-진지하게=solenemente
 진지하다=sério
 진짜로=na verdade
 진찰=exame
@@ -15998,13 +15889,11 @@
 짝사랑=amor não correspondido
 짝수=número par
 짝수의=par
-짧은=curto
 짧은바늘=ponteiro das horas
 짧은부리도요=maçarico-de-costa-branca
 짱깨=xing ling
 짱꼴라=xing ling
 쩐다=incrível
-쪼리=chinelo
 쪽발이=japa
 쪽빛=anil
 쪽쪽이=chupeta
@@ -16408,7 +16297,6 @@
 초공간=hiperespaço
 초국가적=supranacional
 초기=infância
-초기화=inicialização
 초대국=superpotência
 초대장=convite
 초대칭=supersimetria
@@ -16464,7 +16352,6 @@
 촉지=palpo
 촌뜨기=caipira
 촌민=aldeão
-촌스러운=caipira
 촌인=aldeão
 촌충=tênia
 촛대=candelabro
@@ -16494,7 +16381,6 @@
 최고 재판소=supremo tribunal
 최고경영자=diretor executivo
 최고경영책임자=diretor executivo
-최고의=excelente
 최고회의=Soviete Supremo
 최대공약수=máximo divisor comum
 최대화하다=maximizar
@@ -16516,7 +16402,6 @@
 최저임금=salário mínimo
 최종적으로=no fim das contas
 최초=primeiro
-최초의=original
 최후의 만찬=Última Ceia
 최후의 수단=último recurso
 최후의 심판=dia do Juízo Final
@@ -16834,7 +16719,6 @@
 카슈가르=Kashgar
 카슈미르=Caxemira
 카슈미르어=caxemiri
-카스=Kashgar
 카스텔라=castella
 카스트=casta
 카스트제도=casta
@@ -16953,7 +16837,6 @@
 캐나다인=canadense
 캐나디안 풋볼=futebol canadense
 캐넌=canhão
-캐논=cânone
 캐러멜=caramelo
 캐러밴서라이=caravançarai
 캐러벨=caravela
@@ -17102,7 +16985,6 @@
 케이블카=teleférico
 케이지비=KGB
 케이터링=catering
-케이트=quadra
 케이팝=K-pop
 케이퍼=alcaparra
 케이프타운=Cidade do Cabo
@@ -17145,7 +17027,6 @@
 코드네임=codinome
 코디악곰=urso-de-kodiak
 코란=Corão
-코로나=coroa
 코로나바이러스=coronavírus
 코로나비루스=coronavírus
 코로슈카=Caríntia
@@ -17169,7 +17050,6 @@
 코모로=Comores
 코뮤니스트=comunista
 코미디언=comediante
-코믹=comédia
 코믹스=história em quadrinhos
 코민테른=Comintern
 코발트=cobalto
@@ -17504,9 +17384,7 @@
 클리닝=lavagem a seco
 클리버=cutelo
 클리셰=clichê
-클리오=Clio
 클리토리스=clitóris
-클리퍼=clíper
 클리퍼드 대수=álgebra de Clifford
 클릭=clique
 클릭 미끼=caça-clique
@@ -17514,7 +17392,6 @@
 클릭하다=apertar
 클린 앤 저크=arremesso
 클립=clipe
-클립보드=área de transferência
 클링온=klingon
 클링온어=klingon
 키 링=chaveiro
@@ -17561,7 +17438,6 @@
 키친 타월=papel-toalha
 키케로=Cícero
 키클롭스=ciclope
-키토=Quito
 키틴=quitina
 키파=quipá
 키패드=teclado numérico
@@ -17685,7 +17561,6 @@
 타지키스탄=Tadjiquistão
 타진=tagine
 타짜=apostador
-타카=taca
 타코=taco
 타코미터=tacômetro
 타키온=táquion
@@ -17910,7 +17785,6 @@
 테베레 강=Tibre
 테살로니키=Tessalônica
 테스토스테론=testosterona
-테슬라=tesla
 테오도시우스=Teodósio
 테이블 축구=futebol de mesa
 테이블 풋볼=futebol de mesa
@@ -18036,7 +17910,6 @@
 통나무=tora
 통메장이=tanoeiro
 통밀빵=pão integral
-통발=covo
 통보하다=notificar
 통사론=sintaxe
 통상의=comum
@@ -18190,7 +18063,6 @@
 트롬보니스트=trombonista
 트롬본=trombone
 트루바두르=trovador
-트리=árvore
 트리거=trigger
 트리니다드 토바고=Trindade e Tobago
 트리부누스=tribuno
@@ -18225,7 +18097,6 @@
 특허 괴물=troll de patente
 특허권=patente
 특히=especialmente
-튼튼한=robusto
 티그리냐어=tigrinya
 티그리스 강=Tigre
 티눈=calo
@@ -18359,7 +18230,6 @@
 파이브=cinco
 파이스토스=Festo
 파이어니어=pioneiro
-파이오니어=pioneiro
 파이의 날=Dia do Pi
 파이즈리=espanhola
 파이프렌치=chave de grifo
@@ -18560,7 +18430,6 @@
 펌프=bomba
 펑션 키=tecla de função
 페가수스=pégaso
-페널티=grande penalidade
 페널티킥=grande penalidade
 페넥여우=feneco
 페넬로페=Penélope
@@ -19000,7 +18869,6 @@
 풍문=rumor
 풍부=abundância
 풍부하다=rico
-풍부한=rico
 풍선껌=chiclete
 풍습=costume
 풍자문=libelo
@@ -19054,7 +18922,6 @@
 프레리알=pradial
 프레스코=afresco
 프레이즈=frase
-프레임=frame
 프레임 레이트=cadência audiovisual
 프레임률=cadência audiovisual
 프레젠테이션=apresentação
@@ -19157,7 +19024,6 @@
 플래카드=estandarte
 플래티나=platina
 플랜테이션=plantação
-플랫=bemol
 플랫트홈=plataforma
 플랫폼=plataforma
 플랫폼 게임=jogo de plataforma
@@ -19241,7 +19107,6 @@
 피사=Pisa
 피사계 심도=profundidade de campo
 피사의 사탑=Torre de Pisa
-피스=peça
 피스메이커=pacificador
 피스타치오=pistache
 피스타치오 나무=pistache
@@ -19295,8 +19160,6 @@
 피혁=couro
 픽셀=pixel
 픽션=literatura de ficção
-픽시=duende
-픽업=caminhonete
 픽업 트럭=caminhonete
 픽토그램=pictograma
 핀란드=Finlândia
@@ -19413,7 +19276,6 @@
 하수도=esgoto
 하숙집=pensão
 하슘=hássio
-하신=deus-rio
 하얀 거짓말=mentira branca
 하양=branco
 하얗게 하다=branquear
@@ -19632,7 +19494,6 @@
 해넘이=crepúsculo
 해달=lontra-marinha
 해당 없음=não aplicável
-해도=carta náutica
 해독약=antídoto
 해독제=antídoto
 해리성 정체성 장애=transtorno dissociativo de identidade
@@ -19802,13 +19663,11 @@
 헝겊 인형=boneca de pano
 헤게모니=hegemonia
 헤겔의=hegeliano
-헤더=cabeçalho
 헤드기어=acessório para a cabeça
 헤드라인=manchete
 헤드샷=tiro na cabeça m headshot
 헤드셋=caixa de direção
 헤딩=cabeçada
-헤라=Hera
 헤라클레스=Héracles
 헤라클레스의 기둥=Colunas de Hércules
 헤라클레이토스=Heráclito
@@ -20097,7 +19956,6 @@
 화나게 하다=irar
 화난=bravo
 화난 청년=Angry Young Man
-화덕=fogão
 화랑=galeria
 화레즘=Corásmia
 화려한=magnífico

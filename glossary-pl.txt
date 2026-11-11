@@ -2,7 +2,7 @@
 # 같은 한국어가 두 번 나오면 아래 것이 이깁니다 — 아래쪽 직접 고른 말이 사전보다 우선합니다.
 # 아래 '# === 한국어기초사전 끝' 줄이 사전 낱말과 직접 고른 말의 경계입니다(번역 도우미가 이 이름으로 찾습니다).
 
-# 위키낱말사전 부분 (21557줄)
+# 위키낱말사전 부분 (21418줄)
 # 출처: 영어판 위키낱말사전(Wiktionary)의 번역표 — Wiktionary 기여자들, https://en.wiktionary.org
 #   kaikki.org 의 wiktextract 추출 자료(2026-10-01 덤프)에서 가져왔습니다. https://kaikki.org
 # 라이선스: 크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0 국제 (CC BY-SA 4.0)
@@ -157,7 +157,6 @@
 가이아나=Gujana
 가입자=abonent
 가입전신=teleks
-가자=Gaza
 가자 지구=Gaza
 가자미=płastuga
 가자흐=Qazax
@@ -225,10 +224,8 @@
 간섭하다=wtrącać się
 간식=przekąska
 간쑤=Gansu
-간에=pomiędzy
 간염=zapalenie wątroby
 간유=tran
-간을=między
 간음=rozpusta
 간음자=cudzołożnik
 간이 부엌=aneks kuchenny
@@ -400,7 +397,6 @@
 강청=szantaż
 강풍=wichura
 강하게 하다=umocnić
-강한=gwarowy
 강한 상호작용=oddziaływanie silne
 강화시키다=intensyfikować
 강황=kurkuma
@@ -458,7 +454,6 @@
 개썰매=psi zaprzęg
 개암=orzech laskowy
 개암나무=leszczyna
-개의=psi
 개인 메시지=wiadomość prywatna
 개인 소유=osobisty
 개인숭배=kult jednostki
@@ -536,7 +531,6 @@
 거북복=koster
 거북이=żółw
 거스러미=skórka
-거슬러=przeciw
 거슬리다=działać na nerwy
 거시경제학=makroekonomia
 거실=salon
@@ -967,7 +961,6 @@
 고리치아=Gorycja
 고릴라=goryl
 고립=izolacja
-고립된=opuszczony
 고립어=język izolowany
 고립주의=autarkia
 고마워요=dziękuję
@@ -1231,7 +1224,6 @@
 공저자=współautor
 공정하다=sprawiedliwy
 공중변소=toaleta publiczna
-공중의=publiczny
 공중전화=automat telefoniczny
 공중전화 박스=budka telefoniczna
 공중전화 부스=budka telefoniczna
@@ -1617,7 +1609,6 @@
 구타하다=skuwać
 구토=wymiociny
 구풍금=harmonijka
-구피=Goofy
 구형성=sferyczność
 구호금=jałmużna
 구화=ognisko
@@ -1835,7 +1826,6 @@
 그랑프리=grand prix
 그래놀라=granola
 그래놀라바=baton zbożowy z granoli
-그래요=doprawdy?
 그래프 이론=teoria grafów
 그래피티=graffiti
 그래픽=grafika
@@ -1904,7 +1894,6 @@
 그리워하다=tęsknić
 그리즐리곰=grizli
 그리핀=gryf
-그린=małe pole golfowe
 그린란드=Grenlandia
 그린란드 사람=Grenlandczyk
 그린란드상어=rekin polarny
@@ -2274,7 +2263,6 @@
 깨진 글자=krzaczki
 깨진 링크=martwy link
 깨진 문자=krzaczki
-깨짐=awaria
 꺅도요=bekas kszyk
 꺼져=spadaj!
 껴끓음=azeotropia
@@ -2571,7 +2559,6 @@
 남오세티야=Osetia Południowa
 남우=aktor
 남유럽=Europa Południowa
-남의=południowy
 남의 호의를 트집 잡지 마라=darowanemu koniowi nie zaglądaj w zęby
 남자 같은=męski
 남자공포증=androfobia
@@ -2690,7 +2677,6 @@
 너도밤나무=buk
 너라고 부르다=mówić na ty
 너를 사랑해=jestem w tobie zakochany
-너의=twój
 너의 바램은 나에게 명령이다=twoje życzenie jest dla mnie rozkazem
 너클=kastet
 너클볼=knuckleball
@@ -2895,7 +2881,6 @@
 논증=demonstracja
 논지=temat
 논평=komentarz
-놀거리=nicpoń
 놀라게 하다=dziwić
 놀란=zdumiony
 놀랍게도=zaskakująco
@@ -3054,7 +3039,6 @@
 늑대인간=wilkołak
 늑대자리=Wilk
 는 데 성공하다=dać radę
-는다=być
 늘 그렇듯=jak zwykle
 늙다리미치광이=ramol
 늙은=starszy
@@ -3939,8 +3923,6 @@
 돼지고기=wieprzowina
 돼지의=świński
 돼지콜레라=pomór świń
-됐습니다=nie, dziękuję
-됐어요=nie, dziękuję
 되감다=przewijać do tyłu
 되개고마리=dzierzba rdzawosterna
 되네르=kebab
@@ -3981,7 +3963,6 @@
 두부=tofu
 두브늄=dubn
 두샨베=Duszanbe
-두시=druga
 두에로=Douro
 두운=aliteracja
 두운법=aliteracyjny
@@ -4004,7 +3985,6 @@
 둘러보다=rozglądać się
 둘세데레체=kajmak
 둘째로=po drugie
-둘째어머니=ciotka
 둥근귀코끼리=słoń leśny
 둥글게=wkoło
 둥베이 평원=Nizina Mandżurska
@@ -4015,7 +3995,6 @@
 뒤보다=wypróżniać się
 뒤섞다=tasować
 뒤셀도르프=Düsseldorf
-뒤에=za
 뒤영벌=trzmiel
 뒤의=tylny
 뒤죽박죽=bezładnie
@@ -4076,7 +4055,6 @@
 들를 수 있는=słyszalny
 들소=żubr
 들어가기=wejście
-들어봐=słuchaj
 들어주다=usłuchać
 들이쉬기=wdech
 들쭉나무=łochynia
@@ -4101,7 +4079,6 @@
 등선=latarniowiec
 등신=idiota
 등어선=izoglosa
-등에=bąk
 등자=strzemię
 등자뼈=strzemiączko
 등자컵=strzemienny
@@ -4379,7 +4356,6 @@
 랑그도크=Langwedocja
 래브라도=Labrador
 래브라도 리트리버=labrador
-래커=lakier
 래퍼=raper
 래프팅=rafting
 랙돌=ragdoll
@@ -4400,7 +4376,6 @@
 랴잔=Riazań
 랴하비치=Lachowicze
 량강도=Ryanggang
-러닝=podkoszulek
 러닝셔츠=podkoszulek
 러닝타임=czas trwania programu telewizyjnego
 러더포듐=rutherford
@@ -4687,7 +4662,6 @@
 르노카라바흐 공화국=Republika Górskiego Karabachu
 르완다=Rwanda
 르호보암=Roboam
-리가=Ryga
 리가만=Zatoka Ryska
 리간드=ligand
 리게이스=ligaza
@@ -4753,7 +4727,6 @@
 리케차=riketsja
 리코타=ricotta
 리큐어=likier
-리크=przeciek
 리터=litr
 리터치=retusz
 리투아니아=Litwa
@@ -4851,7 +4824,6 @@
 마르세유 비누=mydło marsylskie
 마르스=Mars
 마르시룻카=marszrutka
-마르코=Marek
 마르코 복음서=Ewangelia Marka
 마르크스주의=marksizm
 마르크시즘=marksizm
@@ -4977,7 +4949,6 @@
 마취약=anestetyk
 마취제=anestetyk
 마침표=kropka
-마카=Mekka
 마카다미아=makadamia
 마카로니=rurki
 마카베오기 상권=Pierwsza Księga Machabejska
@@ -5121,7 +5092,6 @@
 말씨름=awantura
 말을 더듬다=jąkać się
 말을 타다=jechać
-말의=koński
 말장난=gra słów
 말줄임표=wielokropek
 말차=matcha
@@ -5285,7 +5255,6 @@
 먹물버섯=czernidłak kołpakowaty
 먹방=mukbang
 먹보=żarłok
-먹었다=stary
 먹을 것=jedzenie
 먹을 수 있는=jadalny
 먹이 그물=sieć troficzna
@@ -5375,7 +5344,6 @@
 메타픽션=metafikcja
 메탄=metan
 메탄올=alkohol metylowy
-메탈=metal
 메테인=metan
 메트로=metro
 메트로놈=metronom
@@ -5402,7 +5370,6 @@
 멜로드라마=melodramat
 멜로디=melodia
 멜로디카=melodyka
-멜리사=melisa
 멜버른=Melbourne
 멜번=Melbourne
 멜키체덱=Melchizedek
@@ -5521,7 +5488,6 @@
 모래시계=klepsydra
 모래자루=worek z piaskiem
 모래장지뱀=jaszczurka zwinka
-모래톱=wydma
 모래폭풍=burza piaskowa
 모레인=morena
 모로니=Moroni
@@ -5639,7 +5605,6 @@
 목욕통=wanna
 목욕하다=kąpać się
 목을 베다=ściąć głowę
-목이=uszak bzowy
 목이 메이다=ścisk w gardle
 목이버섯=uszak bzowy
 목적격=biernik
@@ -5751,7 +5716,6 @@
 무게중심=środek ciężkości
 무과립구증=agranulocytoza
 무관심하다=obojętny
-무광=afotyczny
 무교 입니다=jestem ateistą
 무국적자=bezpaństwowiec
 무궁화=hibiskus
@@ -6290,7 +6254,6 @@
 바둑=go
 바들은=eufonium
 바디 워시=żel pod prysznic
-바라=talerz
 바라나비치=Baranowicze
 바라나시=Waranasi
 바라문디=barramunda
@@ -6500,7 +6463,6 @@
 반숙=na miękko
 반숙란=jajko na miękko
 반스타킹=zakolanówka
-반시=szyszymora
 반시간=pół godziny
 반시계 방향=przeciwny do ruchu wskazówek zegara
 반시오니즘=antysyjonizm
@@ -6625,7 +6587,6 @@
 밤의=nocny
 밤참=kolacja
 밥 먹다=jeść
-밥 먹었어=Jadłeś już?
 밥벌거지=nicpoń
 밥벌기=nicpoń
 밥상=stół
@@ -7040,7 +7001,6 @@
 베오그라드=Belgrad
 베이글=bajgiel
 베이루트=Bejrut
-베이비=kochanie
 베이비 부머=baby boomer
 베이비 붐 세대=baby boom
 베이비 파우더=zasypka
@@ -7239,7 +7199,6 @@
 보도교=kładka
 보도기관=prasa
 보도자료=notatka prasowa
-보드=rada
 보드게임=gra planszowa
 보드카=wódka
 보디 랭귀지=mowa ciała
@@ -7288,7 +7247,6 @@
 보스니아인=Bośniak
 보스포루스 해협=Bosfor
 보습뼈=lemiesz
-보시=dana
 보아=boa
 보안=bezpieczeństwo
 보안 문자=CAPTCHA
@@ -7751,7 +7709,6 @@
 불륜하다=romansować
 불리=niekorzyść
 불리언=zmienna logiczna
-불리한=niepełnosprawny
 불릿=punktor
 불만스럽다=niezadowolony
 불만을 말하다=narzekać
@@ -7904,7 +7861,6 @@
 브리튼 제도=Wyspy Brytyjskie
 브리티시컬럼비아=Kolumbia Brytyjska
 브리핑=briefing
-브릭=BRIC
 브릭스=BRICS
 브이=fau
 브이로거=vloger
@@ -7953,7 +7909,6 @@
 블룸폰테인=Bloemfontein
 블리니=naleśnik
 블린=naleśnik
-비가=pieśń żałobna
 비가 억수같이 내리다=lać jak z cebra
 비가 오는=deszczowy
 비가 옵니다=pada deszcz
@@ -8210,7 +8165,6 @@
 빚지고 있다=mieć dług
 빛나는 것이 모두 금 아니라=nie wszystko złoto, co się świeci
 빛샘=źródło światła
-빛의=fotyczny
 빛이 있으라=niech stanie się światłość
 빛줄기=promień
 빠루=łom
@@ -8331,7 +8285,6 @@
 사랑앵무=papużka falista
 사랑에 빠지다=zakochiwać się
 사랑을 하면 눈이 먼다=miłość jest ślepa
-사랑의=miłosny
 사랑의 노래=piosenka miłosna
 사랑적=erotyczny
 사랑하게 되다=zakochiwać się
@@ -8541,7 +8494,6 @@
 사진술=fotografia
 사진을 찍다=fotografować
 사차원의=czterowymiarowy
-사천=Syczuan
 사촌=kuzyn
 사춘기=okres dojrzewania płciowego
 사치=ekstrawagancki
@@ -8678,7 +8630,6 @@
 살레=Sala
 살레하르트=Salechard
 살렙=salep
-살로=sadło
 살리실산=kwas salicylowy
 살리호르스크=Soligorsk
 살사=salsa
@@ -8746,7 +8697,6 @@
 삼십이=trzydzieści dwa
 삼십이각형=32-okąt
 삼십이분음표=trzydziestodwójka
-삼십일=trzydzieści jeden
 삼십칠=trzydzieści siedem
 삼십팔=trzydzieści osiem
 삼씨밀크=mleko konopne
@@ -9084,7 +9034,6 @@
 서예가=kaligraf
 서우인=Samhain
 서울 사람=seulczyk
-서울의=seulski
 서울인=seulczyk
 서유럽=Europa Zachodnia
 서의=zachodni
@@ -9968,7 +9917,6 @@
 수잔=Zuzanna
 수장국=emirat
 수장룡=plezjozaur
-수전=pole ryżowe
 수전노=kutwa
 수정 시온주의=syjonizm rewizjonistyczny
 수정관=nasieniowód
@@ -10369,8 +10317,6 @@
 스트립쇼=striptiz
 스티븐=Stefan
 스티어링 휠=kierownica
-스틱=kij hokejowy
-스틸레토=sztylet
 스틸레토 힐=szpilka
 스틸턴=stilton
 스파게티=spaghetti
@@ -10529,7 +10475,6 @@
 시금치=szpinak
 시기하다=zazdrosny
 시끄러=zamknij się
-시끄러워=zamknij się
 시나고그=synagoga
 시나이 반도=Synaj
 시날로아=Sinaloa
@@ -10792,7 +10737,6 @@
 신조=wiara
 신조어=neologizm
 신종 코로나바이러스 감염증=COVID-19
-신중하게=dyskretnie
 신중하다=ostrożny
 신중한=przezorny
 신중히=ostrożnie
@@ -10835,7 +10779,6 @@
 실리콘 밸리=Dolina Krzemowa
 실린더=cylinder
 실린더 블록=blok
-실링=szyling
 실망=rozczarowanie
 실망시키다=rozczarować
 실망하다=rozczarowany
@@ -10944,7 +10887,6 @@
 십이지=ziemska gałąź
 십이지장=dwunastnica
 십이진법의=dwunastkowy
-십일=jedenaście. jedenaścioro
 십일각형=jedenastokąt
 십일월=listopad
 십일조=dziesięcina
@@ -10974,7 +10916,6 @@
 싱글마마=samotna matka
 싱글맘=samotna matka
 싱어송라이터=pieśniarz
-싱커=sinker
 싱크대=zlew
 싱크로=synchronizacja
 싱크로나이즈드스위밍=pływanie synchroniczne
@@ -11030,7 +10971,6 @@
 쓰레기봉투=worek na śmieci
 쓰레기차=śmieciarka
 쓰레받기=szufelka
-쓰레빠=klapek
 쓰르라미=cykada
 쓰리=trzy
 쓰메끼리=cążki
@@ -11091,7 +11031,6 @@
 아니메=anime
 아니면=albo
 아니스=anyż
-아니에요=proszę
 아다=prawiczek
 아담=Adam
 아담과 이브=Adam i Ewa
@@ -11220,7 +11159,6 @@
 아몬드=migdał
 아몬드밀크=mleko migdałowe
 아무개=taki owaki
-아무것도=cokolwiek
 아무것도 사고 싶지 않습니다=nie chcę kupić nic
 아무데도=nigdzie
 아무르강=Amur
@@ -11268,7 +11206,6 @@
 아세트아미노펜=acetaminofen
 아세틸콜린에스터레이스=acetylocholinoesteraza
 아소카=Aśoka
-아속=podrodzaj
 아수라=asura
 아쉽게도 아닙니다=obawiam się, że nie
 아스마라=Asmara
@@ -11338,7 +11275,6 @@
 아이보리코스트=Wybrzeże Kości Słoniowej
 아이섀도우=cień do powiek
 아이소포스=Ezop
-아이스=lody
 아이스 댄싱=pary taneczne
 아이스 캔디=lód na patyku
 아이스 커피=kawa mrożona
@@ -11547,7 +11483,6 @@
 안과의사=okulista
 안과학=okulistyka
 안구=gałka oczna
-안나=Anna
 안나스=Annasz
 안내원=przewodnik
 안내인=przewodnik
@@ -11562,7 +11497,6 @@
 안됐다=szkoda
 안드라프라데시=Andhra Pradesh
 안드라프라데시 주=Andhra Pradesh
-안드레아=Andrzej
 안드로마케=Andromacha
 안드로메다=Andromeda
 안드로메다자리=Andromeda
@@ -11614,8 +11548,6 @@
 앉아라=proszę usiąść
 앉으세요=proszę usiąść
 앉으십시오=proszę usiąść
-앉은=siedzący
-않니=doprawdy?
 알게로=Alghero
 알겠어요=dobrze
 알고 싶습니다=chcę wiedzieć
@@ -11649,7 +11581,6 @@
 알렉시오스=Aleksy
 알렉토=Alekto
 알렐루야=alleluja
-알려진=znany
 알로에=aloes
 알로에 베라=aloes zwyczajny
 알로하 셔츠=koszula hawajska
@@ -11663,11 +11594,9 @@
 알리비=alibi
 알리야=alija
 알리프=alef
-알림=nowości
 알림법=tryb orzekający
 알마티=Ałmaty
 알맞다=odpowiedni
-알맞은=niedrogi
 알바=praca
 알바니아=Albania
 알바니아 사람=Albańczyk
@@ -11683,7 +11612,6 @@
 알비노=albinos
 알비노의=albinotyczny
 알뿌리=cebulka
-알아=wiesz
 알았어=dobrze
 알았어요=dobrze
 알약=pigułka
@@ -12094,7 +12022,6 @@
 어는점=temperatura krzepnięcia
 어댑터=adapter
 어도비=glinobitka
-어두운=mroczny
 어두움=ciemność
 어둠=ciemność
 어둡게 하다=zaciemniać
@@ -12107,12 +12034,9 @@
 어디 살아=gdzie mieszkasz?
 어디 살아요=gdzie mieszkasz?
 어디 삽니까=gdzie mieszkasz?
-어디서=skąd
-어디에=dokąd
 어디에나=wszędzie
 어디에도=gdziekolwiek
 어딘가에=gdzieś
-어때요=co powiesz na?
 어떤 사람=ktoś
 어떻게=jak
 어란=ikra
@@ -12124,7 +12048,6 @@
 어리석다=głupi
 어리석은 소리=nonsens
 어리호박벌=zadrzechnia
-어린=mały
 어린 수탉=kogucik
 어린양=jagnię
 어린이=dziecko
@@ -12209,7 +12132,6 @@
 언어의=językowy
 언어장벽=bariera językowa
 언어학=glotologia
-언제든=kiedykolwiek
 언짢다=nieprzyjemny
 언청이=zajęcza warga
 언팔로우하다=przestać obserwować
@@ -12241,7 +12163,6 @@
 업로드하다=przesyłać
 업무적=biznesowy
 업보의=karmiczny
-없는=nieobecny
 없어서는 안 될 것=warunek sine qua non
 엇각기둥=antygraniastosłup
 엉겅퀴=oset
@@ -12258,7 +12179,6 @@
 에글릿=aglet
 에너지 드링크=napój energetyczny
 에너지 음료=napój energetyczny
-에노=Hainaut
 에덴=Eden
 에델바이스=szarotka alpejska
 에도=Edo
@@ -12426,7 +12346,6 @@
 여과기=filtr
 여기 안전하고이다=jest tu bezpiecznie?
 여기 있어요=proszę
-여기로=tutaj
 여기저기=tu i tam
 여뀌=rdest
 여단=brygada
@@ -12616,7 +12535,6 @@
 연육=surimi
 연음=sandhi
 연음화=lenicja
-연의=zmarszczka
 연잎성게=dolar piaskowy
 연장전=dogrywka
 연접=łączenie
@@ -12786,7 +12704,6 @@
 영어=angielski
 영어를 못합니다=nie mówię po angielsku
 영어의=angielski
-영업 이익=obrót
 영업권=renoma
 영업사원=sprzedawca
 영연방=Wspólnota Narodów
@@ -13100,7 +13017,6 @@
 오타쿠=otaku
 오토=Otto
 오토릭샤=autoriksza
-오토만=osmański
 오토머튼=automat
 오토메이션=automatyzacja
 오토바이=motocykl
@@ -13483,7 +13399,6 @@
 우단담배풀=dziewanna drobnokwiatowa
 우동=udon
 우두=abdest
-우드=ud
 우드무르트어=język udmurcki
 우디네=Udine
 우디르급 태세변환=obrót spraw
@@ -13649,7 +13564,6 @@
 움치러지다=kurczyć się
 움푹한 지대=depresja
 웁살라=Uppsala
-웃기=śmiech
 웃으운=absurdalny
 웃음=śmiech
 웃음물총새=kukabura chichotliwa
@@ -13864,7 +13778,6 @@
 위험물=towary niebezpieczne
 위험물질=materiał niebezpieczny
 위험하다=niebezpieczny
-위험한=ryzykowny
 윅셔너리=Wikisłownik
 윈난=Junnan
 윈도스=Windows
@@ -13972,7 +13885,6 @@
 유모차=wózek
 유목민=nomada
 유목하다=koczować
-유미=mlecz
 유미즙=chymus
 유발하다=powodować
 유방암=rak piersi
@@ -14017,7 +13929,6 @@
 유인원=małpa
 유일무이하다=unikalny
 유일하다=unikalny
-유일한=jedyny
 유저=użytkownik
 유저 인터페이스=interfejs użytkownika
 유적=ruina
@@ -14290,7 +14201,6 @@
 이국풍의=egzotyczny
 이글루=igloo
 이기심=egoizm
-이기적이다=egoistyczny
 이끼=mech
 이념=ideologia
 이녕=breja
@@ -14480,7 +14390,6 @@
 이전에=przed
 이전의=poprzedni
 이점=korzyść
-이제까지=zawsze
 이제부터=od teraz
 이젭스크=Iżewsk
 이족보행=dwunożność
@@ -14512,7 +14421,6 @@
 이차원의=dwuwymiarowy
 이처럼=tak
 이천=dwa tysiące
-이층=pierwsze piętro
 이치=rozum
 이치주의=ietsyzm
 이칼루이트=Iqaluit
@@ -14777,7 +14685,6 @@
 일반 상대성이론=ogólna teoria względności
 일반사회=wiedza o społeczeństwie
 일반상대론=ogólna teoria względności
-일반적으로=ogólnie rzecz biorąc
 일방통행로=ulica jednokierunkowa
 일보일보=krok po kroku
 일본=Japonia
@@ -14929,7 +14836,6 @@
 자격이 없는=niewykwalifikowany
 자격이 있는=wykwalifikowany
 자결권=samostanowienie
-자고=frankolin
 자구다복=śmiałym szczęście sprzyja
 자군 절제=histerektomia
 자궁=macica
@@ -15021,7 +14927,6 @@
 자살골=gol samobójczy
 자살자=denat
 자살하다=popełniać samobójstwo
-자서=słownik
 자서전=autobiografia
 자석=magnes
 자석의=magnetyczny
@@ -15038,7 +14943,6 @@
 자승=kwadrat
 자신 있다=pewny siebie
 자신의=swój
-자신이=na własną rękę
 자아중심주의=egocentryzm
 자애적이다=samolubny
 자역하다=transliterować
@@ -15188,7 +15092,6 @@
 잘 했어요=dobra robota
 잘랄라바드=Dżalalabad
 잘못된=nieprawidłowy
-잘생겼다=gorący
 잠깐만 기다리세요=chwilę, proszę
 잠꾸러기=śpioch
 잠든 척 하다=symulować
@@ -15225,7 +15128,6 @@
 장갑=rękawica
 장갑열차=pociąg pancerny
 장갑차=samochód opancerzony
-장과=jagoda
 장교=oficer
 장궁=długi łuk
 장기기증=dawstwo organów
@@ -15434,7 +15336,6 @@
 적그리스도=antychryst
 적극조치공작=środki aktywne
 적당하게=należycie
-적당한=niedrogi
 적대=wrogość
 적대자=przeciwnik
 적대적인=wrogi
@@ -15643,7 +15544,6 @@
 전파 망원경=radioteleskop
 전파시계=zegar sterowany radiowo
 전하=wysokość
-전해=elektroliza
 전해 축전기=kondensator elektrolityczny
 전해 콘덴서=kondensator elektrolityczny
 전해질=elektrolit
@@ -15666,7 +15566,6 @@
 절대격=absolutyw
 절대다수=większość bezwzględna
 절대로=nigdy
-절대적으로=bezwarunkowo
 절망=beznadzieja
 절망적인=zdesperowany
 절멸수용소=obóz zagłady
@@ -15724,7 +15623,6 @@
 접수처=recepcja
 접시 닦는 사람=pomywacz
 접시꽃=malwa
-접어=klityka
 접영=delfin
 접의자=krzesło składane
 접이식=składak
@@ -15930,7 +15828,6 @@
 제일 좋아하는=ulubiony
 제일세계=Pierwszy Świat
 제일차 세계 대전=pierwsza wojna światowa
-제임스=Jakub
 제자=uczeń
 제작자=producent
 제작하다=konstruować
@@ -16020,7 +15917,6 @@
 조선무=rzodkiew japońska
 조선민주주의인민공화국=Koreańska Republika Ludowo-Demokratyczna
 조선소=stocznia
-조선의=koreański
 조선인=Koreańczyk
 조선인민공화국=Koreańska Republika Ludowa
 조세=podatek
@@ -16145,9 +16041,7 @@
 좆밥=mastka
 좆질=seks
 좋든 싫든 간에=chcąc nie chcąc
-좋아요=lajk
 좋아요하다=lajkować
-좋아해요=kocham cię
 좋은=dobry
 좋은 냄새=aromat
 좋은 아침입니다=dzień dobry
@@ -16430,7 +16324,6 @@
 쥐덫=pułapka na myszy
 쥐라기=jura
 쥐며느리=stonoga
-쥐의=mysi
 쥐치복=rogatnica
 쥬노=Junona
 즈미이니섬=Wyspa Wężowa
@@ -16488,7 +16381,6 @@
 지그재그=zygzak
 지금부터=od teraz
 지급시=miasto prefekturalne
-지난=Jinan
 지난밤=zeszła noc
 지난적나아가기끝남=czas przeszły dokonany ciągły
 지네=stonoga
@@ -16502,7 +16394,6 @@
 지도자=przywódca
 지도책=atlas
 지도학=kartografia
-지독한=śmierdzący
 지라=śledziona
 지랄하다=panikować
 지렁이=dżdżownica
@@ -16667,7 +16558,6 @@
 진주만=Pearl Harbor
 진주모=masa perłowa
 진주층=masa perłowa
-진지하게=uroczyście
 진지하다=poważny
 진짜로=naprawdę
 진짜의=autentyczny
@@ -16774,13 +16664,11 @@
 짝수의=parzysty
 짠맛=słoność
 짤주머니=rękaw cukierniczy
-짧은=krótki
 짧은바늘=wskazówka godzinowa
 짧은부리도요=szlamiec krótkodzioby
 짱깨=kitajec
 짱꼴라=kitajec
 쩐다=super
-쪼리=klapek
 쪽발이=japoniec
 쪽빛=indygo
 쪽쪽이=smoczek
@@ -17275,7 +17163,6 @@
 촉지=szczękonóżka
 촌뜨기=wieśniak
 촌민=wieśniak
-촌스러운=prostacki
 촌인=wieśniak
 촌충=tasiemiec
 촐런트=czulent
@@ -17657,7 +17544,6 @@
 카슈루트=kaszrut
 카슈미르=Kaszmir
 카슈미르어=kaszmirski
-카스=Kaszgar
 카스트=kasta
 카스트제도=kasta
 카스티야 비누=mydło kastylijskie
@@ -17773,7 +17659,6 @@
 캐나다인=Kanadyjczyk
 캐나디안 풋볼=futbol kanadyjski
 캐넌=armata
-캐논=kanon
 캐디=caddie
 캐러멜=karmel
 캐러멜색=kolor karmelowy
@@ -17927,7 +17812,6 @@
 케이지비=KGB
 케이크=tort
 케이터링=catering
-케이트=kwadr
 케이팝=K-pop
 케이퍼=kapar
 케이프타운=Kapsztad
@@ -17996,7 +17880,6 @@
 코미디언=komik
 코미사르=komisarz
 코미어=język komi
-코믹=komedia
 코믹스=komiks
 코민테른=Komintern
 코발트=kobalt
@@ -18199,7 +18082,6 @@
 큐앤에이=QnA
 큐폴라=kopuła
 큐피드=Kupidyn
-크게=głośno
 크기=rozmiar
 크기 자릿수=rząd wielkości
 크기 정도=rząd wielkości
@@ -18353,16 +18235,13 @@
 클리닝=czyszczenie chemiczne
 클리버=tasak
 클리셰=cliché
-클리오=Klio
 클리토리스=łechtaczka
-클리퍼=kliper
 클리프행어=cliffhanger
 클릭=klik
 클릭 미끼=clickbait
 클릭베이트=clickbait
 클릭하다=klikać
 클린 앤 저크=podrzut
-클립보드=schowek
 클링온=Klingon
 클링온어=język klingoński
 키 링=brelok
@@ -18412,7 +18291,6 @@
 키케로=Cyceron
 키클롭스=cyklop
 키키모라=kikimora
-키토=Quito
 키파=jarmułka
 키퍼=bramkarz
 키프로스=Cypr
@@ -18531,7 +18409,6 @@
 타지키스탄=Tadżykistan
 타진=tażin
 타짜=hazardzista
-타카=taka
 타코=tacos
 타코미터=obrotomierz
 타코야끼=takoyaki
@@ -18678,7 +18555,6 @@
 태양 플레어=rozbłysk słoneczny
 태양계=Układ Słoneczny
 태양계외 행성=egzoplaneta
-태양계의=tellurium
 태양년=rok zwrotnikowy
 태양의=słoneczny
 태양풍=wiatr słoneczny
@@ -18769,7 +18645,6 @@
 테살로니키=Saloniki
 테스토스테론=testosteron
 테스트=sprawdzian
-테슬라=tesla
 테오도시우스=Teodozjusz
 테이블 축구=piłkarzyki
 테이블 풋볼=piłkarzyki
@@ -18903,7 +18778,6 @@
 통나무배=dłubanka
 통메장이=bednarz
 통밀빵=chleb razowy
-통발=więcierz
 통보하다=notyfikować
 통사론=składnia
 통섭=konsyliencja
@@ -19067,7 +18941,6 @@
 트롬보니스트=puzonista
 트롬본=puzon
 트루바두르=trubadur
-트리=drzewo
 트리거=wyzwalacz
 트리니다드 토바고=Trynidad i Tobago
 트리데칸=tridekan
@@ -19242,7 +19115,6 @@
 파이스토스=Fajstos
 파이썬=Python
 파이어니어=pionier
-파이오니어=pionier
 파이의 날=Dzień Liczby Pi
 파이즈리=Hiszpan
 파이프라인=rurociąg
@@ -19459,7 +19331,6 @@
 펑션 키=klawisz funkcyjny
 펑크 록=punk rock
 페가수스=pegaz
-페널티=rzut karny
 페널티킥=rzut karny
 페넥여우=fenek
 페넬로페=Penelopa
@@ -19904,7 +19775,6 @@
 풍문=pogłoska
 풍부=bogactwo
 풍부하다=bogaty
-풍부한=bogaty
 풍선껌=guma balonowa
 풍습=zwyczaj
 풍자문=paszkwil
@@ -19955,7 +19825,6 @@
 프레리알=prairial
 프레스코=fresk
 프레이즈=fraza
-프레임=ramka
 프레임 레이트=częstotliwość odświeżania
 프레임률=częstotliwość odświeżania
 프레젠테이션=prezentacja
@@ -20055,7 +19924,6 @@
 플래시 카드=fiszka
 플래티나=platyna
 플랜테이션=plantacja
-플랫=bemol
 플랫트홈=platforma
 플랫폼=platforma
 플랫폼 게임=gra platformowa
@@ -20142,7 +20010,6 @@
 피사=Piza
 피사계 심도=głębia ostrości
 피사의 사탑=Krzywa Wieża w Pizie
-피스=pionek
 피스메이커=rozjemca
 피스타치오=pistacja
 피스타치오 나무=pistacja
@@ -20195,7 +20062,6 @@
 피혁=skóra
 픽셀=piksel
 픽션=beletrystyka
-픽업=pikap
 픽업 트럭=pikap
 픽토그램=piktogram
 핀란드=Finlandia
@@ -20277,7 +20143,6 @@
 하늘의 별 따기=wyciskać wodę z kamienia
 하늬=zachód
 하데스=Hades
-하드=lód na patyku
 하드 디스크=dysk twardy
 하드웨어=hardware
 하드코어 펑크=hardcore punk
@@ -20753,7 +20618,6 @@
 헤드샷=headshot
 헤드폰=słuchawki
 헤딩=główka
-헤라=Hera
 헤라클레스=Herakles
 헤라클레이토스=Heraklit
 헤라트=Herat
@@ -21077,7 +20941,6 @@
 화나다=złościć się
 화난=zły
 화난 청년=młody gniewny
-화덕=piec
 화랑=galeria
 화려한=przepiękny
 화로=koksownik
@@ -21171,7 +21034,6 @@
 확신시키다=przekonywać
 확신하다=pewny
 확실하다=pewny
-확실한=autentyczny
 확장=ekspansja
 확장 신자체=rozszerzone shinjitai
 확장명=rozszerzenie nazwy pliku
@@ -21361,7 +21223,6 @@
 후비병=rezerwista
 후설모음=samogłoska tylna
 후식=deser
-후에=później
 후임=następca
 후임자=następca
 후자=drugi

@@ -2,7 +2,7 @@
 # 같은 한국어가 두 번 나오면 아래 것이 이깁니다 — 아래쪽 직접 고른 말이 사전보다 우선합니다.
 # 아래 '# === 한국어기초사전 끝' 줄이 사전 낱말과 직접 고른 말의 경계입니다(번역 도우미가 이 이름으로 찾습니다).
 
-# 위키낱말사전 부분 (15611줄)
+# 위키낱말사전 부분 (15529줄)
 # 출처: 영어판 위키낱말사전(Wiktionary)의 번역표 — Wiktionary 기여자들, https://en.wiktionary.org
 #   kaikki.org 의 wiktextract 추출 자료(2026-10-01 덤프)에서 가져왔습니다. https://kaikki.org
 # 라이선스: 크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0 국제 (CC BY-SA 4.0)
@@ -121,7 +121,6 @@
 가입자=abone
 가입전신=teleks
 가입하다=katılmak
-가자=Gazze
 가자 지구=Gazze Şeridi
 가자흐=Kazah
 가장 나쁜=en kötü
@@ -173,7 +172,6 @@
 간섭=enterferans
 간섭하다=karışmak
 간식=atıştırmalık
-간에=arasında
 간염=hepatit
 간유=balık yağı
 간음=zina
@@ -399,7 +397,6 @@
 거북복=sandık balığı
 거북이=kaplumbağa
 거스러미=şeytan tırnağı
-거슬러=karşı
 거시경제학=makroekonomi
 거실=oturma odası
 거웃=kasık kılı
@@ -717,7 +714,6 @@
 고리대금업자=tefeci
 고릴라=goril
 고립=izole etmek izole olmak
-고립된=terk edilmiş
 고마워요=sağ ol
 고막=kulak zarı
 고맙긴요=bir şey değil
@@ -1156,7 +1152,6 @@
 구토=kusmuk
 구토공포증=emetofobi
 구풍금=mızıka
-구피=Gufi
 구호금=sadaka
 구화=şenlik ateşi
 구획=kesir
@@ -1385,7 +1380,6 @@
 그으즈어=Geez
 그을다=yanmak
 그을음=is
-그의=onun
 극간=ara
 극광=kutup ışığı
 극단적 선택=intihar
@@ -1861,7 +1855,6 @@
 남오세티야=Güney Osetya
 남우=oyuncu
 남유럽=Güney Avrupa
-남의=güney
 남의 호의를 트집 잡지 마라=üzümünü ye bağını sorma
 남자 같은=erkeksi
 남자다운=eril
@@ -1948,7 +1941,6 @@
 너도밤나무=kayın
 너라고 부르다=sen
 너를 사랑해=sana aşığım
-너의=senin
 너의 바램은 나에게 명령이다=dileğin emrimdir
 너클=muşta
 너트=somun
@@ -2319,7 +2311,6 @@
 다윗=Davut
 다윗의 별=Davud'un Yıldızı
 다육식물=sukulent bitki
-다음에=sonra
 다음의=gelecek
 다음절의=çok heceli
 다의성=çokanlamlılık
@@ -2890,7 +2881,6 @@
 두환=çiçek hastalığı
 둔덕=kumul
 둘 다=her ikisi
-둘째어머니=hala
 둥지=yuva
 뒈지다=gebermek
 뒝벌=hezen arısı
@@ -2898,7 +2888,6 @@
 뒤보다=dışkılamak
 뒤섞다=karıştırmak
 뒤셀도르프=Düsseldorf
-뒤에=arkasında
 뒤영벌=hezen arısı
 뒤의=arka
 뒤쥐=kir faresi
@@ -2956,7 +2945,6 @@
 등산로=parkur
 등신=salak
 등어선=lehçe sınır çizgisi
-등에=atsineği
 등자=üzengi
 등자 가죽=zahme
 등자뼈=üzengi
@@ -3150,7 +3138,6 @@
 랍비=haham
 랍테프해=Laptev Denizi
 랑스킵=uzun gemi
-래커=lak
 래퍼=rapçi
 래프팅=rafting
 랜드스케이프=manzara
@@ -3359,7 +3346,6 @@
 르네상스=Rönesans
 르노카라바흐 공화국=Dağlık Karabağ Cumhuriyeti
 르완다=Ruanda
-리가=Riga
 리가만=Riga Körfezi
 리게이스=ligaz
 리눅스=Linux
@@ -3407,7 +3393,6 @@
 리치=liçi
 리케차=riketsiya
 리큐어=likör
-리크=sızıntı
 리터=litre
 리투아니아=Litvanya
 리투아니아 공화국=Litvanya Cumhuriyeti
@@ -3564,7 +3549,6 @@
 마취약=anestezik
 마취제=anestezik
 마침표=nokta
-마카=Mekke
 마카다미아=makademya
 마카로니=makarna
 마카롱=makaron
@@ -3875,7 +3859,6 @@
 메타데이터=üstveri
 메탄=metan
 메탄올=odun ruhu
-메탈=metal
 메테인=metan
 메트로=metro
 메트로놈=metronom
@@ -3984,7 +3967,6 @@
 모래=kum
 모래시계=kum saati
 모래자루=kum torbası
-모래톱=kumul
 모래폭풍=kum fırtınası
 모레인=moren
 모로코=Fas
@@ -4165,7 +4147,6 @@
 무감동=apati
 무게중심=ağırlık merkezi
 무관심하다=umursamaz
-무광=afotik
 무교 입니다=ateistim
 무궁화=hibiskus
 무기화학=inorganik kimya
@@ -4457,7 +4438,6 @@
 민간방위=sivil savunma
 민간의=sivil
 민간인=sivil
-민감한=duygusal
 민달팽이=sümüklü böcek
 민들레=karahindiba
 민물=tatlı su
@@ -4556,8 +4536,6 @@
 바닷바람=deniz meltemi
 바둑=go
 바디 워시=duş jeli
-바디슈트=bebek tulumu
-바라=halile
 바라문디=Asya deniz levreği
 바라크=kışla
 바람 부는=rüzgârlı
@@ -5111,7 +5089,6 @@
 베오그라드=Belgrad
 베오울프=Beowulf
 베이루트=Beyrut
-베이비=bebeğim
 베이비시터=çocuk bakıcısı
 베이스 기타=bas gitar
 베이스볼=beyzbol
@@ -5209,7 +5186,6 @@
 변호인=avukat
 변화하다=değişmek
 별 도리가 없다=çaresi yok
-별거 아니에요=bir şey değil
 별것 아니었습니다=bir şey değil
 별과 별사이의=yıldızlararası
 별똥=kayan yıldız
@@ -5254,7 +5230,6 @@
 보더빌=vodvil
 보덴호=Konstanz Gölü
 보도자료=basın açıklaması
-보드=heyet
 보드게임=masa oyunu
 보드카=votka
 보디 랭귀지=vücut dili
@@ -5305,7 +5280,6 @@
 보이콧=boykot
 보일러=kazan
 보일러실=kazan dairesi
-보자=boza
 보잘것없는=değersiz
 보잘것없다=yaramaz
 보정=düzeltme
@@ -5604,7 +5578,6 @@
 불륜=zina
 불리=dezavantaj
 불리언=Boole değişkeni
-불리한=engelli
 불만=şikâyet
 불만스럽다=memnuniyetsiz
 불만하다=memnuniyetsiz
@@ -5852,7 +5825,6 @@
 비점=kaynama noktası
 비정부 기구=sivil toplum kuruluşu
 비종교자=inançsız
-비즈=boncuk
 비즈니스맨=iş adamı
 비직업=amatör
 비참하다=trajik
@@ -6227,7 +6199,6 @@
 산만한=rahatsız edici
 산명=yankı
 산문=nesir
-산미=ekşilik
 산미나리=keçi ayağı
 산미치광이=oklu kirpi
 산법=algoritma
@@ -6272,7 +6243,6 @@
 살라트=namaz
 살람=selam
 살렙=salep
-살로=yağ
 살리실산=salisilik asit
 살아 있는=sağ
 살아 있는 화석=yaşayan fosil
@@ -6313,7 +6283,6 @@
 삼십오=otuz beş
 삼십육=otuz altı
 삼십이=otuz iki
-삼십일=otuz bir
 삼십칠=otuz yedi
 삼십팔=otuz sekiz
 삼월=mart
@@ -7198,7 +7167,6 @@
 수자폰=suzafon
 수잔=Suzan
 수장국=emirlik
-수전=pirinç tarlası
 수전노=cimri
 수정관=vas deferans
 수정구슬=sihirli küre
@@ -7463,7 +7431,6 @@
 스토리=hikâye
 스토아=dükkan
 스토커=takipçi
-스토퍼=şişe mantarı
 스톡홀름=Stockholm
 스톡홀름 증후군=Stokholm sendromu
 스톱워치=kronometre
@@ -7483,7 +7450,6 @@
 스트립쇼=striptiz
 스티븐=İstefanos
 스티어링 휠=direksiyon
-스틸레토=kama
 스틸레토 힐=stiletto
 스파게티=spagetti
 스파르타=Sparta
@@ -7602,7 +7568,6 @@
 시금치=ıspanak
 시기하다=kıskanç
 시끄러=kapa çeneni
-시끄러워=kapa çeneni
 시나고그=sinagog
 시네마토그래피=sinematografi
 시누 남편=enişte
@@ -7911,7 +7876,6 @@
 십이각형=onikigen
 십이월=aralık
 십이지장=oniki-parmak bağırsağı
-십일=on bir
 십일각형=onbirgen
 십일월=kasım
 십일조=öşür
@@ -7979,7 +7943,6 @@
 쓰나미=tsunami
 쓰레기차=çöp arabası
 쓰레받기=faraş
-쓰레빠=parmak arası
 쓰르라미=ağustos böceği
 쓰리=üç
 쓰리 오브 어 카인드=set
@@ -8029,7 +7992,6 @@
 아니메=anime
 아니면=veya
 아니스=anason
-아니에요=bir şey değil
 아다=bakir
 아담=Adem
 아담과 이브=Adem ile Havva
@@ -8420,7 +8382,6 @@
 앉아라=lütfen yerine otur
 앉으세요=lütfen yerine otur
 앉으십시오=lütfen yerine otur
-앉은=sedanter
 알게르어=Algeroca
 알고 싶습니다=bilmek istiyorum
 알고 싶어요=bilmek istiyorum
@@ -8452,7 +8413,6 @@
 알리=Ali
 알리바바=Ali Baba
 알리프=elif
-알림=haber
 알림법=bildirme kipi
 알마티=Almatı
 알맞다=muvfâfık
@@ -8466,7 +8426,6 @@
 알바트로스=albatros
 알베도=yansıtabilirlik
 알부민=albümin
-알아=yani
 알았어=okey
 알았어요=okey
 알약=hap
@@ -8557,7 +8516,6 @@
 앞문=ön kapı
 앞이야 뒤야=yazı tura
 앞치마=önlük
-애가=Ağıtlar
 애광나무=alıç
 애교점=ben
 애구=aman tanrım
@@ -8759,7 +8717,6 @@
 어는점=donma noktası
 어댑터=adaptör
 어도비=kerpiç
-어두운=kasvetli
 어두움=karanlık
 어둠=karanlık
 어드벤처=macera
@@ -8768,8 +8725,6 @@
 어디 살아=nerede yaşıyorsunuz?
 어디 살아요=nerede yaşıyorsunuz?
 어디 삽니까=nerede yaşıyorsunuz?
-어디서=nereden
-어디에=nereye
 어디에나=her yer
 어딘가에=bir yerde
 어떻게=nasıl
@@ -8779,7 +8734,6 @@
 어류=balık
 어류학=ihtiyoloji
 어리석은 소리=saçmalık
-어린=küçük
 어린 암탉=piliç
 어린양=kuzu
 어린이=çocuk
@@ -8848,7 +8802,6 @@
 언어의=dil bilimi
 언어학=dilbilim
 언어학자=dilbilimci
-언제든=hiç
 언짢다=sevimsiz
 언청이=tavşan dudağı
 언팔로우하다=takipten çıkmak
@@ -9010,7 +8963,6 @@
 여공작=düşes
 여과기=filtre
 여기 있어요=buyur
-여기로=buraya
 여기저기=orada burada
 여뀌=madımak
 여단=tugay
@@ -9149,7 +9101,6 @@
 연월일=tarih
 연유=yoğun süt
 연음화=yumuşama
-연의=dalgacık
 연인=sevgili
 연장전=uzatma
 연주=performans
@@ -9357,7 +9308,6 @@
 오각별=pentagram
 오각성=pentagram
 오각형=beşgen
-오거나이저=elektronik ajanda
 오네가호=Onega Gölü
 오늘날=bugün
 오늘적끝남=kusursuz şimdiki zaman
@@ -9496,7 +9446,6 @@
 오타=yazım hatası
 오타와=Ottawa
 오탄당=pentoz
-오토만=Osmanlı
 오토머튼=otomat
 오토메이션=otomasyon
 오토바이=motosiklet
@@ -9769,7 +9718,6 @@
 우기=yağmur mevsimi
 우단=kadife
 우두=abdest
-우드=ud
 우드무르트어=Udmurtça
 우라누스=Uranüs
 우라늄=uranyum
@@ -10030,7 +9978,6 @@
 위팔두갈래근=pazı
 위팔뼈=karaca kemiği
 위험하다=tehlikeli
-위험한=riskli
 위협=tehdit
 윅셔너리=Vikisözlük
 윈도스=Windows
@@ -10149,7 +10096,6 @@
 유익하다=kârlı
 유인원=insansı maymun
 유일무이하다=eşsiz
-유일한=sadece
 유저=kullanıcı
 유저 인터페이스=kullanıcı arayüzü
 유저박스=kullanıcı kutusu
@@ -10356,7 +10302,6 @@
 이국적인=yabancı
 이글루=iglo
 이기심=bencillik
-이기적이다=bencil
 이길 수 없다면 합류해라=bükemediğin eli öp başına koy.
 이끼=yosun
 이념=ideoloji
@@ -10480,7 +10425,6 @@
 이야기하는 사람=anlatıcı
 이어링=küpe
 이어폰=kulaklık
-이염=otit
 이오니아해=İyon Denizi
 이오아니나=Yanya
 이온=iyon
@@ -10500,7 +10444,6 @@
 이전에=önce
 이전의=önceki
 이점=avantaj
-이제까지=hep
 이제부터=bundan böyle
 이제부터는=bundan böyle
 이젭스크=İjevsk
@@ -10525,7 +10468,6 @@
 이차 방정식=ikinci dereceden denklem
 이처럼=böylece
 이천=iki bin
-이층=birinci kat
 이치=akıl
 이케바나=ikebana
 이케아=IKEA
@@ -10843,7 +10785,6 @@
 자격을 갖춘=kalifiye
 자격이 있는=kalifiye
 자결권=otodeterminasyon
-자고=turaç
 자구다복=şans cesurdan yanadır
 자궁=döl yatağı
 자궁 내 장치=spiral
@@ -10913,7 +10854,6 @@
 자살골=kendi kalesine gol
 자살자=müntehir
 자살하다=intihar etmek
-자서=sözlük
 자서전=otobiyografi
 자석=mıknatıs
 자선 가게=yardım mağazası
@@ -11074,7 +11014,6 @@
 장가가다=evlenmek
 장갑=eldiven
 장갑열차=zırhlı tren
-장과=meyve
 장교=subay
 장난감=oyuncak
 장난꾸러기의=haşarı
@@ -11423,7 +11362,6 @@
 접수처=resepsiyon
 접시 닦는 사람=bulaşıkçı
 접시꽃=hatmi
-접어=ingklitik
 접영=kelebek
 접종=aşılama
 접종하다=aşılamak
@@ -11587,7 +11525,6 @@
 제이차 세계 대전=İkinci Dünya Savaşı
 제일 좋아하는=en sevdiği
 제일차 세계 대전=Birinci Dünya Savaşı
-제임스=Yakub
 제자=öğrenci
 제재소=bıçkıhane
 제정 러시아=Rus İmparatorluğu
@@ -11655,7 +11592,6 @@
 조선무=daikon
 조선민주주의인민공화국=Kore Demokratik Halk Cumhuriyeti
 조선소=tersane
-조선의=Kore
 조선인=Koreli
 조선인민공화국=Kore Halk Cumhuriyeti
 조선전쟁=Kore Savaşı
@@ -11750,7 +11686,6 @@
 좆물=döl
 좆밥=smegma
 좆질=cinsel ilişki
-좋아해요=seni seviyorum
 좋은=iyi
 좋은 냄새=rayiha
 좋은 아침입니다=günaydın
@@ -12216,13 +12151,11 @@
 짝수의=çift
 짠맛=tuzluluk
 짤주머니=krema torbası
-짧은=kısa
 짧은바늘=akrep
 짧음=kısalık
 짱깨=çan çin çon
 짱꼴라=çan çin çon
 쩐다=harika
-쪼리=parmak arası
 쪽빛=indigo
 쪽쪽이=emzik
 찐따=içine kapanık
@@ -12545,7 +12478,6 @@
 초고층 건물=gökdelen
 초국가적=uluslarüstü
 초기하함수=hipergeometrik fonksiyon
-초기화=ilklendirme
 초대국=süper güç
 초대장=davetiye
 초대하다=davet etmek
@@ -12586,7 +12518,6 @@
 촉대=şamdan
 촌뜨기=ahlat
 촌민=köylü
-촌스러운=kaba
 촌인=köylü
 촌충=tenya
 촛대=şamdan
@@ -12860,7 +12791,6 @@
 카소스섬=Kaşot
 카슈가르=Kaşgar
 카슈미르=Keşmir
-카스=Kaşgar
 카스라=kesra
 카스트=kast
 카스트제도=kast
@@ -12992,7 +12922,6 @@
 커뮤니티=cemiyet
 커민=kimyon
 커서=imleç
-커터=kotra
 커터칼=falçata
 커틀러리=çatal-bıçak takımı
 커패시터=kondansatör
@@ -13102,7 +13031,6 @@
 코뮤니스트=komünist
 코미디언=komedyen
 코미사르=komiser
-코믹=komedi
 코믹스=çizgi roman
 코민테른=Komintern
 코발트=kobalt
@@ -13356,7 +13284,6 @@
 클릭하다=tıklamak
 클린 앤 저크=silkme
 클립=ataş
-클립보드=ara bellek
 클링온=Klingon
 클링온어=Klingonca
 키 링=anahtarlık
@@ -13896,7 +13823,6 @@
 특징=vasıf
 특허권=buluş belgesi
 특히=özellikle
-튼튼한=güçlü
 티그리스 강=Dicle
 티끌 모아 태산=damlaya damlaya göl olur
 티눈=nasır
@@ -14138,7 +14064,6 @@
 펑션 키=fonksiyon tuşu
 펑크 록=punk rock
 페가수스=tulpar
-페널티=penaltı
 페널티킥=penaltı
 페넥여우=çöl tilkisi
 페놀=fenol
@@ -14253,7 +14178,6 @@
 평방=kare
 평방근=karekök
 평방미터=metrekare
-평범한=sıradan
 평시=barış
 평야=düzlük
 평양=Pyongyang
@@ -14332,7 +14256,6 @@
 포위=kuşatma
 포유류=memeli
 포인세티아=Atatürk çiçeği
-포인터=göstergeç
 포장지=ambalaj
 포차=top arabası
 포춘 쿠키=şans kurabiyesi
@@ -14467,7 +14390,6 @@
 풍문=söylenti
 풍부=bolluk
 풍부하다=varlıklı
-풍부한=zengin
 풍선껌=sakız
 풍습=adet
 풍향계=yelkovan
@@ -14596,7 +14518,6 @@
 플루토늄=plütonyum
 플루트=flüt
 플루티스트=flütçü
-플립플롭=parmak arası
 피감수=eksilen
 피검사=kan testi
 피고=sanık
@@ -14664,7 +14585,6 @@
 피혁=deri
 픽셀=piksel
 픽션=kurgu
-픽업=pikap
 픽업 트럭=pikap
 픽토그램=resim yazı
 핀란드=Finlandiya
@@ -15049,7 +14969,6 @@
 헤드샷=headshot
 헤드셋=kulaklık
 헤드폰=kulaklık
-헤라=Hera
 헤라클레이토스=Heraklitos
 헤라트=Herat
 헤로데=Hirodes
@@ -15264,7 +15183,6 @@
 화나게 하다=kızdırmak
 화나다=kızmak
 화난=öfkeli
-화덕=ocak
 화랑=galeri
 화레즘=Harezm
 화려한=debdebeli

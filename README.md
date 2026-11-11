@@ -39,8 +39,10 @@
 아래 파일의 `# --- 위키낱말사전 ---` 칸에는 영어판 위키낱말사전(Wiktionary, <https://en.wiktionary.org>)의 번역표에서 가져온 낱말이 들어 있습니다. kaikki.org 의 wiktextract 추출 자료(<https://kaikki.org>, 2026-10-01 덤프)를 썼습니다.
 
 - 새로 채운 언어(전에는 기본 말 62개뿐): `glossary-de.txt` `glossary-pt.txt` `glossary-pl.txt` `glossary-tr.txt` `glossary-he.txt` `glossary-hi.txt` `glossary-bn.txt` `glossary-ur.txt` `glossary-ta.txt` `glossary-te.txt` `glossary-mr.txt` `glossary-yue.txt` — 언어마다 4천~2만 2천 줄
-- 기초사전 칸 아래에 덧붙인 언어(기초사전에 없던 한국어만): `glossary-ja.txt` `glossary-zh.txt` `glossary-fr.txt` `glossary-es.txt` `glossary-ru.txt` `glossary-ar.txt`
+- 기초사전 칸 아래에 덧붙인 언어(기초사전에 없던 한국어만): `glossary-ja.txt` `glossary-zh.txt` `glossary-fr.txt` `glossary-es.txt` `glossary-ru.txt` `glossary-ar.txt` `glossary-en.txt` `glossary-vi.txt` `glossary-id.txt` `glossary-mn.txt`
+- 태국어: `glossary-th-krdict.txt` 의 기초사전 칸 아래에만 넣었습니다(`glossary.txt` 에 있는 한국어와 쇼핑 뜻이 먼저인 함정 말은 뺌). `glossary.txt` 는 그대로입니다.
+- 흔한 말인데 번역표의 뜻이 엇나간 한국어 220여 개는 모든 언어에서 뺐습니다(가자=Gaza, 지난=Jinan, 해주=Haeju, 그린=putting green, 픽업=pickup truck, 괜찮아요=you're welcome 같은 것). 이런 말은 구글 번역으로 갑니다.
 - 지은이: Wiktionary 기여자들. 라이선스: 크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0 국제 (CC BY-SA 4.0, <https://creativecommons.org/licenses/by-sa/4.0/>). 위키낱말사전 칸은 같은 라이선스로 배포합니다. 같은 파일의 기초사전 칸은 위의 CC BY-SA 2.0 KR 그대로입니다.
 - 변경 사항: 영어 낱말의 뜻 하나에 달린 번역표에서 한국어와 그 언어 값을 짝지었습니다. 기초사전에서 뜻이 여럿인 한국어, 기초사전과 뜻이 다른 표(한자가 다른 동음어), 사투리·옛말·지역 꼬리표 값은 뺐고, 모음 부호·강세 표시를 걷어 냈으며, 여러 표에 나오는 한국어는 모든 표에 공통인 값만 남겼습니다. 파일에 이미 있던 한국어는 넣지 않아 기초사전·직접 고른 말이 그대로 이깁니다.
 - 위키낱말사전 칸도 `# === 한국어기초사전 끝` 줄 위에 있어, 번역 도우미의 화면 번역(거꾸로 찾기)에는 쓰이지 않습니다.
-- 품질(가려서 잰 것): 표본 480개 중 구글 번역과 같음 206, 차이 없음 109, 사전이 나음 98, 구글이 나음 61, 둘 다 틀림 6. `glossary-th-krdict.txt` 는 `glossary.txt` 에 없는 태국어 낱말만 따로 모은 것으로, 통합 번역 1.30.1 다음 판부터 `glossary.txt` 로 다 못 옮긴 검색어·입력칸의 말이 통째로 여기 있을 때 씁니다(메신저 제외).
+- 품질(가려서 잰 것): 표본 480개 중 구글 번역과 같음 206, 차이 없음 109, 사전이 나음 98, 구글이 나음 61, 둘 다 틀림 6. 영어·베트남어·인도네시아어·몽골어·태국어 표본 150개: 같음 75, 차이 없음 29, 사전이 나음 31, 구글이 나음 13, 둘 다 틀림 2. `glossary-th-krdict.txt` 는 `glossary.txt` 에 없는 태국어 낱말만 따로 모은 것으로, 통합 번역 1.30.1 다음 판부터 `glossary.txt` 로 다 못 옮긴 검색어·입력칸의 말이 통째로 여기 있을 때 씁니다(메신저 제외).
