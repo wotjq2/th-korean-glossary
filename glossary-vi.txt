@@ -41077,3 +41077,15 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 며칠 집을 비워요=Tôi sẽ xa nhà vài ngày
 고양이 좀 봐 줄 수 있어요=Bạn có thể chăm sóc con mèo của tôi được không?
 이거 좀 드세요=Xin vui lòng có một số điều này
+
+# --- 대화 63: 편의점 2 (2026-11-14) ---
+뜨거운 물 있어요=Bạn có nước nóng không?
+컵라면 여기서 먹어도 돼요=Tôi có thể ăn mì ly ở đây được không?
+얼음 컵 주세요=Xin một cốc đá
+충전기 팔아요=Bạn có bán sạc không?
+유심 카드 팔아요=Bạn có bán thẻ SIM không?
+교통카드 충전돼요=Tôi có thể nạp thẻ chuyển tuyến ở đây không?
+여기서 공과금 낼 수 있어요=Tôi có thể thanh toán hóa đơn tiện ích ở đây không?
+이거 데워 주실 수 있어요=Bạn có thể hâm nóng cái này cho tôi được không?
+비닐봉지 하나 주세요=Làm ơn cho một túi nhựa
+24시간 해요=Bạn có mở cửa 24 giờ không?

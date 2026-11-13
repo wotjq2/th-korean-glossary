@@ -24336,3 +24336,15 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 며칠 집을 비워요=Ich werde für ein paar Tage von zu Hause weg sein
 고양이 좀 봐 줄 수 있어요=Könnten Sie auf meine Katze aufpassen?
 이거 좀 드세요=Bitte haben Sie etwas davon
+
+# --- 대화 63: 편의점 2 (2026-11-14) ---
+뜨거운 물 있어요=Hast du heißes Wasser?
+컵라면 여기서 먹어도 돼요=Kann ich hier Tassennudeln essen?
+얼음 컵 주세요=Eine Tasse Eis, bitte
+충전기 팔아요=Verkaufen Sie Ladegeräte?
+유심 카드 팔아요=Verkaufen Sie SIM-Karten?
+교통카드 충전돼요=Kann ich hier eine ÖPNV-Karte aufladen?
+여기서 공과금 낼 수 있어요=Kann ich hier Stromrechnungen bezahlen?
+이거 데워 주실 수 있어요=Könnten Sie das für mich aufwärmen?
+비닐봉지 하나 주세요=Eine Plastiktüte, bitte
+24시간 해요=Haben Sie 24 Stunden geöffnet?

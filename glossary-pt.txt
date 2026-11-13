@@ -22275,3 +22275,15 @@ IT 쪽에서 일해요=Eu trabalho em TI
 며칠 집을 비워요=Estarei fora de casa por alguns dias
 고양이 좀 봐 줄 수 있어요=Você poderia cuidar do meu gato?
 이거 좀 드세요=Por favor, tenha um pouco disso
+
+# --- 대화 63: 편의점 2 (2026-11-14) ---
+뜨거운 물 있어요=Você tem água quente?
+컵라면 여기서 먹어도 돼요=Posso comer macarrão aqui?
+얼음 컵 주세요=Um copo de gelo, por favor
+충전기 팔아요=Você vende carregadores?
+유심 카드 팔아요=Você vende cartões SIM?
+교통카드 충전돼요=Posso recarregar um cartão de trânsito aqui?
+여기서 공과금 낼 수 있어요=Posso pagar contas de serviços públicos aqui?
+이거 데워 주실 수 있어요=Você poderia aquecer isso para mim?
+비닐봉지 하나 주세요=Um saco plástico, por favor
+24시간 해요=Você está aberto 24 horas?

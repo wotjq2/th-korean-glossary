@@ -52443,3 +52443,15 @@ IT 쪽에서 일해요=I work in IT
 며칠 집을 비워요=I'll be away from home for a few days
 고양이 좀 봐 줄 수 있어요=Could you look after my cat?
 이거 좀 드세요=Please have some of this
+
+# --- 대화 63: 편의점 2 (2026-11-14) ---
+뜨거운 물 있어요=Do you have hot water?
+컵라면 여기서 먹어도 돼요=Can I eat cup noodles here?
+얼음 컵 주세요=A cup of ice, please
+충전기 팔아요=Do you sell chargers?
+유심 카드 팔아요=Do you sell SIM cards?
+교통카드 충전돼요=Can I top up a transit card here?
+여기서 공과금 낼 수 있어요=Can I pay utility bills here?
+이거 데워 주실 수 있어요=Could you heat this up for me?
+비닐봉지 하나 주세요=One plastic bag, please
+24시간 해요=Are you open 24 hours?

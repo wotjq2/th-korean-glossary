@@ -38301,3 +38301,15 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 며칠 집을 비워요=Aku akan jauh dari rumah selama beberapa hari
 고양이 좀 봐 줄 수 있어요=Bisakah kamu merawat kucingku?
 이거 좀 드세요=Silakan ambil beberapa dari ini
+
+# --- 대화 63: 편의점 2 (2026-11-14) ---
+뜨거운 물 있어요=Apakah Anda punya air panas?
+컵라면 여기서 먹어도 돼요=Bolehkah saya makan mie cup di sini?
+얼음 컵 주세요=Tolong, segelas es
+충전기 팔아요=Apakah Anda menjual pengisi daya?
+유심 카드 팔아요=Apakah Anda menjual kartu SIM?
+교통카드 충전돼요=Bisakah saya mengisi ulang kartu transit di sini?
+여기서 공과금 낼 수 있어요=Bisakah saya membayar tagihan listrik di sini?
+이거 데워 주실 수 있어요=Bisakah kamu memanaskan ini untukku?
+비닐봉지 하나 주세요=Tolong, satu kantong plastik
+24시간 해요=Apakah Anda buka 24 jam?
