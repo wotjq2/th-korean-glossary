@@ -40919,3 +40919,21 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 진동벨 울리면 오세요=Hãy đến khi chuông reo
 케이크 하나 주세요=Làm ơn cho một miếng bánh
 커피 마시러 갈래=Bạn có muốn đi uống cà phê không?
+
+# --- 대화 52: 택시 2·그랩·볼트 (2026-11-13) ---
+기사님 어디세요=Lái xe, bây giờ anh đang ở đâu?
+저 입구 앞에 있어요=Tôi đang ở trước lối vào
+빨간 옷 입고 있어요=Tôi đang mặc quần áo màu đỏ
+몇 분 뒤에 도착해요=Còn bao nhiêu phút nữa bạn sẽ đến nơi?
+번호판이 뭐예요=Biển số xe của bạn là gì?
+앱에 나온 가격으로 가 주세요=Vui lòng chọn giá hiển thị trong ứng dụng
+고속도로 타 주세요=Hãy đi đường cao tốc
+톨게이트 비용은 제가 낼게요=Tôi sẽ trả phí cầu đường
+에어컨 좀 줄여 주세요=Làm ơn tắt điều hòa đi
+창문 열어도 돼요=Tôi có thể mở cửa sổ được không?
+여기서 잠깐 기다려 주세요=Xin vui lòng đợi ở đây một lát
+다시 돌아갈 거예요=Tôi sẽ quay lại lần nữa
+기사님 친절하세요=Cảm ơn bạn, bạn rất tốt bụng
+잔돈은 됐어요=Không cần thối lại
+트렁크에 짐 있어요=Hành lý của tôi ở trong cốp xe
+취소할게요=Tôi sẽ hủy nó

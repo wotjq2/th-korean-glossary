@@ -47538,3 +47538,21 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 진동벨 울리면 오세요=Viens quand le buzzer sonne
 케이크 하나 주세요=Un morceau de gâteau, s'il vous plaît
 커피 마시러 갈래=Tu veux aller prendre un café ?
+
+# --- 대화 52: 택시 2·그랩·볼트 (2026-11-13) ---
+기사님 어디세요=Chauffeur, où es-tu maintenant ?
+저 입구 앞에 있어요=je suis devant l'entrée
+빨간 옷 입고 있어요=je porte des vêtements rouges
+몇 분 뒤에 도착해요=Combien de minutes avant votre arrivée ?
+번호판이 뭐예요=Quel est votre numéro de plaque d'immatriculation ?
+앱에 나온 가격으로 가 주세요=Veuillez choisir le prix indiqué dans l'application
+고속도로 타 주세요=Veuillez prendre l'autoroute
+톨게이트 비용은 제가 낼게요=Je paierai les frais de péage
+에어컨 좀 줄여 주세요=Veuillez baisser la climatisation
+창문 열어도 돼요=Puis-je ouvrir la fenêtre ?
+여기서 잠깐 기다려 주세요=S'il vous plaît, attendez ici un moment
+다시 돌아갈 거예요=Je vais y retourner
+기사님 친절하세요=Merci, tu es très gentil
+잔돈은 됐어요=Gardez la monnaie
+트렁크에 짐 있어요=Mes bagages sont dans le coffre
+취소할게요=je vais l'annuler

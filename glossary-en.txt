@@ -52285,3 +52285,21 @@ IT 쪽에서 일해요=I work in IT
 진동벨 울리면 오세요=Come when the buzzer rings
 케이크 하나 주세요=One piece of cake, please
 커피 마시러 갈래=Do you want to go get coffee?
+
+# --- 대화 52: 택시 2·그랩·볼트 (2026-11-13) ---
+기사님 어디세요=Driver, where are you now?
+저 입구 앞에 있어요=I'm in front of the entrance
+빨간 옷 입고 있어요=I'm wearing red clothes
+몇 분 뒤에 도착해요=How many minutes until you arrive?
+번호판이 뭐예요=What is your license plate number?
+앱에 나온 가격으로 가 주세요=Please go for the price shown in the app
+고속도로 타 주세요=Please take the expressway
+톨게이트 비용은 제가 낼게요=I'll pay the toll fee
+에어컨 좀 줄여 주세요=Please turn down the air conditioning
+창문 열어도 돼요=Can I open the window?
+여기서 잠깐 기다려 주세요=Please wait here for a moment
+다시 돌아갈 거예요=I'm going to go back again
+기사님 친절하세요=Thank you, you are very kind
+잔돈은 됐어요=Keep the change
+트렁크에 짐 있어요=My luggage is in the trunk
+취소할게요=I'll cancel it
