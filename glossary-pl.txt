@@ -22701,3 +22701,27 @@ QR 코드 찍어 주세요=Zeskanuj kod QR
 쓰레기는 어디에 버려요=Gdzie wyrzucić śmieci?
 택배는 어디서 받아요=Gdzie mogę odebrać paczki?
 보증금 언제 돌려받아요=Kiedy otrzymam zwrot depozytu?
+
+# --- 대화 32: 쇼핑몰·편의점·가게 안내 (2026-11-13) ---
+몇 층에 있어요=Na którym piętrze to jest?
+엘리베이터 어디예요=Gdzie jest winda?
+에스컬레이터 어디예요=Gdzie są schody ruchome?
+푸드코트 어디예요=Gdzie jest strefa gastronomiczna?
+안내 데스크 어디예요=Gdzie jest punkt informacyjny?
+출구가 어디예요=Gdzie jest wyjście?
+입구가 어디예요=Gdzie jest wejście?
+몇 시에 문 닫아요=O której godzinie zamykasz?
+오늘 문 열어요=Czy masz dzisiaj otwarte?
+쉬는 날이 언제예요=Kiedy jesteś zamknięty?
+회원카드 있어요=Mam kartę członkowską
+회원카드 없어요=Nie mam karty członkowskiej
+포인트 적립해 주세요=Proszę o dodanie punktów do mojej karty
+전자레인지에 데워 주세요=Proszę podgrzać w kuchence mikrofalowej
+젓가락 넣어 주세요=Proszę włożyć pałeczki do torby
+영수증 필요 없어요=Nie potrzebuję rachunku
+세금 환급 돼요=Czy mogę otrzymać zwrot podatku?
+면세 돼요=Czy jest to wolne od podatku?
+1+1 이에요=Czy to „kup jeden, drugi dostaniesz gratis”?
+세일 언제까지예요=Do jakiego dnia trwa wyprzedaż rabatowa?
+계산대 어디예요=Gdzie jest kasa?
+줄 서야 돼요=Czy muszę stać w kolejce?

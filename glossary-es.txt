@@ -47327,3 +47327,27 @@ QR 코드 찍어 주세요=Por favor escanea el código QR
 쓰레기는 어디에 버려요=¿Dónde tiro la basura?
 택배는 어디서 받아요=¿Dónde recojo los paquetes?
 보증금 언제 돌려받아요=¿Cuándo recuperaré mi depósito?
+
+# --- 대화 32: 쇼핑몰·편의점·가게 안내 (2026-11-13) ---
+몇 층에 있어요=¿En qué piso está?
+엘리베이터 어디예요=¿Dónde está el ascensor?
+에스컬레이터 어디예요=¿Dónde está la escalera mecánica?
+푸드코트 어디예요=¿Dónde está el patio de comidas?
+안내 데스크 어디예요=¿Dónde está el mostrador de información?
+출구가 어디예요=¿Dónde está la salida?
+입구가 어디예요=¿Dónde está la entrada?
+몇 시에 문 닫아요=¿A qué hora cierras?
+오늘 문 열어요=¿Estás abierto hoy?
+쉬는 날이 언제예요=¿Cuándo estás cerrado?
+회원카드 있어요=tengo una tarjeta de membresía
+회원카드 없어요=no tengo tarjeta de socio
+포인트 적립해 주세요=Por favor agregue puntos a mi tarjeta
+전자레인지에 데워 주세요=Caliéntalo en el microondas.
+젓가락 넣어 주세요=Por favor, pon los palillos en la bolsa.
+영수증 필요 없어요=no necesito un recibo
+세금 환급 돼요=¿Puedo obtener un reembolso de impuestos?
+면세 돼요=¿Está esto libre de impuestos?
+1+1 이에요=¿Compra uno y llévate otro gratis?
+세일 언제까지예요=¿Hasta qué fecha es la venta con descuento?
+계산대 어디예요=¿Dónde está la caja registradora?
+줄 서야 돼요=¿Tengo que hacer cola?

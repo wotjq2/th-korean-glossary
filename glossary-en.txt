@@ -51855,3 +51855,27 @@ QR 코드 찍어 주세요=Please scan the QR code
 쓰레기는 어디에 버려요=Where do I throw away the trash?
 택배는 어디서 받아요=Where do I pick up packages?
 보증금 언제 돌려받아요=When will I get my deposit back?
+
+# --- 대화 32: 쇼핑몰·편의점·가게 안내 (2026-11-13) ---
+몇 층에 있어요=Which floor is it on?
+엘리베이터 어디예요=Where is the elevator?
+에스컬레이터 어디예요=Where is the escalator?
+푸드코트 어디예요=Where is the food court?
+안내 데스크 어디예요=Where is the information desk?
+출구가 어디예요=Where is the exit?
+입구가 어디예요=Where is the entrance?
+몇 시에 문 닫아요=What time do you close?
+오늘 문 열어요=Are you open today?
+쉬는 날이 언제예요=When are you closed?
+회원카드 있어요=I have a membership card
+회원카드 없어요=I don't have a membership card
+포인트 적립해 주세요=Please add points to my card
+전자레인지에 데워 주세요=Please heat it in the microwave
+젓가락 넣어 주세요=Please put chopsticks in the bag
+영수증 필요 없어요=I don't need a receipt
+세금 환급 돼요=Can I get a tax refund?
+면세 돼요=Is this tax-free?
+1+1 이에요=Is this buy one get one free?
+세일 언제까지예요=Until what date is the discount sale?
+계산대 어디예요=Where is the checkout counter?
+줄 서야 돼요=Do I have to stand in line?

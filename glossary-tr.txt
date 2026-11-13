@@ -16812,3 +16812,27 @@ QR 코드 찍어 주세요=Lütfen QR kodunu tarayın
 쓰레기는 어디에 버려요=Çöpleri nereye atacağım?
 택배는 어디서 받아요=Paketleri nereden teslim alacağım?
 보증금 언제 돌려받아요=Depozitomu ne zaman geri alacağım?
+
+# --- 대화 32: 쇼핑몰·편의점·가게 안내 (2026-11-13) ---
+몇 층에 있어요=Hangi katta?
+엘리베이터 어디예요=Asansör nerede?
+에스컬레이터 어디예요=Yürüyen merdiven nerede?
+푸드코트 어디예요=Yemekhane nerede?
+안내 데스크 어디예요=Bilgi masası nerede?
+출구가 어디예요=Çıkış nerede?
+입구가 어디예요=Giriş nerede?
+몇 시에 문 닫아요=Saat kaçta kapatıyorsunuz?
+오늘 문 열어요=Bugün açık mısın?
+쉬는 날이 언제예요=Ne zaman kapalısın?
+회원카드 있어요=Üyelik kartım var
+회원카드 없어요=Üyelik kartım yok
+포인트 적립해 주세요=Lütfen kartıma puan ekleyin
+전자레인지에 데워 주세요=Lütfen mikrodalgada ısıtın
+젓가락 넣어 주세요=Lütfen yemek çubuklarını çantaya koyun
+영수증 필요 없어요=Makbuza ihtiyacım yok
+세금 환급 돼요=Vergi iadesi alabilir miyim?
+면세 돼요=Bu vergiden muaf mı?
+1+1 이에요=Bu bir alana bir bedava mı?
+세일 언제까지예요=İndirimli satışlar hangi tarihe kadar?
+계산대 어디예요=Ödeme gişesi nerede?
+줄 서야 돼요=Sırada durmak zorunda mıyım?

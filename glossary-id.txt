@@ -37714,3 +37714,27 @@ QR 코드 찍어 주세요=Silakan pindai kode QR
 쓰레기는 어디에 버려요=Dimana saya membuang sampahnya?
 택배는 어디서 받아요=Di mana saya mengambil paket?
 보증금 언제 돌려받아요=Kapan saya akan mendapatkan deposit saya kembali?
+
+# --- 대화 32: 쇼핑몰·편의점·가게 안내 (2026-11-13) ---
+몇 층에 있어요=Di lantai berapa?
+엘리베이터 어디예요=Dimana liftnya?
+에스컬레이터 어디예요=Dimana eskalatornya?
+푸드코트 어디예요=Dimana lokasi food courtnya?
+안내 데스크 어디예요=Dimana meja informasinya?
+출구가 어디예요=Dimana pintu keluarnya?
+입구가 어디예요=Dimana pintu masuknya?
+몇 시에 문 닫아요=Jam berapa kamu tutup?
+오늘 문 열어요=Apakah kamu buka hari ini?
+쉬는 날이 언제예요=Kapan kamu tutup?
+회원카드 있어요=Saya memiliki kartu anggota
+회원카드 없어요=Saya tidak punya kartu anggota
+포인트 적립해 주세요=Tolong tambahkan poin ke kartu saya
+전자레인지에 데워 주세요=Silakan panaskan dalam microwave
+젓가락 넣어 주세요=Tolong masukkan sumpit ke dalam tas
+영수증 필요 없어요=Saya tidak memerlukan tanda terima
+세금 환급 돼요=Bisakah saya mendapatkan pengembalian pajak?
+면세 돼요=Apakah ini bebas pajak?
+1+1 이에요=Apakah ini beli satu gratis satu?
+세일 언제까지예요=Penjualan diskonnya sampai tanggal berapa?
+계산대 어디예요=Dimana loket pembayarannya?
+줄 서야 돼요=Apakah saya harus mengantri?

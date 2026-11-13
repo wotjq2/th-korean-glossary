@@ -40490,3 +40490,27 @@ QR 코드 찍어 주세요=Vui lòng quét mã QR
 쓰레기는 어디에 버려요=Tôi vứt rác ở đâu?
 택배는 어디서 받아요=Tôi nhận gói hàng ở đâu?
 보증금 언제 돌려받아요=Khi nào tôi sẽ nhận lại được tiền đặt cọc?
+
+# --- 대화 32: 쇼핑몰·편의점·가게 안내 (2026-11-13) ---
+몇 층에 있어요=Nó ở tầng nào?
+엘리베이터 어디예요=Thang máy ở đâu?
+에스컬레이터 어디예요=Thang cuốn ở đâu?
+푸드코트 어디예요=Khu ẩm thực ở đâu?
+안내 데스크 어디예요=Bàn thông tin ở đâu?
+출구가 어디예요=Lối ra ở đâu?
+입구가 어디예요=Lối vào ở đâu?
+몇 시에 문 닫아요=Bạn đóng cửa lúc mấy giờ?
+오늘 문 열어요=Hôm nay bạn có mở cửa không?
+쉬는 날이 언제예요=Khi nào bạn đóng cửa?
+회원카드 있어요=Tôi có thẻ thành viên
+회원카드 없어요=Tôi không có thẻ thành viên
+포인트 적립해 주세요=Vui lòng thêm điểm vào thẻ của tôi
+전자레인지에 데워 주세요=Vui lòng hâm nóng nó trong lò vi sóng
+젓가락 넣어 주세요=Hãy bỏ đũa vào túi
+영수증 필요 없어요=Tôi không cần biên lai
+세금 환급 돼요=Tôi có thể được hoàn thuế không?
+면세 돼요=Đây có phải là miễn thuế?
+1+1 이에요=Cái này mua một tặng một phải không?
+세일 언제까지예요=Khuyến mãi giảm giá đến ngày nào?
+계산대 어디예요=Quầy tính tiền ở đâu?
+줄 서야 돼요=Tôi có phải đứng xếp hàng không?
