@@ -38274,3 +38274,17 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 눈썹 정리해 주세요=Tolong rapikan alisku
 앞머리 잘라 주세요=Tolong potong poniku
 팁 드릴게요=Ini tip untuk Anda
+
+# --- 대화 61: 학교 2·학부모 (2026-11-14) ---
+입학 신청하고 싶어요=Saya ingin mendaftar
+학비가 얼마예요=Berapa biaya kuliahnya?
+등교 시간이 몇 시예요=Jam berapa sekolah dimulai?
+하교 시간이 몇 시예요=Jam berapa sekolah selesai?
+선생님과 상담하고 싶어요=Saya ingin berbicara dengan guru
+우리 아이 학교생활은 어때요=Bagaimana kabar anak saya di sekolah?
+아이가 오늘 결석해요=Anak saya akan absen hari ini
+아이가 아파서 조퇴해야 해요=Anak saya sakit dan harus pulang lebih awal
+준비물이 뭐예요=Perbekalan apa saja yang perlu kita bawa?
+교복은 어디서 사요=Dimana saya bisa membeli seragam sekolahnya?
+스쿨버스 있어요=Apakah ada bus sekolah?
+방과 후 수업 있어요=Apakah ada kelas sepulang sekolah?

@@ -41050,3 +41050,17 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 눈썹 정리해 주세요=Hãy tỉa lông mày cho tôi
 앞머리 잘라 주세요=Hãy cắt tóc mái của tôi
 팁 드릴게요=Đây là một mẹo dành cho bạn
+
+# --- 대화 61: 학교 2·학부모 (2026-11-14) ---
+입학 신청하고 싶어요=Tôi muốn đăng ký nhập học
+학비가 얼마예요=Học phí là bao nhiêu?
+등교 시간이 몇 시예요=Trường học bắt đầu lúc mấy giờ?
+하교 시간이 몇 시예요=Trường học kết thúc lúc mấy giờ?
+선생님과 상담하고 싶어요=Tôi muốn nói chuyện với giáo viên
+우리 아이 학교생활은 어때요=Con tôi học hành thế nào ở trường?
+아이가 오늘 결석해요=Con tôi sẽ vắng mặt hôm nay
+아이가 아파서 조퇴해야 해요=Con tôi bị ốm và cần về sớm
+준비물이 뭐예요=Chúng ta cần mang theo những vật dụng gì?
+교복은 어디서 사요=Tôi có thể mua đồng phục học sinh ở đâu?
+스쿨버스 있어요=Có xe buýt trường học không?
+방과 후 수업 있어요=Có lớp học sau giờ học không?

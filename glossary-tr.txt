@@ -17372,3 +17372,17 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 눈썹 정리해 주세요=Lütfen kaşlarımı kes
 앞머리 잘라 주세요=Lütfen kaküllerimi kes
 팁 드릴게요=İşte sana bir ipucu
+
+# --- 대화 61: 학교 2·학부모 (2026-11-14) ---
+입학 신청하고 싶어요=Kabul için başvurmak istiyorum
+학비가 얼마예요=Öğrenim ücreti ne kadar?
+등교 시간이 몇 시예요=Okul saat kaçta başlıyor?
+하교 시간이 몇 시예요=Okul saat kaçta bitiyor?
+선생님과 상담하고 싶어요=Öğretmenle konuşmak istiyorum
+우리 아이 학교생활은 어때요=Çocuğumun okulda durumu nasıl?
+아이가 오늘 결석해요=Çocuğum bugün okula gelmeyecek
+아이가 아파서 조퇴해야 해요=Çocuğum hasta ve erken ayrılması gerekiyor
+준비물이 뭐예요=Hangi malzemeleri getirmemiz gerekiyor?
+교복은 어디서 사요=Okul formasını nereden satın alabilirim?
+스쿨버스 있어요=Okul otobüsü var mı?
+방과 후 수업 있어요=Okul sonrası dersler var mı?

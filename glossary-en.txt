@@ -52416,3 +52416,17 @@ IT 쪽에서 일해요=I work in IT
 눈썹 정리해 주세요=Please trim my eyebrows
 앞머리 잘라 주세요=Please cut my bangs
 팁 드릴게요=Here's a tip for you
+
+# --- 대화 61: 학교 2·학부모 (2026-11-14) ---
+입학 신청하고 싶어요=I'd like to apply for admission
+학비가 얼마예요=How much is the tuition?
+등교 시간이 몇 시예요=What time does school start?
+하교 시간이 몇 시예요=What time does school finish?
+선생님과 상담하고 싶어요=I'd like to talk with the teacher
+우리 아이 학교생활은 어때요=How is my child doing at school?
+아이가 오늘 결석해요=My child will be absent today
+아이가 아파서 조퇴해야 해요=My child is sick and needs to leave early
+준비물이 뭐예요=What supplies do we need to bring?
+교복은 어디서 사요=Where can I buy the school uniform?
+스쿨버스 있어요=Is there a school bus?
+방과 후 수업 있어요=Are there after-school classes?

@@ -24309,3 +24309,17 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 눈썹 정리해 주세요=Bitte schneiden Sie meine Augenbrauen
 앞머리 잘라 주세요=Bitte schneide mir den Pony
 팁 드릴게요=Hier ist ein Tipp für Sie
+
+# --- 대화 61: 학교 2·학부모 (2026-11-14) ---
+입학 신청하고 싶어요=Ich möchte mich um eine Zulassung bewerben
+학비가 얼마예요=Wie hoch sind die Studiengebühren?
+등교 시간이 몇 시예요=Wann beginnt die Schule?
+하교 시간이 몇 시예요=Um wie viel Uhr endet die Schule?
+선생님과 상담하고 싶어요=Ich würde gerne mit dem Lehrer sprechen
+우리 아이 학교생활은 어때요=Wie geht es meinem Kind in der Schule?
+아이가 오늘 결석해요=Mein Kind wird heute abwesend sein
+아이가 아파서 조퇴해야 해요=Mein Kind ist krank und muss früher gehen
+준비물이 뭐예요=Welche Vorräte müssen wir mitbringen?
+교복은 어디서 사요=Wo kann ich die Schuluniform kaufen?
+스쿨버스 있어요=Gibt es einen Schulbus?
+방과 후 수업 있어요=Gibt es außerschulischen Unterricht?
