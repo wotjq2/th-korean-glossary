@@ -40162,3 +40162,29 @@
 은행 잔고 증명서 필요해요=Bạn có cần giấy chứng nhận số dư ngân hàng không?
 우체국 어디예요=Bưu điện ở đâu?
 한국으로 소포 보내고 싶어요=Tôi muốn gửi một gói hàng đi Hàn Quốc
+
+# --- 대화 20: 배달 앱·택배·온라인 주문 (2026-11-13) ---
+배달 시켜 먹자=Hãy đặt hàng giao đồ ăn
+배달 언제 와요=Khi nào hàng sẽ đến?
+지금 어디쯤이세요=Hiện tại bạn đang ở đâu?
+문 앞에 놔 주세요=Vui lòng để nó ở cửa
+경비실에 맡겨 주세요=Hãy để nó cho nhân viên bảo vệ
+도착하면 전화 주세요=Hãy gọi cho tôi khi bạn đến
+금방 내려갈게요=Tôi sẽ xuống ngay
+주문이 잘못 왔어요=Tôi đã nhận được đơn đặt hàng sai
+음식이 다 식었어요=Thức ăn đã nguội rồi
+하나가 빠졌어요=Một mặt hàng bị thiếu
+주문 취소하고 싶어요=Tôi muốn hủy đơn hàng của mình
+환불해 주세요=Xin vui lòng hoàn lại tiền cho tôi
+택배 아직 안 왔어요=Gói hàng của tôi vẫn chưa đến
+배송 조회해 주세요=Vui lòng theo dõi việc giao hàng của tôi
+송장 번호 알려 주세요=Xin vui lòng cho tôi biết số theo dõi
+주소를 잘못 썼어요=Tôi viết sai địa chỉ
+주소 바꿀 수 있어요=Tôi có thể thay đổi địa chỉ được không?
+상자가 찢어져 왔어요=Hộp đến bị rách
+물건이 파손됐어요=Mặt hàng bị hư hỏng
+반품하고 싶어요=Tôi muốn trả lại cái này
+교환하고 싶어요=Tôi muốn trao đổi cái này
+착불이에요=Có phải là tiền mặt khi giao hàng?
+리뷰 남길게요=Tôi sẽ để lại đánh giá
+별 다섯 개 줄게요=Tôi sẽ cho bạn năm sao

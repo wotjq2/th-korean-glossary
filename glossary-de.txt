@@ -23421,3 +23421,29 @@
 은행 잔고 증명서 필요해요=Benötigen Sie einen Kontostandsnachweis?
 우체국 어디예요=Wo ist die Post?
 한국으로 소포 보내고 싶어요=Ich möchte ein Paket nach Korea schicken
+
+# --- 대화 20: 배달 앱·택배·온라인 주문 (2026-11-13) ---
+배달 시켜 먹자=Lassen Sie uns die Essenslieferung bestellen
+배달 언제 와요=Wann kommt die Lieferung?
+지금 어디쯤이세요=Wo bist du gerade?
+문 앞에 놔 주세요=Bitte hinterlassen Sie es an der Tür
+경비실에 맡겨 주세요=Bitte hinterlassen Sie es beim Wachmann
+도착하면 전화 주세요=Bitte rufen Sie mich an, wenn Sie ankommen
+금방 내려갈게요=Ich komme sofort runter
+주문이 잘못 왔어요=Ich habe die falsche Bestellung erhalten
+음식이 다 식었어요=Das Essen ist kalt geworden
+하나가 빠졌어요=Ein Artikel fehlt
+주문 취소하고 싶어요=Ich möchte meine Bestellung stornieren
+환불해 주세요=Bitte geben Sie mir eine Rückerstattung
+택배 아직 안 왔어요=Mein Paket ist noch nicht angekommen
+배송 조회해 주세요=Bitte verfolgen Sie meine Lieferung
+송장 번호 알려 주세요=Bitte teilen Sie mir die Sendungsverfolgungsnummer mit
+주소를 잘못 썼어요=Ich habe die falsche Adresse geschrieben
+주소 바꿀 수 있어요=Kann ich die Adresse ändern?
+상자가 찢어져 왔어요=Der Karton kam zerrissen an
+물건이 파손됐어요=Der Artikel ist beschädigt
+반품하고 싶어요=Ich möchte dies zurückgeben
+교환하고 싶어요=Ich würde das gerne umtauschen
+착불이에요=Ist die Lieferung per Nachnahme möglich?
+리뷰 남길게요=Ich werde eine Bewertung hinterlassen
+별 다섯 개 줄게요=Ich gebe dir fünf Sterne

@@ -46999,3 +46999,29 @@
 은행 잔고 증명서 필요해요=¿Necesita un certificado de saldo bancario?
 우체국 어디예요=¿Dónde está la oficina de correos?
 한국으로 소포 보내고 싶어요=Me gustaría enviar un paquete a Corea
+
+# --- 대화 20: 배달 앱·택배·온라인 주문 (2026-11-13) ---
+배달 시켜 먹자=Pidamos comida a domicilio.
+배달 언제 와요=¿Cuándo llegará la entrega?
+지금 어디쯤이세요=¿Dónde estás ahora?
+문 앞에 놔 주세요=Por favor déjalo en la puerta.
+경비실에 맡겨 주세요=Por favor déjelo en manos del guardia de seguridad.
+도착하면 전화 주세요=Por favor llámame cuando llegues
+금방 내려갈게요=bajaré de inmediato
+주문이 잘못 왔어요=Recibí el pedido incorrecto
+음식이 다 식었어요=La comida se ha enfriado
+하나가 빠졌어요=falta un elemento
+주문 취소하고 싶어요=Me gustaría cancelar mi pedido
+환불해 주세요=Por favor dame un reembolso
+택배 아직 안 왔어요=Mi paquete aún no ha llegado
+배송 조회해 주세요=Por favor, rastree mi pedido
+송장 번호 알려 주세요=Por favor dime el número de seguimiento
+주소를 잘못 썼어요=escribí la dirección equivocada
+주소 바꿀 수 있어요=¿Puedo cambiar la dirección?
+상자가 찢어져 왔어요=La caja llego rota
+물건이 파손됐어요=El artículo está dañado.
+반품하고 싶어요=Quisiera regresar esto
+교환하고 싶어요=Me gustaría cambiar esto
+착불이에요=¿Es pago contra entrega?
+리뷰 남길게요=dejaré una reseña
+별 다섯 개 줄게요=te daré cinco estrellas

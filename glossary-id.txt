@@ -37386,3 +37386,29 @@
 은행 잔고 증명서 필요해요=Apakah Anda memerlukan sertifikat saldo bank?
 우체국 어디예요=Dimana kantor posnya?
 한국으로 소포 보내고 싶어요=Saya ingin mengirim paket ke Korea
+
+# --- 대화 20: 배달 앱·택배·온라인 주문 (2026-11-13) ---
+배달 시켜 먹자=Ayo pesan pesan-antar makanan
+배달 언제 와요=Kapan pengirimannya akan tiba?
+지금 어디쯤이세요=Dimana kamu sekarang?
+문 앞에 놔 주세요=Silakan tinggalkan di pintu
+경비실에 맡겨 주세요=Silakan serahkan pada penjaga keamanan
+도착하면 전화 주세요=Silakan hubungi saya ketika Anda tiba
+금방 내려갈게요=Saya akan segera turun
+주문이 잘못 왔어요=Saya menerima pesanan yang salah
+음식이 다 식었어요=Makanannya sudah dingin
+하나가 빠졌어요=Satu item hilang
+주문 취소하고 싶어요=Saya ingin membatalkan pesanan saya
+환불해 주세요=Tolong beri saya pengembalian dana
+택배 아직 안 왔어요=Paket saya belum sampai
+배송 조회해 주세요=Tolong lacak pengiriman saya
+송장 번호 알려 주세요=Tolong beritahu saya nomor pelacakan
+주소를 잘못 썼어요=Saya menulis alamat yang salah
+주소 바꿀 수 있어요=Bisakah saya mengubah alamatnya?
+상자가 찢어져 왔어요=Kotaknya tiba dalam keadaan sobek
+물건이 파손됐어요=Barangnya rusak
+반품하고 싶어요=Saya ingin mengembalikan ini
+교환하고 싶어요=Saya ingin menukar ini
+착불이에요=Apakah itu pembayaran tunai saat pengiriman?
+리뷰 남길게요=Saya akan meninggalkan ulasan
+별 다섯 개 줄게요=Saya akan memberi Anda lima bintang

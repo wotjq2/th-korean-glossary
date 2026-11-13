@@ -16484,3 +16484,29 @@
 은행 잔고 증명서 필요해요=Banka bakiye sertifikasına ihtiyacınız var mı?
 우체국 어디예요=Postane nerede?
 한국으로 소포 보내고 싶어요=Kore'ye bir paket göndermek istiyorum
+
+# --- 대화 20: 배달 앱·택배·온라인 주문 (2026-11-13) ---
+배달 시켜 먹자=Yemek siparişi verelim
+배달 언제 와요=Teslimat ne zaman gelecek?
+지금 어디쯤이세요=Şu anda neredesin?
+문 앞에 놔 주세요=Lütfen kapıya bırakın
+경비실에 맡겨 주세요=Lütfen onu güvenlik görevlisine bırakın.
+도착하면 전화 주세요=Lütfen geldiğinde beni ara
+금방 내려갈게요=hemen aşağı geleceğim
+주문이 잘못 왔어요=Yanlış sipariş aldım
+음식이 다 식었어요=Yemek soğudu
+하나가 빠졌어요=Bir öğe eksik
+주문 취소하고 싶어요=Siparişimi iptal etmek istiyorum
+환불해 주세요=Lütfen bana geri ödeme yapın
+택배 아직 안 왔어요=Paketim henüz gelmedi
+배송 조회해 주세요=Lütfen teslimatımı takip edin
+송장 번호 알려 주세요=Lütfen bana takip numarasını söyle
+주소를 잘못 썼어요=Yanlış adresi yazdım
+주소 바꿀 수 있어요=Adresi değiştirebilir miyim?
+상자가 찢어져 왔어요=Kutu yırtık geldi
+물건이 파손됐어요=Ürün hasarlı
+반품하고 싶어요=Bunu iade etmek istiyorum
+교환하고 싶어요=bunu takas etmek isterim
+착불이에요=Teslimatta nakit mi?
+리뷰 남길게요=Bir inceleme bırakacağım
+별 다섯 개 줄게요=Sana beş yıldız vereceğim

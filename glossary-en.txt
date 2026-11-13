@@ -51527,3 +51527,29 @@
 은행 잔고 증명서 필요해요=Do you need a bank balance certificate?
 우체국 어디예요=Where is the post office?
 한국으로 소포 보내고 싶어요=I'd like to send a package to Korea
+
+# --- 대화 20: 배달 앱·택배·온라인 주문 (2026-11-13) ---
+배달 시켜 먹자=Let's order food delivery
+배달 언제 와요=When will the delivery arrive?
+지금 어디쯤이세요=Where are you right now?
+문 앞에 놔 주세요=Please leave it at the door
+경비실에 맡겨 주세요=Please leave it with the security guard
+도착하면 전화 주세요=Please call me when you arrive
+금방 내려갈게요=I'll come down right away
+주문이 잘못 왔어요=I received the wrong order
+음식이 다 식었어요=The food has gone cold
+하나가 빠졌어요=One item is missing
+주문 취소하고 싶어요=I'd like to cancel my order
+환불해 주세요=Please give me a refund
+택배 아직 안 왔어요=My package hasn't arrived yet
+배송 조회해 주세요=Please track my delivery
+송장 번호 알려 주세요=Please tell me the tracking number
+주소를 잘못 썼어요=I wrote the wrong address
+주소 바꿀 수 있어요=Can I change the address?
+상자가 찢어져 왔어요=The box arrived torn
+물건이 파손됐어요=The item is damaged
+반품하고 싶어요=I'd like to return this
+교환하고 싶어요=I'd like to exchange this
+착불이에요=Is it cash on delivery?
+리뷰 남길게요=I'll leave a review
+별 다섯 개 줄게요=I'll give you five stars
