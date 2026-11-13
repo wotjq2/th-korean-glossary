@@ -22298,3 +22298,14 @@ IT 쪽에서 일해요=Eu trabalho em TI
 매진됐어요=Está esgotado
 영화 재밌었어=Você gostou do filme?
 결말이 대박이야=O final foi incrível
+
+# --- 대화 65: 놀이공원·경기 관람 (2026-11-14) ---
+자유이용권 주세요=Um passe para o dia inteiro, por favor
+이거 몇 분 기다려야 돼요=Quantos minutos é a espera para esse passeio?
+키 제한이 있어요=Existe um limite de altura?
+무서워서 못 타겠어=É muito assustador, não consigo montá-lo
+한 번 더 타자=Vamos andar mais uma vez
+경기 몇 시에 시작해=A que horas começa o jogo?
+어느 팀이 이기고 있어=Qual time está ganhando?
+골 넣었다=Gol!
+아깝다 거의 들어갔는데=Tão perto que quase entrou

@@ -23311,3 +23311,14 @@ IT 쪽에서 일해요=Pracuję w IT
 매진됐어요=Zostało wyprzedane
 영화 재밌었어=Podobał Ci się film?
 결말이 대박이야=Zakończenie było niesamowite
+
+# --- 대화 65: 놀이공원·경기 관람 (2026-11-14) ---
+자유이용권 주세요=Proszę o karnet na cały dzień
+이거 몇 분 기다려야 돼요=Ile minut trzeba czekać na ten przejazd?
+키 제한이 있어요=Czy istnieje ograniczenie wzrostu?
+무서워서 못 타겠어=To zbyt straszne, nie mogę na tym jeździć
+한 번 더 타자=Przejedźmy się tym jeszcze raz
+경기 몇 시에 시작해=O której zaczyna się gra?
+어느 팀이 이기고 있어=Która drużyna wygrywa?
+골 넣었다=Gol!
+아깝다 거의 들어갔는데=Tak blisko, że prawie weszło do środka

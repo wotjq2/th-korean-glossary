@@ -47719,3 +47719,14 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 매진됐어요=C'est complet
 영화 재밌었어=Avez-vous apprécié le film ?
 결말이 대박이야=La fin était incroyable
+
+# --- 대화 65: 놀이공원·경기 관람 (2026-11-14) ---
+자유이용권 주세요=Un pass toute la journée, s'il vous plaît
+이거 몇 분 기다려야 돼요=Combien de minutes d'attente dure ce trajet ?
+키 제한이 있어요=Y a-t-il une limite de hauteur ?
+무서워서 못 타겠어=C'est trop effrayant, je ne peux pas le monter
+한 번 더 타자=Montons encore une fois
+경기 몇 시에 시작해=À quelle heure commence le jeu ?
+어느 팀이 이기고 있어=Quelle équipe gagne ?
+골 넣었다=But !
+아깝다 거의 들어갔는데=Si proche qu'il a failli entrer

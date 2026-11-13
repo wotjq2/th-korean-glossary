@@ -41100,3 +41100,14 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 매진됐어요=Nó đã bán hết
 영화 재밌었어=Bạn có thích bộ phim này không?
 결말이 대박이야=Cái kết thật tuyệt vời
+
+# --- 대화 65: 놀이공원·경기 관람 (2026-11-14) ---
+자유이용권 주세요=Xin một vé cả ngày
+이거 몇 분 기다려야 돼요=Phải đợi bao nhiêu phút cho chuyến đi này?
+키 제한이 있어요=Có giới hạn chiều cao không?
+무서워서 못 타겠어=Đáng sợ quá, tôi không thể cưỡi nó được
+한 번 더 타자=Hãy cưỡi nó một lần nữa
+경기 몇 시에 시작해=Trò chơi bắt đầu lúc mấy giờ?
+어느 팀이 이기고 있어=Đội nào đang chiến thắng?
+골 넣었다=Vào rồi!
+아깝다 거의 들어갔는데=Gần quá, nó gần như đã đi vào

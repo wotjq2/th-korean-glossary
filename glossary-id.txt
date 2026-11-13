@@ -38324,3 +38324,14 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 매진됐어요=Sudah terjual habis
 영화 재밌었어=Apakah Anda menikmati filmnya?
 결말이 대박이야=Akhir ceritanya luar biasa
+
+# --- 대화 65: 놀이공원·경기 관람 (2026-11-14) ---
+자유이용권 주세요=Tolong, izin masuk sepanjang hari
+이거 몇 분 기다려야 돼요=Berapa menit menunggu perjalanan ini?
+키 제한이 있어요=Apakah ada batasan ketinggian?
+무서워서 못 타겠어=Terlalu menakutkan, saya tidak bisa mengendarainya
+한 번 더 타자=Mari kita mengendarainya sekali lagi
+경기 몇 시에 시작해=Jam berapa permainannya dimulai?
+어느 팀이 이기고 있어=Tim mana yang menang?
+골 넣었다=Gol!
+아깝다 거의 들어갔는데=Begitu dekat, hampir masuk

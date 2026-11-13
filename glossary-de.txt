@@ -24359,3 +24359,14 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 매진됐어요=Es ist ausverkauft
 영화 재밌었어=Hat Ihnen der Film gefallen?
 결말이 대박이야=Das Ende war erstaunlich
+
+# --- 대화 65: 놀이공원·경기 관람 (2026-11-14) ---
+자유이용권 주세요=Bitte eine Tageskarte
+이거 몇 분 기다려야 돼요=Wie viele Minuten muss man auf diese Fahrt warten?
+키 제한이 있어요=Gibt es eine Höhenbeschränkung?
+무서워서 못 타겠어=Es ist zu gruselig, ich kann nicht damit fahren
+한 번 더 타자=Lass es uns noch einmal fahren
+경기 몇 시에 시작해=Um wie viel Uhr beginnt das Spiel?
+어느 팀이 이기고 있어=Welches Team gewinnt?
+골 넣었다=Tor!
+아깝다 거의 들어갔는데=So nah, dass es fast reingegangen wäre

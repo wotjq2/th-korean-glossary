@@ -52466,3 +52466,14 @@ IT 쪽에서 일해요=I work in IT
 매진됐어요=It's sold out
 영화 재밌었어=Did you enjoy the movie?
 결말이 대박이야=The ending was amazing
+
+# --- 대화 65: 놀이공원·경기 관람 (2026-11-14) ---
+자유이용권 주세요=An all-day pass, please
+이거 몇 분 기다려야 돼요=How many minutes is the wait for this ride?
+키 제한이 있어요=Is there a height limit?
+무서워서 못 타겠어=It's too scary, I can't ride it
+한 번 더 타자=Let's ride it one more time
+경기 몇 시에 시작해=What time does the game start?
+어느 팀이 이기고 있어=Which team is winning?
+골 넣었다=Goal!
+아깝다 거의 들어갔는데=So close, it almost went in

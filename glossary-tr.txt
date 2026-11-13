@@ -17422,3 +17422,14 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 매진됐어요=Tükendi
 영화 재밌었어=Filmden keyif aldınız mı?
 결말이 대박이야=Sonu muhteşemdi
+
+# --- 대화 65: 놀이공원·경기 관람 (2026-11-14) ---
+자유이용권 주세요=Tüm gün geçerli bir bilet lütfen
+이거 몇 분 기다려야 돼요=Bu yolculuk için bekleme süresi kaç dakikadır?
+키 제한이 있어요=Yükseklik sınırı var mı?
+무서워서 못 타겠어=Çok korkutucu, ona binemiyorum
+한 번 더 타자=Hadi bir kez daha sürelim
+경기 몇 시에 시작해=Oyun saat kaçta başlıyor?
+어느 팀이 이기고 있어=Hangi takım kazanıyor?
+골 넣었다=Gol!
+아깝다 거의 들어갔는데=O kadar yakındı ki neredeyse içeri giriyordu
