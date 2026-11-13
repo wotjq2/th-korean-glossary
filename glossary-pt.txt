@@ -22213,3 +22213,15 @@ IT 쪽에서 일해요=Eu trabalho em TI
 등기로 보내 주세요=Por favor envie por carta registrada
 송장 번호 주세요=Por favor me dê o número de rastreamento
 우표 주세요=Selos, por favor
+
+# --- 대화 58: 공공장소 안내·규칙 (2026-11-13) ---
+여기서 담배 피워도 돼요=Posso fumar aqui?
+흡연 구역이 어디예요=Onde fica a área para fumantes?
+여기 줄 서는 거예요=Esta é a linha?
+제 차례예요=É a minha vez
+새치기하지 마세요=Por favor, não fure a fila
+조용히 해 주세요=Por favor, fique quieto
+사진 촬영 금지예요=Não é permitido tirar fotos
+들어가면 안 돼요=Você não pode entrar
+음식 가지고 들어가도 돼요=Posso levar comida para dentro?
+분실물 센터가 어디예요=Onde está o Achados e Perdidos?

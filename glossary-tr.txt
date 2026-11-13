@@ -17337,3 +17337,15 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 등기로 보내 주세요=Lütfen taahhütlü postayla gönderin
 송장 번호 주세요=Lütfen bana takip numarasını verin
 우표 주세요=Pullar lütfen
+
+# --- 대화 58: 공공장소 안내·규칙 (2026-11-13) ---
+여기서 담배 피워도 돼요=Burada sigara içebilir miyim?
+흡연 구역이 어디예요=Sigara içme alanı nerede?
+여기 줄 서는 거예요=Bu çizgi mi?
+제 차례예요=sıra bende
+새치기하지 마세요=Lütfen sırayı bölmeyin
+조용히 해 주세요=Lütfen sessiz ol
+사진 촬영 금지예요=Fotoğraf çekilmesine izin verilmiyor
+들어가면 안 돼요=içeri giremezsin
+음식 가지고 들어가도 돼요=İçeri yiyecek getirebilir miyim?
+분실물 센터가 어디예요=Kayıp eşya bürosu nerede?

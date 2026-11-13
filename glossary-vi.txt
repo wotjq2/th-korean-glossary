@@ -41015,3 +41015,15 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 등기로 보내 주세요=Vui lòng gửi nó bằng thư bảo đảm
 송장 번호 주세요=Vui lòng cho tôi số theo dõi
 우표 주세요=Cho tôi mua tem
+
+# --- 대화 58: 공공장소 안내·규칙 (2026-11-13) ---
+여기서 담배 피워도 돼요=Tôi có thể hút thuốc ở đây không?
+흡연 구역이 어디예요=Khu vực hút thuốc ở đâu?
+여기 줄 서는 거예요=Đây có phải là dòng không?
+제 차례예요=Đến lượt tôi
+새치기하지 마세요=Làm ơn đừng chen hàng
+조용히 해 주세요=Xin hãy im lặng
+사진 촬영 금지예요=Không được phép chụp ảnh
+들어가면 안 돼요=Bạn không thể đi vào
+음식 가지고 들어가도 돼요=Tôi có thể mang đồ ăn vào trong được không?
+분실물 센터가 어디예요=Quầy đồ thất lạc ở đâu?

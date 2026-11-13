@@ -23226,3 +23226,15 @@ IT 쪽에서 일해요=Pracuję w IT
 등기로 보내 주세요=Prosimy o przesłanie go listem poleconym
 송장 번호 주세요=Proszę o numer śledzenia
 우표 주세요=Proszę o znaczki
+
+# --- 대화 58: 공공장소 안내·규칙 (2026-11-13) ---
+여기서 담배 피워도 돼요=Czy mogę tu palić?
+흡연 구역이 어디예요=Gdzie jest część dla palących?
+여기 줄 서는 거예요=Czy to jest ta linia?
+제 차례예요=Moja kolej
+새치기하지 마세요=Proszę nie przecinać w kolejce
+조용히 해 주세요=Proszę o ciszę
+사진 촬영 금지예요=Robienie zdjęć jest zabronione
+들어가면 안 돼요=Nie możesz wejść
+음식 가지고 들어가도 돼요=Czy mogę wnieść jedzenie do środka?
+분실물 센터가 어디예요=Gdzie jest to, co zagubione i znalezione?

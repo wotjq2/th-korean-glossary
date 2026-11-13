@@ -47634,3 +47634,15 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 등기로 보내 주세요=Merci de l'envoyer par courrier recommandé
 송장 번호 주세요=Merci de me donner le numéro de suivi
 우표 주세요=Des timbres, s'il vous plaît
+
+# --- 대화 58: 공공장소 안내·규칙 (2026-11-13) ---
+여기서 담배 피워도 돼요=Puis-je fumer ici ?
+흡연 구역이 어디예요=Où se trouve la zone fumeurs ?
+여기 줄 서는 거예요=Est-ce la ligne ?
+제 차례예요=C'est mon tour
+새치기하지 마세요=S'il vous plaît, ne coupez pas la file
+조용히 해 주세요=S'il te plaît, tais-toi
+사진 촬영 금지예요=Prendre des photos n'est pas autorisé
+들어가면 안 돼요=Tu ne peux pas entrer
+음식 가지고 들어가도 돼요=Puis-je apporter de la nourriture à l’intérieur ?
+분실물 센터가 어디예요=Où se trouve le bureau des objets trouvés?

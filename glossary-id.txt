@@ -38239,3 +38239,15 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 등기로 보내 주세요=Silakan kirimkan melalui surat tercatat
 송장 번호 주세요=Tolong beri saya nomor pelacakan
 우표 주세요=Tolong, perangko
+
+# --- 대화 58: 공공장소 안내·규칙 (2026-11-13) ---
+여기서 담배 피워도 돼요=Bolehkah saya merokok di sini?
+흡연 구역이 어디예요=Dimana area merokoknya?
+여기 줄 서는 거예요=Apakah ini garisnya?
+제 차례예요=Sekarang giliranku
+새치기하지 마세요=Tolong jangan memotong antrean
+조용히 해 주세요=tolong diam
+사진 촬영 금지예요=Dilarang mengambil foto
+들어가면 안 돼요=Anda tidak bisa masuk
+음식 가지고 들어가도 돼요=Bisakah saya membawa makanan ke dalam?
+분실물 센터가 어디예요=Dimana yang hilang dan ditemukan?
