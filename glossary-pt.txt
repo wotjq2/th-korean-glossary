@@ -21789,3 +21789,24 @@ IT 쪽에서 일해요=Eu trabalho em TI
 프로필 사진 바꿨네=Você mudou sua foto de perfil
 와이파이 연결이 안 돼=Não consigo me conectar ao Wi-Fi
 데이터가 다 떨어졌어=Fiquei sem dados móveis
+
+# --- 대화 36: 불만·항의·A/S (2026-11-13) ---
+이거 잘못 계산된 것 같아요=Acho que o preço desta fatura foi calculado incorretamente
+계산이 틀렸어요=A conta está errada
+두 번 결제됐어요=O pagamento foi retirado do meu cartão duas vezes
+거스름돈을 덜 받았어요=Não recebi troco suficiente de volta
+설명이랑 달라요=É diferente da descrição
+사진이랑 달라요=Parece diferente da foto
+작동이 안 돼요=Não funciona
+산 지 일주일 됐어요=Comprei há uma semana
+고쳐 주세요=Por favor, conserte isso
+새 걸로 바꿔 주세요=Por favor troque-o por um novo
+책임자 불러 주세요=Por favor ligue para o gerente
+너무 오래 기다렸어요=Eu estive esperando por muito tempo
+서비스가 너무 별로예요=O serviço é muito ruim
+불친절해요=A equipe é hostil
+약속이랑 다르잖아요=Isso não é o que você prometeu
+왜 안 되는 거예요=Por que não é possível?
+언제까지 해 주실 수 있어요=Até quando você pode fazer isso?
+연락 기다릴게요=Vou esperar pela sua ligação
+문제가 해결됐어요=O problema foi resolvido

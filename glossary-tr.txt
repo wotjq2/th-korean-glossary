@@ -16913,3 +16913,24 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 프로필 사진 바꿨네=Profil resmini değiştirdin
 와이파이 연결이 안 돼=Wi-Fi'ye bağlanamıyorum
 데이터가 다 떨어졌어=Mobil verim bitti
+
+# --- 대화 36: 불만·항의·A/S (2026-11-13) ---
+이거 잘못 계산된 것 같아요=Bu faturadaki fiyatın yanlış hesaplandığını düşünüyorum
+계산이 틀렸어요=Tasarı yanlış
+두 번 결제됐어요=Ödeme kartımdan iki kez çekildi
+거스름돈을 덜 받았어요=Yeterince bozuk para iadesi alamadım
+설명이랑 달라요=Açıklamasından farklı
+사진이랑 달라요=Resimdekinden farklı görünüyor
+작동이 안 돼요=işe yaramıyor
+산 지 일주일 됐어요=Bir hafta önce aldım
+고쳐 주세요=Lütfen düzeltin
+새 걸로 바꿔 주세요=Lütfen yenisiyle değiştirin
+책임자 불러 주세요=Lütfen yöneticiyi arayın
+너무 오래 기다렸어요=Çok uzun zamandır bekliyordum
+서비스가 너무 별로예요=Hizmet gerçekten kötü
+불친절해요=Personel düşmanca
+약속이랑 다르잖아요=Bu söz verdiğin şey değil
+왜 안 되는 거예요=Neden mümkün değil?
+언제까지 해 주실 수 있어요=Ne zamana kadar bunu yapabilirsin?
+연락 기다릴게요=Aramanı bekleyeceğim
+문제가 해결됐어요=Sorun çözüldü
