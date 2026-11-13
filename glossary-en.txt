@@ -52195,3 +52195,20 @@ IT 쪽에서 일해요=I work in IT
 없어요=I don't have any
 공항 가는 버스 있어요=Is there a bus to the airport?
 공항까지 얼마나 걸려요=How long does it take to get to the airport?
+
+# --- 대화 47: 호텔 2·리조트 (2026-11-13) ---
+바다 보이는 방 있어요=Do you have a room with a sea view?
+더 큰 방으로 바꿀 수 있어요=Can I upgrade to a bigger room?
+금연 방으로 주세요=A non-smoking room, please
+침대 두 개 있는 방이요=A room with two beds, please
+엑스트라 베드 돼요=Can I get an extra bed?
+모닝콜 해 주세요=Please give me a wake-up call
+룸서비스 돼요=Is room service available?
+수건 바꿔 주세요=Please change the towels
+방에 물이 없어요=There is no water in my room
+금고가 안 열려요=The safe won't open
+헬스장 있어요=Is there a gym?
+공항 픽업 돼요=Do you offer airport pickup?
+체크아웃 늦게 해도 돼요=Can I check out late?
+방 정말 좋네요=The room is really nice
+다시 오고 싶어요=I'd like to come back again

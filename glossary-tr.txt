@@ -17151,3 +17151,20 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 신고할 물건 있어요=Beyan etmek istediğiniz herhangi bir şey var mı?
 공항 가는 버스 있어요=Havaalanına otobüs var mı?
 공항까지 얼마나 걸려요=Havaalanına ulaşmak ne kadar sürer?
+
+# --- 대화 47: 호텔 2·리조트 (2026-11-13) ---
+바다 보이는 방 있어요=Deniz manzaralı odanız var mı?
+더 큰 방으로 바꿀 수 있어요=Daha büyük bir odaya geçebilir miyim?
+금연 방으로 주세요=Sigara içilmeyen bir oda lütfen
+침대 두 개 있는 방이요=İki yataklı bir oda lütfen
+엑스트라 베드 돼요=İlave yatak alabilir miyim?
+모닝콜 해 주세요=Lütfen bana bir uyandırma çağrısı yapın
+룸서비스 돼요=Oda servisi mevcut mu?
+수건 바꿔 주세요=Lütfen havluları değiştirin
+방에 물이 없어요=Odamda su yok
+금고가 안 열려요=Kasa açılmıyor
+헬스장 있어요=Spor salonu var mı?
+공항 픽업 돼요=Havaalanında karşılama hizmeti sunuyor musunuz?
+체크아웃 늦게 해도 돼요=Geç check-out yapabilir miyim?
+방 정말 좋네요=Oda gerçekten güzel
+다시 오고 싶어요=Tekrar geri gelmek isterim

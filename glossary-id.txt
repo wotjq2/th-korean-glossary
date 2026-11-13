@@ -38053,3 +38053,20 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 신고할 물건 있어요=Apa ada yang perlu anda deklarasikan?
 공항 가는 버스 있어요=Apakah ada bus ke bandara?
 공항까지 얼마나 걸려요=Berapa lama waktu yang dibutuhkan untuk sampai ke bandara?
+
+# --- 대화 47: 호텔 2·리조트 (2026-11-13) ---
+바다 보이는 방 있어요=Apakah Anda memiliki kamar dengan pemandangan laut?
+더 큰 방으로 바꿀 수 있어요=Bisakah saya mengupgrade ke ruangan yang lebih besar?
+금연 방으로 주세요=Tolong, kamar bebas rokok
+침대 두 개 있는 방이요=Tolong, kamar dengan dua tempat tidur
+엑스트라 베드 돼요=Bisakah saya mendapatkan tempat tidur tambahan?
+모닝콜 해 주세요=Tolong beri saya panggilan untuk membangunkan
+룸서비스 돼요=Apakah layanan kamar tersedia?
+수건 바꿔 주세요=Tolong ganti handuknya
+방에 물이 없어요=Tidak ada air di kamarku
+금고가 안 열려요=Brankas tidak bisa dibuka
+헬스장 있어요=Apakah ada pusat kebugaran?
+공항 픽업 돼요=Apakah Anda menawarkan penjemputan bandara?
+체크아웃 늦게 해도 돼요=Bisakah saya check out terlambat?
+방 정말 좋네요=Kamarnya sangat bagus
+다시 오고 싶어요=Saya ingin kembali lagi

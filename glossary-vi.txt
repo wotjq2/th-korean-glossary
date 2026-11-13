@@ -40829,3 +40829,20 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 신고할 물건 있어요=Bạn có điều gì cần khai báo không?
 공항 가는 버스 있어요=Có xe buýt đến sân bay không?
 공항까지 얼마나 걸려요=Mất bao lâu để đến sân bay?
+
+# --- 대화 47: 호텔 2·리조트 (2026-11-13) ---
+바다 보이는 방 있어요=Bạn có phòng nhìn ra biển không?
+더 큰 방으로 바꿀 수 있어요=Tôi có thể nâng cấp lên phòng lớn hơn không?
+금연 방으로 주세요=Xin vui lòng cho một phòng không hút thuốc
+침대 두 개 있는 방이요=Xin cho một phòng có hai giường
+엑스트라 베드 돼요=Tôi có thể lấy thêm giường được không?
+모닝콜 해 주세요=Hãy gọi cho tôi một cuộc gọi báo thức
+룸서비스 돼요=Có dịch vụ phòng không?
+수건 바꿔 주세요=Hãy thay khăn tắm
+방에 물이 없어요=Không có nước trong phòng tôi
+금고가 안 열려요=két sắt không mở được
+헬스장 있어요=Có phòng tập thể dục không?
+공항 픽업 돼요=Bạn có cung cấp dịch vụ đón tại sân bay không?
+체크아웃 늦게 해도 돼요=Tôi có thể trả phòng muộn được không?
+방 정말 좋네요=Căn phòng thật sự rất đẹp
+다시 오고 싶어요=Tôi muốn quay lại lần nữa

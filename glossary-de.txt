@@ -24088,3 +24088,20 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 신고할 물건 있어요=Haben Sie etwas anzugeben?
 공항 가는 버스 있어요=Gibt es einen Bus zum Flughafen?
 공항까지 얼마나 걸려요=Wie lange dauert die Fahrt zum Flughafen?
+
+# --- 대화 47: 호텔 2·리조트 (2026-11-13) ---
+바다 보이는 방 있어요=Haben Sie ein Zimmer mit Meerblick?
+더 큰 방으로 바꿀 수 있어요=Kann ich auf ein größeres Zimmer upgraden?
+금연 방으로 주세요=Bitte ein Nichtraucherzimmer
+침대 두 개 있는 방이요=Bitte ein Zimmer mit zwei Betten
+엑스트라 베드 돼요=Kann ich ein Zustellbett bekommen?
+모닝콜 해 주세요=Bitte wecken Sie mich
+룸서비스 돼요=Ist Zimmerservice verfügbar?
+수건 바꿔 주세요=Bitte wechseln Sie die Handtücher
+방에 물이 없어요=In meinem Zimmer gibt es kein Wasser
+금고가 안 열려요=Der Safe lässt sich nicht öffnen
+헬스장 있어요=Gibt es ein Fitnessstudio?
+공항 픽업 돼요=Bieten Sie einen Abholservice vom Flughafen an?
+체크아웃 늦게 해도 돼요=Kann ich später auschecken?
+방 정말 좋네요=Das Zimmer ist wirklich schön
+다시 오고 싶어요=Ich komme gerne wieder
