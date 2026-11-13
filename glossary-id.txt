@@ -38251,3 +38251,14 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 들어가면 안 돼요=Anda tidak bisa masuk
 음식 가지고 들어가도 돼요=Bisakah saya membawa makanan ke dalam?
 분실물 센터가 어디예요=Dimana yang hilang dan ditemukan?
+
+# --- 대화 59: 날씨 2·계절 (2026-11-13) ---
+요즘 날씨가 어때=Bagaimana cuaca hari ini?
+여기는 우기예요=Apakah ini musim hujan di sini?
+건기는 언제예요=Kapan musim kemarau?
+한국은 지금 겨울이야=Sekarang di Korea sedang musim dingin
+눈 와=Apakah sedang turun salju?
+태국은 일 년 내내 더워=Thailand panas sepanjang tahun
+오늘 너무 습하다=Hari ini sangat lembab
+하늘이 맑다=Langit cerah
+선크림 발라=Kenakan tabir surya

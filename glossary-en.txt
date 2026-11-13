@@ -52393,3 +52393,14 @@ IT 쪽에서 일해요=I work in IT
 들어가면 안 돼요=You can't go in
 음식 가지고 들어가도 돼요=Can I bring food inside?
 분실물 센터가 어디예요=Where is the lost and found?
+
+# --- 대화 59: 날씨 2·계절 (2026-11-13) ---
+요즘 날씨가 어때=How's the weather these days?
+여기는 우기예요=Is it the rainy season here?
+건기는 언제예요=When is the dry season?
+한국은 지금 겨울이야=It's winter in Korea now
+눈 와=Is it snowing?
+태국은 일 년 내내 더워=Thailand is hot all year round
+오늘 너무 습하다=It's so humid today
+하늘이 맑다=The sky is clear
+선크림 발라=Put on sunscreen

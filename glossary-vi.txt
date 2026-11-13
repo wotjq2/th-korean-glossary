@@ -41027,3 +41027,14 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 들어가면 안 돼요=Bạn không thể đi vào
 음식 가지고 들어가도 돼요=Tôi có thể mang đồ ăn vào trong được không?
 분실물 센터가 어디예요=Quầy đồ thất lạc ở đâu?
+
+# --- 대화 59: 날씨 2·계절 (2026-11-13) ---
+요즘 날씨가 어때=Thời tiết những ngày này thế nào?
+여기는 우기예요=Ở đây đang mùa mưa phải không?
+건기는 언제예요=Khi nào là mùa khô?
+한국은 지금 겨울이야=Bây giờ ở Hàn Quốc đang là mùa đông
+눈 와=Có tuyết rơi không?
+태국은 일 년 내내 더워=Thái Lan nóng quanh năm
+오늘 너무 습하다=Hôm nay trời ẩm ướt quá
+하늘이 맑다=Bầu trời trong xanh
+선크림 발라=Thoa kem chống nắng

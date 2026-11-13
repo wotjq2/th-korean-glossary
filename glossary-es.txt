@@ -47864,3 +47864,14 @@ IT 쪽에서 일해요=yo trabajo en TI
 들어가면 안 돼요=no puedes entrar
 음식 가지고 들어가도 돼요=¿Puedo llevar comida al interior?
 분실물 센터가 어디예요=¿Dónde está objetos perdidos?
+
+# --- 대화 59: 날씨 2·계절 (2026-11-13) ---
+요즘 날씨가 어때=¿Cómo está el tiempo estos días?
+여기는 우기예요=¿Es temporada de lluvias aquí?
+건기는 언제예요=¿Cuándo es la estación seca?
+한국은 지금 겨울이야=Ahora es invierno en Corea.
+눈 와=¿Está nevando?
+태국은 일 년 내내 더워=Tailandia hace calor todo el año
+오늘 너무 습하다=esta muy humedo hoy
+하늘이 맑다=el cielo esta claro
+선크림 발라=Ponte protector solar

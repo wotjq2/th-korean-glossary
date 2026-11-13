@@ -17349,3 +17349,14 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 들어가면 안 돼요=içeri giremezsin
 음식 가지고 들어가도 돼요=İçeri yiyecek getirebilir miyim?
 분실물 센터가 어디예요=Kayıp eşya bürosu nerede?
+
+# --- 대화 59: 날씨 2·계절 (2026-11-13) ---
+요즘 날씨가 어때=Bu günlerde hava nasıl?
+여기는 우기예요=Burada yağmur mevsimi mi var?
+건기는 언제예요=Kurak mevsim ne zaman?
+한국은 지금 겨울이야=Kore'de artık kış
+눈 와=Kar mı yağıyor?
+태국은 일 년 내내 더워=Tayland tüm yıl boyunca sıcaktır
+오늘 너무 습하다=Bugün hava çok nemli
+하늘이 맑다=Gökyüzü açık
+선크림 발라=Güneş kremi sürün
