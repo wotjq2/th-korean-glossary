@@ -51810,3 +51810,25 @@ QR 코드 찍어 주세요=Please scan the QR code
 일부러 그런 거 아니야=I didn't do it on purpose
 이해해 줘서 고마워=Thank you for understanding
 기다리게 해서 미안해=Sorry for making you wait
+
+# --- 대화 30: 종교·예절·경조사 (2026-11-13) ---
+절에 가 본 적 있어요=Have you ever been to a Buddhist temple?
+스님께 인사해야 돼요=Should I greet the monk?
+여기서 신발 벗어요=Do we take our shoes off here?
+반바지 입고 들어가도 돼요=Can I go in wearing shorts?
+이건 예의에 어긋나요=Is this considered rude?
+실례했다면 죄송해요=I'm sorry if I was rude
+종교가 있어요=Do you have a religion?
+저는 불교 신자예요=I am a Buddhist
+저는 기독교 신자예요=I am a Christian
+저는 종교가 없어요=I don't have a religion
+기도할게요=I will pray for you
+명복을 빕니다=My condolences
+삼가 고인의 명복을 빕니다=I offer my deepest condolences
+힘내세요=Please stay strong
+장례식이 언제예요=When is the funeral?
+결혼식에 뭐 입고 가요=What should I wear to the wedding?
+축의금은 얼마나 내요=How much money should I give as a wedding gift?
+선물 준비했어요=I prepared a gift
+작은 선물이에요=It's just a small gift
+마음에 들었으면 좋겠어요=I hope you like it
