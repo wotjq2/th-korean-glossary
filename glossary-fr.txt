@@ -47486,3 +47486,20 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 주사 맞아야 돼요=Ai-je besoin d’une injection ?
 검사 결과는 언제 나와요=Quand les résultats des tests seront-ils publiés ?
 진료비가 얼마예요=A combien s'élèvent les frais médicaux ?
+
+# --- 대화 49: 은행 2·돈 관리 (2026-11-13) ---
+통장 만들고 싶어요=Je souhaite ouvrir un compte épargne
+체크카드 만들 수 있어요=Puis-je obtenir une carte de débit ?
+여권만 있으면 돼요=Mon passeport est-il suffisant ?
+잔액 확인하고 싶어요=Je voudrais vérifier mon solde
+한국으로 송금하고 싶어요=J'aimerais envoyer de l'argent en Corée
+송금 수수료가 얼마예요=A combien s'élèvent les frais de transfert ?
+며칠 걸려요=Combien de jours cela prend-il ?
+돈이 아직 안 들어왔어요=L'argent n'est pas encore arrivé
+계좌가 막혔어요=Mon compte a été gelé
+앱으로 이체했어요=Je l'ai transféré via l'application
+이체 확인증 보내 줄게=je t'enverrai le reçu de virement
+돈 빌려줄 수 있어요=Pourriez-vous me prêter de l'argent ?
+월급 들어왔어=j'ai eu mon salaire
+이번 달 돈이 부족해=Je suis à court d'argent ce mois-ci
+절약해야 돼=J'ai besoin d'économiser de l'argent

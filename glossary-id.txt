@@ -38091,3 +38091,20 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 주사 맞아야 돼요=Apakah saya memerlukan suntikan?
 검사 결과는 언제 나와요=Kapan hasil tesnya keluar?
 진료비가 얼마예요=Berapa biaya pengobatannya?
+
+# --- 대화 49: 은행 2·돈 관리 (2026-11-13) ---
+통장 만들고 싶어요=Saya ingin membuka rekening tabungan
+체크카드 만들 수 있어요=Bisakah saya mendapatkan kartu debit?
+여권만 있으면 돼요=Apakah paspor saya cukup?
+잔액 확인하고 싶어요=Saya ingin memeriksa saldo saya
+한국으로 송금하고 싶어요=Saya ingin mengirim uang ke Korea
+송금 수수료가 얼마예요=Berapa biaya transfernya?
+며칠 걸려요=Berapa hari yang dibutuhkan?
+돈이 아직 안 들어왔어요=Uangnya belum sampai
+계좌가 막혔어요=Akun saya telah dibekukan
+앱으로 이체했어요=Saya mentransfernya melalui aplikasi
+이체 확인증 보내 줄게=Saya akan mengirimkan tanda terima transfernya kepada Anda
+돈 빌려줄 수 있어요=Bisakah Anda meminjamkan saya uang?
+월급 들어왔어=Saya mendapat gaji saya
+이번 달 돈이 부족해=Saya kekurangan uang bulan ini
+절약해야 돼=Saya perlu menghemat uang

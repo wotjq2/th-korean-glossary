@@ -40867,3 +40867,20 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 주사 맞아야 돼요=Tôi có cần tiêm không?
 검사 결과는 언제 나와요=Khi nào kết quả xét nghiệm sẽ có?
 진료비가 얼마예요=Chi phí y tế là bao nhiêu?
+
+# --- 대화 49: 은행 2·돈 관리 (2026-11-13) ---
+통장 만들고 싶어요=Tôi muốn mở một tài khoản tiết kiệm
+체크카드 만들 수 있어요=Tôi có thể nhận được thẻ ghi nợ không?
+여권만 있으면 돼요=Hộ chiếu của tôi có đủ không?
+잔액 확인하고 싶어요=Tôi muốn kiểm tra số dư của mình
+한국으로 송금하고 싶어요=Tôi muốn gửi tiền đến Hàn Quốc
+송금 수수료가 얼마예요=Phí chuyển nhượng là bao nhiêu?
+며칠 걸려요=Phải mất bao nhiêu ngày?
+돈이 아직 안 들어왔어요=Tiền vẫn chưa tới
+계좌가 막혔어요=Tài khoản của tôi đã bị đóng băng
+앱으로 이체했어요=Tôi đã chuyển nó qua ứng dụng
+이체 확인증 보내 줄게=Tôi sẽ gửi cho bạn biên nhận chuyển khoản
+돈 빌려줄 수 있어요=Bạn có thể cho tôi mượn một ít tiền được không?
+월급 들어왔어=Tôi đã nhận được tiền lương của mình
+이번 달 돈이 부족해=Tháng này tôi đang thiếu tiền
+절약해야 돼=Tôi cần tiết kiệm tiền

@@ -22065,3 +22065,20 @@ IT 쪽에서 일해요=Eu trabalho em TI
 주사 맞아야 돼요=Eu preciso de uma injeção?
 검사 결과는 언제 나와요=Quando sairão os resultados dos testes?
 진료비가 얼마예요=Quanto é a taxa médica?
+
+# --- 대화 49: 은행 2·돈 관리 (2026-11-13) ---
+통장 만들고 싶어요=Gostaria de abrir uma conta poupança
+체크카드 만들 수 있어요=Posso obter um cartão de débito?
+여권만 있으면 돼요=Meu passaporte é suficiente?
+잔액 확인하고 싶어요=Gostaria de consultar meu saldo
+한국으로 송금하고 싶어요=Eu gostaria de enviar dinheiro para a Coreia
+송금 수수료가 얼마예요=Quanto é a taxa de transferência?
+며칠 걸려요=Quantos dias leva?
+돈이 아직 안 들어왔어요=O dinheiro ainda não chegou
+계좌가 막혔어요=Minha conta foi congelada
+앱으로 이체했어요=Eu transferi pelo aplicativo
+이체 확인증 보내 줄게=Vou te enviar o comprovante de transferência
+돈 빌려줄 수 있어요=Você poderia me emprestar algum dinheiro?
+월급 들어왔어=Eu recebi meu salário
+이번 달 돈이 부족해=Estou com pouco dinheiro este mês
+절약해야 돼=Eu preciso economizar dinheiro
