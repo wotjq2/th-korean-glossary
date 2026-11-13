@@ -40937,3 +40937,20 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 잔돈은 됐어요=Không cần thối lại
 트렁크에 짐 있어요=Hành lý của tôi ở trong cốp xe
 취소할게요=Tôi sẽ hủy nó
+
+# --- 대화 53: 온라인 쇼핑 2·판매자와 대화 (2026-11-13) ---
+재고 있나요=Cái này có trong kho không?
+언제 발송돼요=Khi nào nó sẽ được vận chuyển?
+오늘 보내 주실 수 있어요=Bạn có thể gửi nó ngay hôm nay được không?
+무료 배송이에요=Vận chuyển có miễn phí không?
+쿠폰 쓸 수 있어요=Tôi có thể sử dụng phiếu giảm giá không?
+실제 사진 보여 주세요=Cho em xin ảnh thật nhé
+사이즈 표 있어요=Bạn có biểu đồ kích thước không?
+어떤 사이즈가 맞을까요=Kích thước nào sẽ phù hợp với tôi?
+색깔 바꿀 수 있어요=Tôi có thể thay đổi màu sắc không?
+주문 확인 부탁드려요=Vui lòng xác nhận đơn hàng của tôi
+아직 안 받았어요=Tôi vẫn chưa nhận được nó
+배송 추적이 안 돼요=Tôi không thể theo dõi việc giao hàng
+다른 물건이 왔어요=Tôi đã nhận được một mặt hàng khác
+반품 주소 알려 주세요=Xin vui lòng cho tôi biết địa chỉ trả lại
+리뷰 좋게 남길게요=Tôi sẽ để lại một đánh giá tốt

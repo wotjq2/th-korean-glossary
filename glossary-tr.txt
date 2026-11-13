@@ -17259,3 +17259,20 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 잔돈은 됐어요=Üstü kalsın
 트렁크에 짐 있어요=Bagajım bagajda
 취소할게요=iptal edeceğim
+
+# --- 대화 53: 온라인 쇼핑 2·판매자와 대화 (2026-11-13) ---
+재고 있나요=Bu stokta var mı?
+언제 발송돼요=Ne zaman gönderilecek?
+오늘 보내 주실 수 있어요=Bugün kargoya verebilir misiniz?
+무료 배송이에요=Kargo ücretsiz mi?
+쿠폰 쓸 수 있어요=Kupon kullanabilir miyim?
+실제 사진 보여 주세요=Lütfen bana gerçek bir fotoğraf göster
+사이즈 표 있어요=Beden tablosu var mı?
+어떤 사이즈가 맞을까요=Hangi beden bana uyar?
+색깔 바꿀 수 있어요=Rengi değiştirebilir miyim?
+주문 확인 부탁드려요=Lütfen siparişimi onaylayın
+아직 안 받았어요=henüz almadım
+배송 추적이 안 돼요=Teslimatı takip edemiyorum
+다른 물건이 왔어요=Farklı bir ürün geldi
+반품 주소 알려 주세요=Lütfen bana iade adresini söyle
+리뷰 좋게 남길게요=İyi bir inceleme bırakacağım

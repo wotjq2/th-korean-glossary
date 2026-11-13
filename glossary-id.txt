@@ -38161,3 +38161,20 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 잔돈은 됐어요=Kembaliannya ambil saja
 트렁크에 짐 있어요=Barang bawaanku ada di bagasi
 취소할게요=aku akan membatalkannya
+
+# --- 대화 53: 온라인 쇼핑 2·판매자와 대화 (2026-11-13) ---
+재고 있나요=Apakah ini ada stoknya?
+언제 발송돼요=Kapan akan dikirim?
+오늘 보내 주실 수 있어요=Bisakah Anda mengirimkannya hari ini?
+무료 배송이에요=Apakah pengiriman gratis?
+쿠폰 쓸 수 있어요=Bisakah saya menggunakan kupon?
+실제 사진 보여 주세요=Tolong tunjukkan saya foto asli
+사이즈 표 있어요=Apakah Anda memiliki tabel ukuran?
+어떤 사이즈가 맞을까요=Ukuran mana yang cocok untuk saya?
+색깔 바꿀 수 있어요=Bisakah saya mengubah warnanya?
+주문 확인 부탁드려요=Mohon konfirmasi pesanan saya
+아직 안 받았어요=Saya belum menerimanya
+배송 추적이 안 돼요=Saya tidak dapat melacak pengirimannya
+다른 물건이 왔어요=Saya menerima barang yang berbeda
+반품 주소 알려 주세요=Tolong beritahu saya alamat pengirimnya
+리뷰 좋게 남길게요=Saya akan memberikan ulasan yang bagus

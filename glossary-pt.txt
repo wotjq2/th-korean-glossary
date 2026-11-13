@@ -22135,3 +22135,20 @@ IT 쪽에서 일해요=Eu trabalho em TI
 잔돈은 됐어요=Pode ficar com o troco
 트렁크에 짐 있어요=Minha bagagem está no porta-malas
 취소할게요=vou cancelar
+
+# --- 대화 53: 온라인 쇼핑 2·판매자와 대화 (2026-11-13) ---
+재고 있나요=Isso está em estoque?
+언제 발송돼요=Quando será enviado?
+오늘 보내 주실 수 있어요=Você consegue enviar hoje?
+무료 배송이에요=O frete é grátis?
+쿠폰 쓸 수 있어요=Posso usar um cupom?
+실제 사진 보여 주세요=Por favor me mostre uma foto real
+사이즈 표 있어요=Você tem uma tabela de tamanhos?
+어떤 사이즈가 맞을까요=Qual tamanho caberia em mim?
+색깔 바꿀 수 있어요=Posso mudar a cor?
+주문 확인 부탁드려요=Por favor confirme meu pedido
+아직 안 받았어요=ainda não recebi
+배송 추적이 안 돼요=não consigo acompanhar a entrega
+다른 물건이 왔어요=Recebi um item diferente
+반품 주소 알려 주세요=Por favor me diga o endereço de devolução
+리뷰 좋게 남길게요=vou deixar uma boa crítica
