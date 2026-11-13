@@ -47405,3 +47405,25 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 점심시간에 전화할게=je t'appellerai à l'heure du déjeuner
 언제부터 언제까지예요=De quand à quand ?
 벌써 금요일이네=C'est déjà vendredi
+
+# --- 대화 45: 작별·연락 유지 (2026-11-13) ---
+이제 가 봐야 돼=je dois partir maintenant
+벌써 가=Tu pars déjà ?
+더 있다 가=Reste encore un peu
+오늘 고마웠어=Merci pour aujourd'hui
+연락할게=je garderai le contact
+연락해=Rester en contact
+연락 끊지 마=Ne perdez pas le contact
+보고 싶을 거야=tu vas me manquer
+잊지 마=Ne m'oublie pas
+또 놀러 와=Venez visiter à nouveau
+한국에 오면 연락해=Contactez-moi si vous venez en Corée
+꼭 다시 만나자=Retrouvons-nous définitivement
+몸조심해=Prends soin de toi
+건강해=Restez en bonne santé
+행복해야 돼=Tu dois être heureux
+잘 가=Au revoir, prends soin de toi
+안녕 또 봐=Au revoir, à bientôt
+도착하면 문자 줘=Envoie-moi un message quand tu arriveras
+조심히 들어가=Rentrez chez vous en toute sécurité
+다음에 또 연락하자=On se reparle la prochaine fois

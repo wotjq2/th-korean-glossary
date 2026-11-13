@@ -38010,3 +38010,25 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 점심시간에 전화할게=Aku akan meneleponmu saat makan siang
 언제부터 언제까지예요=Dari kapan sampai kapan?
 벌써 금요일이네=Ini sudah hari Jumat
+
+# --- 대화 45: 작별·연락 유지 (2026-11-13) ---
+이제 가 봐야 돼=Saya harus pergi sekarang
+벌써 가=Apakah kamu sudah berangkat?
+더 있다 가=Tinggallah sedikit lebih lama
+오늘 고마웠어=Terima kasih untuk hari ini
+연락할게=Saya akan tetap berhubungan
+연락해=Tetap berhubungan
+연락 끊지 마=Jangan kehilangan kontak
+보고 싶을 거야=aku akan merindukanmu
+잊지 마=Jangan lupakan aku
+또 놀러 와=Ayo berkunjung lagi
+한국에 오면 연락해=Hubungi saya jika Anda datang ke Korea
+꼭 다시 만나자=Mari kita bertemu lagi
+몸조심해=Jaga dirimu
+건강해=Jaga kesehatan
+행복해야 돼=Anda harus bahagia
+잘 가=Sampai jumpa, hati-hati
+안녕 또 봐=Sampai jumpa lagi
+도착하면 문자 줘=Kirimi aku pesan ketika kamu sampai di sana
+조심히 들어가=Pulang dengan selamat
+다음에 또 연락하자=Mari kita bicara lagi lain kali

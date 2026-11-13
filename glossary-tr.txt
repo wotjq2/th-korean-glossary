@@ -17108,3 +17108,25 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 점심시간에 전화할게=Seni öğle yemeğinde arayacağım
 언제부터 언제까지예요=Ne zamandan ne zamana?
 벌써 금요일이네=Zaten cuma
+
+# --- 대화 45: 작별·연락 유지 (2026-11-13) ---
+이제 가 봐야 돼=şimdi gitmek zorundayım
+벌써 가=Zaten gidiyor musun?
+더 있다 가=Biraz daha kal
+오늘 고마웠어=Bugün için teşekkürler
+연락할게=iletişim halinde olacağım
+연락해=İletişimi koparmamak
+연락 끊지 마=İletişimi koparmayalım
+보고 싶을 거야=seni özleyeceğim
+잊지 마=beni unutma
+또 놀러 와=Tekrar ziyarete gel
+한국에 오면 연락해=Kore'ye gelirsen benimle iletişime geç
+꼭 다시 만나자=Kesinlikle tekrar buluşalım
+몸조심해=Kendine dikkat et
+건강해=Sağlıklı kalın
+행복해야 돼=Mutlu olmalısın
+잘 가=Hoşçakal, kendine iyi bak
+안녕 또 봐=Hoşçakal, tekrar görüşürüz
+도착하면 문자 줘=Oraya vardığında bana mesaj at
+조심히 들어가=Eve sağ salim dön
+다음에 또 연락하자=Bir dahaki sefere tekrar konuşalım

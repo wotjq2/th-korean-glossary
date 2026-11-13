@@ -40786,3 +40786,25 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 점심시간에 전화할게=Tôi sẽ gọi cho bạn vào giờ ăn trưa
 언제부터 언제까지예요=Từ khi nào đến khi nào?
 벌써 금요일이네=Đã là thứ Sáu rồi
+
+# --- 대화 45: 작별·연락 유지 (2026-11-13) ---
+이제 가 봐야 돼=Tôi phải đi bây giờ
+벌써 가=Bạn sắp đi rồi à?
+더 있다 가=Ở lại lâu hơn một chút
+오늘 고마웠어=Cảm ơn vì ngày hôm nay
+연락할게=Tôi sẽ giữ liên lạc
+연락해=Giữ liên lạc
+연락 끊지 마=Đừng mất liên lạc
+보고 싶을 거야=Tôi sẽ nhớ bạn
+잊지 마=Đừng quên tôi
+또 놀러 와=Hãy đến thăm một lần nữa
+한국에 오면 연락해=Liên hệ với tôi nếu bạn đến Hàn Quốc
+꼭 다시 만나자=Chắc chắn chúng ta sẽ gặp lại nhau
+몸조심해=Hãy chăm sóc bản thân
+건강해=Giữ sức khỏe
+행복해야 돼=Bạn phải hạnh phúc
+잘 가=Tạm biệt, bảo trọng nhé
+안녕 또 봐=Tạm biệt, hẹn gặp lại
+도착하면 문자 줘=Nhắn tin cho tôi khi bạn đến đó
+조심히 들어가=Về nhà an toàn
+다음에 또 연락하자=Hãy nói chuyện lần sau nhé

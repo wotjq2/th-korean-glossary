@@ -52151,3 +52151,25 @@ IT 쪽에서 일해요=I work in IT
 점심시간에 전화할게=I'll call you at lunchtime
 언제부터 언제까지예요=From when to when?
 벌써 금요일이네=It's already Friday
+
+# --- 대화 45: 작별·연락 유지 (2026-11-13) ---
+이제 가 봐야 돼=I have to go now
+벌써 가=Are you leaving already?
+더 있다 가=Stay a little longer
+오늘 고마웠어=Thanks for today
+연락할게=I'll keep in touch
+연락해=Keep in touch
+연락 끊지 마=Don't lose touch
+보고 싶을 거야=I'm going to miss you
+잊지 마=Don't forget me
+또 놀러 와=Come visit again
+한국에 오면 연락해=Contact me if you come to Korea
+꼭 다시 만나자=Let's definitely meet again
+몸조심해=Take care of yourself
+건강해=Stay healthy
+행복해야 돼=You have to be happy
+잘 가=Bye, take care
+안녕 또 봐=Bye, see you again
+도착하면 문자 줘=Text me when you get there
+조심히 들어가=Get home safe
+다음에 또 연락하자=Let's talk again next time

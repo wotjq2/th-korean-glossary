@@ -24045,3 +24045,25 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 점심시간에 전화할게=Ich rufe dich zur Mittagszeit an
 언제부터 언제까지예요=Von wann bis wann?
 벌써 금요일이네=Es ist schon Freitag
+
+# --- 대화 45: 작별·연락 유지 (2026-11-13) ---
+이제 가 봐야 돼=Ich muss jetzt gehen
+벌써 가=Gehst du schon?
+더 있다 가=Bleiben Sie noch ein wenig
+오늘 고마웠어=Danke für heute
+연락할게=Ich bleibe in Kontakt
+연락해=Den Kontakt halten
+연락 끊지 마=Verliere nicht den Kontakt
+보고 싶을 거야=Ich werde dich vermissen
+잊지 마=Vergiss mich nicht
+또 놀러 와=Kommen Sie wieder vorbei
+한국에 오면 연락해=Kontaktieren Sie mich, wenn Sie nach Korea kommen
+꼭 다시 만나자=Lasst uns auf jeden Fall wiedersehen
+몸조심해=Pass auf dich auf
+건강해=Gesund bleiben
+행복해야 돼=Du musst glücklich sein
+잘 가=Tschüss, pass auf dich auf
+안녕 또 봐=Tschüss, wir sehen uns wieder
+도착하면 문자 줘=Schreiben Sie mir eine SMS, wenn Sie dort ankommen
+조심히 들어가=Kommen Sie sicher nach Hause
+다음에 또 연락하자=Lass uns das nächste Mal noch einmal reden

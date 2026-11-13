@@ -22997,3 +22997,25 @@ IT 쪽에서 일해요=Pracuję w IT
 점심시간에 전화할게=Zadzwonię do ciebie w porze lunchu
 언제부터 언제까지예요=Od kiedy do kiedy?
 벌써 금요일이네=Jest już piątek
+
+# --- 대화 45: 작별·연락 유지 (2026-11-13) ---
+이제 가 봐야 돼=Muszę teraz iść
+벌써 가=Wychodzisz już?
+더 있다 가=Zostań trochę dłużej
+오늘 고마웠어=Dziękuję za dzisiaj
+연락할게=Będę w kontakcie
+연락해=Kontaktować się
+연락 끊지 마=Nie trać kontaktu
+보고 싶을 거야=Będę za tobą tęsknić
+잊지 마=Nie zapomnij o mnie
+또 놀러 와=Przyjdź odwiedzić ponownie
+한국에 오면 연락해=Skontaktuj się ze mną, jeśli przyjedziesz do Korei
+꼭 다시 만나자=Na pewno spotkajmy się ponownie
+몸조심해=Uważaj na siebie
+건강해=Zachowaj zdrowie
+행복해야 돼=Musisz być szczęśliwy
+잘 가=Cześć, uważaj
+안녕 또 봐=Cześć, do zobaczenia ponownie
+도착하면 문자 줘=Napisz do mnie, kiedy tam dotrzesz
+조심히 들어가=Wracaj bezpiecznie do domu
+다음에 또 연락하자=Porozmawiajmy następnym razem

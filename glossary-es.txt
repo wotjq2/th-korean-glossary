@@ -47623,3 +47623,25 @@ IT 쪽에서 일해요=yo trabajo en TI
 점심시간에 전화할게=te llamaré a la hora del almuerzo
 언제부터 언제까지예요=¿De cuándo a cuándo?
 벌써 금요일이네=ya es viernes
+
+# --- 대화 45: 작별·연락 유지 (2026-11-13) ---
+이제 가 봐야 돼=me tengo que ir ahora
+벌써 가=¿Ya te vas?
+더 있다 가=Quédate un poco más
+오늘 고마웠어=gracias por hoy
+연락할게=Me mantendré en contacto
+연락해=Mantenerse en contacto
+연락 끊지 마=No pierdas el contacto
+보고 싶을 거야=te voy a extrañar
+잊지 마=no me olvides
+또 놀러 와=Ven a visitarnos de nuevo
+한국에 오면 연락해=Contáctame si vienes a Corea
+꼭 다시 만나자=Definitivamente nos volveremos a encontrar
+몸조심해=Cuídate
+건강해=mantente saludable
+행복해야 돼=tienes que ser feliz
+잘 가=Adiós, cuídate
+안녕 또 봐=Adiós, nos vemos de nuevo
+도착하면 문자 줘=Envíame un mensaje de texto cuando llegues
+조심히 들어가=llegar a casa a salvo
+다음에 또 연락하자=hablemos de nuevo la próxima vez
