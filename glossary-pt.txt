@@ -21900,3 +21900,21 @@ IT 쪽에서 일해요=Eu trabalho em TI
 이거 처음 먹어 봐=É a primeira vez que como isso
 생각보다 맛있다=É mais gostoso do que eu esperava
 입맛에 안 맞아=Não combina com meu gosto
+
+# --- 대화 41: 시장 흥정 2 (2026-11-13) ---
+좀 싸게 해 주세요=Por favor faça um pouco mais barato
+두 개 사면 얼마예요=Quanto se eu comprar dois?
+세 개에 백 바트 어때요=Que tal três por 100 baht?
+그럼 안 살게요=Então eu não vou comprar
+다른 가게도 볼게요=vou procurar outras lojas também
+마지막 가격이에요=Esse é o seu preço final?
+현금으로 하면 깎아 줘요=Tem desconto para dinheiro?
+덤으로 하나 더 주세요=Por favor, me dê mais um de graça como bônus
+이거 진품 맞아요=Isso é definitivamente autêntico?
+가짜 아니에요=Isso não é falso?
+너무 비싸게 부르시네요=Você está pedindo demais
+외국인이라고 비싸게 받는 거 아니에요=Você está me cobrando mais porque sou estrangeiro?
+좋아요 이걸로 살게요=Ok, vou comprar esse
+포장 좀 잘 해 주세요=Por favor, embale-o com cuidado
+깨지지 않게 해 주세요=Por favor, certifique-se de que não quebra
+또 올게요=Eu irei de novo
