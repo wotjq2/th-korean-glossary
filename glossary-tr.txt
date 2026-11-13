@@ -16633,5 +16633,5 @@ QR 코드 찍어 주세요=Lütfen QR kodunu tarayın
 영상통화 할래=Görüntülü görüşme yapmak ister misiniz?
 소리가 안 들려=seni duyamıyorum
 화면이 멈췄어=Ekran dondu
-충전이 안 돼=Şarj olmayacak
+충전이 안 돼=Şarj olmuyor
 번역 앱 써 봐=Bir çeviri uygulaması kullanmayı deneyin

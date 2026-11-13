@@ -22522,5 +22522,5 @@ QR 코드 찍어 주세요=Zeskanuj kod QR
 영상통화 할래=Czy chcesz przeprowadzić rozmowę wideo?
 소리가 안 들려=Nie słyszę cię
 화면이 멈췄어=Ekran zamarł
-충전이 안 돼=Nie będzie ładować
+충전이 안 돼=Nie ładuje się
 번역 앱 써 봐=Spróbuj użyć aplikacji do tłumaczenia

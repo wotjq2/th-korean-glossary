@@ -37535,5 +37535,5 @@ QR 코드 찍어 주세요=Silakan pindai kode QR
 영상통화 할래=Apakah Anda ingin melakukan panggilan video?
 소리가 안 들려=Aku tidak bisa mendengarmu
 화면이 멈췄어=Layar membeku
-충전이 안 돼=Ini tidak akan dikenakan biaya
+충전이 안 돼=Tidak bisa dicas
 번역 앱 써 봐=Coba gunakan aplikasi terjemahan

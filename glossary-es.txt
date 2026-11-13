@@ -47148,5 +47148,5 @@ QR 코드 찍어 주세요=Por favor escanea el código QR
 영상통화 할래=¿Quieres hacer una videollamada?
 소리가 안 들려=no puedo escucharte
 화면이 멈췄어=La pantalla se congeló
-충전이 안 돼=no se cargará
+충전이 안 돼=No carga
 번역 앱 써 봐=Intenta usar una aplicación de traducción.
