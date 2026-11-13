@@ -37836,3 +37836,25 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 언제까지 해 주실 수 있어요=Kapan Anda bisa melakukannya?
 연락 기다릴게요=Saya akan menunggu telepon Anda
 문제가 해결됐어요=Masalahnya telah terpecahkan
+
+# --- 대화 37: 재해·경보·안전 (2026-11-13) ---
+지진이야=Ini adalah gempa bumi
+대피해야 돼요=Kita perlu mengungsi
+비상구가 어디예요=Dimana pintu keluar daruratnya?
+엘리베이터 타지 마세요=Jangan gunakan lift
+밖으로 나가세요=Silakan pergi ke luar
+태풍이 온대=Mereka bilang topan akan datang
+홍수 때문에 길이 막혔어=Jalanan tersumbat karena banjir
+오늘 밖에 나가지 마=Jangan keluar hari ini
+미세먼지가 심해=Debu halusnya sangat buruk
+마스크 써=Kenakan masker
+연기 냄새 나=Saya mencium bau asap
+가스 냄새 나요=Aku mencium bau gas
+소방서에 전화하세요=Hubungi pemadam kebakaran
+다들 괜찮아=Apakah semuanya baik-baik saja?
+나는 무사해=saya aman
+가족들은 무사해요=Apakah keluargamu aman?
+물이랑 음식 준비해=Siapkan air dan makanan
+전기가 언제 들어와요=Kapan listrik akan menyala kembali?
+안전한 곳으로 가자=Ayo pergi ke tempat yang aman
+뉴스 봤어=Apakah Anda melihat beritanya?

@@ -51977,3 +51977,25 @@ IT 쪽에서 일해요=I work in IT
 언제까지 해 주실 수 있어요=By when can you do it?
 연락 기다릴게요=I'll wait for your call
 문제가 해결됐어요=The problem has been solved
+
+# --- 대화 37: 재해·경보·안전 (2026-11-13) ---
+지진이야=It's an earthquake
+대피해야 돼요=We need to evacuate
+비상구가 어디예요=Where is the emergency exit?
+엘리베이터 타지 마세요=Don't use the elevator
+밖으로 나가세요=Please go outside
+태풍이 온대=They say a typhoon is coming
+홍수 때문에 길이 막혔어=The road is blocked because of the flood
+오늘 밖에 나가지 마=Don't go outside today
+미세먼지가 심해=The fine dust is really bad
+마스크 써=Wear a mask
+연기 냄새 나=I smell smoke
+가스 냄새 나요=I smell gas
+소방서에 전화하세요=Call the fire department
+다들 괜찮아=Is everyone okay?
+나는 무사해=I'm safe
+가족들은 무사해요=Is your family safe?
+물이랑 음식 준비해=Get water and food ready
+전기가 언제 들어와요=When will the electricity come back on?
+안전한 곳으로 가자=Let's go somewhere safe
+뉴스 봤어=Did you see the news?

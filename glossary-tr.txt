@@ -16934,3 +16934,25 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 언제까지 해 주실 수 있어요=Ne zamana kadar bunu yapabilirsin?
 연락 기다릴게요=Aramanı bekleyeceğim
 문제가 해결됐어요=Sorun çözüldü
+
+# --- 대화 37: 재해·경보·안전 (2026-11-13) ---
+지진이야=Bu bir deprem
+대피해야 돼요=Tahliye etmemiz gerekiyor
+비상구가 어디예요=Acil çıkış nerede?
+엘리베이터 타지 마세요=Asansörü kullanmayın
+밖으로 나가세요=Lütfen dışarı çıkın
+태풍이 온대=Tayfun geliyor diyorlar
+홍수 때문에 길이 막혔어=Su baskını nedeniyle yol kapandı
+오늘 밖에 나가지 마=Bugün dışarı çıkma
+미세먼지가 심해=İnce toz gerçekten kötü
+마스크 써=Maske tak
+연기 냄새 나=Duman kokusu alıyorum
+가스 냄새 나요=Gaz kokusu alıyorum
+소방서에 전화하세요=İtfaiye çağırın
+다들 괜찮아=Herkes iyi mi?
+나는 무사해=güvendeyim
+가족들은 무사해요=Aileniz güvende mi?
+물이랑 음식 준비해=Su ve yiyecek hazırlayın
+전기가 언제 들어와요=Elektrik ne zaman gelecek?
+안전한 곳으로 가자=Güvenli bir yere gidelim
+뉴스 봤어=Haberleri gördün mü?

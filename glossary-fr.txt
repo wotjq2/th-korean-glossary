@@ -47231,3 +47231,25 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 언제까지 해 주실 수 있어요=Quand pourrez-vous le faire ?
 연락 기다릴게요=j'attendrai ton appel
 문제가 해결됐어요=Le problème a été résolu
+
+# --- 대화 37: 재해·경보·안전 (2026-11-13) ---
+지진이야=C'est un tremblement de terre
+대피해야 돼요=Nous devons évacuer
+비상구가 어디예요=Où est la sortie de secours?
+엘리베이터 타지 마세요=N'utilisez pas l'ascenseur
+밖으로 나가세요=S'il te plaît, va dehors
+태풍이 온대=Ils disent qu'un typhon arrive
+홍수 때문에 길이 막혔어=La route est bloquée à cause des inondations
+오늘 밖에 나가지 마=Ne sors pas dehors aujourd'hui
+미세먼지가 심해=La fine poussière est vraiment mauvaise
+마스크 써=Portez un masque
+연기 냄새 나=Je sens la fumée
+가스 냄새 나요=Je sens du gaz
+소방서에 전화하세요=Appelez les pompiers
+다들 괜찮아=Est-ce que tout le monde va bien ?
+나는 무사해=je suis en sécurité
+가족들은 무사해요=Votre famille est-elle en sécurité ?
+물이랑 음식 준비해=Préparez de l’eau et de la nourriture
+전기가 언제 들어와요=Quand l’électricité reviendra-t-elle ?
+안전한 곳으로 가자=Allons dans un endroit sûr
+뉴스 봤어=Avez-vous vu les nouvelles ?

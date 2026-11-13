@@ -21810,3 +21810,25 @@ IT 쪽에서 일해요=Eu trabalho em TI
 언제까지 해 주실 수 있어요=Até quando você pode fazer isso?
 연락 기다릴게요=Vou esperar pela sua ligação
 문제가 해결됐어요=O problema foi resolvido
+
+# --- 대화 37: 재해·경보·안전 (2026-11-13) ---
+지진이야=É um terremoto
+대피해야 돼요=Precisamos evacuar
+비상구가 어디예요=Onde é a saída de emergência?
+엘리베이터 타지 마세요=Não use o elevador
+밖으로 나가세요=Por favor, vá para fora
+태풍이 온대=Dizem que um tufão está chegando
+홍수 때문에 길이 막혔어=A estrada está bloqueada por causa da enchente
+오늘 밖에 나가지 마=Não saia hoje
+미세먼지가 심해=A poeira fina é muito ruim
+마스크 써=Use uma máscara
+연기 냄새 나=sinto cheiro de fumaça
+가스 냄새 나요=sinto cheiro de gás
+소방서에 전화하세요=Por favor, chame os bombeiros
+다들 괜찮아=Estão todos bem?
+나는 무사해=Estou seguro
+가족들은 무사해요=Sua família está segura?
+물이랑 음식 준비해=Prepare água e comida
+전기가 언제 들어와요=Quando a eletricidade voltará?
+안전한 곳으로 가자=Vamos para algum lugar seguro
+뉴스 봤어=Você viu a notícia?
