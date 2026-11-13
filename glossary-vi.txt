@@ -40986,3 +40986,19 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 입원 수속은 어디서 해요=Bàn tiếp nhận bệnh viện ở đâu?
 면회 시간이 언제예요=Giờ thăm viếng là mấy giờ?
 퇴원은 언제 할 수 있어요=Khi nào tôi có thể được xuất viện?
+
+# --- 대화 56: 헬스장·운동 2 (2026-11-13) ---
+헬스장 회원권 얼마예요=Thẻ thành viên phòng tập thể dục là bao nhiêu?
+한 달 회원권 있어요=Bạn có tư cách thành viên một tháng không?
+하루 이용권 있어요=Bạn có vé ngày không?
+개인 트레이닝 받고 싶어요=Tôi muốn được đào tạo cá nhân
+이 기계 어떻게 써요=Làm cách nào để sử dụng máy này?
+이거 쓰고 있어요=Bạn có đang sử dụng cái này không?
+몇 세트 남았어요=Bạn còn lại bao nhiêu bộ?
+같이 써도 돼요=Chúng ta có thể chia sẻ điều này không?
+샤워실 어디예요=Phòng tắm ở đâu?
+사물함 열쇠 주세요=Vui lòng đưa cho tôi chìa khóa tủ
+근육통이 있어요=Cơ bắp của tôi bị đau
+오늘은 하체 운동 했어=Hôm nay tôi đã tập chân
+살이 좀 빠졌어=Tôi đã giảm cân
+운동 같이 하자=Hãy cùng nhau tập thể dục

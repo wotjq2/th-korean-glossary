@@ -47823,3 +47823,19 @@ IT 쪽에서 일해요=yo trabajo en TI
 입원 수속은 어디서 해요=¿Dónde está el mostrador de admisiones del hospital?
 면회 시간이 언제예요=¿Cuáles son los horarios de visita?
 퇴원은 언제 할 수 있어요=¿Cuándo me pueden dar el alta?
+
+# --- 대화 56: 헬스장·운동 2 (2026-11-13) ---
+헬스장 회원권 얼마예요=¿Cuánto cuesta la membresía de un gimnasio?
+한 달 회원권 있어요=¿Tienes una membresía de un mes?
+하루 이용권 있어요=¿Tienes un pase de un día?
+개인 트레이닝 받고 싶어요=Me gustaría recibir entrenamiento personal
+이 기계 어떻게 써요=¿Cómo uso esta máquina?
+이거 쓰고 있어요=¿Estás usando esto?
+몇 세트 남았어요=¿Cuántos conjuntos te quedan?
+같이 써도 돼요=¿Podemos compartir esto?
+샤워실 어디예요=¿Dónde está el cuarto de baño?
+사물함 열쇠 주세요=Por favor dame una llave del casillero
+근육통이 있어요=Me duelen los músculos
+오늘은 하체 운동 했어=hoy hice ejercicios para las piernas
+살이 좀 빠졌어=he perdido algo de peso
+운동 같이 하자=Hagamos ejercicio juntos

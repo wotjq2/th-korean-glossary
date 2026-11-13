@@ -17308,3 +17308,19 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 입원 수속은 어디서 해요=Hastane kabul masası nerede?
 면회 시간이 언제예요=Ziyaret saatleri nedir?
 퇴원은 언제 할 수 있어요=Ne zaman taburcu olabilirim?
+
+# --- 대화 56: 헬스장·운동 2 (2026-11-13) ---
+헬스장 회원권 얼마예요=Spor salonu üyeliği ne kadar?
+한 달 회원권 있어요=Bir aylık üyeliğiniz var mı?
+하루 이용권 있어요=Günlük giriş bileti var mı?
+개인 트레이닝 받고 싶어요=Kişisel eğitim almak istiyorum
+이 기계 어떻게 써요=Bu makineyi nasıl kullanırım?
+이거 쓰고 있어요=Bunu kullanıyor musun?
+몇 세트 남았어요=Kaç setiniz kaldı?
+같이 써도 돼요=Bunu paylaşabilir miyiz?
+샤워실 어디예요=Duş odası nerede?
+사물함 열쇠 주세요=Lütfen bana bir dolap anahtarı ver
+근육통이 있어요=Kaslarım ağrıyor
+오늘은 하체 운동 했어=bugün bacak egzersizleri yaptım
+살이 좀 빠졌어=Biraz kilo verdim
+운동 같이 하자=Birlikte egzersiz yapalım

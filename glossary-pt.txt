@@ -22184,3 +22184,19 @@ IT 쪽에서 일해요=Eu trabalho em TI
 입원 수속은 어디서 해요=Onde fica o balcão de internações hospitalares?
 면회 시간이 언제예요=Quais são os horários de visitação?
 퇴원은 언제 할 수 있어요=Quando posso receber alta?
+
+# --- 대화 56: 헬스장·운동 2 (2026-11-13) ---
+헬스장 회원권 얼마예요=Quanto custa uma assinatura de uma academia?
+한 달 회원권 있어요=Você tem assinatura de um mês?
+하루 이용권 있어요=Você tem um passe diário?
+개인 트레이닝 받고 싶어요=Eu gostaria de receber treinamento pessoal
+이 기계 어떻게 써요=Como faço para usar esta máquina?
+이거 쓰고 있어요=Você está usando isso?
+몇 세트 남았어요=Quantos conjuntos você ainda tem?
+같이 써도 돼요=Podemos compartilhar isso?
+샤워실 어디예요=Onde fica o banheiro?
+사물함 열쇠 주세요=Por favor, me dê uma chave do armário
+근육통이 있어요=Meus músculos estão doloridos
+오늘은 하체 운동 했어=Eu fiz exercícios para as pernas hoje
+살이 좀 빠졌어=Eu perdi algum peso
+운동 같이 하자=Vamos nos exercitar juntos

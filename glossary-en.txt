@@ -52352,3 +52352,19 @@ IT 쪽에서 일해요=I work in IT
 입원 수속은 어디서 해요=Where is the hospital admissions desk?
 면회 시간이 언제예요=What are the visiting hours?
 퇴원은 언제 할 수 있어요=When can I be discharged?
+
+# --- 대화 56: 헬스장·운동 2 (2026-11-13) ---
+헬스장 회원권 얼마예요=How much is a gym membership?
+한 달 회원권 있어요=Do you have a one-month membership?
+하루 이용권 있어요=Do you have a day pass?
+개인 트레이닝 받고 싶어요=I'd like to get personal training
+이 기계 어떻게 써요=How do I use this machine?
+이거 쓰고 있어요=Are you using this?
+몇 세트 남았어요=How many sets do you have left?
+같이 써도 돼요=Can we share this?
+샤워실 어디예요=Where is the shower room?
+사물함 열쇠 주세요=Please give me a locker key
+근육통이 있어요=My muscles are sore
+오늘은 하체 운동 했어=I did leg exercises today
+살이 좀 빠졌어=I've lost some weight
+운동 같이 하자=Let's exercise together

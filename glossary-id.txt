@@ -38210,3 +38210,19 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 입원 수속은 어디서 해요=Di mana meja penerimaan rumah sakit?
 면회 시간이 언제예요=Jam berapa kunjungannya?
 퇴원은 언제 할 수 있어요=Kapan saya bisa dipulangkan?
+
+# --- 대화 56: 헬스장·운동 2 (2026-11-13) ---
+헬스장 회원권 얼마예요=Berapa keanggotaan gym?
+한 달 회원권 있어요=Apakah Anda memiliki keanggotaan satu bulan?
+하루 이용권 있어요=Apakah Anda punya tiket masuk sehari?
+개인 트레이닝 받고 싶어요=Saya ingin mendapatkan pelatihan pribadi
+이 기계 어떻게 써요=Bagaimana cara menggunakan mesin ini?
+이거 쓰고 있어요=Apakah kamu menggunakan ini?
+몇 세트 남았어요=Berapa set yang tersisa?
+같이 써도 돼요=Bisakah kita membagikan ini?
+샤워실 어디예요=Dimana kamar mandinya?
+사물함 열쇠 주세요=Tolong beri saya kunci loker
+근육통이 있어요=Otot-ototku sakit
+오늘은 하체 운동 했어=Saya melakukan latihan kaki hari ini
+살이 좀 빠졌어=Berat badan saya turun
+운동 같이 하자=Ayo berolahraga bersama
