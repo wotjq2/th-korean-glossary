@@ -38032,3 +38032,25 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 도착하면 문자 줘=Kirimi aku pesan ketika kamu sampai di sana
 조심히 들어가=Pulang dengan selamat
 다음에 또 연락하자=Mari kita bicara lagi lain kali
+
+# --- 대화 46: 공항·출입국 (2026-11-13) ---
+체크인 카운터가 어디예요=Dimana konter check-innya?
+창가 자리로 주세요=Tolong, tempat duduk dekat jendela
+통로 자리로 주세요=Tolong, tempat duduk di lorong
+짐 몇 킬로까지 돼요=Berapa batas berat bagasi?
+짐이 무게 초과예요=Apakah bagasi saya kelebihan berat badan?
+이거 기내에 가지고 타도 돼요=Bolehkah saya membawanya ke pesawat?
+몇 번 게이트예요=Gerbang manakah itu?
+탑승 시작했어요=Apakah boarding sudah dimulai?
+비행기가 취소됐어요=Penerbangan saya dibatalkan
+짐이 안 나왔어요=Bagasi saya tidak keluar
+짐을 잃어버렸어요=Saya kehilangan barang bawaan saya
+환승은 어디로 가요=Ke mana saya harus pergi untuk transfer?
+여행 목적이 뭐예요=Apa tujuan perjalanan Anda?
+관광하러 왔어요=Saya di sini untuk jalan-jalan
+얼마나 머무를 예정이에요=Berapa lama Anda berencana untuk tinggal?
+어디서 묵어요=Dimana kamu tinggal?
+신고할 물건 있어요=Apa ada yang perlu anda deklarasikan?
+없어요=Saya tidak punya
+공항 가는 버스 있어요=Apakah ada bus ke bandara?
+공항까지 얼마나 걸려요=Berapa lama waktu yang dibutuhkan untuk sampai ke bandara?

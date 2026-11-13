@@ -22006,3 +22006,25 @@ IT 쪽에서 일해요=Eu trabalho em TI
 도착하면 문자 줘=Me mande uma mensagem quando chegar lá
 조심히 들어가=Chegue em casa seguro
 다음에 또 연락하자=Vamos conversar novamente na próxima vez
+
+# --- 대화 46: 공항·출입국 (2026-11-13) ---
+체크인 카운터가 어디예요=Onde fica o balcão de check-in?
+창가 자리로 주세요=Um assento na janela, por favor
+통로 자리로 주세요=Um assento no corredor, por favor
+짐 몇 킬로까지 돼요=Qual é o limite de peso da bagagem?
+짐이 무게 초과예요=Minha bagagem está acima do peso?
+이거 기내에 가지고 타도 돼요=Posso levar isso no avião?
+몇 번 게이트예요=Qual portão é esse?
+탑승 시작했어요=O embarque começou?
+비행기가 취소됐어요=Meu voo foi cancelado
+짐이 안 나왔어요=Minha bagagem não saiu
+짐을 잃어버렸어요=Eu perdi minha bagagem
+환승은 어디로 가요=Onde devo ir para fazer transferências?
+여행 목적이 뭐예요=Qual é o propósito da sua viagem?
+관광하러 왔어요=Estou aqui para passear
+얼마나 머무를 예정이에요=Quanto tempo você planeja ficar?
+어디서 묵어요=Onde você vai ficar?
+신고할 물건 있어요=Você tem algo a declarar?
+없어요=Eu não tenho nenhum
+공항 가는 버스 있어요=Existe um ônibus para o aeroporto?
+공항까지 얼마나 걸려요=Quanto tempo leva para chegar ao aeroporto?

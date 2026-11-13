@@ -23019,3 +23019,25 @@ IT 쪽에서 일해요=Pracuję w IT
 도착하면 문자 줘=Napisz do mnie, kiedy tam dotrzesz
 조심히 들어가=Wracaj bezpiecznie do domu
 다음에 또 연락하자=Porozmawiajmy następnym razem
+
+# --- 대화 46: 공항·출입국 (2026-11-13) ---
+체크인 카운터가 어디예요=Gdzie jest stanowisko odprawy?
+창가 자리로 주세요=Proszę o miejsce przy oknie
+통로 자리로 주세요=Proszę o miejsce przy przejściu
+짐 몇 킬로까지 돼요=Jaki jest limit wagi bagażu?
+짐이 무게 초과예요=Czy mój bagaż ma nadwagę?
+이거 기내에 가지고 타도 돼요=Czy mogę to zabrać do samolotu?
+몇 번 게이트예요=Która to brama?
+탑승 시작했어요=Czy zaczął się boarding?
+비행기가 취소됐어요=Mój lot został odwołany
+짐이 안 나왔어요=Mój bagaż nie wyszedł
+짐을 잃어버렸어요=Zgubiłem bagaż
+환승은 어디로 가요=Gdzie udać się po transfery?
+여행 목적이 뭐예요=Jaki jest cel Twojej podróży?
+관광하러 왔어요=Jestem tu na zwiedzanie
+얼마나 머무를 예정이에요=Jak długo planujesz zostać?
+어디서 묵어요=Gdzie się zatrzymasz?
+신고할 물건 있어요=Czy ma Pan coś do oclenia?
+없어요=Nie mam żadnego
+공항 가는 버스 있어요=Czy jest autobus na lotnisko?
+공항까지 얼마나 걸려요=Ile czasu zajmuje dotarcie na lotnisko?

@@ -47645,3 +47645,25 @@ IT 쪽에서 일해요=yo trabajo en TI
 도착하면 문자 줘=Envíame un mensaje de texto cuando llegues
 조심히 들어가=llegar a casa a salvo
 다음에 또 연락하자=hablemos de nuevo la próxima vez
+
+# --- 대화 46: 공항·출입국 (2026-11-13) ---
+체크인 카운터가 어디예요=¿Dónde está el mostrador de facturación?
+창가 자리로 주세요=Un asiento junto a la ventana, por favor.
+통로 자리로 주세요=Un asiento en el pasillo, por favor.
+짐 몇 킬로까지 돼요=¿Cuál es el límite de peso del equipaje?
+짐이 무게 초과예요=¿Mi equipaje tiene sobrepeso?
+이거 기내에 가지고 타도 돼요=¿Puedo llevar esto en el avión?
+몇 번 게이트예요=¿Qué puerta es?
+탑승 시작했어요=¿Ha comenzado el embarque?
+비행기가 취소됐어요=mi vuelo fue cancelado
+짐이 안 나왔어요=mi equipaje no salio
+짐을 잃어버렸어요=perdi mi equipaje
+환승은 어디로 가요=¿A dónde acudo para realizar transferencias?
+여행 목적이 뭐예요=¿Cuál es el propósito de su viaje?
+관광하러 왔어요=Estoy aquí para hacer turismo
+얼마나 머무를 예정이에요=¿Cuánto tiempo piensas quedarte?
+어디서 묵어요=¿Dónde te estás quedadando?
+신고할 물건 있어요=¿Tiene algo que declarar?
+없어요=no tengo ninguno
+공항 가는 버스 있어요=¿Hay un autobús al aeropuerto?
+공항까지 얼마나 걸려요=¿Cuánto tiempo se tarda en llegar al aeropuerto?

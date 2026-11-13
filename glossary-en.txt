@@ -52173,3 +52173,25 @@ IT 쪽에서 일해요=I work in IT
 도착하면 문자 줘=Text me when you get there
 조심히 들어가=Get home safe
 다음에 또 연락하자=Let's talk again next time
+
+# --- 대화 46: 공항·출입국 (2026-11-13) ---
+체크인 카운터가 어디예요=Where is the check-in counter?
+창가 자리로 주세요=A window seat, please
+통로 자리로 주세요=An aisle seat, please
+짐 몇 킬로까지 돼요=What is the baggage weight limit?
+짐이 무게 초과예요=Is my luggage overweight?
+이거 기내에 가지고 타도 돼요=Can I take this on the plane?
+몇 번 게이트예요=Which gate is it?
+탑승 시작했어요=Has boarding started?
+비행기가 취소됐어요=My flight was cancelled
+짐이 안 나왔어요=My luggage didn't come out
+짐을 잃어버렸어요=I lost my luggage
+환승은 어디로 가요=Where do I go for transfers?
+여행 목적이 뭐예요=What is the purpose of your trip?
+관광하러 왔어요=I'm here for sightseeing
+얼마나 머무를 예정이에요=How long are you planning to stay?
+어디서 묵어요=Where are you staying?
+신고할 물건 있어요=Do you have anything to declare?
+없어요=I don't have any
+공항 가는 버스 있어요=Is there a bus to the airport?
+공항까지 얼마나 걸려요=How long does it take to get to the airport?

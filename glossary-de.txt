@@ -24067,3 +24067,25 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 도착하면 문자 줘=Schreiben Sie mir eine SMS, wenn Sie dort ankommen
 조심히 들어가=Kommen Sie sicher nach Hause
 다음에 또 연락하자=Lass uns das nächste Mal noch einmal reden
+
+# --- 대화 46: 공항·출입국 (2026-11-13) ---
+체크인 카운터가 어디예요=Wo ist der Check-in-Schalter?
+창가 자리로 주세요=Bitte einen Fensterplatz
+통로 자리로 주세요=Bitte einen Sitzplatz am Gang
+짐 몇 킬로까지 돼요=Wie hoch ist die Gewichtsbeschränkung für Gepäck?
+짐이 무게 초과예요=Ist mein Gepäck übergewichtig?
+이거 기내에 가지고 타도 돼요=Kann ich das im Flugzeug mitnehmen?
+몇 번 게이트예요=Welches Tor ist es?
+탑승 시작했어요=Hat das Boarding begonnen?
+비행기가 취소됐어요=Mein Flug wurde annulliert
+짐이 안 나왔어요=Mein Gepäck kam nicht heraus
+짐을 잃어버렸어요=Ich habe mein Gepäck verloren
+환승은 어디로 가요=Wohin gehe ich für Überweisungen?
+여행 목적이 뭐예요=Was ist der Zweck Ihrer Reise?
+관광하러 왔어요=Ich bin zum Sightseeing hier
+얼마나 머무를 예정이에요=Wie lange planen Sie zu bleiben?
+어디서 묵어요=Wo bleiben Sie?
+신고할 물건 있어요=Haben Sie etwas anzugeben?
+없어요=Ich habe keine
+공항 가는 버스 있어요=Gibt es einen Bus zum Flughafen?
+공항까지 얼마나 걸려요=Wie lange dauert die Fahrt zum Flughafen?

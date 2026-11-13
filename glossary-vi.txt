@@ -40808,3 +40808,25 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 도착하면 문자 줘=Nhắn tin cho tôi khi bạn đến đó
 조심히 들어가=Về nhà an toàn
 다음에 또 연락하자=Hãy nói chuyện lần sau nhé
+
+# --- 대화 46: 공항·출입국 (2026-11-13) ---
+체크인 카운터가 어디예요=Quầy làm thủ tục ở đâu?
+창가 자리로 주세요=Vui lòng cho tôi một chỗ ngồi gần cửa sổ
+통로 자리로 주세요=Xin vui lòng cho một chỗ ngồi cạnh lối đi
+짐 몇 킬로까지 돼요=Giới hạn trọng lượng hành lý là bao nhiêu?
+짐이 무게 초과예요=Hành lý của tôi có bị thừa cân không?
+이거 기내에 가지고 타도 돼요=Tôi có thể mang cái này lên máy bay được không?
+몇 번 게이트예요=Đó là cổng nào?
+탑승 시작했어요=Lên máy bay đã bắt đầu chưa?
+비행기가 취소됐어요=Chuyến bay của tôi đã bị hủy
+짐이 안 나왔어요=Hành lý của tôi không xuất hiện
+짐을 잃어버렸어요=Tôi bị mất hành lý
+환승은 어디로 가요=Tôi phải đến đâu để chuyển khoản?
+여행 목적이 뭐예요=Mục đích chuyến đi của bạn là gì?
+관광하러 왔어요=Tôi ở đây để tham quan
+얼마나 머무를 예정이에요=Bạn dự định ở lại bao lâu?
+어디서 묵어요=Bạn đang ở đâu?
+신고할 물건 있어요=Bạn có điều gì cần khai báo không?
+없어요=Tôi không có cái nào
+공항 가는 버스 있어요=Có xe buýt đến sân bay không?
+공항까지 얼마나 걸려요=Mất bao lâu để đến sân bay?

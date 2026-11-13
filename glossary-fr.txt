@@ -47427,3 +47427,25 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 도착하면 문자 줘=Envoie-moi un message quand tu arriveras
 조심히 들어가=Rentrez chez vous en toute sécurité
 다음에 또 연락하자=On se reparle la prochaine fois
+
+# --- 대화 46: 공항·출입국 (2026-11-13) ---
+체크인 카운터가 어디예요=Où se trouve le comptoir d'enregistrement ?
+창가 자리로 주세요=Un siège près de la fenêtre, s'il vous plaît
+통로 자리로 주세요=Un siège côté couloir, s'il vous plaît
+짐 몇 킬로까지 돼요=Quelle est la limite de poids des bagages ?
+짐이 무게 초과예요=Mes bagages sont-ils en surpoids ?
+이거 기내에 가지고 타도 돼요=Puis-je emporter ça dans l'avion ?
+몇 번 게이트예요=De quelle porte s'agit-il ?
+탑승 시작했어요=L'embarquement a-t-il commencé ?
+비행기가 취소됐어요=Mon vol a été annulé
+짐이 안 나왔어요=Mes bagages ne sont pas sortis
+짐을 잃어버렸어요=J'ai perdu mes bagages
+환승은 어디로 가요=Où puis-je m'adresser pour les transferts ?
+여행 목적이 뭐예요=Quel est le but de votre voyage ?
+관광하러 왔어요=Je suis ici pour faire du tourisme
+얼마나 머무를 예정이에요=Combien de temps comptez-vous rester ?
+어디서 묵어요=Où séjournes-tu?
+신고할 물건 있어요=Avez-vous quelque chose à déclarer?
+없어요=je n'en ai pas
+공항 가는 버스 있어요=Y a-t-il un bus pour l'aéroport ?
+공항까지 얼마나 걸려요=Combien de temps faut-il pour arriver à l'aéroport ?

@@ -17130,3 +17130,25 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 도착하면 문자 줘=Oraya vardığında bana mesaj at
 조심히 들어가=Eve sağ salim dön
 다음에 또 연락하자=Bir dahaki sefere tekrar konuşalım
+
+# --- 대화 46: 공항·출입국 (2026-11-13) ---
+체크인 카운터가 어디예요=Check-in kontuarı nerede?
+창가 자리로 주세요=Bir pencere kenarı lütfen
+통로 자리로 주세요=Koridordaki bir koltuk lütfen
+짐 몇 킬로까지 돼요=Bagaj ağırlık limiti nedir?
+짐이 무게 초과예요=Bagajım fazla mı ağır?
+이거 기내에 가지고 타도 돼요=Bunu uçakta yanıma alabilir miyim?
+몇 번 게이트예요=Hangi kapı bu?
+탑승 시작했어요=Uçağa biniş başladı mı?
+비행기가 취소됐어요=Uçuşum iptal edildi
+짐이 안 나왔어요=bagajım çıkmadı
+짐을 잃어버렸어요=Bagajımı kaybettim
+환승은 어디로 가요=Transferler için nereye gitmeliyim?
+여행 목적이 뭐예요=Seyahatinizin amacı nedir?
+관광하러 왔어요=Gezi için buradayım
+얼마나 머무를 예정이에요=Ne kadar kalmayı planlıyorsun?
+어디서 묵어요=Nerede kalıyorsun?
+신고할 물건 있어요=Beyan etmek istediğiniz herhangi bir şey var mı?
+없어요=bende hiç yok
+공항 가는 버스 있어요=Havaalanına otobüs var mı?
+공항까지 얼마나 걸려요=Havaalanına ulaşmak ne kadar sürer?
