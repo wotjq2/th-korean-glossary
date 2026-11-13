@@ -47708,3 +47708,14 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 이거 데워 주실 수 있어요=Pourriez-vous réchauffer ça pour moi ?
 비닐봉지 하나 주세요=Un sac en plastique, s'il vous plaît
 24시간 해요=Êtes-vous ouvert 24 heures sur 24 ?
+
+# --- 대화 64: 영화관·공연 (2026-11-14) ---
+표 두 장 주세요=Deux billets, s'il vous plaît
+몇 시 영화 있어요=À quelles heures les films sont-ils diffusés ?
+자막 있어요=Y a-t-il des sous-titres ?
+가운데 자리로 주세요=Un siège au milieu, s'il vous plaît
+팝콘 큰 거 하나 주세요=Un gros pop-corn, s'il vous plaît
+공연 몇 시에 시작해요=A quelle heure commence le spectacle?
+매진됐어요=C'est complet
+영화 재밌었어=Avez-vous apprécié le film ?
+결말이 대박이야=La fin était incroyable

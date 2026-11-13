@@ -24348,3 +24348,14 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 이거 데워 주실 수 있어요=Könnten Sie das für mich aufwärmen?
 비닐봉지 하나 주세요=Eine Plastiktüte, bitte
 24시간 해요=Haben Sie 24 Stunden geöffnet?
+
+# --- 대화 64: 영화관·공연 (2026-11-14) ---
+표 두 장 주세요=Zwei Karten, bitte
+몇 시 영화 있어요=Zu welchen Zeiten werden die Filme gezeigt?
+자막 있어요=Gibt es Untertitel?
+가운데 자리로 주세요=Einen Platz in der Mitte, bitte
+팝콘 큰 거 하나 주세요=Ein großes Popcorn, bitte
+공연 몇 시에 시작해요=Wann startet die Show?
+매진됐어요=Es ist ausverkauft
+영화 재밌었어=Hat Ihnen der Film gefallen?
+결말이 대박이야=Das Ende war erstaunlich

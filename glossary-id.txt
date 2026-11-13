@@ -38313,3 +38313,14 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 이거 데워 주실 수 있어요=Bisakah kamu memanaskan ini untukku?
 비닐봉지 하나 주세요=Tolong, satu kantong plastik
 24시간 해요=Apakah Anda buka 24 jam?
+
+# --- 대화 64: 영화관·공연 (2026-11-14) ---
+표 두 장 주세요=Tolong dua tiket
+몇 시 영화 있어요=Jam berapa filmnya diputar?
+자막 있어요=Apakah ada subtitle?
+가운데 자리로 주세요=Tolong kursi di tengah
+팝콘 큰 거 하나 주세요=Tolong, satu popcorn besar
+공연 몇 시에 시작해요=Jam berapa acaranya dimulai?
+매진됐어요=Sudah terjual habis
+영화 재밌었어=Apakah Anda menikmati filmnya?
+결말이 대박이야=Akhir ceritanya luar biasa

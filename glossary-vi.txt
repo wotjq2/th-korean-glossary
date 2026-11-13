@@ -41089,3 +41089,14 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 이거 데워 주실 수 있어요=Bạn có thể hâm nóng cái này cho tôi được không?
 비닐봉지 하나 주세요=Làm ơn cho một túi nhựa
 24시간 해요=Bạn có mở cửa 24 giờ không?
+
+# --- 대화 64: 영화관·공연 (2026-11-14) ---
+표 두 장 주세요=Xin cho hai vé
+몇 시 영화 있어요=Phim chiếu vào thời gian nào?
+자막 있어요=Có phụ đề không?
+가운데 자리로 주세요=Xin mời ngồi ở giữa
+팝콘 큰 거 하나 주세요=Làm ơn cho một bắp rang lớn
+공연 몇 시에 시작해요=Buổi diễn bắt đầu lúc mấy giờ?
+매진됐어요=Nó đã bán hết
+영화 재밌었어=Bạn có thích bộ phim này không?
+결말이 대박이야=Cái kết thật tuyệt vời

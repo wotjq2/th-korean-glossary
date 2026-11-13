@@ -52455,3 +52455,14 @@ IT 쪽에서 일해요=I work in IT
 이거 데워 주실 수 있어요=Could you heat this up for me?
 비닐봉지 하나 주세요=One plastic bag, please
 24시간 해요=Are you open 24 hours?
+
+# --- 대화 64: 영화관·공연 (2026-11-14) ---
+표 두 장 주세요=Two tickets, please
+몇 시 영화 있어요=What times are the movies showing?
+자막 있어요=Are there subtitles?
+가운데 자리로 주세요=A seat in the middle, please
+팝콘 큰 거 하나 주세요=One large popcorn, please
+공연 몇 시에 시작해요=What time does the show start?
+매진됐어요=It's sold out
+영화 재밌었어=Did you enjoy the movie?
+결말이 대박이야=The ending was amazing

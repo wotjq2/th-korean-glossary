@@ -17411,3 +17411,14 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 이거 데워 주실 수 있어요=Şunu benim için ısıtır mısın?
 비닐봉지 하나 주세요=Bir plastik poşet lütfen
 24시간 해요=24 saat açık mısınız?
+
+# --- 대화 64: 영화관·공연 (2026-11-14) ---
+표 두 장 주세요=İki bilet lütfen
+몇 시 영화 있어요=Filmler hangi saatlerde gösteriliyor?
+자막 있어요=Altyazı var mı?
+가운데 자리로 주세요=Ortadan bir koltuk lütfen
+팝콘 큰 거 하나 주세요=Bir büyük patlamış mısır lütfen
+공연 몇 시에 시작해요=Gösteri ne zaman başlıyor?
+매진됐어요=Tükendi
+영화 재밌었어=Filmden keyif aldınız mı?
+결말이 대박이야=Sonu muhteşemdi

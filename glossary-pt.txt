@@ -22287,3 +22287,14 @@ IT 쪽에서 일해요=Eu trabalho em TI
 이거 데워 주실 수 있어요=Você poderia aquecer isso para mim?
 비닐봉지 하나 주세요=Um saco plástico, por favor
 24시간 해요=Você está aberto 24 horas?
+
+# --- 대화 64: 영화관·공연 (2026-11-14) ---
+표 두 장 주세요=Dois ingressos, por favor
+몇 시 영화 있어요=Em que horários os filmes são exibidos?
+자막 있어요=Existem legendas?
+가운데 자리로 주세요=Um assento no meio, por favor
+팝콘 큰 거 하나 주세요=Uma pipoca grande, por favor
+공연 몇 시에 시작해요=Que horas começa o show?
+매진됐어요=Está esgotado
+영화 재밌었어=Você gostou do filme?
+결말이 대박이야=O final foi incrível
