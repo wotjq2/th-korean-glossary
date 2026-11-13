@@ -41111,3 +41111,12 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 어느 팀이 이기고 있어=Đội nào đang chiến thắng?
 골 넣었다=Vào rồi!
 아깝다 거의 들어갔는데=Gần quá, nó gần như đã đi vào
+
+# --- 대화 66: 수영장·해변 (2026-11-14) ---
+수영장 어디예요=Hồ bơi ở đâu?
+파라솔 빌릴 수 있어요=Tôi có thể thuê ô đi biển được không?
+선베드 얼마예요=Ghế tắm nắng giá bao nhiêu?
+여기 수영해도 돼요=Bơi ở đây có được không?
+물이 깊어요=Nước có sâu không?
+파도가 세요=Sóng rất mạnh
+해파리 조심해=Hãy coi chừng sứa

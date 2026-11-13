@@ -17433,3 +17433,12 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 어느 팀이 이기고 있어=Hangi takım kazanıyor?
 골 넣었다=Gol!
 아깝다 거의 들어갔는데=O kadar yakındı ki neredeyse içeri giriyordu
+
+# --- 대화 66: 수영장·해변 (2026-11-14) ---
+수영장 어디예요=Yüzme havuzu nerede?
+파라솔 빌릴 수 있어요=Plaj şemsiyesi kiralayabilir miyim?
+선베드 얼마예요=Şezlong ne kadar?
+여기 수영해도 돼요=Burada yüzmek uygun mu?
+물이 깊어요=Su derin mi?
+파도가 세요=Dalgalar güçlü
+해파리 조심해=Denizanasına dikkat edin

@@ -23322,3 +23322,12 @@ IT 쪽에서 일해요=Pracuję w IT
 어느 팀이 이기고 있어=Która drużyna wygrywa?
 골 넣었다=Gol!
 아깝다 거의 들어갔는데=Tak blisko, że prawie weszło do środka
+
+# --- 대화 66: 수영장·해변 (2026-11-14) ---
+수영장 어디예요=Gdzie jest basen?
+파라솔 빌릴 수 있어요=Czy mogę wypożyczyć parasol plażowy?
+선베드 얼마예요=Ile kosztuje leżak?
+여기 수영해도 돼요=Czy można tu pływać?
+물이 깊어요=Czy woda jest głęboka?
+파도가 세요=Fale są mocne
+해파리 조심해=Uważaj na meduzy

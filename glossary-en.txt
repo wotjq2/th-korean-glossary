@@ -52477,3 +52477,12 @@ IT 쪽에서 일해요=I work in IT
 어느 팀이 이기고 있어=Which team is winning?
 골 넣었다=Goal!
 아깝다 거의 들어갔는데=So close, it almost went in
+
+# --- 대화 66: 수영장·해변 (2026-11-14) ---
+수영장 어디예요=Where is the swimming pool?
+파라솔 빌릴 수 있어요=Can I rent a beach umbrella?
+선베드 얼마예요=How much is a sun lounger?
+여기 수영해도 돼요=Is it okay to swim here?
+물이 깊어요=Is the water deep?
+파도가 세요=The waves are strong
+해파리 조심해=Watch out for jellyfish

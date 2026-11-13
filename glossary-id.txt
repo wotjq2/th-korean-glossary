@@ -38335,3 +38335,12 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 어느 팀이 이기고 있어=Tim mana yang menang?
 골 넣었다=Gol!
 아깝다 거의 들어갔는데=Begitu dekat, hampir masuk
+
+# --- 대화 66: 수영장·해변 (2026-11-14) ---
+수영장 어디예요=Dimana kolam renangnya?
+파라솔 빌릴 수 있어요=Bolehkah saya menyewa payung pantai?
+선베드 얼마예요=Berapa harga kursi berjemur?
+여기 수영해도 돼요=Apakah boleh berenang di sini?
+물이 깊어요=Apakah airnya dalam?
+파도가 세요=Ombaknya kuat
+해파리 조심해=Hati-hati dengan ubur-ubur
