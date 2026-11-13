@@ -24323,3 +24323,16 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 교복은 어디서 사요=Wo kann ich die Schuluniform kaufen?
 스쿨버스 있어요=Gibt es einen Schulbus?
 방과 후 수업 있어요=Gibt es außerschulischen Unterricht?
+
+# --- 대화 62: 동네 이웃 (2026-11-14) ---
+새로 이사 왔어요=Ich bin gerade eingezogen
+옆집에 살아요=Ich wohne nebenan
+잘 부탁해요=Schön dich kennenzulernen, ich hoffe wir verstehen uns
+이 근처에 오래 사셨어요=Lebst du schon lange hier?
+근처에 좋은 시장 있어요=Gibt es einen guten Markt in der Nähe?
+소리가 좀 시끄러워요=Es ist etwas laut
+밤에는 조용히 해 주세요=Bitte achten Sie darauf, dass es nachts ruhig bleibt
+택배 대신 받아 줄 수 있어요=Könnten Sie ein Paket für mich erhalten?
+며칠 집을 비워요=Ich werde für ein paar Tage von zu Hause weg sein
+고양이 좀 봐 줄 수 있어요=Könnten Sie auf meine Katze aufpassen?
+이거 좀 드세요=Bitte haben Sie etwas davon

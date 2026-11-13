@@ -47901,3 +47901,16 @@ IT 쪽에서 일해요=yo trabajo en TI
 교복은 어디서 사요=¿Dónde puedo comprar el uniforme escolar?
 스쿨버스 있어요=¿Hay un autobús escolar?
 방과 후 수업 있어요=¿Hay clases extraescolares?
+
+# --- 대화 62: 동네 이웃 (2026-11-14) ---
+새로 이사 왔어요=Me acabo de mudar
+옆집에 살아요=vivo al lado
+잘 부탁해요=Encantado de conocerte, espero que nos llevemos bien.
+이 근처에 오래 사셨어요=¿Hace mucho que vives por aquí?
+근처에 좋은 시장 있어요=¿Hay un buen mercado cerca?
+소리가 좀 시끄러워요=es un poco ruidoso
+밤에는 조용히 해 주세요=Por favor mantenlo en silencio por la noche.
+택배 대신 받아 줄 수 있어요=¿Podrías recibir un paquete para mí?
+며칠 집을 비워요=Estaré fuera de casa por unos días.
+고양이 좀 봐 줄 수 있어요=¿Podrías cuidar de mi gato?
+이거 좀 드세요=Por favor toma algo de esto

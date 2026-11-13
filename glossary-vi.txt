@@ -41064,3 +41064,16 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 교복은 어디서 사요=Tôi có thể mua đồng phục học sinh ở đâu?
 스쿨버스 있어요=Có xe buýt trường học không?
 방과 후 수업 있어요=Có lớp học sau giờ học không?
+
+# --- 대화 62: 동네 이웃 (2026-11-14) ---
+새로 이사 왔어요=Tôi mới chuyển đến
+옆집에 살아요=Tôi sống bên cạnh
+잘 부탁해요=Rất vui được gặp bạn, tôi hy vọng chúng ta sẽ hợp tác
+이 근처에 오래 사셨어요=Bạn sống ở đây lâu chưa?
+근처에 좋은 시장 있어요=Gần đây có chợ tốt không?
+소리가 좀 시끄러워요=Nó hơi ồn ào
+밤에는 조용히 해 주세요=Xin hãy giữ im lặng vào ban đêm
+택배 대신 받아 줄 수 있어요=Bạn có thể nhận được một gói cho tôi?
+며칠 집을 비워요=Tôi sẽ xa nhà vài ngày
+고양이 좀 봐 줄 수 있어요=Bạn có thể chăm sóc con mèo của tôi được không?
+이거 좀 드세요=Xin vui lòng có một số điều này

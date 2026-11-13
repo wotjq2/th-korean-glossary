@@ -17386,3 +17386,16 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 교복은 어디서 사요=Okul formasını nereden satın alabilirim?
 스쿨버스 있어요=Okul otobüsü var mı?
 방과 후 수업 있어요=Okul sonrası dersler var mı?
+
+# --- 대화 62: 동네 이웃 (2026-11-14) ---
+새로 이사 왔어요=yeni taşındım
+옆집에 살아요=yan tarafta yaşıyorum
+잘 부탁해요=Tanıştığımıza memnun oldum umarım iyi anlaşabiliriz
+이 근처에 오래 사셨어요=Burada uzun süre mi yaşadın?
+근처에 좋은 시장 있어요=Yakınlarda iyi bir market var mı?
+소리가 좀 시끄러워요=Biraz gürültülü
+밤에는 조용히 해 주세요=Lütfen geceleri sessiz tutun
+택배 대신 받아 줄 수 있어요=Benim için bir paket alabilir misin?
+며칠 집을 비워요=Birkaç gün evden uzakta olacağım
+고양이 좀 봐 줄 수 있어요=Kedime bakabilir misin?
+이거 좀 드세요=Lütfen bundan biraz al

@@ -52430,3 +52430,16 @@ IT 쪽에서 일해요=I work in IT
 교복은 어디서 사요=Where can I buy the school uniform?
 스쿨버스 있어요=Is there a school bus?
 방과 후 수업 있어요=Are there after-school classes?
+
+# --- 대화 62: 동네 이웃 (2026-11-14) ---
+새로 이사 왔어요=I just moved in
+옆집에 살아요=I live next door
+잘 부탁해요=Nice to meet you, I hope we get along
+이 근처에 오래 사셨어요=Have you lived around here long?
+근처에 좋은 시장 있어요=Is there a good market nearby?
+소리가 좀 시끄러워요=It's a bit noisy
+밤에는 조용히 해 주세요=Please keep it quiet at night
+택배 대신 받아 줄 수 있어요=Could you receive a package for me?
+며칠 집을 비워요=I'll be away from home for a few days
+고양이 좀 봐 줄 수 있어요=Could you look after my cat?
+이거 좀 드세요=Please have some of this

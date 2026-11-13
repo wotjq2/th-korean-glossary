@@ -38288,3 +38288,16 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 교복은 어디서 사요=Dimana saya bisa membeli seragam sekolahnya?
 스쿨버스 있어요=Apakah ada bus sekolah?
 방과 후 수업 있어요=Apakah ada kelas sepulang sekolah?
+
+# --- 대화 62: 동네 이웃 (2026-11-14) ---
+새로 이사 왔어요=Saya baru saja pindah
+옆집에 살아요=Saya tinggal di sebelah
+잘 부탁해요=Senang bertemu denganmu, kuharap kita rukun
+이 근처에 오래 사셨어요=Apakah kamu sudah lama tinggal di sekitar sini?
+근처에 좋은 시장 있어요=Apakah ada pasar yang bagus di dekat sini?
+소리가 좀 시끄러워요=Agak bising
+밤에는 조용히 해 주세요=Harap tetap tenang di malam hari
+택배 대신 받아 줄 수 있어요=Bisakah Anda menerima paket untuk saya?
+며칠 집을 비워요=Aku akan jauh dari rumah selama beberapa hari
+고양이 좀 봐 줄 수 있어요=Bisakah kamu merawat kucingku?
+이거 좀 드세요=Silakan ambil beberapa dari ini
