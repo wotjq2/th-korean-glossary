@@ -47446,6 +47446,5 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 얼마나 머무를 예정이에요=Combien de temps comptez-vous rester ?
 어디서 묵어요=Où séjournes-tu?
 신고할 물건 있어요=Avez-vous quelque chose à déclarer?
-없어요=je n'en ai pas
 공항 가는 버스 있어요=Y a-t-il un bus pour l'aéroport ?
 공항까지 얼마나 걸려요=Combien de temps faut-il pour arriver à l'aéroport ?

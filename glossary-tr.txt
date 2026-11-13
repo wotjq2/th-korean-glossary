@@ -17149,6 +17149,5 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 얼마나 머무를 예정이에요=Ne kadar kalmayı planlıyorsun?
 어디서 묵어요=Nerede kalıyorsun?
 신고할 물건 있어요=Beyan etmek istediğiniz herhangi bir şey var mı?
-없어요=bende hiç yok
 공항 가는 버스 있어요=Havaalanına otobüs var mı?
 공항까지 얼마나 걸려요=Havaalanına ulaşmak ne kadar sürer?

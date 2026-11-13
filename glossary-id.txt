@@ -38051,6 +38051,5 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 얼마나 머무를 예정이에요=Berapa lama Anda berencana untuk tinggal?
 어디서 묵어요=Dimana kamu tinggal?
 신고할 물건 있어요=Apa ada yang perlu anda deklarasikan?
-없어요=Saya tidak punya
 공항 가는 버스 있어요=Apakah ada bus ke bandara?
 공항까지 얼마나 걸려요=Berapa lama waktu yang dibutuhkan untuk sampai ke bandara?

@@ -23038,6 +23038,5 @@ IT 쪽에서 일해요=Pracuję w IT
 얼마나 머무를 예정이에요=Jak długo planujesz zostać?
 어디서 묵어요=Gdzie się zatrzymasz?
 신고할 물건 있어요=Czy ma Pan coś do oclenia?
-없어요=Nie mam żadnego
 공항 가는 버스 있어요=Czy jest autobus na lotnisko?
 공항까지 얼마나 걸려요=Ile czasu zajmuje dotarcie na lotnisko?

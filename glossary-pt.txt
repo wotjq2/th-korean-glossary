@@ -22025,6 +22025,5 @@ IT 쪽에서 일해요=Eu trabalho em TI
 얼마나 머무를 예정이에요=Quanto tempo você planeja ficar?
 어디서 묵어요=Onde você vai ficar?
 신고할 물건 있어요=Você tem algo a declarar?
-없어요=Eu não tenho nenhum
 공항 가는 버스 있어요=Existe um ônibus para o aeroporto?
 공항까지 얼마나 걸려요=Quanto tempo leva para chegar ao aeroporto?

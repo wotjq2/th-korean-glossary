@@ -40827,6 +40827,5 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 얼마나 머무를 예정이에요=Bạn dự định ở lại bao lâu?
 어디서 묵어요=Bạn đang ở đâu?
 신고할 물건 있어요=Bạn có điều gì cần khai báo không?
-없어요=Tôi không có cái nào
 공항 가는 버스 있어요=Có xe buýt đến sân bay không?
 공항까지 얼마나 걸려요=Mất bao lâu để đến sân bay?
