@@ -40720,3 +40720,25 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 포장 좀 잘 해 주세요=Vui lòng đóng gói cẩn thận
 깨지지 않게 해 주세요=Hãy chắc chắn rằng nó không bị vỡ
 또 올게요=Tôi sẽ đến lần nữa
+
+# --- 대화 42: 연애 2 (2026-11-13) ---
+남자친구 있어=Bạn có bạn trai không?
+여자친구 있어=Bạn có bạn gái không?
+애인 있어요=Bạn đang nhìn thấy ai đó?
+나 싱글이야=Tôi độc thân
+이상형이 뭐야=Mẫu người lý tưởng của bạn là gì?
+첫눈에 반했어=Đó là tình yêu từ cái nhìn đầu tiên
+너랑 있으면 행복해=Tôi hạnh phúc khi ở bên bạn
+너 생각만 해=Tôi chỉ nghĩ về bạn
+보고 싶어 죽겠어=Tôi nhớ bạn nhiều lắm
+언제 볼 수 있어=Khi nào tôi có thể gặp bạn?
+영상통화 하자=Hãy gọi video
+오늘 예쁘다=Hôm nay bạn trông thật đẹp
+오늘 멋있다=Hôm nay bạn trông thật tuyệt
+손잡고 싶어=Tôi muốn nắm tay bạn
+나만 봐=Chỉ nhìn tôi
+질투했어=Bạn có ghen tị không?
+우리 사이가 뭐야=Mối quan hệ của chúng ta là gì?
+천천히 알아가자=Chúng ta hãy làm quen với nhau từ từ nhé
+부모님께 소개할게=Tôi sẽ giới thiệu bạn với bố mẹ tôi
+기념일 축하해=Chúc mừng ngày kỷ niệm

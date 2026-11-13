@@ -37944,3 +37944,25 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 포장 좀 잘 해 주세요=Harap kemas dengan hati-hati
 깨지지 않게 해 주세요=Tolong pastikan itu tidak pecah
 또 올게요=Saya akan datang lagi
+
+# --- 대화 42: 연애 2 (2026-11-13) ---
+남자친구 있어=Apakah kamu punya pacar?
+여자친구 있어=Apakah kamu punya pacar?
+애인 있어요=Apakah kamu sedang berkencan dengan seseorang?
+나 싱글이야=saya lajang
+이상형이 뭐야=Apa tipe idealmu?
+첫눈에 반했어=Itu adalah cinta pada pandangan pertama
+너랑 있으면 행복해=Aku bahagia saat bersamamu
+너 생각만 해=Aku hanya memikirkanmu
+보고 싶어 죽겠어=aku sangat merindukanmu
+언제 볼 수 있어=Kapan aku bisa bertemu denganmu?
+영상통화 하자=Mari kita melakukan panggilan video
+오늘 예쁘다=Kamu terlihat cantik hari ini
+오늘 멋있다=Kamu tampak hebat hari ini
+손잡고 싶어=Aku ingin memegang tanganmu
+나만 봐=Lihat hanya aku
+질투했어=Apakah kamu cemburu?
+우리 사이가 뭐야=Apa hubungan kita?
+천천히 알아가자=Mari kita mengenal satu sama lain secara perlahan
+부모님께 소개할게=Aku akan memperkenalkanmu pada orang tuaku
+기념일 축하해=Selamat hari jadi

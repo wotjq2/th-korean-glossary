@@ -17042,3 +17042,25 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 포장 좀 잘 해 주세요=Lütfen dikkatlice paketleyin
 깨지지 않게 해 주세요=Lütfen kırılmadığından emin olun
 또 올게요=tekrar geleceğim
+
+# --- 대화 42: 연애 2 (2026-11-13) ---
+남자친구 있어=Erkek arkadaşın var mı?
+여자친구 있어=Kız arkadaşın var mı?
+애인 있어요=Birisiyle mi görüşüyorsun?
+나 싱글이야=Bekarım
+이상형이 뭐야=İdeal tipiniz nedir?
+첫눈에 반했어=İlk görüşte aşktı
+너랑 있으면 행복해=Senin yanındayken mutluyum
+너 생각만 해=sadece seni düşünüyorum
+보고 싶어 죽겠어=Seni çok özlüyorum
+언제 볼 수 있어=Seni ne zaman görebilirim?
+영상통화 하자=Haydi görüntülü konuşalım
+오늘 예쁘다=Bugün çok güzel görünüyorsun
+오늘 멋있다=Bugün harika görünüyorsun
+손잡고 싶어=elini tutmak istiyorum
+나만 봐=Sadece bana bak
+질투했어=Kıskanç mıydın?
+우리 사이가 뭐야=İlişkimiz nedir?
+천천히 알아가자=Yavaş yavaş tanışalım
+부모님께 소개할게=Seni ailemle tanıştıracağım
+기념일 축하해=Mutlu yıl dönümleri

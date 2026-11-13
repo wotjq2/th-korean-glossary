@@ -22931,3 +22931,25 @@ IT 쪽에서 일해요=Pracuję w IT
 포장 좀 잘 해 주세요=Proszę starannie zapakować
 깨지지 않게 해 주세요=Upewnij się, że się nie zepsuje
 또 올게요=Przyjdę ponownie
+
+# --- 대화 42: 연애 2 (2026-11-13) ---
+남자친구 있어=Czy masz chłopaka?
+여자친구 있어=Czy masz dziewczynę?
+애인 있어요=Spotykasz się z kimś?
+나 싱글이야=jestem singlem
+이상형이 뭐야=Jaki jest Twój idealny typ?
+첫눈에 반했어=To była miłość od pierwszego wejrzenia
+너랑 있으면 행복해=Jestem szczęśliwy, kiedy jestem z tobą
+너 생각만 해=Myślę tylko o Tobie
+보고 싶어 죽겠어=Tak bardzo za tobą tęsknię
+언제 볼 수 있어=Kiedy mogę cię zobaczyć?
+영상통화 하자=Porozmawiajmy wideo
+오늘 예쁘다=Wyglądasz dziś pięknie
+오늘 멋있다=Wyglądasz dzisiaj świetnie
+손잡고 싶어=Chcę trzymać cię za rękę
+나만 봐=Spójrz tylko na mnie
+질투했어=Czy byłeś zazdrosny?
+우리 사이가 뭐야=Jaki jest nasz związek?
+천천히 알아가자=Poznajmy się powoli
+부모님께 소개할게=Przedstawię cię moim rodzicom
+기념일 축하해=Wszystkiego dobrego z okazji rocznicy

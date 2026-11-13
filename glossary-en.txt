@@ -52085,3 +52085,25 @@ IT 쪽에서 일해요=I work in IT
 포장 좀 잘 해 주세요=Please pack it carefully
 깨지지 않게 해 주세요=Please make sure it doesn't break
 또 올게요=I'll come again
+
+# --- 대화 42: 연애 2 (2026-11-13) ---
+남자친구 있어=Do you have a boyfriend?
+여자친구 있어=Do you have a girlfriend?
+애인 있어요=Are you seeing someone?
+나 싱글이야=I'm single
+이상형이 뭐야=What's your ideal type?
+첫눈에 반했어=It was love at first sight
+너랑 있으면 행복해=I'm happy when I'm with you
+너 생각만 해=I only think about you
+보고 싶어 죽겠어=I miss you so much
+언제 볼 수 있어=When can I see you?
+영상통화 하자=Let's video call
+오늘 예쁘다=You look beautiful today
+오늘 멋있다=You look great today
+손잡고 싶어=I want to hold your hand
+나만 봐=Look only at me
+질투했어=Were you jealous?
+우리 사이가 뭐야=What is our relationship?
+천천히 알아가자=Let's get to know each other slowly
+부모님께 소개할게=I'll introduce you to my parents
+기념일 축하해=Happy anniversary

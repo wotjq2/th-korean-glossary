@@ -21918,3 +21918,25 @@ IT 쪽에서 일해요=Eu trabalho em TI
 포장 좀 잘 해 주세요=Por favor, embale-o com cuidado
 깨지지 않게 해 주세요=Por favor, certifique-se de que não quebra
 또 올게요=Eu irei de novo
+
+# --- 대화 42: 연애 2 (2026-11-13) ---
+남자친구 있어=Você tem namorado?
+여자친구 있어=Você tem namorada?
+애인 있어요=Você está saindo com alguém?
+나 싱글이야=Sou solteiro
+이상형이 뭐야=Qual é o seu tipo ideal?
+첫눈에 반했어=Foi amor à primeira vista
+너랑 있으면 행복해=Fico feliz quando estou com você
+너 생각만 해=Eu só penso em você
+보고 싶어 죽겠어=Sinto muito sua falta
+언제 볼 수 있어=Quando posso ver você?
+영상통화 하자=Vamos fazer uma videochamada
+오늘 예쁘다=Você está linda hoje
+오늘 멋있다=Você está ótimo hoje
+손잡고 싶어=Eu quero segurar sua mão
+나만 봐=Olhe apenas para mim
+질투했어=Você estava com ciúmes?
+우리 사이가 뭐야=Qual é o nosso relacionamento?
+천천히 알아가자=Vamos nos conhecer aos poucos
+부모님께 소개할게=Vou te apresentar aos meus pais
+기념일 축하해=Feliz Aniversário

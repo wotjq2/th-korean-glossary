@@ -47339,3 +47339,25 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 포장 좀 잘 해 주세요=Veuillez l'emballer soigneusement
 깨지지 않게 해 주세요=S'il vous plaît, assurez-vous qu'il ne se casse pas
 또 올게요=je reviendrai
+
+# --- 대화 42: 연애 2 (2026-11-13) ---
+남자친구 있어=Avez-vous un petit ami?
+여자친구 있어=As-tu une petite amie ?
+애인 있어요=Est-ce que tu vois quelqu'un ?
+나 싱글이야=Je suis célibataire
+이상형이 뭐야=Quel est votre type idéal ?
+첫눈에 반했어=C'était le coup de foudre
+너랑 있으면 행복해=Je suis heureux quand je suis avec toi
+너 생각만 해=je ne pense qu'à toi
+보고 싶어 죽겠어=Tu me manques tellement
+언제 볼 수 있어=Quand puis-je te voir ?
+영상통화 하자=Passons un appel vidéo
+오늘 예쁘다=Tu es belle aujourd'hui
+오늘 멋있다=Tu es superbe aujourd'hui
+손잡고 싶어=Je veux te tenir la main
+나만 봐=Regarde seulement moi
+질투했어=Étiez-vous jaloux ?
+우리 사이가 뭐야=Quelle est notre relation ?
+천천히 알아가자=Apprenons à nous connaître petit à petit
+부모님께 소개할게=je vais te présenter à mes parents
+기념일 축하해=Joyeux anniversaire
