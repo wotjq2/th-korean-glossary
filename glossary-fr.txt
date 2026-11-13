@@ -47503,3 +47503,22 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 월급 들어왔어=j'ai eu mon salaire
 이번 달 돈이 부족해=Je suis à court d'argent ce mois-ci
 절약해야 돼=J'ai besoin d'économiser de l'argent
+
+# --- 대화 50: 길 안내 2·위치 설명 (2026-11-13) ---
+여기서 가까워요=Est-ce que c'est près d'ici ?
+걸어서 몇 분 걸려요=Combien de minutes à pied ?
+이 길로 쭉 가세요=Continuez tout droit sur cette route
+두 번째 골목에서 왼쪽이에요=Tournez à gauche dans la deuxième ruelle
+신호등에서 오른쪽으로 가세요=Tourner à droite au feu
+편의점 옆이에요=C'est à côté du dépanneur
+은행 맞은편이에요=C'est en face de la banque
+건물 뒤에 있어요=C'est derrière le bâtiment
+2층에 있어요=C'est au deuxième étage
+지하에 있어요=C'est au sous-sol
+여기서 내려서 걸어가세요=Descendez d'ici et marchez
+이 근처에 버스 정류장 있어요=Y a-t-il un arrêt de bus près d'ici ?
+길을 건너야 돼요=Dois-je traverser la route ?
+지나쳤어요=je l'ai dépassé
+다시 돌아가야 돼요=Je dois y retourner
+지도 앱이 이상해요=L'application cartographique se comporte bizarrement
+여기 어딘지 설명해 줄 수 있어요=Pouvez-vous expliquer où se trouve cet endroit ?

@@ -17206,3 +17206,22 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 월급 들어왔어=maaşımı aldım
 이번 달 돈이 부족해=Bu ay param kısıtlı
 절약해야 돼=Para biriktirmem gerekiyor
+
+# --- 대화 50: 길 안내 2·위치 설명 (2026-11-13) ---
+여기서 가까워요=Buraya yakın mı?
+걸어서 몇 분 걸려요=Yürüyerek kaç dakika?
+이 길로 쭉 가세요=Bu yol boyunca düz git
+두 번째 골목에서 왼쪽이에요=İkinci sokaktan sola dönün
+신호등에서 오른쪽으로 가세요=Trafik ışıklarından sağa dönün
+편의점 옆이에요=Marketin yanında
+은행 맞은편이에요=Bankanın karşısındadır
+건물 뒤에 있어요=Binanın arkasında
+2층에 있어요=İkinci katta
+지하에 있어요=Bodrumda
+여기서 내려서 걸어가세요=Buradan in ve yürü
+이 근처에 버스 정류장 있어요=Buraya yakın bir otobüs durağı var mı?
+길을 건너야 돼요=Yolun karşısına geçmem gerekiyor mu?
+지나쳤어요=Yeri geçtim
+다시 돌아가야 돼요=geri dönmem gerek
+지도 앱이 이상해요=Harita uygulaması garip davranıyor
+여기 어딘지 설명해 줄 수 있어요=Buranın nerede olduğunu açıklayabilir misiniz?

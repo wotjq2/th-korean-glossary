@@ -47721,3 +47721,22 @@ IT 쪽에서 일해요=yo trabajo en TI
 월급 들어왔어=Recibí mi salario
 이번 달 돈이 부족해=Me falta dinero este mes
 절약해야 돼=necesito ahorrar dinero
+
+# --- 대화 50: 길 안내 2·위치 설명 (2026-11-13) ---
+여기서 가까워요=¿Está cerca de aquí?
+걸어서 몇 분 걸려요=¿Cuántos minutos a pie?
+이 길로 쭉 가세요=Siga recto por este camino
+두 번째 골목에서 왼쪽이에요=Gira a la izquierda en el segundo callejón.
+신호등에서 오른쪽으로 가세요=Gira a la derecha en el semáforo.
+편의점 옆이에요=Está al lado de la tienda de conveniencia.
+은행 맞은편이에요=Está enfrente del banco.
+건물 뒤에 있어요=Está detrás del edificio.
+2층에 있어요=esta en el segundo piso
+지하에 있어요=esta en el sotano
+여기서 내려서 걸어가세요=Bájate aquí y camina
+이 근처에 버스 정류장 있어요=¿Hay alguna parada de autobús cerca de aquí?
+길을 건너야 돼요=¿Necesito cruzar la calle?
+지나쳤어요=lo pasé
+다시 돌아가야 돼요=necesito volver
+지도 앱이 이상해요=La aplicación de mapas está actuando de forma extraña.
+여기 어딘지 설명해 줄 수 있어요=¿Puedes explicar dónde está este lugar?

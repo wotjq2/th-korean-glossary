@@ -40884,3 +40884,22 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 월급 들어왔어=Tôi đã nhận được tiền lương của mình
 이번 달 돈이 부족해=Tháng này tôi đang thiếu tiền
 절약해야 돼=Tôi cần tiết kiệm tiền
+
+# --- 대화 50: 길 안내 2·위치 설명 (2026-11-13) ---
+여기서 가까워요=Có gần đây không?
+걸어서 몇 분 걸려요=Đi bộ bao nhiêu phút?
+이 길로 쭉 가세요=Đi thẳng theo con đường này
+두 번째 골목에서 왼쪽이에요=Rẽ trái ở ngõ thứ hai
+신호등에서 오른쪽으로 가세요=Rẽ phải ở đèn giao thông
+편의점 옆이에요=Nó ở cạnh cửa hàng tiện lợi
+은행 맞은편이에요=Nó đối diện với ngân hàng
+건물 뒤에 있어요=Nó ở phía sau tòa nhà
+2층에 있어요=Nó ở trên tầng hai
+지하에 있어요=Nó ở tầng hầm
+여기서 내려서 걸어가세요=Xuống đây và đi bộ
+이 근처에 버스 정류장 있어요=Có trạm xe buýt nào gần đây không?
+길을 건너야 돼요=Tôi có cần phải băng qua đường không?
+지나쳤어요=Tôi đã đi ngang qua nó
+다시 돌아가야 돼요=Tôi cần phải quay lại
+지도 앱이 이상해요=Ứng dụng bản đồ đang hoạt động kỳ lạ
+여기 어딘지 설명해 줄 수 있어요=Bạn có thể giải thích nơi này là ở đâu?

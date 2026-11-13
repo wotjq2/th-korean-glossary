@@ -22082,3 +22082,22 @@ IT 쪽에서 일해요=Eu trabalho em TI
 월급 들어왔어=Eu recebi meu salário
 이번 달 돈이 부족해=Estou com pouco dinheiro este mês
 절약해야 돼=Eu preciso economizar dinheiro
+
+# --- 대화 50: 길 안내 2·위치 설명 (2026-11-13) ---
+여기서 가까워요=É perto daqui?
+걸어서 몇 분 걸려요=Quantos minutos a pé?
+이 길로 쭉 가세요=Siga em frente por esta estrada
+두 번째 골목에서 왼쪽이에요=Vire à esquerda no segundo beco
+신호등에서 오른쪽으로 가세요=Vire à direita no semáforo
+편의점 옆이에요=Fica ao lado da loja de conveniência
+은행 맞은편이에요=Está em frente ao banco
+건물 뒤에 있어요=Está atrás do prédio
+2층에 있어요=Está no segundo andar
+지하에 있어요=Está no porão
+여기서 내려서 걸어가세요=Saia daqui e caminhe
+이 근처에 버스 정류장 있어요=Tem ponto de ônibus perto daqui?
+길을 건너야 돼요=Preciso atravessar a rua?
+지나쳤어요=Passei do lugar
+다시 돌아가야 돼요=Eu preciso voltar
+지도 앱이 이상해요=O aplicativo de mapas está agindo de forma estranha
+여기 어딘지 설명해 줄 수 있어요=Você pode explicar onde fica esse lugar?
