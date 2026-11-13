@@ -22433,3 +22433,35 @@
 편하게 하세요=Rozgość się
 맛있게 드세요=Ciesz się posiłkiem
 많이 드세요=Proszę, jedz dużo
+
+# --- 대화 22: 요리·시장 장보기 (2026-11-13) ---
+이거 신선해요=Czy to jest świeże?
+오늘 들어온 거예요=Czy ten produkt dotarł dzisiaj do sklepu?
+유통기한이 언제까지예요=Jaka jest data ważności?
+킬로에 얼마예요=Ile to jest za kilogram?
+반 킬로 주세요=Proszę pół kilo
+한 봉지에 얼마예요=Ile kosztuje jedna torba?
+이거 맛봐도 돼요=Czy mogę tego spróbować?
+잘라 주세요=Proszę, wytnij to dla mnie
+껍질 벗겨 주세요=Proszę, obierz to dla mnie
+뼈 발라 주세요=Proszę usunąć kości
+이거 어떻게 요리해요=Jak to gotujesz?
+이거 날로 먹어도 돼요=Czy to można jeść na surowo?
+너무 짜=Jest zbyt słone
+너무 싱거워=Potrzebuje więcej soli
+너무 달아=To jest zbyt słodkie
+너무 매워=Jest zbyt pikantnie
+맛이 이상해=Smakuje dziwnie
+상한 것 같아=Myślę, że to jedzenie się zepsuło
+간 좀 봐 줘=Spróbuj i sprawdź doprawienie
+불 좀 줄여=Zmniejsz ciepło
+물 끓었어=Woda się gotuje
+밥 다 됐어=Ryż jest gotowy
+밥 먹자=Jedzmy
+냉장고에 넣어 둬=Włóż go do lodówki
+전자레인지에 데워 먹어=Podgrzej w kuchence mikrofalowej
+레시피 알려 줘=Powiedz mi przepis
+내가 만든 거야=Zrobiłem to sam
+요리 잘하네=Jesteś dobrym kucharzem
+더 먹을래=Chcesz więcej?
+배부르게 먹었어=Jadłem, aż byłem pełny

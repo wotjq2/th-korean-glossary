@@ -37446,3 +37446,35 @@
 편하게 하세요=Buatlah diri Anda nyaman
 맛있게 드세요=Selamat makan
 많이 드세요=Silakan makan yang banyak
+
+# --- 대화 22: 요리·시장 장보기 (2026-11-13) ---
+이거 신선해요=Apakah ini segar?
+오늘 들어온 거예요=Apakah produk ini sampai di toko hari ini?
+유통기한이 언제까지예요=Berapa tanggal kadaluwarsanya?
+킬로에 얼마예요=Berapa harganya per kilonya?
+반 킬로 주세요=Tolong setengah kilo
+한 봉지에 얼마예요=Berapa harga satu tas?
+이거 맛봐도 돼요=Bolehkah aku mencicipi ini?
+잘라 주세요=Tolong potong untukku
+껍질 벗겨 주세요=Tolong kupas untuk saya
+뼈 발라 주세요=Tolong keluarkan tulangnya
+이거 어떻게 요리해요=Bagaimana cara memasak ini?
+이거 날로 먹어도 돼요=Bisakah ini dimakan mentah?
+너무 짜=Itu terlalu asin
+너무 싱거워=Ini membutuhkan lebih banyak garam
+너무 달아=Itu terlalu manis
+너무 매워=Itu terlalu pedas
+맛이 이상해=Rasanya aneh
+상한 것 같아=Menurutku makanan ini sudah basi
+간 좀 봐 줘=Silakan cicipi dan cek bumbunya
+불 좀 줄여=Kecilkan apinya
+물 끓었어=Airnya mendidih
+밥 다 됐어=Nasi sudah siap
+밥 먹자=Ayo makan
+냉장고에 넣어 둬=Taruh di lemari es
+전자레인지에 데워 먹어=Panaskan dalam microwave
+레시피 알려 줘=Katakan padaku resepnya
+내가 만든 거야=Saya membuat ini sendiri
+요리 잘하네=Anda seorang juru masak yang baik
+더 먹을래=Apakah Anda ingin lagi?
+배부르게 먹었어=Aku makan sampai kenyang

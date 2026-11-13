@@ -16544,3 +16544,35 @@
 편하게 하세요=Kendinizi rahat ettirin
 맛있게 드세요=Afiyet olsun
 많이 드세요=Lütfen çok ye
+
+# --- 대화 22: 요리·시장 장보기 (2026-11-13) ---
+이거 신선해요=Bu taze mi?
+오늘 들어온 거예요=Bu ürün bugün mağazaya geldi mi?
+유통기한이 언제까지예요=Son kullanma tarihi nedir?
+킬로에 얼마예요=Kilosu ne kadar?
+반 킬로 주세요=Yarım kilo lütfen
+한 봉지에 얼마예요=Bir çanta ne kadar?
+이거 맛봐도 돼요=Bunun tadına bakabilir miyim?
+잘라 주세요=Lütfen benim için kes
+껍질 벗겨 주세요=Lütfen benim için soyun
+뼈 발라 주세요=Lütfen kemikleri çıkarın
+이거 어떻게 요리해요=Bunu nasıl pişiriyorsun?
+이거 날로 먹어도 돼요=Bu çiğ olarak yenebilir mi?
+너무 짜=Bu çok tuzlu
+너무 싱거워=Daha fazla tuza ihtiyacı var
+너무 달아=Bu çok tatlı
+너무 매워=Bu çok baharatlı
+맛이 이상해=Tadı tuhaf
+상한 것 같아=Bu yemeğin bozulduğunu düşünüyorum
+간 좀 봐 줘=Lütfen tadın ve baharatını kontrol edin
+불 좀 줄여=Isıyı kısın
+물 끓었어=Su kaynıyor
+밥 다 됐어=Pirinç hazır
+밥 먹자=Hadi yiyelim
+냉장고에 넣어 둬=Buzdolabına koy
+전자레인지에 데워 먹어=Mikrodalgada ısıtın
+레시피 알려 줘=Bana tarifini söyle
+내가 만든 거야=Bunu kendim yaptım
+요리 잘하네=Sen iyi bir aşçısın
+더 먹을래=Biraz daha ister misin?
+배부르게 먹었어=Doyana kadar yedim

@@ -47059,3 +47059,35 @@
 편하게 하세요=Ponte cómodo
 맛있게 드세요=Disfrute de su comida
 많이 드세요=por favor come mucho
+
+# --- 대화 22: 요리·시장 장보기 (2026-11-13) ---
+이거 신선해요=¿Esto está fresco?
+오늘 들어온 거예요=¿Este producto llegó hoy a la tienda?
+유통기한이 언제까지예요=¿Cuál es la fecha de vencimiento?
+킬로에 얼마예요=¿Cuánto es el kilo?
+반 킬로 주세요=Medio kilo por favor
+한 봉지에 얼마예요=¿Cuánto cuesta una bolsa?
+이거 맛봐도 돼요=¿Puedo probar esto?
+잘라 주세요=Por favor córtamelo
+껍질 벗겨 주세요=Por favor pélamelo
+뼈 발라 주세요=Por favor quita los huesos
+이거 어떻게 요리해요=¿Cómo se cocina esto?
+이거 날로 먹어도 돼요=¿Se puede comer esto crudo?
+너무 짜=Está demasiado salado
+너무 싱거워=necesita mas sal
+너무 달아=Está demasiado dulce
+너무 매워=Está demasiado picoso
+맛이 이상해=tiene un sabor extraño
+상한 것 같아=Creo que esta comida se ha echado a perder.
+간 좀 봐 줘=Pruébalo y comprueba la sazón.
+불 좀 줄여=Baja el calor
+물 끓었어=el agua esta hirviendo
+밥 다 됐어=El arroz esta listo
+밥 먹자=vamos a comer
+냉장고에 넣어 둬=Ponlo en la nevera.
+전자레인지에 데워 먹어=Calentarlo en el microondas
+레시피 알려 줘=Dime la receta
+내가 만든 거야=Esto lo hice yo mismo
+요리 잘하네=eres un buen cocinero
+더 먹을래=¿Quieres un poco más?
+배부르게 먹었어=Comí hasta saciarme

@@ -40222,3 +40222,35 @@
 편하게 하세요=Làm cho mình thoải mái
 맛있게 드세요=Thưởng thức bữa ăn của bạn
 많이 드세요=Hãy ăn thật nhiều nhé
+
+# --- 대화 22: 요리·시장 장보기 (2026-11-13) ---
+이거 신선해요=Cái này có tươi không?
+오늘 들어온 거예요=Sản phẩm này hôm nay đã có mặt tại cửa hàng chưa?
+유통기한이 언제까지예요=Ngày hết hạn là gì?
+킬로에 얼마예요=Bao nhiêu tiền một kg?
+반 킬로 주세요=Cho xin nửa kg
+한 봉지에 얼마예요=Một túi bao nhiêu tiền?
+이거 맛봐도 돼요=Tôi có thể nếm thử cái này được không?
+잘라 주세요=Hãy cắt nó cho tôi
+껍질 벗겨 주세요=Hãy bóc nó ra cho tôi
+뼈 발라 주세요=Hãy loại bỏ xương
+이거 어떻게 요리해요=Làm thế nào để bạn nấu món này?
+이거 날로 먹어도 돼요=Cái này có thể ăn sống được không?
+너무 짜=Nó quá mặn
+너무 싱거워=Nó cần thêm muối
+너무 달아=Nó quá ngọt ngào
+너무 매워=Nó quá cay
+맛이 이상해=Nó có vị lạ
+상한 것 같아=Tôi nghĩ thực phẩm này đã hư hỏng
+간 좀 봐 줘=Hãy nếm thử và kiểm tra gia vị
+불 좀 줄여=Giảm nhiệt
+물 끓었어=Nước đang sôi
+밥 다 됐어=Cơm đã sẵn sàng
+밥 먹자=Hãy ăn đi
+냉장고에 넣어 둬=Đặt nó trong tủ lạnh
+전자레인지에 데워 먹어=Làm nóng nó trong lò vi sóng
+레시피 알려 줘=Hãy cho tôi biết công thức
+내가 만든 거야=Tôi đã tự làm cái này
+요리 잘하네=Bạn là một đầu bếp giỏi
+더 먹을래=Bạn có muốn thêm nữa không?
+배부르게 먹었어=Tôi đã ăn cho tới khi no

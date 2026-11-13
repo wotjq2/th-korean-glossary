@@ -23481,3 +23481,35 @@
 편하게 하세요=Machen Sie es sich bequem
 맛있게 드세요=Guten Appetit
 많이 드세요=Bitte essen Sie viel
+
+# --- 대화 22: 요리·시장 장보기 (2026-11-13) ---
+이거 신선해요=Ist das frisch?
+오늘 들어온 거예요=Ist dieses Produkt heute im Laden angekommen?
+유통기한이 언제까지예요=Was ist das Ablaufdatum?
+킬로에 얼마예요=Wie viel kostet es pro Kilo?
+반 킬로 주세요=Ein halbes Kilo bitte
+한 봉지에 얼마예요=Wie viel kostet eine Tasche?
+이거 맛봐도 돼요=Kann ich das probieren?
+잘라 주세요=Bitte schneiden Sie es für mich ab
+껍질 벗겨 주세요=Bitte schälen Sie es für mich
+뼈 발라 주세요=Bitte entfernen Sie die Knochen
+이거 어떻게 요리해요=Wie kocht man das?
+이거 날로 먹어도 돼요=Kann man das roh essen?
+너무 짜=Das ist zu salzig
+너무 싱거워=Es braucht mehr Salz
+너무 달아=Es ist zu süß
+너무 매워=Es ist zu pikant
+맛이 이상해=Es schmeckt seltsam
+상한 것 같아=Ich glaube, dieses Essen ist verdorben
+간 좀 봐 줘=Bitte probieren Sie es und überprüfen Sie die Würze
+불 좀 줄여=Drehen Sie die Hitze herunter
+물 끓었어=Das Wasser kocht
+밥 다 됐어=Der Reis ist fertig
+밥 먹자=Lass uns essen
+냉장고에 넣어 둬=Stellen Sie es in den Kühlschrank
+전자레인지에 데워 먹어=Erhitze es in der Mikrowelle
+레시피 알려 줘=Sag mir das Rezept
+내가 만든 거야=Ich habe das selbst gemacht
+요리 잘하네=Du bist ein guter Koch
+더 먹을래=Lust auf mehr?
+배부르게 먹었어=Ich habe gegessen, bis ich satt war

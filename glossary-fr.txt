@@ -46841,3 +46841,35 @@
 편하게 하세요=Installez-vous confortablement
 맛있게 드세요=Bon appétit
 많이 드세요=S'il te plaît, mange beaucoup
+
+# --- 대화 22: 요리·시장 장보기 (2026-11-13) ---
+이거 신선해요=Est-ce frais ?
+오늘 들어온 거예요=Ce produit est-il arrivé au magasin aujourd'hui ?
+유통기한이 언제까지예요=Quelle est la date de péremption ?
+킬로에 얼마예요=C'est combien au kilo ?
+반 킬로 주세요=Un demi-kilo, s'il vous plaît
+한 봉지에 얼마예요=Combien coûte un sac ?
+이거 맛봐도 돼요=Puis-je goûter ça ?
+잘라 주세요=S'il te plaît, coupe-le pour moi
+껍질 벗겨 주세요=S'il te plaît, décolle-le pour moi
+뼈 발라 주세요=S'il vous plaît, retirez les os
+이거 어떻게 요리해요=Comment cuisinez-vous cela ?
+이거 날로 먹어도 돼요=Peut-on le manger cru ?
+너무 짜=C'est trop salé
+너무 싱거워=Il lui faut plus de sel
+너무 달아=C'est trop sucré
+너무 매워=C'est trop épicé
+맛이 이상해=Ça a un goût étrange
+상한 것 같아=Je pense que cette nourriture est gâtée
+간 좀 봐 줘=S'il vous plaît goûtez-le et vérifiez l'assaisonnement
+불 좀 줄여=Baissez le feu
+물 끓었어=L'eau bout
+밥 다 됐어=Le riz est prêt
+밥 먹자=Mangeons
+냉장고에 넣어 둬=Mettez-le au réfrigérateur
+전자레인지에 데워 먹어=Réchauffez-le au micro-ondes
+레시피 알려 줘=Dis-moi la recette
+내가 만든 거야=J'ai fait ça moi-même
+요리 잘하네=Tu es un bon cuisinier
+더 먹을래=Vous en voulez encore ?
+배부르게 먹었어=J'ai mangé jusqu'à ce que je sois rassasié

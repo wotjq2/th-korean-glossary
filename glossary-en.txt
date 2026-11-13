@@ -51587,3 +51587,35 @@
 편하게 하세요=Make yourself comfortable
 맛있게 드세요=Enjoy your meal
 많이 드세요=Please eat a lot
+
+# --- 대화 22: 요리·시장 장보기 (2026-11-13) ---
+이거 신선해요=Is this fresh?
+오늘 들어온 거예요=Did this product arrive at the store today?
+유통기한이 언제까지예요=What is the expiration date?
+킬로에 얼마예요=How much is it per kilo?
+반 킬로 주세요=Half a kilo, please
+한 봉지에 얼마예요=How much is one bag?
+이거 맛봐도 돼요=Can I taste this?
+잘라 주세요=Please cut it for me
+껍질 벗겨 주세요=Please peel it for me
+뼈 발라 주세요=Please remove the bones
+이거 어떻게 요리해요=How do you cook this?
+이거 날로 먹어도 돼요=Can this be eaten raw?
+너무 짜=It's too salty
+너무 싱거워=It needs more salt
+너무 달아=It's too sweet
+너무 매워=It's too spicy
+맛이 이상해=It tastes strange
+상한 것 같아=I think this food has spoiled
+간 좀 봐 줘=Please taste it and check the seasoning
+불 좀 줄여=Turn down the heat
+물 끓었어=The water is boiling
+밥 다 됐어=The rice is ready
+밥 먹자=Let's eat
+냉장고에 넣어 둬=Put it in the fridge
+전자레인지에 데워 먹어=Heat it up in the microwave
+레시피 알려 줘=Tell me the recipe
+내가 만든 거야=I made this myself
+요리 잘하네=You're a good cook
+더 먹을래=Do you want some more?
+배부르게 먹었어=I ate until I was full
