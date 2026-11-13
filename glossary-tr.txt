@@ -17064,3 +17064,25 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 천천히 알아가자=Yavaş yavaş tanışalım
 부모님께 소개할게=Seni ailemle tanıştıracağım
 기념일 축하해=Mutlu yıl dönümleri
+
+# --- 대화 43: 친구 사이 농담·놀리기 (2026-11-13) ---
+농담이야=Sadece şaka yapıyorum
+장난이야=sadece seninle dalga geçiyorum
+진지하게 하는 말이야=Bunu ciddi olarak söylüyorum
+놀리지 마=Benimle dalga geçme
+너 바보야=Aptal mısın yoksa ne?
+웃기지 마=Beni güldürme
+네가 쏴=Bu sefer sen ısmarla
+치사하다=Çok cimrisin
+배신자=Seni hain
+너만 믿을게=sana güveniyorum
+나 버리고 가지 마=Beni arkanda bırakma
+같이 가자=Hadi birlikte gidelim
+비밀이야=Bu bir sır
+아무한테도 말하지 마=Kimseye söyleme
+약속해=bana söz ver
+새끼손가락 걸어=Serçe parmağının sözü
+내기할래=Bahis oynamak ister misin?
+내가 이겼다=kazandım
+한 판 더 하자=Haydi bir tur daha oynayalım
+너 때문에 웃었어=Beni güldürdün

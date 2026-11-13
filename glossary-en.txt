@@ -52107,3 +52107,25 @@ IT 쪽에서 일해요=I work in IT
 천천히 알아가자=Let's get to know each other slowly
 부모님께 소개할게=I'll introduce you to my parents
 기념일 축하해=Happy anniversary
+
+# --- 대화 43: 친구 사이 농담·놀리기 (2026-11-13) ---
+농담이야=I'm just kidding
+장난이야=I'm just messing with you
+진지하게 하는 말이야=I'm saying this seriously
+놀리지 마=Don't tease me
+너 바보야=Are you stupid or what?
+웃기지 마=Don't make me laugh
+네가 쏴=Your treat this time
+치사하다=That's so petty
+배신자=You traitor
+너만 믿을게=I'm counting on you
+나 버리고 가지 마=Don't leave me behind
+같이 가자=Let's go together
+비밀이야=It's a secret
+아무한테도 말하지 마=Don't tell anyone
+약속해=Promise me
+새끼손가락 걸어=Pinky promise
+내기할래=Do you want to make a bet?
+내가 이겼다=I won
+한 판 더 하자=Let's play one more round
+너 때문에 웃었어=You made me laugh

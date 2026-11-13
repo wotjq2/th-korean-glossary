@@ -24001,3 +24001,25 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 천천히 알아가자=Lernen wir uns langsam kennen
 부모님께 소개할게=Ich stelle dir meine Eltern vor
 기념일 축하해=Herzlichen Glückwunsch zum Jubiläum
+
+# --- 대화 43: 친구 사이 농담·놀리기 (2026-11-13) ---
+농담이야=Ich mache nur Spaß
+장난이야=Ich verarsche dich nur
+진지하게 하는 말이야=Ich sage das im Ernst
+놀리지 마=Necken Sie mich nicht
+너 바보야=Bist du dumm oder was?
+웃기지 마=Bring mich nicht zum Lachen
+네가 쏴=Diesmal lädst du ein
+치사하다=Das ist so kleinlich
+배신자=Du Verräter
+너만 믿을게=Ich zähle auf dich
+나 버리고 가지 마=Lass mich nicht zurück
+같이 가자=Lass uns zusammen gehen
+비밀이야=Es ist ein Geheimnis
+아무한테도 말하지 마=Sag es niemandem
+약속해=Versprich es mir
+새끼손가락 걸어=Pinky-Versprechen
+내기할래=Möchten Sie eine Wette abschließen?
+내가 이겼다=Ich habe gewonnen
+한 판 더 하자=Lass uns noch eine Runde spielen
+너 때문에 웃었어=Du hast mich zum Lachen gebracht

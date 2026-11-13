@@ -37966,3 +37966,25 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 천천히 알아가자=Mari kita mengenal satu sama lain secara perlahan
 부모님께 소개할게=Aku akan memperkenalkanmu pada orang tuaku
 기념일 축하해=Selamat hari jadi
+
+# --- 대화 43: 친구 사이 농담·놀리기 (2026-11-13) ---
+농담이야=Saya hanya bercanda
+장난이야=Aku hanya mempermainkanmu
+진지하게 하는 말이야=Aku mengatakan ini dengan serius
+놀리지 마=Jangan menggodaku
+너 바보야=Apakah kamu bodoh atau apa?
+웃기지 마=Jangan membuatku tertawa
+네가 쏴=Kali ini kamu yang traktir
+치사하다=Itu sangat remeh
+배신자=Anda pengkhianat
+너만 믿을게=Aku mengandalkanmu
+나 버리고 가지 마=Jangan tinggalkan aku
+같이 가자=Ayo pergi bersama
+비밀이야=Ini sebuah rahasia
+아무한테도 말하지 마=Jangan beri tahu siapa pun
+약속해=Berjanjilah padaku
+새끼손가락 걸어=Janji kelingking
+내기할래=Apakah Anda ingin bertaruh?
+내가 이겼다=saya menang
+한 판 더 하자=Ayo main satu putaran lagi
+너 때문에 웃었어=Kamu membuatku tertawa
