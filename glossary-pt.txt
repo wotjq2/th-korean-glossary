@@ -21878,3 +21878,25 @@ IT 쪽에서 일해요=Eu trabalho em TI
 잘될 거야=Tudo vai acabar bem
 포기하지 마=Não desista
 응원할게=Estou torcendo por você
+
+# --- 대화 40: 음식 취향 (2026-11-13) ---
+무슨 음식 좋아해=Que tipo de comida você gosta?
+매운 거 잘 먹어=Você consegue lidar com comida picante?
+매운 거 못 먹어=Eu não posso comer comida picante
+태국 음식 좋아해요=Eu gosto de comida tailandesa
+한국 음식 먹어 봤어=Você já experimentou comida coreana?
+못 먹는 음식 있어=Existe algum alimento que você não pode comer?
+해산물 못 먹어요=não posso comer frutos do mar
+돼지고기 안 먹어요=eu não como carne de porco
+소고기 안 먹어요=eu não como carne bovina
+고수 싫어해=eu não gosto de coentro
+단 거 좋아해=eu gosto de doces
+배달 음식 시킬까=Devemos pedir entrega?
+뭐 먹고 싶어=O que você quer comer?
+아무거나 잘 먹어=eu como qualquer coisa
+오늘은 한식 먹고 싶다=Eu quero comida coreana hoje
+맛집 알아=Você conhece algum bom restaurante?
+여기 유명한 음식이 뭐예요=Qual é a comida famosa aqui?
+이거 처음 먹어 봐=É a primeira vez que como isso
+생각보다 맛있다=É mais gostoso do que eu esperava
+입맛에 안 맞아=Não combina com meu gosto

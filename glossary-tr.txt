@@ -17002,3 +17002,25 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 잘될 거야=Her şey yoluna girecek
 포기하지 마=Vazgeçme
 응원할게=senin için tezahürat yapıyorum
+
+# --- 대화 40: 음식 취향 (2026-11-13) ---
+무슨 음식 좋아해=Ne tür yemek seversin?
+매운 거 잘 먹어=Baharatlı yiyecekleri kaldırabilir misin?
+매운 거 못 먹어=Baharatlı yemek yiyemiyorum
+태국 음식 좋아해요=Tayland yemeklerini severim
+한국 음식 먹어 봤어=Kore yemeklerini denediniz mi?
+못 먹는 음식 있어=Yiyemediğin yiyecek var mı?
+해산물 못 먹어요=Deniz ürünleri yiyemiyorum
+돼지고기 안 먹어요=domuz eti yemiyorum
+소고기 안 먹어요=Sığır eti yemiyorum
+고수 싫어해=kişniş sevmiyorum
+단 거 좋아해=tatlıları severim
+배달 음식 시킬까=Teslimat siparişi vermeli miyiz?
+뭐 먹고 싶어=Ne yemek istersin?
+아무거나 잘 먹어=her şeyi yerim
+오늘은 한식 먹고 싶다=Bugün Kore yemeği istiyorum
+맛집 알아=İyi restoranlar biliyor musun?
+여기 유명한 음식이 뭐예요=Buranın meşhur yemeği nedir?
+이거 처음 먹어 봐=Bunu ilk defa yiyorum
+생각보다 맛있다=Beklediğimden daha lezzetli
+입맛에 안 맞아=Benim damak tadıma uymuyor

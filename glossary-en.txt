@@ -52045,3 +52045,25 @@ IT 쪽에서 일해요=I work in IT
 잘될 거야=Everything will turn out fine
 포기하지 마=Don't give up
 응원할게=I am cheering for you
+
+# --- 대화 40: 음식 취향 (2026-11-13) ---
+무슨 음식 좋아해=What kind of food do you like?
+매운 거 잘 먹어=Can you handle spicy food?
+매운 거 못 먹어=I can't eat spicy food
+태국 음식 좋아해요=I like Thai food
+한국 음식 먹어 봤어=Have you tried Korean food?
+못 먹는 음식 있어=Is there any food you can't eat?
+해산물 못 먹어요=I can't eat seafood
+돼지고기 안 먹어요=I don't eat pork
+소고기 안 먹어요=I don't eat beef
+고수 싫어해=I don't like cilantro
+단 거 좋아해=I like sweets
+배달 음식 시킬까=Should we order delivery?
+뭐 먹고 싶어=What do you want to eat?
+아무거나 잘 먹어=I eat anything
+오늘은 한식 먹고 싶다=I want Korean food today
+맛집 알아=Do you know any good restaurants?
+여기 유명한 음식이 뭐예요=What is the famous food here?
+이거 처음 먹어 봐=This is my first time eating this
+생각보다 맛있다=It's tastier than I expected
+입맛에 안 맞아=It doesn't suit my taste
