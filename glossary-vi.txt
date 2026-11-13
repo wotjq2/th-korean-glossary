@@ -40109,3 +40109,29 @@
 신고했어요=Tôi đã báo cáo nó
 증인이 있어요=Có một nhân chứng
 통역사가 필요해요=Tôi cần một thông dịch viên
+
+# --- 대화 18: 미용실·세탁소·수리 (2026-11-13) ---
+머리 자르고 싶어요=Tôi muốn đi cắt tóc
+조금만 다듬어 주세요=Xin hãy tỉa tóc cho tôi một chút
+짧게 잘라 주세요=Hãy cắt tóc ngắn cho tôi
+너무 짧게 자르지 마세요=Xin đừng cắt ngắn quá
+이 사진처럼 해 주세요=Hãy làm cho nó trông giống như bức ảnh này
+염색하고 싶어요=Tôi muốn nhuộm tóc
+파마하고 싶어요=Tôi muốn được uốn tóc
+머리 감겨 주세요=Hãy gội đầu cho tôi
+네일 하고 싶어요=Tôi muốn làm móng tay
+예약 안 했는데 괜찮아요=Tôi không đặt chỗ trước, được chứ?
+세탁소 어디 있어요=Tiệm giặt là ở đâu?
+드라이클리닝 해 주세요=Vui lòng giặt khô cái này
+언제 찾으러 오면 돼요=Khi nào tôi có thể lấy nó?
+얼룩 지워 주세요=Hãy loại bỏ vết bẩn này
+수선해 주세요=Hãy sửa lại những bộ quần áo này
+바지 길이 줄여 주세요=Làm ơn rút ngắn chiếc quần này lại
+휴대폰 화면이 깨졌어요=Màn hình điện thoại của tôi bị nứt
+수리하는 데 얼마나 걸려요=Việc sửa chữa sẽ mất bao lâu?
+수리비 얼마예요=Chi phí sửa chữa là bao nhiêu?
+배터리 교체해 주세요=Vui lòng thay pin
+보증 기간이에요=Nó vẫn còn bảo hành
+오토바이 고쳐야 돼=Tôi cần sửa xe máy
+타이어 펑크 났어요=Tôi bị xẹp lốp
+열쇠 복사해 주세요=Vui lòng tạo một bản sao của chìa khóa này

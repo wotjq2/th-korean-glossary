@@ -22320,3 +22320,29 @@
 신고했어요=Zgłosiłem to
 증인이 있어요=Jest świadek
 통역사가 필요해요=Potrzebuję tłumacza
+
+# --- 대화 18: 미용실·세탁소·수리 (2026-11-13) ---
+머리 자르고 싶어요=Chciałbym się ostrzyc
+조금만 다듬어 주세요=Proszę, przytnij mi trochę włosy
+짧게 잘라 주세요=Proszę skrócić mi włosy
+너무 짧게 자르지 마세요=Proszę nie skracać tego zbyt krótko
+이 사진처럼 해 주세요=Proszę, żeby wyglądało to tak, jak na tym zdjęciu
+염색하고 싶어요=Chciałabym pofarbować włosy
+파마하고 싶어요=Chciałabym zrobić sobie trwałą ondulację włosów
+머리 감겨 주세요=Proszę, umyj mi włosy
+네일 하고 싶어요=Chciałabym zrobić sobie paznokcie
+예약 안 했는데 괜찮아요=Nie mam rezerwacji, czy to w porządku?
+세탁소 어디 있어요=Gdzie jest pralnia?
+드라이클리닝 해 주세요=Proszę to wyprać chemicznie
+언제 찾으러 오면 돼요=Kiedy mogę to odebrać?
+얼룩 지워 주세요=Proszę usunąć tę plamę
+수선해 주세요=Proszę naprawić te ubrania
+바지 길이 줄여 주세요=Proszę skrócić te spodnie
+휴대폰 화면이 깨졌어요=Ekran mojego telefonu jest pęknięty
+수리하는 데 얼마나 걸려요=Jak długo potrwa naprawa?
+수리비 얼마예요=Ile kosztuje naprawa?
+배터리 교체해 주세요=Proszę wymienić baterię
+보증 기간이에요=Jest jeszcze na gwarancji
+오토바이 고쳐야 돼=Muszę naprawić motocykl
+타이어 펑크 났어요=Mam przebitą oponę
+열쇠 복사해 주세요=Proszę zrobić kopię tego klucza

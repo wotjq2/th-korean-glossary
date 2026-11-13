@@ -16431,3 +16431,29 @@
 신고했어요=bildirdim
 증인이 있어요=Bir tanık var
 통역사가 필요해요=Bir tercümana ihtiyacım var
+
+# --- 대화 18: 미용실·세탁소·수리 (2026-11-13) ---
+머리 자르고 싶어요=Saçımı kestirmek istiyorum
+조금만 다듬어 주세요=Lütfen saçımı biraz kestir
+짧게 잘라 주세요=Lütfen saçımı kısa kes
+너무 짧게 자르지 마세요=Lütfen çok kısa kesmeyin
+이 사진처럼 해 주세요=Lütfen bu fotoğrafa benzesin
+염색하고 싶어요=saçımı boyamak isterim
+파마하고 싶어요=saçlarıma perma yaptırmak istiyorum
+머리 감겨 주세요=Lütfen saçımı yıka
+네일 하고 싶어요=tırnaklarımı yaptırmak istiyorum
+예약 안 했는데 괜찮아요=Rezervasyonum yok, tamam mı?
+세탁소 어디 있어요=Çamaşırhane nerede?
+드라이클리닝 해 주세요=Lütfen bunu kuru temizlemeye verin
+언제 찾으러 오면 돼요=Ne zaman alabilirim?
+얼룩 지워 주세요=Lütfen bu lekeyi çıkarın
+수선해 주세요=Lütfen bu kıyafetleri onarın
+바지 길이 줄여 주세요=Lütfen bu pantolonu kısaltın
+휴대폰 화면이 깨졌어요=Telefonumun ekranı çatladı
+수리하는 데 얼마나 걸려요=Onarım ne kadar sürecek?
+수리비 얼마예요=Onarımın maliyeti ne kadar?
+배터리 교체해 주세요=Lütfen pili değiştirin
+보증 기간이에요=Hala garanti kapsamındadır
+오토바이 고쳐야 돼=Motosikletimi tamir ettirmem gerekiyor
+타이어 펑크 났어요=Lastiğim patladı
+열쇠 복사해 주세요=Lütfen bu anahtarın bir kopyasını oluşturun

@@ -23368,3 +23368,29 @@
 신고했어요=Ich habe es gemeldet
 증인이 있어요=Es gibt einen Zeugen
 통역사가 필요해요=Ich brauche einen Dolmetscher
+
+# --- 대화 18: 미용실·세탁소·수리 (2026-11-13) ---
+머리 자르고 싶어요=Ich möchte mir die Haare schneiden lassen
+조금만 다듬어 주세요=Bitte schneiden Sie meine Haare ein wenig
+짧게 잘라 주세요=Bitte schneide mir die Haare kurz
+너무 짧게 자르지 마세요=Bitte nicht zu kurz schneiden
+이 사진처럼 해 주세요=Bitte lassen Sie es wie auf diesem Foto aussehen
+염색하고 싶어요=Ich möchte meine Haare färben
+파마하고 싶어요=Ich würde mir gerne eine Dauerwelle machen lassen
+머리 감겨 주세요=Bitte wasche meine Haare
+네일 하고 싶어요=Ich möchte meine Nägel machen lassen
+예약 안 했는데 괜찮아요=Ich habe keine Reservierung, ist das in Ordnung?
+세탁소 어디 있어요=Wo ist die Wäscherei?
+드라이클리닝 해 주세요=Bitte reinigen Sie dies chemisch
+언제 찾으러 오면 돼요=Wann kann ich es abholen?
+얼룩 지워 주세요=Bitte entfernen Sie diesen Fleck
+수선해 주세요=Bitte reparieren Sie diese Kleidung
+바지 길이 줄여 주세요=Bitte kürzen Sie diese Hose
+휴대폰 화면이 깨졌어요=Der Bildschirm meines Telefons ist gesprungen
+수리하는 데 얼마나 걸려요=Wie lange dauert die Reparatur?
+수리비 얼마예요=Wie viel kostet die Reparatur?
+배터리 교체해 주세요=Bitte ersetzen Sie die Batterie
+보증 기간이에요=Es läuft noch Garantie
+오토바이 고쳐야 돼=Ich muss mein Motorrad reparieren lassen
+타이어 펑크 났어요=Ich habe einen platten Reifen
+열쇠 복사해 주세요=Bitte erstellen Sie eine Kopie dieses Schlüssels

@@ -51474,3 +51474,29 @@
 신고했어요=I have reported it
 증인이 있어요=There is a witness
 통역사가 필요해요=I need an interpreter
+
+# --- 대화 18: 미용실·세탁소·수리 (2026-11-13) ---
+머리 자르고 싶어요=I'd like to get a haircut
+조금만 다듬어 주세요=Please trim my hair just a little
+짧게 잘라 주세요=Please cut my hair short
+너무 짧게 자르지 마세요=Please don't cut it too short
+이 사진처럼 해 주세요=Please make it look like this photo
+염색하고 싶어요=I'd like to dye my hair
+파마하고 싶어요=I would like to get my hair permed
+머리 감겨 주세요=Please wash my hair
+네일 하고 싶어요=I'd like to get my nails done
+예약 안 했는데 괜찮아요=I don't have a reservation, is that okay?
+세탁소 어디 있어요=Where is the laundry shop?
+드라이클리닝 해 주세요=Please dry-clean this
+언제 찾으러 오면 돼요=When can I pick it up?
+얼룩 지워 주세요=Please remove this stain
+수선해 주세요=Please repair these clothes
+바지 길이 줄여 주세요=Please shorten these pants
+휴대폰 화면이 깨졌어요=My phone screen is cracked
+수리하는 데 얼마나 걸려요=How long will the repair take?
+수리비 얼마예요=How much does the repair cost?
+배터리 교체해 주세요=Please replace the battery
+보증 기간이에요=It's still under warranty
+오토바이 고쳐야 돼=I need to get my motorbike fixed
+타이어 펑크 났어요=I have a flat tire
+열쇠 복사해 주세요=Please make a copy of this key
