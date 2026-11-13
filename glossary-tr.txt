@@ -16956,3 +16956,27 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 전기가 언제 들어와요=Elektrik ne zaman gelecek?
 안전한 곳으로 가자=Güvenli bir yere gidelim
 뉴스 봤어=Haberleri gördün mü?
+
+# --- 대화 38: 기분·몸 상태 짧은 말 (2026-11-13) ---
+목말라=Susadım
+추워=Üşüyorum
+더워=ateşliyim
+머리 아파=başım ağrıyor
+배 아파=Midem ağrıyor
+컨디션이 안 좋아=bugün kendimi iyi hissetmiyorum
+몸이 무거워=Bedenim ağır geliyor
+잠을 못 잤어=uyuyamadım
+긴장돼=gerginim
+설레=Çok heyecanlıyım
+떨려=sinirlerimden titriyorum
+지겨워=bundan bıktım
+답답해=Hayal kırıklığına uğramış hissediyorum
+속상해=üzgünüm
+서운해=İncindiğimi hissediyorum
+억울해=Bu çok adaletsiz
+창피해=utanıyorum
+멘붕이야=Tamamen bunaldım
+스트레스 받아=stresliyim
+기운이 없어=enerjim yok
+이제 살 것 같다=Şimdi yeniden yaşadığımı hissediyorum
+개운하다=Yenilenmiş hissediyorum

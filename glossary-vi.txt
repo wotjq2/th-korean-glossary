@@ -40634,3 +40634,27 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 전기가 언제 들어와요=Khi nào có điện trở lại?
 안전한 곳으로 가자=Hãy đến nơi nào đó an toàn
 뉴스 봤어=Bạn đã xem tin tức chưa?
+
+# --- 대화 38: 기분·몸 상태 짧은 말 (2026-11-13) ---
+목말라=tôi khát
+추워=tôi lạnh
+더워=tôi nóng quá
+머리 아파=tôi bị đau đầu
+배 아파=Bụng tôi đau
+컨디션이 안 좋아=Hôm nay tôi cảm thấy không khỏe
+몸이 무거워=Cơ thể tôi cảm thấy nặng nề
+잠을 못 잤어=tôi không thể ngủ được
+긴장돼=tôi đang lo lắng
+설레=Tôi rất vui mừng
+떨려=Tôi đang run lên vì lo lắng
+지겨워=Tôi chán nó rồi
+답답해=tôi cảm thấy thất vọng
+속상해=tôi đang buồn
+서운해=tôi cảm thấy bị tổn thương
+억울해=Thật không công bằng
+창피해=tôi xấu hổ
+멘붕이야=Tôi hoàn toàn choáng ngợp
+스트레스 받아=tôi đang bị căng thẳng
+기운이 없어=Tôi không có năng lượng
+이제 살 것 같다=Bây giờ tôi cảm thấy sống lại
+개운하다=Tôi cảm thấy sảng khoái

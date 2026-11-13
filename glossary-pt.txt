@@ -21832,3 +21832,27 @@ IT 쪽에서 일해요=Eu trabalho em TI
 전기가 언제 들어와요=Quando a eletricidade voltará?
 안전한 곳으로 가자=Vamos para algum lugar seguro
 뉴스 봤어=Você viu a notícia?
+
+# --- 대화 38: 기분·몸 상태 짧은 말 (2026-11-13) ---
+목말라=Estou com sede
+추워=estou com frio
+더워=estou com calor
+머리 아파=Estou com dor de cabeça
+배 아파=Meu estômago dói
+컨디션이 안 좋아=Não estou me sentindo bem hoje
+몸이 무거워=Meu corpo parece pesado
+잠을 못 잤어=eu não consegui dormir
+긴장돼=estou nervoso
+설레=Estou tão animado
+떨려=Estou tremendo de nervosismo
+지겨워=Estou farto disso
+답답해=Eu me sinto frustrado
+속상해=estou chateado
+서운해=Eu me sinto magoado
+억울해=É tão injusto
+창피해=estou envergonhado
+멘붕이야=Estou completamente sobrecarregado
+스트레스 받아=Estou estressado
+기운이 없어=Eu não tenho energia
+이제 살 것 같다=Agora me sinto vivo novamente
+개운하다=Eu me sinto revigorado

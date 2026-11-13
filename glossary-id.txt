@@ -37858,3 +37858,27 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 전기가 언제 들어와요=Kapan listrik akan menyala kembali?
 안전한 곳으로 가자=Ayo pergi ke tempat yang aman
 뉴스 봤어=Apakah Anda melihat beritanya?
+
+# --- 대화 38: 기분·몸 상태 짧은 말 (2026-11-13) ---
+목말라=saya haus
+추워=saya kedinginan
+더워=aku kepanasan
+머리 아파=Saya sakit kepala
+배 아파=Perutku sakit
+컨디션이 안 좋아=Aku sedang tidak enak badan hari ini
+몸이 무거워=Tubuhku terasa berat
+잠을 못 잤어=Saya tidak bisa tidur
+긴장돼=saya gugup
+설레=Saya sangat bersemangat
+떨려=Aku gemetar karena gugup
+지겨워=Aku muak dengan hal itu
+답답해=Saya merasa frustrasi
+속상해=saya kesal
+서운해=Saya merasa terluka
+억울해=Ini sangat tidak adil
+창피해=saya malu
+멘붕이야=Saya benar-benar kewalahan
+스트레스 받아=Saya stres
+기운이 없어=Saya tidak punya energi
+이제 살 것 같다=Kini aku merasa hidup kembali
+개운하다=Saya merasa segar

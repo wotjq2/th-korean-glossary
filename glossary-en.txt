@@ -51999,3 +51999,27 @@ IT 쪽에서 일해요=I work in IT
 전기가 언제 들어와요=When will the electricity come back on?
 안전한 곳으로 가자=Let's go somewhere safe
 뉴스 봤어=Did you see the news?
+
+# --- 대화 38: 기분·몸 상태 짧은 말 (2026-11-13) ---
+목말라=I'm thirsty
+추워=I'm cold
+더워=I'm hot
+머리 아파=I have a headache
+배 아파=My stomach hurts
+컨디션이 안 좋아=I'm not feeling well today
+몸이 무거워=My body feels heavy
+잠을 못 잤어=I couldn't sleep
+긴장돼=I'm nervous
+설레=I'm so excited
+떨려=I'm trembling with nerves
+지겨워=I'm sick of it
+답답해=I feel frustrated
+속상해=I'm upset
+서운해=I feel hurt
+억울해=It's so unfair
+창피해=I'm embarrassed
+멘붕이야=I'm completely overwhelmed
+스트레스 받아=I'm stressed out
+기운이 없어=I have no energy
+이제 살 것 같다=Now I feel alive again
+개운하다=I feel refreshed
