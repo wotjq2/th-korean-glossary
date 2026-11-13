@@ -22869,3 +22869,25 @@ IT 쪽에서 일해요=Pracuję w IT
 기운이 없어=Nie mam energii
 이제 살 것 같다=Teraz znów czuję, że żyję
 개운하다=Czuję się odświeżony
+
+# --- 대화 39: 계획·미래·꿈 (2026-11-13) ---
+내일 뭐 할 거야=Co będziesz robić jutro?
+다음 주에 뭐 해=Co robisz w przyszłym tygodniu?
+계획이 뭐야=Jaki masz plan?
+아직 계획 없어=Nie mam jeszcze żadnych planów
+나중에 뭐 하고 싶어=Co chcesz robić w przyszłości?
+꿈이 뭐예요=Jakie jest Twoje marzenie?
+태국에서 계속 살고 싶어=Chcę dalej mieszkać w Tajlandii
+한국에 돌아갈 거야=Mam zamiar wrócić do Korei
+언제 한국에 가=Kiedy jedziesz do Korei?
+내년에 결혼할 거예요=W przyszłym roku wychodzę za mąż
+돈 모으고 있어=Oszczędzam pieniądze
+태국어 열심히 공부할 거야=Mam zamiar pilnie uczyć się tajskiego
+새해 목표가 뭐야=Jakie jest Twoje postanowienie noworoczne?
+살 빼야 돼=Muszę schudnąć
+담배 끊을 거야=Zamierzam rzucić palenie
+가게 차리고 싶어=Chcę otworzyć własny sklep
+같이 해 볼래=Chcesz spróbować razem?
+잘될 거야=Wszystko ułoży się dobrze
+포기하지 마=Nie poddawaj się
+응원할게=Kibicuję Ci

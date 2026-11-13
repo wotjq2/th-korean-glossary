@@ -52023,3 +52023,25 @@ IT 쪽에서 일해요=I work in IT
 기운이 없어=I have no energy
 이제 살 것 같다=Now I feel alive again
 개운하다=I feel refreshed
+
+# --- 대화 39: 계획·미래·꿈 (2026-11-13) ---
+내일 뭐 할 거야=What are you going to do tomorrow?
+다음 주에 뭐 해=What are you doing next week?
+계획이 뭐야=What's your plan?
+아직 계획 없어=I don't have any plans yet
+나중에 뭐 하고 싶어=What do you want to do in the future?
+꿈이 뭐예요=What is your dream?
+태국에서 계속 살고 싶어=I want to keep living in Thailand
+한국에 돌아갈 거야=I'm going to go back to Korea
+언제 한국에 가=When are you going to Korea?
+내년에 결혼할 거예요=I'm getting married next year
+돈 모으고 있어=I'm saving money
+태국어 열심히 공부할 거야=I'm going to study Thai hard
+새해 목표가 뭐야=What's your New Year's resolution?
+살 빼야 돼=I need to lose weight
+담배 끊을 거야=I'm going to quit smoking
+가게 차리고 싶어=I want to open my own shop
+같이 해 볼래=Do you want to try it together?
+잘될 거야=Everything will turn out fine
+포기하지 마=Don't give up
+응원할게=I am cheering for you

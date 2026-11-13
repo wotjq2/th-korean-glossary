@@ -21856,3 +21856,25 @@ IT 쪽에서 일해요=Eu trabalho em TI
 기운이 없어=Eu não tenho energia
 이제 살 것 같다=Agora me sinto vivo novamente
 개운하다=Eu me sinto revigorado
+
+# --- 대화 39: 계획·미래·꿈 (2026-11-13) ---
+내일 뭐 할 거야=O que você vai fazer amanhã?
+다음 주에 뭐 해=O que você vai fazer na próxima semana?
+계획이 뭐야=Qual é o seu plano?
+아직 계획 없어=Ainda não tenho planos
+나중에 뭐 하고 싶어=O que você quer fazer no futuro?
+꿈이 뭐예요=Qual é o seu sonho?
+태국에서 계속 살고 싶어=Eu quero continuar morando na Tailândia
+한국에 돌아갈 거야=Eu vou voltar para a Coréia
+언제 한국에 가=Quando você vai para a Coreia?
+내년에 결혼할 거예요=Vou me casar no ano que vem
+돈 모으고 있어=Estou economizando dinheiro
+태국어 열심히 공부할 거야=Vou estudar muito tailandês
+새해 목표가 뭐야=Qual é a sua resolução de ano novo?
+살 빼야 돼=Eu preciso perder peso
+담배 끊을 거야=vou parar de fumar
+가게 차리고 싶어=Quero abrir minha própria loja
+같이 해 볼래=Você quer tentar juntos?
+잘될 거야=Tudo vai acabar bem
+포기하지 마=Não desista
+응원할게=Estou torcendo por você

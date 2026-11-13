@@ -16980,3 +16980,25 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 기운이 없어=enerjim yok
 이제 살 것 같다=Şimdi yeniden yaşadığımı hissediyorum
 개운하다=Yenilenmiş hissediyorum
+
+# --- 대화 39: 계획·미래·꿈 (2026-11-13) ---
+내일 뭐 할 거야=Yarın ne yapacaksın?
+다음 주에 뭐 해=Gelecek hafta ne yapıyorsun?
+계획이 뭐야=Planın ne?
+아직 계획 없어=Henüz bir planım yok
+나중에 뭐 하고 싶어=Gelecekte ne yapmak istiyorsunuz?
+꿈이 뭐예요=Hayalin nedir?
+태국에서 계속 살고 싶어=Tayland'da yaşamaya devam etmek istiyorum
+한국에 돌아갈 거야=Kore'ye geri döneceğim
+언제 한국에 가=Kore'ye ne zaman gidiyorsun?
+내년에 결혼할 거예요=Gelecek yıl evleniyorum
+돈 모으고 있어=Para biriktiriyorum
+태국어 열심히 공부할 거야=Tay dilini sıkı çalışacağım
+새해 목표가 뭐야=Yeni yıl kararınız nedir?
+살 빼야 돼=kilo vermem lazım
+담배 끊을 거야=Sigarayı bırakacağım
+가게 차리고 싶어=Kendi dükkanımı açmak istiyorum
+같이 해 볼래=Birlikte denemek ister misiniz?
+잘될 거야=Her şey yoluna girecek
+포기하지 마=Vazgeçme
+응원할게=senin için tezahürat yapıyorum
