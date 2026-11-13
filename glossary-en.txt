@@ -51252,3 +51252,37 @@
 어머=Oh my
 오예=Yay
 앗싸=Yay
+
+# --- 대화 12: 은행·휴대폰·돈 (2026-11-13) ---
+환전하고 싶어요=I'd like to exchange money
+환율이 얼마예요=What is the exchange rate?
+수수료 있어요=Is there a fee?
+수수료가 얼마예요=How much is the fee?
+계좌를 만들고 싶어요=I'd like to open a bank account
+송금하고 싶어요=I'd like to send money
+계좌번호 알려 주세요=Please tell me your account number
+돈 보냈어=I sent the money
+현금이 없어요=I don't have any cash
+근처에 ATM 있어요=Is there an ATM nearby?
+카드가 안 돼요=My card isn't working
+카드가 기계에 걸렸어요=My card got stuck in the machine
+비밀번호를 잊어버렸어요=I forgot my password
+돈 빌려줄 수 있어=Can you lend me some money?
+다음 주에 갚을게=I'll pay you back next week
+유심 카드 사고 싶어요=I'd like to buy a SIM card
+데이터 충전하고 싶어요=I'd like to top up my mobile data
+휴대폰 충전해야 돼=I need to charge my phone
+배터리가 없어=My phone battery is dead
+충전기 있어=Do you have a charger?
+와이파이가 안 돼요=The Wi-Fi isn't working
+인터넷이 너무 느려요=The internet is too slow
+전화가 안 돼요=My phone isn't working
+신호가 안 잡혀=I have no signal
+문자 확인해 줘=Please check your messages
+전화번호 알려 줘=Give me your phone number
+카톡 아이디 뭐야=What's your KakaoTalk ID?
+라인 있어=Do you have LINE?
+사진 보내 줘=Send me the photo
+나중에 다시 전화할게=I'll call you back later
+전화 못 받아서 미안해=Sorry I missed your call
+전화 좀 받아=Please answer the phone

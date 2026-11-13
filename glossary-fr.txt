@@ -46506,3 +46506,37 @@
 어머=Oh !
 오예=Youpi !
 앗싸=Youpi !
+
+# --- 대화 12: 은행·휴대폰·돈 (2026-11-13) ---
+환전하고 싶어요=J'aimerais échanger de l'argent
+환율이 얼마예요=Quel est le taux de change ?
+수수료 있어요=Y a-t-il des frais ?
+수수료가 얼마예요=Quel est le montant des frais ?
+계좌를 만들고 싶어요=J'aimerais ouvrir un compte bancaire
+송금하고 싶어요=J'aimerais envoyer de l'argent
+계좌번호 알려 주세요=S'il vous plaît dites-moi votre numéro de compte
+돈 보냈어=J'ai envoyé l'argent
+현금이 없어요=je n'ai pas d'argent liquide
+근처에 ATM 있어요=Y a-t-il un distributeur automatique à proximité ?
+카드가 안 돼요=Ma carte ne fonctionne pas
+카드가 기계에 걸렸어요=Ma carte est restée coincée dans la machine
+비밀번호를 잊어버렸어요=J'ai oublié mon mot de passe
+돈 빌려줄 수 있어=Pouvez-vous me prêter de l'argent ?
+다음 주에 갚을게=je te rembourserai la semaine prochaine
+유심 카드 사고 싶어요=Je voudrais acheter une carte SIM
+데이터 충전하고 싶어요=Je souhaite recharger mes données mobiles
+휴대폰 충전해야 돼=Je dois recharger mon téléphone
+배터리가 없어=La batterie de mon téléphone est morte
+충전기 있어=As-tu un chargeur ?
+와이파이가 안 돼요=Le Wi-Fi ne fonctionne pas
+인터넷이 너무 느려요=Internet est trop lent
+전화가 안 돼요=Mon téléphone ne fonctionne pas
+신호가 안 잡혀=je n'ai aucun signal
+문자 확인해 줘=Veuillez vérifier vos messages
+전화번호 알려 줘=Donne-moi ton numéro de téléphone
+카톡 아이디 뭐야=Quel est votre identifiant KakaoTalk ?
+라인 있어=Avez-vous LINE ?
+사진 보내 줘=Envoie-moi la photo
+나중에 다시 전화할게=je te rappellerai plus tard
+전화 못 받아서 미안해=Désolé, j'ai raté ton appel
+전화 좀 받아=S'il vous plaît, répondez au téléphone

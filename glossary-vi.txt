@@ -39887,3 +39887,37 @@
 어머=Ôi!
 오예=Yeah!
 앗싸=Yeah!
+
+# --- 대화 12: 은행·휴대폰·돈 (2026-11-13) ---
+환전하고 싶어요=Tôi muốn đổi tiền
+환율이 얼마예요=Tỷ giá hối đoái là gì?
+수수료 있어요=Có phải trả phí không?
+수수료가 얼마예요=Lệ phí là bao nhiêu?
+계좌를 만들고 싶어요=Tôi muốn mở một tài khoản ngân hàng
+송금하고 싶어요=Tôi muốn gửi tiền
+계좌번호 알려 주세요=Vui lòng cho tôi biết số tài khoản của bạn
+돈 보냈어=Tôi đã gửi tiền
+현금이 없어요=Tôi không có tiền mặt
+근처에 ATM 있어요=Có máy ATM nào gần đây không?
+카드가 안 돼요=Thẻ của tôi không hoạt động
+카드가 기계에 걸렸어요=Thẻ của tôi bị kẹt trong máy
+비밀번호를 잊어버렸어요=Tôi quên mật khẩu
+돈 빌려줄 수 있어=Bạn có thể cho tôi mượn một ít tiền được không?
+다음 주에 갚을게=Tôi sẽ trả lại cho bạn vào tuần tới
+유심 카드 사고 싶어요=Tôi muốn mua một thẻ SIM
+데이터 충전하고 싶어요=Tôi muốn nạp dữ liệu di động của mình
+휴대폰 충전해야 돼=Tôi cần sạc điện thoại của mình
+배터리가 없어=Điện thoại của tôi hết pin
+충전기 있어=Bạn có bộ sạc không?
+와이파이가 안 돼요=Wi-Fi không hoạt động
+인터넷이 너무 느려요=Internet quá chậm
+전화가 안 돼요=Điện thoại của tôi không hoạt động
+신호가 안 잡혀=Tôi không có tín hiệu
+문자 확인해 줘=Vui lòng kiểm tra tin nhắn của bạn
+전화번호 알려 줘=Cho tôi số điện thoại của bạn
+카톡 아이디 뭐야=ID KakaoTalk của bạn là gì?
+라인 있어=Bạn có LINE không?
+사진 보내 줘=Gửi cho tôi bức ảnh
+나중에 다시 전화할게=Tôi sẽ gọi lại cho bạn sau
+전화 못 받아서 미안해=Xin lỗi tôi đã bỏ lỡ cuộc gọi của bạn
+전화 좀 받아=Hãy trả lời điện thoại

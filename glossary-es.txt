@@ -46724,3 +46724,37 @@
 어머=¡Ay!
 오예=¡Bien!
 앗싸=¡Bien!
+
+# --- 대화 12: 은행·휴대폰·돈 (2026-11-13) ---
+환전하고 싶어요=me gustaria cambiar dinero
+환율이 얼마예요=¿Cuál es el tipo de cambio?
+수수료 있어요=¿Hay una tarifa?
+수수료가 얼마예요=¿A cuánto asciende la tarifa?
+계좌를 만들고 싶어요=Me gustaría abrir una cuenta bancaria
+송금하고 싶어요=me gustaria enviar dinero
+계좌번호 알려 주세요=Por favor dime tu número de cuenta
+돈 보냈어=envié el dinero
+현금이 없어요=no tengo efectivo
+근처에 ATM 있어요=¿Hay un cajero automático cerca?
+카드가 안 돼요=mi tarjeta no funciona
+카드가 기계에 걸렸어요=Mi tarjeta se quedó atascada en la máquina
+비밀번호를 잊어버렸어요=Olvidé mi contraseña
+돈 빌려줄 수 있어=¿Puedes prestarme algo de dinero?
+다음 주에 갚을게=Te lo devolveré la semana que viene
+유심 카드 사고 싶어요=Me gustaría comprar una tarjeta SIM
+데이터 충전하고 싶어요=Me gustaría recargar mis datos móviles
+휴대폰 충전해야 돼=Necesito cargar mi teléfono
+배터리가 없어=La bateria de mi telefono esta agotada
+충전기 있어=¿Tienes un cargador?
+와이파이가 안 돼요=El wifi no funciona
+인터넷이 너무 느려요=Internet es demasiado lento
+전화가 안 돼요=mi telefono no funciona
+신호가 안 잡혀=no tengo señal
+문자 확인해 줘=Por favor revisa tus mensajes
+전화번호 알려 줘=Dame tu número de teléfono
+카톡 아이디 뭐야=¿Cuál es tu ID de KakaoTalk?
+라인 있어=¿Tienes LÍNEA?
+사진 보내 줘=mandame la foto
+나중에 다시 전화할게=Te llamaré más tarde
+전화 못 받아서 미안해=Lo siento, perdí tu llamada.
+전화 좀 받아=Por favor contesta el teléfono
