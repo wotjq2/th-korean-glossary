@@ -52212,3 +52212,24 @@ IT 쪽에서 일해요=I work in IT
 체크아웃 늦게 해도 돼요=Can I check out late?
 방 정말 좋네요=The room is really nice
 다시 오고 싶어요=I'd like to come back again
+
+# --- 대화 48: 병원 2·증상 설명 (2026-11-13) ---
+여기가 부었어요=It's swollen here
+가려워요=It's itchy
+따끔거려요=It stings
+쑤셔요=It aches
+숨이 차요=I'm short of breath
+가슴이 답답해요=My chest feels tight
+식욕이 없어요=I have no appetite
+소화가 안 돼요=I have indigestion
+변비가 있어요=I'm constipated
+오한이 나요=I have chills and I am shivering
+두드러기가 났어요=I have hives, an allergic skin rash
+피부에 뭐가 났어요=I have a rash on my skin
+화상을 입었어요=I have a burn injury on my skin
+뼈가 부러진 것 같아요=I think I broke a bone
+점점 심해져요=It's getting worse
+진통제 먹었어요=I took a painkiller
+주사 맞아야 돼요=Do I need an injection?
+검사 결과는 언제 나와요=When will the test results come out?
+진료비가 얼마예요=How much is the medical fee?

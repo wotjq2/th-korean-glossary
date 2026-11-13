@@ -17168,3 +17168,24 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 체크아웃 늦게 해도 돼요=Geç check-out yapabilir miyim?
 방 정말 좋네요=Oda gerçekten güzel
 다시 오고 싶어요=Tekrar geri gelmek isterim
+
+# --- 대화 48: 병원 2·증상 설명 (2026-11-13) ---
+여기가 부었어요=Burası şişmiş
+가려워요=Kaşıntılı
+따끔거려요=Sızlıyor
+쑤셔요=Acıyor
+숨이 차요=nefesim dar
+가슴이 답답해요=Göğsüm sıkışıyor
+식욕이 없어요=iştahım yok
+소화가 안 돼요=hazımsızlığım var
+변비가 있어요=kabız oldum
+오한이 나요=Üşüyorum ve titriyorum
+두드러기가 났어요=Kurdeşen var, alerjik deri döküntüsü var
+피부에 뭐가 났어요=cildimde kızarıklık var
+화상을 입었어요=Cildimde yanık var
+뼈가 부러진 것 같아요=Sanırım bir kemiğim kırıldı
+점점 심해져요=Daha da kötüleşiyor
+진통제 먹었어요=Ağrı kesici aldım
+주사 맞아야 돼요=Enjeksiyona ihtiyacım var mı?
+검사 결과는 언제 나와요=Test sonuçları ne zaman çıkacak?
+진료비가 얼마예요=Doktor ücreti ne kadar?

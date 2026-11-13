@@ -38070,3 +38070,24 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 체크아웃 늦게 해도 돼요=Bisakah saya check out terlambat?
 방 정말 좋네요=Kamarnya sangat bagus
 다시 오고 싶어요=Saya ingin kembali lagi
+
+# --- 대화 48: 병원 2·증상 설명 (2026-11-13) ---
+여기가 부었어요=Di sini bengkak
+가려워요=Itu gatal
+따끔거려요=Perih
+쑤셔요=Itu menyakitkan
+숨이 차요=Aku sesak napas
+가슴이 답답해요=Dadaku terasa sesak
+식욕이 없어요=Saya tidak punya nafsu makan
+소화가 안 돼요=Saya menderita gangguan pencernaan
+변비가 있어요=Saya mengalami sembelit
+오한이 나요=Saya menggigil dan menggigil
+두드러기가 났어요=Saya menderita gatal-gatal, ruam alergi pada kulit
+피부에 뭐가 났어요=Saya mempunyai ruam di kulit saya
+화상을 입었어요=Saya mengalami luka bakar di kulit saya
+뼈가 부러진 것 같아요=Saya pikir saya mematahkan tulang
+점점 심해져요=Ini semakin buruk
+진통제 먹었어요=Saya minum obat penghilang rasa sakit
+주사 맞아야 돼요=Apakah saya memerlukan suntikan?
+검사 결과는 언제 나와요=Kapan hasil tesnya keluar?
+진료비가 얼마예요=Berapa biaya pengobatannya?

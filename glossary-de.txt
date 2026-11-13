@@ -24105,3 +24105,24 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 체크아웃 늦게 해도 돼요=Kann ich später auschecken?
 방 정말 좋네요=Das Zimmer ist wirklich schön
 다시 오고 싶어요=Ich komme gerne wieder
+
+# --- 대화 48: 병원 2·증상 설명 (2026-11-13) ---
+여기가 부었어요=Es ist hier geschwollen
+가려워요=Es juckt
+따끔거려요=Es brennt
+쑤셔요=Es tut weh
+숨이 차요=Ich bin außer Atem
+가슴이 답답해요=Meine Brust fühlt sich eng an
+식욕이 없어요=Ich habe keinen Appetit
+소화가 안 돼요=Ich habe Verdauungsstörungen
+변비가 있어요=Ich habe Verstopfung
+오한이 나요=Ich habe Schüttelfrost und zittere
+두드러기가 났어요=Ich habe Nesselsucht, einen allergischen Hautausschlag
+피부에 뭐가 났어요=Ich habe einen Ausschlag auf meiner Haut
+화상을 입었어요=Ich habe eine Brandverletzung auf meiner Haut
+뼈가 부러진 것 같아요=Ich glaube, ich habe mir einen Knochen gebrochen
+점점 심해져요=Es wird immer schlimmer
+진통제 먹었어요=Ich habe ein Schmerzmittel genommen
+주사 맞아야 돼요=Brauche ich eine Spritze?
+검사 결과는 언제 나와요=Wann werden die Testergebnisse veröffentlicht?
+진료비가 얼마예요=Wie hoch ist die Arztgebühr?

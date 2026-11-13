@@ -40846,3 +40846,24 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 체크아웃 늦게 해도 돼요=Tôi có thể trả phòng muộn được không?
 방 정말 좋네요=Căn phòng thật sự rất đẹp
 다시 오고 싶어요=Tôi muốn quay lại lần nữa
+
+# --- 대화 48: 병원 2·증상 설명 (2026-11-13) ---
+여기가 부었어요=Ở đây sưng tấy
+가려워요=Nó ngứa
+따끔거려요=Bị rát
+쑤셔요=Nó đau
+숨이 차요=Tôi khó thở
+가슴이 답답해요=Ngực tôi cảm thấy căng cứng
+식욕이 없어요=Tôi không có cảm giác thèm ăn
+소화가 안 돼요=Tôi bị chứng khó tiêu
+변비가 있어요=tôi bị táo bón
+오한이 나요=Tôi cảm thấy ớn lạnh và tôi đang run rẩy
+두드러기가 났어요=Tôi bị nổi mề đay, dị ứng da
+피부에 뭐가 났어요=Tôi bị phát ban trên da
+화상을 입었어요=Tôi bị bỏng trên da
+뼈가 부러진 것 같아요=Tôi nghĩ tôi đã gãy xương
+점점 심해져요=Nó đang trở nên tồi tệ hơn
+진통제 먹었어요=Tôi đã uống thuốc giảm đau
+주사 맞아야 돼요=Tôi có cần tiêm không?
+검사 결과는 언제 나와요=Khi nào kết quả xét nghiệm sẽ có?
+진료비가 얼마예요=Chi phí y tế là bao nhiêu?

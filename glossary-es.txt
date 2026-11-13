@@ -47683,3 +47683,24 @@ IT 쪽에서 일해요=yo trabajo en TI
 체크아웃 늦게 해도 돼요=¿Puedo salir tarde?
 방 정말 좋네요=La habitación es muy bonita.
 다시 오고 싶어요=me gustaria volver otra vez
+
+# --- 대화 48: 병원 2·증상 설명 (2026-11-13) ---
+여기가 부었어요=esta hinchado aqui
+가려워요=me pica
+따끔거려요=Me escuece
+쑤셔요=duele
+숨이 차요=me falta el aire
+가슴이 답답해요=Mi pecho se siente apretado
+식욕이 없어요=no tengo apetito
+소화가 안 돼요=tengo indigestion
+변비가 있어요=estoy estreñido
+오한이 나요=tengo escalofríos y estoy tiritando
+두드러기가 났어요=Tengo urticaria, una erupción cutánea alérgica.
+피부에 뭐가 났어요=tengo un sarpullido en la piel
+화상을 입었어요=Tengo una quemadura en la piel.
+뼈가 부러진 것 같아요=creo que me rompi un hueso
+점점 심해져요=Está empeorando
+진통제 먹었어요=tomé un analgésico
+주사 맞아야 돼요=¿Necesito una inyección?
+검사 결과는 언제 나와요=¿Cuándo saldrán los resultados de las pruebas?
+진료비가 얼마예요=¿A cuánto asciende el honorario médico?
