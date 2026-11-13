@@ -47621,3 +47621,16 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 오늘은 하체 운동 했어=J'ai fait des exercices pour les jambes aujourd'hui
 살이 좀 빠졌어=J'ai perdu du poids
 운동 같이 하자=Faisons de l'exercice ensemble
+
+# --- 대화 57: 우체국·택배 보내기 (2026-11-13) ---
+이거 한국으로 보내고 싶어요=J'aimerais l'envoyer en Corée
+항공편으로 보내 주세요=Merci de l'envoyer par avion
+배편으로 보내면 얼마예요=Combien ça coûte par courrier maritime ?
+박스 살 수 있어요=Puis-je acheter une boîte ici ?
+안에 뭐가 들었어요=Qu'y a-t-il à l'intérieur ?
+옷이랑 과자예요=Vêtements et collations
+깨지는 물건이에요=C'est fragile
+보험 들 수 있어요=Puis-je l'assurer ?
+등기로 보내 주세요=Merci de l'envoyer par courrier recommandé
+송장 번호 주세요=Merci de me donner le numéro de suivi
+우표 주세요=Des timbres, s'il vous plaît

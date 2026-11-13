@@ -17324,3 +17324,16 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 오늘은 하체 운동 했어=bugün bacak egzersizleri yaptım
 살이 좀 빠졌어=Biraz kilo verdim
 운동 같이 하자=Birlikte egzersiz yapalım
+
+# --- 대화 57: 우체국·택배 보내기 (2026-11-13) ---
+이거 한국으로 보내고 싶어요=Bunu Kore'ye göndermek istiyorum
+항공편으로 보내 주세요=Lütfen havayoluyla gönderin
+배편으로 보내면 얼마예요=Deniz postasıyla ne kadar?
+박스 살 수 있어요=Buradan bir kutu satın alabilir miyim?
+안에 뭐가 들었어요=İçinde ne var?
+옷이랑 과자예요=Giysiler ve atıştırmalıklar
+깨지는 물건이에요=Kırılabilir
+보험 들 수 있어요=Sigortalayabilir miyim?
+등기로 보내 주세요=Lütfen taahhütlü postayla gönderin
+송장 번호 주세요=Lütfen bana takip numarasını verin
+우표 주세요=Pullar lütfen

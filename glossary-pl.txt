@@ -23213,3 +23213,16 @@ IT 쪽에서 일해요=Pracuję w IT
 오늘은 하체 운동 했어=Zrobiłem dzisiaj ćwiczenia nóg
 살이 좀 빠졌어=Straciłem trochę na wadze
 운동 같이 하자=Poćwiczmy razem
+
+# --- 대화 57: 우체국·택배 보내기 (2026-11-13) ---
+이거 한국으로 보내고 싶어요=Chciałbym to wysłać do Korei
+항공편으로 보내 주세요=Proszę wysłać to pocztą lotniczą
+배편으로 보내면 얼마예요=Ile kosztuje przesyłka morska?
+박스 살 수 있어요=Czy mogę tu kupić pudełko?
+안에 뭐가 들었어요=Co jest w środku?
+옷이랑 과자예요=Ubrania i przekąski
+깨지는 물건이에요=To kruche
+보험 들 수 있어요=Czy mogę to ubezpieczyć?
+등기로 보내 주세요=Prosimy o przesłanie go listem poleconym
+송장 번호 주세요=Proszę o numer śledzenia
+우표 주세요=Proszę o znaczki

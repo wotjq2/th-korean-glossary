@@ -24261,3 +24261,16 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 오늘은 하체 운동 했어=Ich habe heute Beinübungen gemacht
 살이 좀 빠졌어=Ich habe etwas abgenommen
 운동 같이 하자=Lasst uns gemeinsam trainieren
+
+# --- 대화 57: 우체국·택배 보내기 (2026-11-13) ---
+이거 한국으로 보내고 싶어요=Ich möchte das nach Korea schicken
+항공편으로 보내 주세요=Bitte senden Sie es per Luftpost
+배편으로 보내면 얼마예요=Wie viel kostet es per Seepost?
+박스 살 수 있어요=Kann ich hier eine Box kaufen?
+안에 뭐가 들었어요=Was ist drin?
+옷이랑 과자예요=Kleidung und Snacks
+깨지는 물건이에요=Das ist zerbrechlich
+보험 들 수 있어요=Kann ich es versichern?
+등기로 보내 주세요=Bitte senden Sie es per Einschreiben
+송장 번호 주세요=Bitte geben Sie mir die Sendungsverfolgungsnummer
+우표 주세요=Briefmarken bitte

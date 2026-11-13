@@ -38226,3 +38226,16 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 오늘은 하체 운동 했어=Saya melakukan latihan kaki hari ini
 살이 좀 빠졌어=Berat badan saya turun
 운동 같이 하자=Ayo berolahraga bersama
+
+# --- 대화 57: 우체국·택배 보내기 (2026-11-13) ---
+이거 한국으로 보내고 싶어요=Saya ingin mengirimkan ini ke Korea
+항공편으로 보내 주세요=Silakan kirim melalui pos udara
+배편으로 보내면 얼마예요=Berapa harganya melalui pos laut?
+박스 살 수 있어요=Bolehkah saya membeli sekotak di sini?
+안에 뭐가 들었어요=Apa yang ada di dalamnya?
+옷이랑 과자예요=Pakaian dan makanan ringan
+깨지는 물건이에요=Itu rapuh
+보험 들 수 있어요=Bisakah saya mengasuransikannya?
+등기로 보내 주세요=Silakan kirimkan melalui surat tercatat
+송장 번호 주세요=Tolong beri saya nomor pelacakan
+우표 주세요=Tolong, perangko

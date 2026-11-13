@@ -52368,3 +52368,16 @@ IT 쪽에서 일해요=I work in IT
 오늘은 하체 운동 했어=I did leg exercises today
 살이 좀 빠졌어=I've lost some weight
 운동 같이 하자=Let's exercise together
+
+# --- 대화 57: 우체국·택배 보내기 (2026-11-13) ---
+이거 한국으로 보내고 싶어요=I'd like to send this to Korea
+항공편으로 보내 주세요=Please send it by airmail
+배편으로 보내면 얼마예요=How much is it by sea mail?
+박스 살 수 있어요=Can I buy a box here?
+안에 뭐가 들었어요=What's inside?
+옷이랑 과자예요=Clothes and snacks
+깨지는 물건이에요=It's fragile
+보험 들 수 있어요=Can I insure it?
+등기로 보내 주세요=Please send it by registered mail
+송장 번호 주세요=Please give me the tracking number
+우표 주세요=Stamps, please
