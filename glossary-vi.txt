@@ -40764,3 +40764,25 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 내가 이겼다=tôi đã thắng
 한 판 더 하자=Hãy chơi thêm một ván nữa
 너 때문에 웃었어=Bạn đã làm tôi cười
+
+# --- 대화 44: 날짜·요일·기간 (2026-11-13) ---
+오늘 몇 월 며칠이야=Hôm nay là ngày mấy?
+내일이 무슨 요일이야=Ngày mai là ngày gì?
+이번 주 토요일에 보자=Chúng ta hãy gặp nhau vào thứ Bảy tuần này
+다음 주 월요일까지=Trước thứ Hai tuần tới
+주말에 시간 돼=Bạn có rảnh vào cuối tuần không?
+평일에는 바빠=Tôi bận vào các ngày trong tuần
+매일 해요=Tôi làm điều đó mỗi ngày
+일주일에 한 번=Mỗi tuần một lần
+한 달에 두 번=Hai lần một tháng
+이틀 뒤에 봐=Hẹn gặp bạn sau hai ngày nữa
+사흘 걸려요=Phải mất ba ngày
+일주일 동안 있을 거예요=Tôi sẽ ở đó trong một tuần
+어제 뭐 했어=Hôm qua bạn đã làm gì?
+그저께 만났어=Chúng ta đã gặp nhau ngày hôm kia
+모레 시간 있어=Ngày mốt bạn có rảnh không?
+아침 일찍 출발하자=Hãy rời đi vào sáng sớm
+밤늦게 도착해요=Tôi sẽ đến vào đêm khuya
+점심시간에 전화할게=Tôi sẽ gọi cho bạn vào giờ ăn trưa
+언제부터 언제까지예요=Từ khi nào đến khi nào?
+벌써 금요일이네=Đã là thứ Sáu rồi

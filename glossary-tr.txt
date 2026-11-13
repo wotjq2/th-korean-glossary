@@ -17086,3 +17086,25 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 내가 이겼다=kazandım
 한 판 더 하자=Haydi bir tur daha oynayalım
 너 때문에 웃었어=Beni güldürdün
+
+# --- 대화 44: 날짜·요일·기간 (2026-11-13) ---
+오늘 몇 월 며칠이야=Bugünün tarihi ne?
+내일이 무슨 요일이야=Yarın günlerden ne?
+이번 주 토요일에 보자=Bu cumartesi buluşalım
+다음 주 월요일까지=Önümüzdeki pazartesiye kadar
+주말에 시간 돼=Hafta sonu boş musun?
+평일에는 바빠=Hafta içi meşgulüm
+매일 해요=bunu her gün yapıyorum
+일주일에 한 번=Haftada bir
+한 달에 두 번=Ayda iki kez
+이틀 뒤에 봐=İki gün sonra görüşürüz
+사흘 걸려요=Üç gün sürer
+일주일 동안 있을 거예요=Bir hafta orada olacağım
+어제 뭐 했어=Dün ne yaptın?
+그저께 만났어=Dünden önceki gün tanıştık
+모레 시간 있어=Yarından sonraki gün boş musun?
+아침 일찍 출발하자=Sabah erkenden yola çıkalım
+밤늦게 도착해요=Gece geç geleceğim
+점심시간에 전화할게=Seni öğle yemeğinde arayacağım
+언제부터 언제까지예요=Ne zamandan ne zamana?
+벌써 금요일이네=Zaten cuma

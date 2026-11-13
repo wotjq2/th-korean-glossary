@@ -47383,3 +47383,25 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 내가 이겼다=j'ai gagné
 한 판 더 하자=Jouons encore un tour
 너 때문에 웃었어=Tu m'as fait rire
+
+# --- 대화 44: 날짜·요일·기간 (2026-11-13) ---
+오늘 몇 월 며칠이야=Quelle est la date d'aujourd'hui ?
+내일이 무슨 요일이야=C'est quel jour demain?
+이번 주 토요일에 보자=Rencontrons-nous ce samedi
+다음 주 월요일까지=D'ici lundi prochain
+주말에 시간 돼=Êtes-vous libre le week-end ?
+평일에는 바빠=je suis occupé en semaine
+매일 해요=je le fais tous les jours
+일주일에 한 번=Une fois par semaine
+한 달에 두 번=Deux fois par mois
+이틀 뒤에 봐=On se voit dans deux jours
+사흘 걸려요=Cela prend trois jours
+일주일 동안 있을 거예요=j'y serai pendant une semaine
+어제 뭐 했어=Qu'as-tu fait hier ?
+그저께 만났어=Nous nous sommes rencontrés avant-hier
+모레 시간 있어=Êtes-vous libre après-demain ?
+아침 일찍 출발하자=Partons tôt le matin
+밤늦게 도착해요=J'arriverai tard dans la nuit
+점심시간에 전화할게=je t'appellerai à l'heure du déjeuner
+언제부터 언제까지예요=De quand à quand ?
+벌써 금요일이네=C'est déjà vendredi

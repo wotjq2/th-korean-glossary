@@ -21962,3 +21962,25 @@ IT 쪽에서 일해요=Eu trabalho em TI
 내가 이겼다=eu ganhei
 한 판 더 하자=Vamos jogar mais uma rodada
 너 때문에 웃었어=Você me fez rir
+
+# --- 대화 44: 날짜·요일·기간 (2026-11-13) ---
+오늘 몇 월 며칠이야=Qual é a data de hoje?
+내일이 무슨 요일이야=Que dia é amanhã?
+이번 주 토요일에 보자=Vamos nos encontrar neste sábado
+다음 주 월요일까지=Na próxima segunda-feira
+주말에 시간 돼=Você está livre no fim de semana?
+평일에는 바빠=Estou ocupado durante a semana
+매일 해요=Eu faço isso todos os dias
+일주일에 한 번=Uma vez por semana
+한 달에 두 번=Duas vezes por mês
+이틀 뒤에 봐=Vejo você em dois dias
+사흘 걸려요=Demora três dias
+일주일 동안 있을 거예요=Estarei lá por uma semana
+어제 뭐 했어=O que você fez ontem?
+그저께 만났어=Nos conhecemos anteontem
+모레 시간 있어=Você está livre depois de amanhã?
+아침 일찍 출발하자=Vamos sair de manhã cedo
+밤늦게 도착해요=Eu chegarei tarde da noite
+점심시간에 전화할게=Te ligo na hora do almoço
+언제부터 언제까지예요=De quando até quando?
+벌써 금요일이네=Já é sexta-feira
