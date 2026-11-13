@@ -24229,3 +24229,19 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 집 예쁘다=Dein Platz ist wunderschön
 벌써 이렇게 됐네 가 봐야겠다=Es ist spät geworden, ich sollte los
 조심히 가 또 와=Kommen Sie sicher nach Hause und kommen Sie wieder
+
+# --- 대화 55: 병원 예약·접수 (2026-11-13) ---
+진료 예약하고 싶어요=Ich möchte einen Arzttermin vereinbaren
+오늘 진료 돼요=Kann ich heute einen Arzt aufsuchen?
+처음 왔어요=Das ist mein erster Besuch
+접수는 어디서 해요=Wo melde ich mich an?
+이 서류 작성해 주세요=Bitte füllen Sie dieses Formular aus
+보험 적용돼요=Ist dies durch eine Versicherung abgedeckt?
+영수증이랑 진단서 주세요=Bitte geben Sie mir die Quittung und das ärztliche Attest
+처방전 주세요=Bitte geben Sie mir einem Rezept
+다음 예약은 언제예요=Wann ist mein nächster Termin?
+예약 시간을 바꾸고 싶어요=Ich möchte meinen Termin ändern
+통역 서비스 있어요=Gibt es einen Dolmetscherdienst?
+입원 수속은 어디서 해요=Wo ist der Krankenhausaufnahmeschalter?
+면회 시간이 언제예요=Wie sind die Besuchszeiten?
+퇴원은 언제 할 수 있어요=Wann kann ich entlassen werden?

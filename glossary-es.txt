@@ -47807,3 +47807,19 @@ IT 쪽에서 일해요=yo trabajo en TI
 집 예쁘다=Tu lugar es hermoso
 벌써 이렇게 됐네 가 봐야겠다=Se hace tarde, debería irme.
 조심히 가 또 와=Vuelve a casa sano y salvo y vuelve
+
+# --- 대화 55: 병원 예약·접수 (2026-11-13) ---
+진료 예약하고 싶어요=Me gustaría programar una cita con el médico.
+오늘 진료 돼요=¿Puedo ver a un médico hoy?
+처음 왔어요=Esta es mi primera visita
+접수는 어디서 해요=¿Dónde me registro?
+이 서류 작성해 주세요=Por favor complete este formulario
+보험 적용돼요=¿Esto lo cubre el seguro?
+영수증이랑 진단서 주세요=Por favor dame el recibo y el certificado médico.
+처방전 주세요=Por favor, déme una receta
+다음 예약은 언제예요=¿Cuándo es mi próxima cita?
+예약 시간을 바꾸고 싶어요=Me gustaría cambiar el horario de mi cita
+통역 서비스 있어요=¿Existe servicio de intérprete?
+입원 수속은 어디서 해요=¿Dónde está el mostrador de admisiones del hospital?
+면회 시간이 언제예요=¿Cuáles son los horarios de visita?
+퇴원은 언제 할 수 있어요=¿Cuándo me pueden dar el alta?

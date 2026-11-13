@@ -22168,3 +22168,19 @@ IT 쪽에서 일해요=Eu trabalho em TI
 집 예쁘다=Seu lugar é lindo
 벌써 이렇게 됐네 가 봐야겠다=Está ficando tarde, eu deveria ir
 조심히 가 또 와=Chegue em casa seguro e volte
+
+# --- 대화 55: 병원 예약·접수 (2026-11-13) ---
+진료 예약하고 싶어요=Eu gostaria de marcar uma consulta médica
+오늘 진료 돼요=Posso consultar um médico hoje?
+처음 왔어요=Esta é a minha primeira visita
+접수는 어디서 해요=Onde posso me registrar?
+이 서류 작성해 주세요=Por favor preencha este formulário
+보험 적용돼요=Isso é coberto pelo seguro?
+영수증이랑 진단서 주세요=Por favor, me dê o recibo e o atestado médico
+처방전 주세요=Por favor, me dê uma receita
+다음 예약은 언제예요=Quando é minha próxima consulta?
+예약 시간을 바꾸고 싶어요=Gostaria de alterar meu horário de consulta
+통역 서비스 있어요=Existe serviço de intérprete?
+입원 수속은 어디서 해요=Onde fica o balcão de internações hospitalares?
+면회 시간이 언제예요=Quais são os horários de visitação?
+퇴원은 언제 할 수 있어요=Quando posso receber alta?

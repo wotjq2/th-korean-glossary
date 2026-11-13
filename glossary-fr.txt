@@ -47589,3 +47589,19 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 집 예쁘다=Votre endroit est magnifique
 벌써 이렇게 됐네 가 봐야겠다=Il se fait tard, je devrais y aller
 조심히 가 또 와=Rentrez chez vous sain et sauf et revenez
+
+# --- 대화 55: 병원 예약·접수 (2026-11-13) ---
+진료 예약하고 싶어요=J'aimerais prendre rendez-vous avec le médecin
+오늘 진료 돼요=Puis-je consulter un médecin aujourd'hui ?
+처음 왔어요=C'est ma première visite
+접수는 어디서 해요=Où puis-je m'inscrire ?
+이 서류 작성해 주세요=Veuillez remplir ce formulaire
+보험 적용돼요=Est-ce couvert par une assurance ?
+영수증이랑 진단서 주세요=Merci de me donner le reçu et le certificat médical
+처방전 주세요=Faites-moi une ordonnance, s'il vous plaît
+다음 예약은 언제예요=Quand est mon prochain rendez-vous ?
+예약 시간을 바꾸고 싶어요=Je souhaite modifier l'heure de mon rendez-vous
+통역 서비스 있어요=Y a-t-il un service d'interprétation ?
+입원 수속은 어디서 해요=Où se trouve le bureau des admissions à l’hôpital ?
+면회 시간이 언제예요=Quels sont les horaires de visite ?
+퇴원은 언제 할 수 있어요=Quand puis-je être libéré ?

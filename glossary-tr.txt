@@ -17292,3 +17292,19 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 집 예쁘다=Senin yerin çok güzel
 벌써 이렇게 됐네 가 봐야겠다=Geç oldu, gitmeliyim
 조심히 가 또 와=Eve sağ salim dön ve tekrar gel
+
+# --- 대화 55: 병원 예약·접수 (2026-11-13) ---
+진료 예약하고 싶어요=Doktor randevusu almak istiyorum
+오늘 진료 돼요=Bugün doktora gidebilir miyim?
+처음 왔어요=Bu benim ilk ziyaretim
+접수는 어디서 해요=Nereye kayıt olabilirim?
+이 서류 작성해 주세요=Lütfen bu formu doldurun
+보험 적용돼요=Bu sigorta kapsamında mı?
+영수증이랑 진단서 주세요=Lütfen bana makbuzu ve sağlık raporunu verin
+처방전 주세요=Bana reçete yazar mısınız lütfen
+다음 예약은 언제예요=Bir sonraki randevum ne zaman?
+예약 시간을 바꾸고 싶어요=Randevu saatimi değiştirmek istiyorum
+통역 서비스 있어요=Tercüman hizmeti var mı?
+입원 수속은 어디서 해요=Hastane kabul masası nerede?
+면회 시간이 언제예요=Ziyaret saatleri nedir?
+퇴원은 언제 할 수 있어요=Ne zaman taburcu olabilirim?

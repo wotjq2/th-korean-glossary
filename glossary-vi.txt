@@ -40970,3 +40970,19 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 집 예쁘다=Chỗ của bạn đẹp lắm
 벌써 이렇게 됐네 가 봐야겠다=Đã muộn rồi, tôi nên đi thôi
 조심히 가 또 와=Về nhà an toàn và trở lại
+
+# --- 대화 55: 병원 예약·접수 (2026-11-13) ---
+진료 예약하고 싶어요=Tôi muốn đặt lịch hẹn với bác sĩ
+오늘 진료 돼요=Hôm nay tôi có thể gặp bác sĩ được không?
+처음 왔어요=Đây là chuyến thăm đầu tiên của tôi
+접수는 어디서 해요=Tôi đăng ký ở đâu?
+이 서류 작성해 주세요=Vui lòng điền vào mẫu này
+보험 적용돼요=Điều này có được bảo hiểm chi trả không?
+영수증이랑 진단서 주세요=Vui lòng đưa cho tôi biên lai và giấy chứng nhận y tế
+처방전 주세요=Xin vui lòng cho tôi một đơn thuốc
+다음 예약은 언제예요=Cuộc hẹn tiếp theo của tôi là khi nào?
+예약 시간을 바꾸고 싶어요=Tôi muốn thay đổi thời gian cuộc hẹn của mình
+통역 서비스 있어요=Có dịch vụ phiên dịch không?
+입원 수속은 어디서 해요=Bàn tiếp nhận bệnh viện ở đâu?
+면회 시간이 언제예요=Giờ thăm viếng là mấy giờ?
+퇴원은 언제 할 수 있어요=Khi nào tôi có thể được xuất viện?

@@ -52336,3 +52336,19 @@ IT 쪽에서 일해요=I work in IT
 집 예쁘다=Your place is beautiful
 벌써 이렇게 됐네 가 봐야겠다=It's gotten late, I should get going
 조심히 가 또 와=Get home safe and come again
+
+# --- 대화 55: 병원 예약·접수 (2026-11-13) ---
+진료 예약하고 싶어요=I'd like to make a doctor's appointment
+오늘 진료 돼요=Can I see a doctor today?
+처음 왔어요=This is my first visit
+접수는 어디서 해요=Where do I register?
+이 서류 작성해 주세요=Please fill out this form
+보험 적용돼요=Is this covered by insurance?
+영수증이랑 진단서 주세요=Please give me the receipt and the medical certificate
+처방전 주세요=Please give me a prescription
+다음 예약은 언제예요=When is my next appointment?
+예약 시간을 바꾸고 싶어요=I'd like to change my appointment time
+통역 서비스 있어요=Is there an interpreter service?
+입원 수속은 어디서 해요=Where is the hospital admissions desk?
+면회 시간이 언제예요=What are the visiting hours?
+퇴원은 언제 할 수 있어요=When can I be discharged?
