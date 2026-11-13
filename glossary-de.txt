@@ -23680,3 +23680,27 @@ QR 코드 찍어 주세요=Bitte scannen Sie den QR-Code
 오토바이 빌리고 싶어요=Ich möchte ein Motorrad mieten
 하루에 얼마예요=Wie viel kostet es pro Tag?
 보증금으로 여권 맡겨야 돼요=Muss ich meinen Reisepass als Kaution hinterlegen?
+
+# --- 대화 29: 약속 변경·사정 설명 (2026-11-13) ---
+미안한데 오늘 못 갈 것 같아=Tut mir leid, ich glaube nicht, dass ich es heute schaffe
+갑자기 일이 생겼어=Plötzlich kam etwas dazwischen
+약속 미뤄도 될까=Können wir unsere Pläne verschieben?
+내일로 바꿀 수 있어=Können wir es auf morgen ändern?
+시간 바꿔도 돼=Können wir die Zeit ändern?
+한 시간 늦게 만나자=Treffen wir uns eine Stunde später
+조금 일찍 만날 수 있어=Können wir uns etwas früher treffen?
+장소 바꾸자=Lasst uns den Ort wechseln
+다음에 꼭 보자=Treffen wir uns auf jeden Fall beim nächsten Mal
+괜찮아 다음에 보면 돼=Es ist okay, wir können uns das nächste Mal treffen
+아파서 못 가=Ich kann nicht gehen, weil ich krank bin
+일이 늦게 끝났어=Die Arbeiten wurden spät beendet
+차가 너무 막혀=Der Verkehr ist wirklich schlecht
+버스를 놓쳤어=Ich habe den Bus verpasst
+비행기를 놓쳤어=Ich habe meinen Flug verpasst
+깜빡했어=Ich habe vergessen
+깜빡 잠들었어=Ich bin versehentlich eingeschlafen
+휴대폰이 꺼져 있었어=Mein Telefon war ausgeschaltet
+문자 지금 봤어=Ich habe gerade deine Nachricht gesehen
+일부러 그런 거 아니야=Ich habe es nicht mit Absicht gemacht
+이해해 줘서 고마워=Vielen Dank für Ihr Verständnis
+기다리게 해서 미안해=Tut mir leid, dass ich Sie warten ließ

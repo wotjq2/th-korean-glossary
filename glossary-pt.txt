@@ -21619,3 +21619,27 @@ QR 코드 찍어 주세요=Por favor, escaneie o código QR
 오토바이 빌리고 싶어요=Eu gostaria de alugar uma moto
 하루에 얼마예요=Quanto custa por dia?
 보증금으로 여권 맡겨야 돼요=Tenho que deixar meu passaporte como depósito?
+
+# --- 대화 29: 약속 변경·사정 설명 (2026-11-13) ---
+미안한데 오늘 못 갈 것 같아=Desculpe, acho que não posso ir hoje
+갑자기 일이 생겼어=Algo surgiu de repente
+약속 미뤄도 될까=Podemos adiar nossos planos?
+내일로 바꿀 수 있어=Podemos mudar para amanhã?
+시간 바꿔도 돼=Podemos mudar o horário?
+한 시간 늦게 만나자=Vamos nos encontrar uma hora depois
+조금 일찍 만날 수 있어=Podemos nos encontrar um pouco mais cedo?
+장소 바꾸자=Vamos mudar de lugar
+다음에 꼭 보자=Definitivamente vamos nos encontrar na próxima vez
+괜찮아 다음에 보면 돼=Está tudo bem, podemos nos encontrar na próxima vez
+아파서 못 가=Não posso ir porque estou doente
+일이 늦게 끝났어=Obra terminou tarde
+차가 너무 막혀=O trânsito está muito ruim
+버스를 놓쳤어=Perdi o meu ônibus
+비행기를 놓쳤어=Eu perdi meu voo
+깜빡했어=eu esqueci
+깜빡 잠들었어=Eu acidentalmente adormeci
+휴대폰이 꺼져 있었어=Meu telefone estava desligado
+문자 지금 봤어=Acabei de ver sua mensagem
+일부러 그런 거 아니야=Eu não fiz isso de propósito
+이해해 줘서 고마워=Obrigado pela compreensão
+기다리게 해서 미안해=Desculpe por fazer você esperar

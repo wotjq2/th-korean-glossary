@@ -47040,3 +47040,27 @@ QR 코드 찍어 주세요=Veuillez scanner le code QR
 오토바이 빌리고 싶어요=Je voudrais louer une moto
 하루에 얼마예요=C'est combien par jour ?
 보증금으로 여권 맡겨야 돼요=Dois-je laisser mon passeport en caution ?
+
+# --- 대화 29: 약속 변경·사정 설명 (2026-11-13) ---
+미안한데 오늘 못 갈 것 같아=Désolé, je ne pense pas pouvoir venir aujourd'hui
+갑자기 일이 생겼어=Quelque chose est arrivé soudainement
+약속 미뤄도 될까=Pouvons-nous reporter nos projets ?
+내일로 바꿀 수 있어=Pouvons-nous le changer pour demain ?
+시간 바꿔도 돼=Peut-on changer l'heure ?
+한 시간 늦게 만나자=Retrouvons-nous une heure plus tard
+조금 일찍 만날 수 있어=Pouvons-nous nous rencontrer un peu plus tôt ?
+장소 바꾸자=Changeons de lieu
+다음에 꼭 보자=Rencontrons-nous certainement la prochaine fois
+괜찮아 다음에 보면 돼=C'est bon, nous pourrons nous rencontrer la prochaine fois
+아파서 못 가=Je ne peux pas y aller parce que je suis malade
+일이 늦게 끝났어=Travaux terminés tardivement
+차가 너무 막혀=Le trafic est vraiment mauvais
+버스를 놓쳤어=J'ai manqué le bus
+비행기를 놓쳤어=J'ai raté mon vol
+깜빡했어=J'ai oublié
+깜빡 잠들었어=Je me suis endormi accidentellement
+휴대폰이 꺼져 있었어=Mon téléphone était éteint
+문자 지금 봤어=je viens de voir ton message
+일부러 그런 거 아니야=je ne l'ai pas fait exprès
+이해해 줘서 고마워=Merci de votre compréhension
+기다리게 해서 미안해=Désolé de t'avoir fait attendre
