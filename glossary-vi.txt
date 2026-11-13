@@ -40077,3 +40077,35 @@
 콘서트 표 샀어=Tôi đã mua vé buổi hòa nhạc
 쉬는 날 뭐 할 거야=Bạn định làm gì vào ngày nghỉ?
 그냥 집에서 쉴 거야=Tôi chỉ định nghỉ ngơi ở nhà
+
+# --- 대화 17: 경찰·분실·긴급 (2026-11-13) ---
+도와주세요 살려 주세요=Giúp tôi với, làm ơn cứu tôi với
+경찰 불러 주세요=Hãy gọi cảnh sát
+경찰서 어디예요=Đồn cảnh sát ở đâu?
+지갑을 잃어버렸어요=Tôi bị mất ví
+휴대폰을 잃어버렸어요=Tôi bị mất điện thoại
+여권을 잃어버렸어요=Tôi bị mất hộ chiếu
+가방을 도둑맞았어요=Túi của tôi đã bị đánh cắp
+소매치기를 당했어요=Tôi đã bị móc túi
+분실 신고하고 싶어요=Tôi muốn báo cáo một món hàng bị mất
+도난 신고하고 싶어요=Tôi muốn báo cáo một vụ trộm
+한국 대사관에 연락해 주세요=Vui lòng liên hệ với đại sứ quán Hàn Quốc
+교통사고가 났어요=Đã xảy ra tai nạn giao thông
+다친 사람이 있어요=Có người bị thương
+불이 났어요=Có một ngọn lửa
+위험해요=Thật nguy hiểm
+조심해=Hãy cẩn thận
+누가 따라와요=Có ai đó đang theo dõi tôi
+문을 열어 주세요=Xin hãy mở cửa
+갇혔어요=Tôi bị nhốt trong
+길을 잃었어=tôi bị lạc
+여기가 어딘지 모르겠어요=Tôi không biết mình đang ở đâu
+사기당했어요=Tôi đã bị lừa
+돈을 돌려주세요=Làm ơn trả lại tiền cho tôi
+그만하세요=Xin hãy dừng lại
+만지지 마세요=Đừng chạm vào tôi
+저리 가=Biến đi
+괜찮아요? 다쳤어요=Bạn có ổn không? Bạn có bị thương không?
+신고했어요=Tôi đã báo cáo nó
+증인이 있어요=Có một nhân chứng
+통역사가 필요해요=Tôi cần một thông dịch viên

@@ -16399,3 +16399,35 @@
 콘서트 표 샀어=konser bileti aldım
 쉬는 날 뭐 할 거야=İzin gününde ne yapacaksın?
 그냥 집에서 쉴 거야=Ben sadece evde dinlenmeye gidiyorum
+
+# --- 대화 17: 경찰·분실·긴급 (2026-11-13) ---
+도와주세요 살려 주세요=Yardım et, lütfen beni kurtar
+경찰 불러 주세요=Lütfen polisi arayın
+경찰서 어디예요=Polis karakolu nerede?
+지갑을 잃어버렸어요=Cüzdanımı kaybettim
+휴대폰을 잃어버렸어요=telefonumu kaybettim
+여권을 잃어버렸어요=Pasaportumu kaybettim
+가방을 도둑맞았어요=Çantam çalındı
+소매치기를 당했어요=Yankesicilik yaptım
+분실 신고하고 싶어요=Kayıp bir eşyayı bildirmek istiyorum
+도난 신고하고 싶어요=Bir hırsızlığı bildirmek istiyorum
+한국 대사관에 연락해 주세요=Lütfen Kore büyükelçiliğiyle iletişime geçin
+교통사고가 났어요=Trafik kazası oldu
+다친 사람이 있어요=Birisi yaralandı
+불이 났어요=Bir yangın var
+위험해요=Bu tehlikeli
+조심해=Dikkat olmak
+누가 따라와요=Birisi beni takip ediyor
+문을 열어 주세요=Lütfen kapıyı aç
+갇혔어요=kilitli kaldım
+길을 잃었어=Kayboldum
+여기가 어딘지 모르겠어요=Nerede olduğumu bilmiyorum
+사기당했어요=Dolandırıldım
+돈을 돌려주세요=Lütfen paramı geri verin
+그만하세요=Lütfen dur
+만지지 마세요=Bana dokunma
+저리 가=Çekip gitmek
+괜찮아요? 다쳤어요=İyi misin? Yaralı mısın?
+신고했어요=bildirdim
+증인이 있어요=Bir tanık var
+통역사가 필요해요=Bir tercümana ihtiyacım var

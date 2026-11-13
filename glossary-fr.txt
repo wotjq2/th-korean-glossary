@@ -46696,3 +46696,35 @@
 콘서트 표 샀어=J'ai acheté des billets de concert
 쉬는 날 뭐 할 거야=Qu'allez-vous faire pendant votre jour de congé ?
 그냥 집에서 쉴 거야=je vais juste me reposer à la maison
+
+# --- 대화 17: 경찰·분실·긴급 (2026-11-13) ---
+도와주세요 살려 주세요=Aide-moi, s'il te plaît sauve-moi
+경찰 불러 주세요=S'il vous plaît appelez la police
+경찰서 어디예요=Où est le commissariat de police ?
+지갑을 잃어버렸어요=J'ai perdu mon porte-monnaie
+휴대폰을 잃어버렸어요=J'ai perdu mon téléphone
+여권을 잃어버렸어요=J'ai perdu mon passeport
+가방을 도둑맞았어요=On m'a volé mon sac
+소매치기를 당했어요=j'ai été volé
+분실 신고하고 싶어요=Je veux signaler un objet perdu
+도난 신고하고 싶어요=Je veux signaler un vol
+한국 대사관에 연락해 주세요=Veuillez contacter l'ambassade de Corée
+교통사고가 났어요=Il y a eu un accident de la route
+다친 사람이 있어요=Quelqu'un est blessé
+불이 났어요=Il y a un feu
+위험해요=C'est dangereux
+조심해=Sois prudent
+누가 따라와요=Quelqu'un me suit
+문을 열어 주세요=S'il te plaît, ouvre la porte
+갇혔어요=je suis enfermé
+길을 잃었어=je suis perdu
+여기가 어딘지 모르겠어요=Je ne sais pas où je suis
+사기당했어요=j'ai été arnaqué
+돈을 돌려주세요=S'il vous plaît, rendez mon argent
+그만하세요=S'il te plaît, arrête
+만지지 마세요=Ne me touche pas
+저리 가=S'en aller
+괜찮아요? 다쳤어요=Ça va ? Vous avez mal ?
+신고했어요=je l'ai signalé
+증인이 있어요=Il y a un témoin
+통역사가 필요해요=J'ai besoin d'un interprète

@@ -22288,3 +22288,35 @@
 콘서트 표 샀어=Kupiłem bilety na koncert
 쉬는 날 뭐 할 거야=Co będziesz robić w wolny dzień?
 그냥 집에서 쉴 거야=Po prostu odpocznę w domu
+
+# --- 대화 17: 경찰·분실·긴급 (2026-11-13) ---
+도와주세요 살려 주세요=Pomóż mi, proszę, uratuj mnie
+경찰 불러 주세요=Proszę zadzwonić na policję
+경찰서 어디예요=Gdzie jest komisariat policji?
+지갑을 잃어버렸어요=Zgubiłem portfel
+휴대폰을 잃어버렸어요=Zgubiłem telefon
+여권을 잃어버렸어요=Zgubiłem paszport
+가방을 도둑맞았어요=Skradziono mi torbę
+소매치기를 당했어요=Zostałem okradziony
+분실 신고하고 싶어요=Chcę zgłosić zagubiony przedmiot
+도난 신고하고 싶어요=Chcę zgłosić kradzież
+한국 대사관에 연락해 주세요=Prosimy o kontakt z ambasadą Korei
+교통사고가 났어요=Doszło do wypadku drogowego
+다친 사람이 있어요=Ktoś jest ranny
+불이 났어요=Jest ogień
+위험해요=To niebezpieczne
+조심해=Bądź ostrożny
+누가 따라와요=Ktoś mnie śledzi
+문을 열어 주세요=Proszę otworzyć drzwi
+갇혔어요=Jestem zamknięty
+길을 잃었어=Jestem zagubiony
+여기가 어딘지 모르겠어요=Nie wiem gdzie jestem
+사기당했어요=Zostałem oszukany
+돈을 돌려주세요=Proszę o zwrot moich pieniędzy
+그만하세요=Proszę, przestań
+만지지 마세요=Nie dotykaj mnie
+저리 가=Odejdź
+괜찮아요? 다쳤어요=Czy wszystko w porządku? Czy jesteś ranny?
+신고했어요=Zgłosiłem to
+증인이 있어요=Jest świadek
+통역사가 필요해요=Potrzebuję tłumacza

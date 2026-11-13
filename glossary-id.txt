@@ -37301,3 +37301,35 @@
 콘서트 표 샀어=Saya membeli tiket konser
 쉬는 날 뭐 할 거야=Apa yang akan kamu lakukan di hari liburmu?
 그냥 집에서 쉴 거야=Aku hanya akan beristirahat di rumah
+
+# --- 대화 17: 경찰·분실·긴급 (2026-11-13) ---
+도와주세요 살려 주세요=Tolong aku, tolong selamatkan aku
+경찰 불러 주세요=Silakan hubungi polisi
+경찰서 어디예요=Di mana kantor polisi?
+지갑을 잃어버렸어요=Saya kehilangan dompet saya
+휴대폰을 잃어버렸어요=Saya kehilangan telepon saya
+여권을 잃어버렸어요=Saya kehilangan paspor saya
+가방을 도둑맞았어요=Tas saya dicuri
+소매치기를 당했어요=Saya dicopet
+분실 신고하고 싶어요=Saya ingin melaporkan barang yang hilang
+도난 신고하고 싶어요=Saya ingin melaporkan pencurian
+한국 대사관에 연락해 주세요=Silakan hubungi kedutaan Korea
+교통사고가 났어요=Telah terjadi kecelakaan lalu lintas
+다친 사람이 있어요=Seseorang terluka
+불이 났어요=Ada api
+위험해요=Itu berbahaya
+조심해=Hati-hati
+누가 따라와요=Seseorang mengikutiku
+문을 열어 주세요=Tolong buka pintunya
+갇혔어요=Aku terkunci di dalam
+길을 잃었어=saya tersesat
+여기가 어딘지 모르겠어요=Saya tidak tahu di mana saya berada
+사기당했어요=Saya telah ditipu
+돈을 돌려주세요=Tolong kembalikan uang saya
+그만하세요=Tolong berhenti
+만지지 마세요=Jangan sentuh aku
+저리 가=Pergilah
+괜찮아요? 다쳤어요=Apakah kamu baik-baik saja? Apakah kamu terluka?
+신고했어요=Saya telah melaporkannya
+증인이 있어요=Ada seorang saksi
+통역사가 필요해요=Saya membutuhkan seorang penerjemah
