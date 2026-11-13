@@ -46754,3 +46754,31 @@
 오토바이 고쳐야 돼=Je dois faire réparer ma moto
 타이어 펑크 났어요=J'ai un pneu à plat
 열쇠 복사해 주세요=Veuillez faire une copie de cette clé
+
+# --- 대화 19: 관공서·비자·서류 (2026-11-13) ---
+비자 연장하고 싶어요=Je voudrais prolonger mon visa
+비자가 언제 만료돼요=Quand mon visa expire-t-il ?
+이민국 어디예요=Où est le bureau de l'immigration ?
+어떤 서류가 필요해요=De quels documents ai-je besoin ?
+여권 사본 필요해요=Avez-vous besoin d'une copie de mon passeport ?
+사진 몇 장 필요해요=De combien de photos avez-vous besoin ?
+이 서류 어떻게 써요=Comment remplir ce formulaire ?
+여기에 서명하면 돼요=Dois-je signer ici ?
+번호표 어디서 뽑아요=Où puis-je obtenir un ticket numéroté ?
+몇 번 창구로 가야 돼요=À quel guichet dois-je me rendre ?
+얼마나 기다려야 돼요=Combien de temps dois-je attendre ?
+오늘 처리돼요=Peut-il être traité aujourd'hui ?
+언제 다시 오면 돼요=Quand dois-je revenir ?
+수수료는 얼마예요=À combien s’élèvent les frais de traitement ?
+거주 증명서가 필요해요=J'ai besoin d'un certificat de résidence
+운전면허증 만들고 싶어요=J'aimerais obtenir un permis de conduire
+국제운전면허증 있어요=J'ai un permis de conduire international
+노동 허가증이 필요해요=J'ai besoin d'un permis de travail
+90일 신고하러 왔어요=Je suis venu faire mon rapport de 90 jours
+주소가 바뀌었어요=Mon adresse a changé
+이 서류 번역해야 돼요=Ce document doit-il être traduit ?
+공증 받아야 돼요=Doit-il être notarié ?
+영어로 된 서류 있어요=Avez-vous ce formulaire en anglais ?
+은행 잔고 증명서 필요해요=Avez-vous besoin d'une attestation de solde bancaire ?
+우체국 어디예요=Où est la poste ?
+한국으로 소포 보내고 싶어요=J'aimerais envoyer un colis en Corée

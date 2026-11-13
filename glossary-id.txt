@@ -37359,3 +37359,31 @@
 오토바이 고쳐야 돼=Aku perlu memperbaiki sepeda motorku
 타이어 펑크 났어요=Ban saya kempes
 열쇠 복사해 주세요=Silakan buat salinan kunci ini
+
+# --- 대화 19: 관공서·비자·서류 (2026-11-13) ---
+비자 연장하고 싶어요=Saya ingin memperpanjang visa saya
+비자가 언제 만료돼요=Kapan visa saya habis masa berlakunya?
+이민국 어디예요=Dimana kantor imigrasinya?
+어떤 서류가 필요해요=Dokumen apa yang saya perlukan?
+여권 사본 필요해요=Apakah Anda memerlukan salinan paspor saya?
+사진 몇 장 필요해요=Berapa banyak foto yang Anda butuhkan?
+이 서류 어떻게 써요=Bagaimana cara mengisi formulir ini?
+여기에 서명하면 돼요=Haruskah saya tanda tangan di sini?
+번호표 어디서 뽑아요=Di mana saya bisa mendapatkan tiket nomor?
+몇 번 창구로 가야 돼요=Konter mana yang harus saya datangi?
+얼마나 기다려야 돼요=Berapa lama saya harus menunggu?
+오늘 처리돼요=Apakah bisa diproses hari ini?
+언제 다시 오면 돼요=Kapan saya harus kembali?
+수수료는 얼마예요=Berapa biaya pemrosesannya?
+거주 증명서가 필요해요=Saya memerlukan sertifikat tempat tinggal
+운전면허증 만들고 싶어요=Saya ingin mendapatkan SIM
+국제운전면허증 있어요=Saya memiliki izin mengemudi internasional
+노동 허가증이 필요해요=Saya memerlukan izin kerja
+90일 신고하러 왔어요=Saya datang untuk mengerjakan laporan 90 hari saya
+주소가 바뀌었어요=Alamat saya telah berubah
+이 서류 번역해야 돼요=Apakah dokumen ini perlu diterjemahkan?
+공증 받아야 돼요=Apakah perlu diaktakan?
+영어로 된 서류 있어요=Apakah Anda memiliki formulir ini dalam bahasa Inggris?
+은행 잔고 증명서 필요해요=Apakah Anda memerlukan sertifikat saldo bank?
+우체국 어디예요=Dimana kantor posnya?
+한국으로 소포 보내고 싶어요=Saya ingin mengirim paket ke Korea

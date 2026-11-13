@@ -21333,3 +21333,31 @@
 오토바이 고쳐야 돼=Preciso consertar minha moto
 타이어 펑크 났어요=O pneu está murcho ou furado
 열쇠 복사해 주세요=Por favor, faça uma cópia desta chave
+
+# --- 대화 19: 관공서·비자·서류 (2026-11-13) ---
+비자 연장하고 싶어요=Eu gostaria de estender meu visto
+비자가 언제 만료돼요=Quando meu visto expira?
+이민국 어디예요=Onde fica o escritório de imigração?
+어떤 서류가 필요해요=Quais documentos eu preciso?
+여권 사본 필요해요=Você precisa de uma cópia do meu passaporte?
+사진 몇 장 필요해요=Quantas fotos você precisa?
+이 서류 어떻게 써요=Como preencho este formulário?
+여기에 서명하면 돼요=Devo assinar aqui?
+번호표 어디서 뽑아요=Onde consigo um bilhete numérico?
+몇 번 창구로 가야 돼요=Qual balcão devo ir?
+얼마나 기다려야 돼요=Quanto tempo tenho que esperar?
+오늘 처리돼요=Pode ser processado hoje?
+언제 다시 오면 돼요=Quando devo voltar?
+수수료는 얼마예요=Quanto é a taxa de processamento?
+거주 증명서가 필요해요=Preciso de um certificado de residência
+운전면허증 만들고 싶어요=Eu gostaria de tirar uma carteira de motorista
+국제운전면허증 있어요=Tenho carteira de motorista internacional
+노동 허가증이 필요해요=Eu preciso de uma autorização de trabalho
+90일 신고하러 왔어요=Vim fazer meu relatório de 90 dias
+주소가 바뀌었어요=Meu endereço mudou
+이 서류 번역해야 돼요=Este documento precisa ser traduzido?
+공증 받아야 돼요=Precisa ser autenticado?
+영어로 된 서류 있어요=Você tem esse formulário em inglês?
+은행 잔고 증명서 필요해요=Você precisa de um certificado de saldo bancário?
+우체국 어디예요=Onde fica o correio?
+한국으로 소포 보내고 싶어요=Eu gostaria de enviar um pacote para a Coreia

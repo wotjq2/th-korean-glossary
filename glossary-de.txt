@@ -23394,3 +23394,31 @@
 오토바이 고쳐야 돼=Ich muss mein Motorrad reparieren lassen
 타이어 펑크 났어요=Ich habe einen platten Reifen
 열쇠 복사해 주세요=Bitte erstellen Sie eine Kopie dieses Schlüssels
+
+# --- 대화 19: 관공서·비자·서류 (2026-11-13) ---
+비자 연장하고 싶어요=Ich möchte mein Visum verlängern
+비자가 언제 만료돼요=Wann läuft mein Visum ab?
+이민국 어디예요=Wo ist die Einwanderungsbehörde?
+어떤 서류가 필요해요=Welche Unterlagen benötige ich?
+여권 사본 필요해요=Benötigen Sie eine Kopie meines Reisepasses?
+사진 몇 장 필요해요=Wie viele Fotos benötigen Sie?
+이 서류 어떻게 써요=Wie fülle ich dieses Formular aus?
+여기에 서명하면 돼요=Soll ich hier unterschreiben?
+번호표 어디서 뽑아요=Wo bekomme ich ein Nummernticket?
+몇 번 창구로 가야 돼요=Zu welchem Schalter soll ich gehen?
+얼마나 기다려야 돼요=Wie lange muss ich warten?
+오늘 처리돼요=Kann es heute bearbeitet werden?
+언제 다시 오면 돼요=Wann soll ich zurückkommen?
+수수료는 얼마예요=Wie hoch ist die Bearbeitungsgebühr?
+거주 증명서가 필요해요=Ich benötige eine Wohnsitzbescheinigung
+운전면허증 만들고 싶어요=Ich möchte einen Führerschein machen
+국제운전면허증 있어요=Ich habe einen internationalen Führerschein
+노동 허가증이 필요해요=Ich brauche eine Arbeitserlaubnis
+90일 신고하러 왔어요=Ich bin gekommen, um meinen 90-Tage-Bericht zu erstellen
+주소가 바뀌었어요=Meine Adresse hat sich geändert
+이 서류 번역해야 돼요=Muss dieses Dokument übersetzt werden?
+공증 받아야 돼요=Muss es notariell beglaubigt werden?
+영어로 된 서류 있어요=Haben Sie dieses Formular auf Englisch?
+은행 잔고 증명서 필요해요=Benötigen Sie einen Kontostandsnachweis?
+우체국 어디예요=Wo ist die Post?
+한국으로 소포 보내고 싶어요=Ich möchte ein Paket nach Korea schicken

@@ -40135,3 +40135,31 @@
 오토바이 고쳐야 돼=Tôi cần sửa xe máy
 타이어 펑크 났어요=Tôi bị xẹp lốp
 열쇠 복사해 주세요=Vui lòng tạo một bản sao của chìa khóa này
+
+# --- 대화 19: 관공서·비자·서류 (2026-11-13) ---
+비자 연장하고 싶어요=Tôi muốn gia hạn visa của tôi
+비자가 언제 만료돼요=Khi nào thị thực của tôi hết hạn?
+이민국 어디예요=Văn phòng nhập cư ở đâu?
+어떤 서류가 필요해요=Tôi cần những tài liệu gì?
+여권 사본 필요해요=Bạn có cần một bản sao hộ chiếu của tôi không?
+사진 몇 장 필요해요=Bạn cần bao nhiêu bức ảnh?
+이 서류 어떻게 써요=Làm cách nào để điền vào mẫu này?
+여기에 서명하면 돼요=Tôi có nên ký vào đây không?
+번호표 어디서 뽑아요=Tôi lấy vé số ở đâu?
+몇 번 창구로 가야 돼요=Tôi nên đến quầy nào?
+얼마나 기다려야 돼요=Tôi phải đợi bao lâu?
+오늘 처리돼요=Hôm nay có thể xử lý được không?
+언제 다시 오면 돼요=Khi nào tôi nên quay lại?
+수수료는 얼마예요=Phí xử lý là bao nhiêu?
+거주 증명서가 필요해요=Tôi cần giấy chứng nhận cư trú
+운전면허증 만들고 싶어요=Tôi muốn lấy bằng lái xe
+국제운전면허증 있어요=Tôi có bằng lái xe quốc tế
+노동 허가증이 필요해요=Tôi cần giấy phép lao động
+90일 신고하러 왔어요=Tôi đến để làm báo cáo 90 ngày của mình
+주소가 바뀌었어요=Địa chỉ của tôi đã thay đổi
+이 서류 번역해야 돼요=Tài liệu này có cần dịch không?
+공증 받아야 돼요=Có cần phải công chứng không?
+영어로 된 서류 있어요=Bạn có mẫu đơn này bằng tiếng Anh không?
+은행 잔고 증명서 필요해요=Bạn có cần giấy chứng nhận số dư ngân hàng không?
+우체국 어디예요=Bưu điện ở đâu?
+한국으로 소포 보내고 싶어요=Tôi muốn gửi một gói hàng đi Hàn Quốc
