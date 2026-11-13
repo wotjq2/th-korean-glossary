@@ -21665,3 +21665,26 @@ QR 코드 찍어 주세요=Por favor, escaneie o código QR
 선물 준비했어요=Eu preparei um presente
 작은 선물이에요=É apenas um pequeno presente
 마음에 들었으면 좋겠어요=Espero que você goste
+
+# --- 대화 31: 이사·집 문제·이웃 (2026-11-13) ---
+다음 달에 이사 가요=Estou me mudando no próximo mês
+이사 도와줄 수 있어=Você pode me ajudar a mudar?
+이삿짐 센터 불러야 돼=Preciso ligar para uma empresa de mudanças
+짐이 많아요=Eu tenho muitas coisas para mover
+계약 언제 끝나요=Quando termina o contrato?
+계약 연장하고 싶어요=Eu gostaria de estender o contrato
+계약 해지하고 싶어요=Eu gostaria de rescindir o contrato
+월세 언제까지 내야 돼요=Quando é o vencimento do aluguel?
+월세 보냈어요=Eu enviei o aluguel
+집주인 연락처 알려 주세요=Por favor, me dê o contato do proprietário
+옆집이 너무 시끄러워요=Os vizinhos são muito barulhentos
+윗집에서 물이 새요=A água está vazando do apartamento de cima
+벌레가 나와요=Há insetos na sala
+바퀴벌레가 있어요=Existem baratas
+곰팡이가 생겼어요=O molde apareceu
+전기세가 너무 많이 나왔어요=A conta de luz é muito alta
+인터넷 설치해야 돼요=preciso instalar a internet
+열쇠 하나 더 주세요=Por favor me dê mais uma chave
+쓰레기는 어디에 버려요=Onde eu jogo fora o lixo?
+택배는 어디서 받아요=Onde posso retirar os pacotes?
+보증금 언제 돌려받아요=Quando receberei meu depósito de volta?

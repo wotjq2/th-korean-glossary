@@ -40467,3 +40467,26 @@ QR 코드 찍어 주세요=Vui lòng quét mã QR
 선물 준비했어요=Tôi đã chuẩn bị một món quà
 작은 선물이에요=Chỉ là một món quà nhỏ
 마음에 들었으면 좋겠어요=Tôi hy vọng bạn thích nó
+
+# --- 대화 31: 이사·집 문제·이웃 (2026-11-13) ---
+다음 달에 이사 가요=Tôi sẽ chuyển đi vào tháng tới
+이사 도와줄 수 있어=Bạn có thể giúp tôi di chuyển được không?
+이삿짐 센터 불러야 돼=Tôi cần gọi cho một công ty chuyển nhà
+짐이 많아요=Tôi có rất nhiều thứ phải di chuyển
+계약 언제 끝나요=Khi nào hợp đồng kết thúc?
+계약 연장하고 싶어요=Tôi muốn gia hạn hợp đồng
+계약 해지하고 싶어요=Tôi muốn chấm dứt hợp đồng
+월세 언제까지 내야 돼요=Khi nào đến hạn trả tiền thuê?
+월세 보냈어요=Tôi đã gửi tiền thuê
+집주인 연락처 알려 주세요=Cho em xin contact chủ nhà nhé
+옆집이 너무 시끄러워요=Hàng xóm ồn ào quá
+윗집에서 물이 새요=Nước rò rỉ từ căn hộ trên lầu
+벌레가 나와요=Có lỗi trong phòng
+바퀴벌레가 있어요=Có gián
+곰팡이가 생겼어요=Nấm mốc đã xuất hiện
+전기세가 너무 많이 나왔어요=Hóa đơn tiền điện quá cao
+인터넷 설치해야 돼요=Tôi cần cài đặt internet
+열쇠 하나 더 주세요=Vui lòng cho tôi thêm một chìa khóa nữa
+쓰레기는 어디에 버려요=Tôi vứt rác ở đâu?
+택배는 어디서 받아요=Tôi nhận gói hàng ở đâu?
+보증금 언제 돌려받아요=Khi nào tôi sẽ nhận lại được tiền đặt cọc?

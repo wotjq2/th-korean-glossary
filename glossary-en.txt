@@ -51832,3 +51832,26 @@ QR 코드 찍어 주세요=Please scan the QR code
 선물 준비했어요=I prepared a gift
 작은 선물이에요=It's just a small gift
 마음에 들었으면 좋겠어요=I hope you like it
+
+# --- 대화 31: 이사·집 문제·이웃 (2026-11-13) ---
+다음 달에 이사 가요=I'm moving next month
+이사 도와줄 수 있어=Can you help me move?
+이삿짐 센터 불러야 돼=I need to call a moving company
+짐이 많아요=I have a lot of things to move
+계약 언제 끝나요=When does the contract end?
+계약 연장하고 싶어요=I'd like to extend the contract
+계약 해지하고 싶어요=I'd like to terminate the contract
+월세 언제까지 내야 돼요=When is the rent due?
+월세 보냈어요=I sent the rent
+집주인 연락처 알려 주세요=Please give me the landlord's contact
+옆집이 너무 시끄러워요=The neighbors are too noisy
+윗집에서 물이 새요=Water is leaking from the apartment upstairs
+벌레가 나와요=There are bugs in the room
+바퀴벌레가 있어요=There are cockroaches
+곰팡이가 생겼어요=Mold has appeared
+전기세가 너무 많이 나왔어요=The electricity bill is too high
+인터넷 설치해야 돼요=I need to get the internet installed
+열쇠 하나 더 주세요=Please give me one more key
+쓰레기는 어디에 버려요=Where do I throw away the trash?
+택배는 어디서 받아요=Where do I pick up packages?
+보증금 언제 돌려받아요=When will I get my deposit back?

@@ -23726,3 +23726,26 @@ QR 코드 찍어 주세요=Bitte scannen Sie den QR-Code
 선물 준비했어요=Ich habe ein Geschenk vorbereitet
 작은 선물이에요=Es ist nur ein kleines Geschenk
 마음에 들었으면 좋겠어요=Ich hoffe es gefällt dir
+
+# --- 대화 31: 이사·집 문제·이웃 (2026-11-13) ---
+다음 달에 이사 가요=Ich ziehe nächsten Monat um
+이사 도와줄 수 있어=Können Sie mir beim Umzug helfen?
+이삿짐 센터 불러야 돼=Ich muss eine Umzugsfirma anrufen
+짐이 많아요=Ich habe eine Menge Dinge zu bewegen
+계약 언제 끝나요=Wann endet der Vertrag?
+계약 연장하고 싶어요=Ich möchte den Vertrag verlängern
+계약 해지하고 싶어요=Ich möchte den Vertrag kündigen
+월세 언제까지 내야 돼요=Wann ist die Miete fällig?
+월세 보냈어요=Ich habe die Miete geschickt
+집주인 연락처 알려 주세요=Bitte nennen Sie mir die Kontaktdaten des Vermieters
+옆집이 너무 시끄러워요=Die Nachbarn sind zu laut
+윗집에서 물이 새요=Aus der Wohnung im Obergeschoss tritt Wasser aus
+벌레가 나와요=Es gibt Ungeziefer im Zimmer
+바퀴벌레가 있어요=Es gibt Kakerlaken
+곰팡이가 생겼어요=Schimmel ist aufgetreten
+전기세가 너무 많이 나왔어요=Die Stromrechnung ist zu hoch
+인터넷 설치해야 돼요=Ich muss das Internet installieren
+열쇠 하나 더 주세요=Bitte geben Sie mir noch einen Schlüssel
+쓰레기는 어디에 버려요=Wo werfe ich den Müll weg?
+택배는 어디서 받아요=Wo kann ich Pakete abholen?
+보증금 언제 돌려받아요=Wann bekomme ich meine Anzahlung zurück?
