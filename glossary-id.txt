@@ -37371,7 +37371,6 @@
 여기에 서명하면 돼요=Haruskah saya tanda tangan di sini?
 번호표 어디서 뽑아요=Di mana saya bisa mendapatkan tiket nomor?
 몇 번 창구로 가야 돼요=Konter mana yang harus saya datangi?
-얼마나 기다려야 돼요=Berapa lama saya harus menunggu?
 오늘 처리돼요=Apakah bisa diproses hari ini?
 언제 다시 오면 돼요=Kapan saya harus kembali?
 수수료는 얼마예요=Berapa biaya pemrosesannya?

@@ -40147,7 +40147,6 @@
 여기에 서명하면 돼요=Tôi có nên ký vào đây không?
 번호표 어디서 뽑아요=Tôi lấy vé số ở đâu?
 몇 번 창구로 가야 돼요=Tôi nên đến quầy nào?
-얼마나 기다려야 돼요=Tôi phải đợi bao lâu?
 오늘 처리돼요=Hôm nay có thể xử lý được không?
 언제 다시 오면 돼요=Khi nào tôi nên quay lại?
 수수료는 얼마예요=Phí xử lý là bao nhiêu?

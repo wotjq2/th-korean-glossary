@@ -23406,7 +23406,6 @@
 여기에 서명하면 돼요=Soll ich hier unterschreiben?
 번호표 어디서 뽑아요=Wo bekomme ich ein Nummernticket?
 몇 번 창구로 가야 돼요=Zu welchem Schalter soll ich gehen?
-얼마나 기다려야 돼요=Wie lange muss ich warten?
 오늘 처리돼요=Kann es heute bearbeitet werden?
 언제 다시 오면 돼요=Wann soll ich zurückkommen?
 수수료는 얼마예요=Wie hoch ist die Bearbeitungsgebühr?

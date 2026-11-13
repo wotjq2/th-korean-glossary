@@ -51512,7 +51512,6 @@
 여기에 서명하면 돼요=Should I sign here?
 번호표 어디서 뽑아요=Where do I get a number ticket?
 몇 번 창구로 가야 돼요=Which counter should I go to?
-얼마나 기다려야 돼요=How long do I have to wait?
 오늘 처리돼요=Can it be processed today?
 언제 다시 오면 돼요=When should I come back?
 수수료는 얼마예요=How much is the processing fee?

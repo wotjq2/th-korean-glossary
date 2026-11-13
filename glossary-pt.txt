@@ -21345,7 +21345,6 @@
 여기에 서명하면 돼요=Devo assinar aqui?
 번호표 어디서 뽑아요=Onde consigo um bilhete numérico?
 몇 번 창구로 가야 돼요=Qual balcão devo ir?
-얼마나 기다려야 돼요=Quanto tempo tenho que esperar?
 오늘 처리돼요=Pode ser processado hoje?
 언제 다시 오면 돼요=Quando devo voltar?
 수수료는 얼마예요=Quanto é a taxa de processamento?

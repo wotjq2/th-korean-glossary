@@ -22358,7 +22358,6 @@
 여기에 서명하면 돼요=Mam się tutaj podpisać?
 번호표 어디서 뽑아요=Gdzie mogę dostać bilet z numerem?
 몇 번 창구로 가야 돼요=Do jakiego licznika mam się udać?
-얼마나 기다려야 돼요=Jak długo muszę czekać?
 오늘 처리돼요=Czy można to dzisiaj przetworzyć?
 언제 다시 오면 돼요=Kiedy powinienem wrócić?
 수수료는 얼마예요=Ile wynosi opłata manipulacyjna?

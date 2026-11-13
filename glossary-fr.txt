@@ -46766,7 +46766,6 @@
 여기에 서명하면 돼요=Dois-je signer ici ?
 번호표 어디서 뽑아요=Où puis-je obtenir un ticket numéroté ?
 몇 번 창구로 가야 돼요=À quel guichet dois-je me rendre ?
-얼마나 기다려야 돼요=Combien de temps dois-je attendre ?
 오늘 처리돼요=Peut-il être traité aujourd'hui ?
 언제 다시 오면 돼요=Quand dois-je revenir ?
 수수료는 얼마예요=À combien s’élèvent les frais de traitement ?

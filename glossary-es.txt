@@ -46984,7 +46984,6 @@
 여기에 서명하면 돼요=¿Debería firmar aquí?
 번호표 어디서 뽑아요=¿Dónde consigo un ticket numérico?
 몇 번 창구로 가야 돼요=¿A qué mostrador debo acudir?
-얼마나 기다려야 돼요=¿Cuánto tiempo tengo que esperar?
 오늘 처리돼요=¿Se puede tramitar hoy?
 언제 다시 오면 돼요=¿Cuándo debería volver?
 수수료는 얼마예요=¿A cuánto asciende la tarifa de procesamiento?

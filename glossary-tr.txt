@@ -16469,7 +16469,6 @@
 여기에 서명하면 돼요=Burayı mı imzalamalıyım?
 번호표 어디서 뽑아요=Numaralı bileti nereden alabilirim?
 몇 번 창구로 가야 돼요=Hangi tezgaha gitmeliyim?
-얼마나 기다려야 돼요=Ne kadar beklemem gerekiyor?
 오늘 처리돼요=Bugün işleme koyulabilir mi?
 언제 다시 오면 돼요=Ne zaman geri gelmeliyim?
 수수료는 얼마예요=İşlem ücreti ne kadar?
