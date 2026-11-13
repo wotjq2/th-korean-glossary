@@ -23544,3 +23544,31 @@
 별말씀을요=Erwähne es nicht
 네 덕분에 힘이 나=Du gibst mir Kraft
 자랑스러워=Ich bin stolz auf dich
+
+# --- 대화 24: 컴퓨터·휴대폰 앱 사용 (2026-11-13) ---
+앱 깔았어=Hast du die App installiert?
+이 앱 어떻게 써=Wie verwende ich diese App?
+로그인이 안 돼요=Ich kann mich nicht anmelden
+비밀번호 바꾸고 싶어요=Ich möchte mein Passwort ändern
+인증번호가 안 와요=Ich erhalte den Bestätigungscode nicht
+회원가입 해야 돼요=Muss ich mich anmelden?
+업데이트 해야 돼=Ich muss es aktualisieren
+앱이 자꾸 꺼져요=Die App stürzt ständig ab
+화면이 안 켜져요=Der Bildschirm lässt sich nicht einschalten
+컴퓨터가 너무 느려=Mein Computer ist zu langsam
+컴퓨터가 고장 났어=Mein Computer ist kaputt
+다시 껐다 켜 봐=Versuchen Sie, es aus- und wieder einzuschalten
+링크 보내 줄게=Ich schicke dir den Link
+링크가 안 열려요=Der Link lässt sich nicht öffnen
+파일이 안 열려=Die Datei lässt sich nicht öffnen
+캡처해서 보내 줘=Machen Sie einen Screenshot und senden Sie ihn mir
+저장했어=Ich habe es gespeichert
+삭제했어=Ich habe es gelöscht
+실수로 지웠어=Ich habe es versehentlich gelöscht
+프린트해 주세요=Bitte drucken Sie dies aus
+QR 코드 찍어 주세요=Bitte scannen Sie den QR-Code
+영상통화 할래=Möchten Sie einen Videoanruf tätigen?
+소리가 안 들려=Ich kann dich nicht hören
+화면이 멈췄어=Der Bildschirm fror ein
+충전이 안 돼=Es wird nicht aufgeladen
+번역 앱 써 봐=Versuchen Sie es mit einer Übersetzungs-App

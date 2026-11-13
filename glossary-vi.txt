@@ -40285,3 +40285,31 @@
 별말씀을요=Đừng đề cập đến nó
 네 덕분에 힘이 나=Bạn cho tôi sức mạnh
 자랑스러워=Tôi tự hào về bạn
+
+# --- 대화 24: 컴퓨터·휴대폰 앱 사용 (2026-11-13) ---
+앱 깔았어=Bạn đã cài đặt ứng dụng chưa?
+이 앱 어떻게 써=Làm cách nào để sử dụng ứng dụng này?
+로그인이 안 돼요=Tôi không thể đăng nhập
+비밀번호 바꾸고 싶어요=Tôi muốn thay đổi mật khẩu của mình
+인증번호가 안 와요=Tôi không nhận được mã xác minh
+회원가입 해야 돼요=Tôi có cần đăng ký không?
+업데이트 해야 돼=Tôi cần cập nhật nó
+앱이 자꾸 꺼져요=Ứng dụng liên tục gặp sự cố
+화면이 안 켜져요=Màn hình sẽ không bật
+컴퓨터가 너무 느려=Máy tính của tôi quá chậm
+컴퓨터가 고장 났어=Máy tính của tôi bị hỏng
+다시 껐다 켜 봐=Hãy thử tắt đi và bật lại
+링크 보내 줄게=Tôi sẽ gửi cho bạn liên kết
+링크가 안 열려요=Liên kết sẽ không mở
+파일이 안 열려=Tệp sẽ không mở
+캡처해서 보내 줘=Chụp ảnh màn hình và gửi cho tôi
+저장했어=Tôi đã lưu nó
+삭제했어=Tôi đã xóa nó
+실수로 지웠어=Tôi đã xóa nhầm
+프린트해 주세요=Vui lòng in cái này ra
+QR 코드 찍어 주세요=Vui lòng quét mã QR
+영상통화 할래=Bạn có muốn gọi video không?
+소리가 안 들려=Tôi không thể nghe thấy bạn
+화면이 멈췄어=Màn hình bị đóng băng
+충전이 안 돼=Nó sẽ không tính phí
+번역 앱 써 봐=Hãy thử sử dụng ứng dụng dịch thuật

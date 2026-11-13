@@ -51650,3 +51650,31 @@
 별말씀을요=Don't mention it
 네 덕분에 힘이 나=You give me strength
 자랑스러워=I'm proud of you
+
+# --- 대화 24: 컴퓨터·휴대폰 앱 사용 (2026-11-13) ---
+앱 깔았어=Did you install the app?
+이 앱 어떻게 써=How do I use this app?
+로그인이 안 돼요=I can't log in
+비밀번호 바꾸고 싶어요=I want to change my password
+인증번호가 안 와요=I'm not getting the verification code
+회원가입 해야 돼요=Do I need to sign up?
+업데이트 해야 돼=I need to update it
+앱이 자꾸 꺼져요=The app keeps crashing
+화면이 안 켜져요=The screen won't turn on
+컴퓨터가 너무 느려=My computer is too slow
+컴퓨터가 고장 났어=My computer is broken
+다시 껐다 켜 봐=Try turning it off and on again
+링크 보내 줄게=I'll send you the link
+링크가 안 열려요=The link won't open
+파일이 안 열려=The file won't open
+캡처해서 보내 줘=Take a screenshot and send it to me
+저장했어=I saved it
+삭제했어=I deleted it
+실수로 지웠어=I deleted it by mistake
+프린트해 주세요=Please print this out
+QR 코드 찍어 주세요=Please scan the QR code
+영상통화 할래=Do you want to video call?
+소리가 안 들려=I can't hear you
+화면이 멈췄어=The screen froze
+충전이 안 돼=It won't charge
+번역 앱 써 봐=Try using a translation app

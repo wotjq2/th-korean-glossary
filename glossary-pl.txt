@@ -22496,3 +22496,31 @@
 별말씀을요=Nie wspominaj o tym
 네 덕분에 힘이 나=Dajesz mi siłę
 자랑스러워=Jestem z ciebie dumny
+
+# --- 대화 24: 컴퓨터·휴대폰 앱 사용 (2026-11-13) ---
+앱 깔았어=Czy zainstalowałeś aplikację?
+이 앱 어떻게 써=Jak korzystać z tej aplikacji?
+로그인이 안 돼요=Nie mogę się zalogować
+비밀번호 바꾸고 싶어요=Chcę zmienić hasło
+인증번호가 안 와요=Nie otrzymuję kodu weryfikacyjnego
+회원가입 해야 돼요=Czy muszę się rejestrować?
+업데이트 해야 돼=Muszę to zaktualizować
+앱이 자꾸 꺼져요=Aplikacja ciągle się zawiesza
+화면이 안 켜져요=Ekran nie włącza się
+컴퓨터가 너무 느려=Mój komputer jest zbyt wolny
+컴퓨터가 고장 났어=Mój komputer jest zepsuty
+다시 껐다 켜 봐=Spróbuj wyłączyć i włączyć ponownie
+링크 보내 줄게=Wyślę Ci link
+링크가 안 열려요=Link nie otworzy się
+파일이 안 열려=Plik nie zostanie otwarty
+캡처해서 보내 줘=Zrób zrzut ekranu i wyślij go do mnie
+저장했어=Zachowałem to
+삭제했어=usunąłem to
+실수로 지웠어=Usunąłem to przez pomyłkę
+프린트해 주세요=Proszę to wydrukować
+QR 코드 찍어 주세요=Zeskanuj kod QR
+영상통화 할래=Czy chcesz przeprowadzić rozmowę wideo?
+소리가 안 들려=Nie słyszę cię
+화면이 멈췄어=Ekran zamarł
+충전이 안 돼=Nie będzie ładować
+번역 앱 써 봐=Spróbuj użyć aplikacji do tłumaczenia

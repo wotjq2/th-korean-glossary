@@ -37509,3 +37509,31 @@
 별말씀을요=Jangan sebutkan itu
 네 덕분에 힘이 나=Anda memberi saya kekuatan
 자랑스러워=aku bangga padamu
+
+# --- 대화 24: 컴퓨터·휴대폰 앱 사용 (2026-11-13) ---
+앱 깔았어=Apakah Anda menginstal aplikasinya?
+이 앱 어떻게 써=Bagaimana cara menggunakan aplikasi ini?
+로그인이 안 돼요=Saya tidak bisa masuk
+비밀번호 바꾸고 싶어요=Saya ingin mengubah kata sandi saya
+인증번호가 안 와요=Saya tidak mendapatkan kode verifikasi
+회원가입 해야 돼요=Apakah saya perlu mendaftar?
+업데이트 해야 돼=Saya perlu memperbaruinya
+앱이 자꾸 꺼져요=Aplikasinya terus mogok
+화면이 안 켜져요=Layar tidak mau hidup
+컴퓨터가 너무 느려=Komputer saya terlalu lambat
+컴퓨터가 고장 났어=Komputer saya rusak
+다시 껐다 켜 봐=Coba matikan dan hidupkan lagi
+링크 보내 줄게=Saya akan mengirimkan Anda tautannya
+링크가 안 열려요=Tautannya tidak dapat dibuka
+파일이 안 열려=File tidak dapat dibuka
+캡처해서 보내 줘=Ambil tangkapan layar dan kirimkan kepada saya
+저장했어=Saya menyimpannya
+삭제했어=Saya menghapusnya
+실수로 지웠어=Saya menghapusnya secara tidak sengaja
+프린트해 주세요=Silakan cetak ini
+QR 코드 찍어 주세요=Silakan pindai kode QR
+영상통화 할래=Apakah Anda ingin melakukan panggilan video?
+소리가 안 들려=Aku tidak bisa mendengarmu
+화면이 멈췄어=Layar membeku
+충전이 안 돼=Ini tidak akan dikenakan biaya
+번역 앱 써 봐=Coba gunakan aplikasi terjemahan
