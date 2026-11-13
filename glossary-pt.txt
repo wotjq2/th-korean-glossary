@@ -22101,3 +22101,19 @@ IT 쪽에서 일해요=Eu trabalho em TI
 다시 돌아가야 돼요=Eu preciso voltar
 지도 앱이 이상해요=O aplicativo de mapas está agindo de forma estranha
 여기 어딘지 설명해 줄 수 있어요=Você pode explicar onde fica esse lugar?
+
+# --- 대화 51: 카페·음료 주문 (2026-11-13) ---
+아이스 아메리카노 한 잔 주세요=Um americano gelado, por favor
+따뜻한 라떼 주세요=Um café com leite quente, por favor
+사이즈 큰 걸로 주세요=Um tamanho grande, por favor
+작은 사이즈로 주세요=Um tamanho pequeno, por favor
+샷 추가해 주세요=Pode colocar uma dose extra de café
+우유 대신 두유로 해 주세요=Por favor, use leite de soja em vez de leite
+시럽 빼 주세요=Sem xarope, por favor
+얼음 적게 주세요=Menos gelo, por favor
+테이크아웃할게요=Para levar, por favor
+여기서 마실게요=vou beber aqui
+콘센트 있어요=Existe uma tomada elétrica?
+진동벨 울리면 오세요=Venha quando a campainha tocar
+케이크 하나 주세요=Um pedaço de bolo, por favor
+커피 마시러 갈래=Você quer ir tomar um café?

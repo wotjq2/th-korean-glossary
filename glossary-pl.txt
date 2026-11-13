@@ -23114,3 +23114,19 @@ IT 쪽에서 일해요=Pracuję w IT
 다시 돌아가야 돼요=Muszę wrócić
 지도 앱이 이상해요=Aplikacja mapa zachowuje się dziwnie
 여기 어딘지 설명해 줄 수 있어요=Czy możesz wyjaśnić, gdzie jest to miejsce?
+
+# --- 대화 51: 카페·음료 주문 (2026-11-13) ---
+아이스 아메리카노 한 잔 주세요=Poproszę jedno mrożone americano
+따뜻한 라떼 주세요=Proszę gorącą latte
+사이즈 큰 걸로 주세요=Proszę o duży rozmiar
+작은 사이즈로 주세요=Proszę o mały rozmiar
+샷 추가해 주세요=Dodaj dodatkowe ujęcie
+우유 대신 두유로 해 주세요=Zamiast mleka proszę używać mleka sojowego
+시럽 빼 주세요=Bez syropu, proszę
+얼음 적게 주세요=Mniej lodu, proszę
+테이크아웃할게요=Na wynos, proszę
+여기서 마실게요=Wypiję to tutaj
+콘센트 있어요=Czy jest gniazdko elektryczne?
+진동벨 울리면 오세요=Przyjdź, gdy zadzwoni brzęczyk
+케이크 하나 주세요=Poproszę jeden kawałek ciasta
+커피 마시러 갈래=Chcesz iść na kawę?

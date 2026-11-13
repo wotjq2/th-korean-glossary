@@ -47740,3 +47740,19 @@ IT 쪽에서 일해요=yo trabajo en TI
 다시 돌아가야 돼요=necesito volver
 지도 앱이 이상해요=La aplicación de mapas está actuando de forma extraña.
 여기 어딘지 설명해 줄 수 있어요=¿Puedes explicar dónde está este lugar?
+
+# --- 대화 51: 카페·음료 주문 (2026-11-13) ---
+아이스 아메리카노 한 잔 주세요=Un americano helado, por favor.
+따뜻한 라떼 주세요=Un café con leche caliente, por favor.
+사이즈 큰 걸로 주세요=Una talla grande por favor.
+작은 사이즈로 주세요=Un tamaño pequeño por favor.
+샷 추가해 주세요=Por favor agregue una foto extra
+우유 대신 두유로 해 주세요=Utilice leche de soja en lugar de leche.
+시럽 빼 주세요=Sin almíbar, por favor.
+얼음 적게 주세요=Menos hielo por favor.
+테이크아웃할게요=Para llevar, por favor
+여기서 마실게요=lo beberé aquí
+콘센트 있어요=¿Hay una toma de corriente?
+진동벨 울리면 오세요=Ven cuando suene el timbre
+케이크 하나 주세요=Un pedazo de pastel por favor
+커피 마시러 갈래=¿Quieres ir a tomar un café?

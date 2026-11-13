@@ -40903,3 +40903,19 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 다시 돌아가야 돼요=Tôi cần phải quay lại
 지도 앱이 이상해요=Ứng dụng bản đồ đang hoạt động kỳ lạ
 여기 어딘지 설명해 줄 수 있어요=Bạn có thể giải thích nơi này là ở đâu?
+
+# --- 대화 51: 카페·음료 주문 (2026-11-13) ---
+아이스 아메리카노 한 잔 주세요=Làm ơn cho một ly Americano đá
+따뜻한 라떼 주세요=Làm ơn cho một ly latte nóng
+사이즈 큰 걸로 주세요=Cho xin kích thước lớn nhé
+작은 사이즈로 주세요=Cho xin kích thước nhỏ nhé
+샷 추가해 주세요=Vui lòng thêm một cảnh quay bổ sung
+우유 대신 두유로 해 주세요=Hãy sử dụng sữa đậu nành thay vì sữa
+시럽 빼 주세요=Làm ơn đừng có si-rô
+얼음 적게 주세요=Làm ơn bớt đá đi
+테이크아웃할게요=Cho tôi mang về
+여기서 마실게요=Tôi sẽ uống nó ở đây
+콘센트 있어요=Có ổ cắm điện không?
+진동벨 울리면 오세요=Hãy đến khi chuông reo
+케이크 하나 주세요=Làm ơn cho một miếng bánh
+커피 마시러 갈래=Bạn có muốn đi uống cà phê không?
