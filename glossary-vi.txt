@@ -40254,3 +40254,34 @@
 요리 잘하네=Bạn là một đầu bếp giỏi
 더 먹을래=Bạn có muốn thêm nữa không?
 배부르게 먹었어=Tôi đã ăn cho tới khi no
+
+# --- 대화 23: 칭찬·외모·성격 (2026-11-13) ---
+정말 친절하시네요=Bạn thực sự rất tốt bụng
+마음씨가 착하다=Bạn có một trái tim nhân hậu
+너 진짜 웃기다=Bạn thực sự hài hước
+똑똑하다=Bạn thật thông minh
+대단하다=Điều đó thật tuyệt vời
+멋지다=Điều đó thật tuyệt vời
+잘 어울려=Nó rất hợp với bạn
+옷 예쁘다=Quần áo của bạn đẹp quá
+머리 잘랐어=Bạn đã cắt tóc chưa?
+살 빠졌어=Bạn đã giảm cân?
+피부가 좋네=Da của bạn trông tuyệt vời
+젊어 보여요=Bạn trông trẻ
+한국어 잘하시네요=Tiếng Hàn của bạn rất tốt
+태국어 잘하시네요=Tiếng Thái của bạn rất tốt
+사진 잘 나왔다=Bức ảnh xuất hiện tuyệt vời
+목소리 좋다=Bạn có một giọng nói hay
+센스 있다=Bạn có ý thức tốt về phong cách
+성격이 좋아=Bạn có một nhân cách tuyệt vời
+부지런하다=Bạn thật chăm chỉ
+게으르다=Bạn lười biếng
+고집이 세다=Bạn thật bướng bỉnh
+수줍음이 많아=Tôi là một người nhút nhát
+나는 내성적이야=tôi là người hướng nội
+나는 외향적이야=tôi là người hướng ngoại
+칭찬 고마워=Cảm ơn vì lời khen
+과찬이에요=Bạn tâng bốc tôi
+별말씀을요=Đừng đề cập đến nó
+네 덕분에 힘이 나=Bạn cho tôi sức mạnh
+자랑스러워=Tôi tự hào về bạn

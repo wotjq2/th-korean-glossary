@@ -37478,3 +37478,34 @@
 요리 잘하네=Anda seorang juru masak yang baik
 더 먹을래=Apakah Anda ingin lagi?
 배부르게 먹었어=Aku makan sampai kenyang
+
+# --- 대화 23: 칭찬·외모·성격 (2026-11-13) ---
+정말 친절하시네요=Kamu sungguh baik
+마음씨가 착하다=Anda memiliki hati yang baik
+너 진짜 웃기다=Kamu sungguh lucu
+똑똑하다=Kamu sangat pintar
+대단하다=Itu luar biasa
+멋지다=Itu luar biasa
+잘 어울려=Itu cocok untukmu
+옷 예쁘다=Pakaianmu cantik
+머리 잘랐어=Apakah kamu sudah potong rambut?
+살 빠졌어=Apakah Anda menurunkan berat badan?
+피부가 좋네=Kulitmu terlihat bagus
+젊어 보여요=Kamu terlihat muda
+한국어 잘하시네요=Bahasa Koreamu sangat bagus
+태국어 잘하시네요=Bahasa Thailandmu sangat bagus
+사진 잘 나왔다=Fotonya bagus sekali
+목소리 좋다=Anda memiliki suara yang bagus
+센스 있다=Anda memiliki selera gaya yang bagus
+성격이 좋아=Anda memiliki kepribadian yang hebat
+부지런하다=Kamu pekerja keras
+게으르다=Kamu malas
+고집이 세다=Kamu sangat keras kepala
+수줍음이 많아=Saya orang yang pemalu
+나는 내성적이야=Saya seorang introvert
+나는 외향적이야=Saya seorang ekstrover
+칭찬 고마워=makasih atas pujiannya
+과찬이에요=Anda menyanjung saya
+별말씀을요=Jangan sebutkan itu
+네 덕분에 힘이 나=Anda memberi saya kekuatan
+자랑스러워=aku bangga padamu

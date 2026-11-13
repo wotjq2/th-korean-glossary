@@ -21452,3 +21452,34 @@
 요리 잘하네=Você é um bom cozinheiro
 더 먹을래=Você quer mais?
 배부르게 먹었어=Eu comi até ficar satisfeito
+
+# --- 대화 23: 칭찬·외모·성격 (2026-11-13) ---
+정말 친절하시네요=Você é muito gentil
+마음씨가 착하다=Você tem um coração gentil
+너 진짜 웃기다=Você é muito engraçado
+똑똑하다=Você é tão inteligente
+대단하다=Isso é incrível
+멋지다=Isso é maravilhoso
+잘 어울려=Combina bem com você
+옷 예쁘다=Suas roupas são lindas
+머리 잘랐어=Você cortou o cabelo?
+살 빠졌어=Você perdeu peso?
+피부가 좋네=Sua pele está ótima
+젊어 보여요=Você parece jovem
+한국어 잘하시네요=Seu coreano é muito bom
+태국어 잘하시네요=Seu tailandês é muito bom
+사진 잘 나왔다=A foto ficou ótima
+목소리 좋다=Você tem uma bela voz
+센스 있다=Você tem um bom senso de estilo
+성격이 좋아=Você tem uma grande personalidade
+부지런하다=Você é tão trabalhador
+게으르다=Você é preguiçoso
+고집이 세다=Você é tão teimoso
+수줍음이 많아=Eu sou uma pessoa tímida
+나는 내성적이야=Eu sou introvertido
+나는 외향적이야=Eu sou extrovertido
+칭찬 고마워=Obrigado pelo elogio
+과찬이에요=Você me lisonjeia
+별말씀을요=Não mencione isso
+네 덕분에 힘이 나=Você me dá força
+자랑스러워=Estou orgulhoso de você

@@ -51619,3 +51619,34 @@
 요리 잘하네=You're a good cook
 더 먹을래=Do you want some more?
 배부르게 먹었어=I ate until I was full
+
+# --- 대화 23: 칭찬·외모·성격 (2026-11-13) ---
+정말 친절하시네요=You are really kind
+마음씨가 착하다=You have a kind heart
+너 진짜 웃기다=You're really funny
+똑똑하다=You're so smart
+대단하다=That's amazing
+멋지다=That is wonderful
+잘 어울려=It suits you well
+옷 예쁘다=Your clothes are pretty
+머리 잘랐어=Did you get a haircut?
+살 빠졌어=Did you lose weight?
+피부가 좋네=Your skin looks great
+젊어 보여요=You look young
+한국어 잘하시네요=Your Korean is very good
+태국어 잘하시네요=Your Thai is very good
+사진 잘 나왔다=The photo came out great
+목소리 좋다=You have a nice voice
+센스 있다=You have a good sense of style
+성격이 좋아=You have a great personality
+부지런하다=You're so hardworking
+게으르다=You're lazy
+고집이 세다=You're so stubborn
+수줍음이 많아=I'm a shy person
+나는 내성적이야=I'm an introvert
+나는 외향적이야=I'm an extrovert
+칭찬 고마워=Thanks for the compliment
+과찬이에요=You flatter me
+별말씀을요=Don't mention it
+네 덕분에 힘이 나=You give me strength
+자랑스러워=I'm proud of you

@@ -16576,3 +16576,34 @@
 요리 잘하네=Sen iyi bir aşçısın
 더 먹을래=Biraz daha ister misin?
 배부르게 먹었어=Doyana kadar yedim
+
+# --- 대화 23: 칭찬·외모·성격 (2026-11-13) ---
+정말 친절하시네요=Gerçekten naziksin
+마음씨가 착하다=İyi bir kalbin var
+너 진짜 웃기다=Gerçekten komiksin
+똑똑하다=çok akıllısın
+대단하다=Bu harika
+멋지다=Bu harika
+잘 어울려=Sana çok yakışıyor
+옷 예쁘다=Kıyafetlerin çok güzel
+머리 잘랐어=Saçını kestirdin mi?
+살 빠졌어=Kilo mu verdin?
+피부가 좋네=Cildiniz harika görünüyor
+젊어 보여요=Genç görünüyorsun
+한국어 잘하시네요=Koreceniz çok iyi
+태국어 잘하시네요=Tayland diliniz çok iyi
+사진 잘 나왔다=Fotoğraf harika çıktı
+목소리 좋다=Güzel bir sesin var
+센스 있다=İyi bir stil anlayışın var
+성격이 좋아=Harika bir kişiliğin var
+부지런하다=Çok çalışkansın
+게으르다=Sen tembelsin
+고집이 세다=Çok inatçısın
+수줍음이 많아=Ben utangaç bir insanım
+나는 내성적이야=Ben içe dönük biriyim
+나는 외향적이야=Ben dışa dönük biriyim
+칭찬 고마워=İltifatın için teşekkürler
+과찬이에요=Çok naziksiniz, abartıyorsunuz
+별말씀을요=Bundan bahsetme
+네 덕분에 힘이 나=Bana güç veriyorsun
+자랑스러워=seninle gurur duyuyorum
