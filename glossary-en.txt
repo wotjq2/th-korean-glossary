@@ -51553,3 +51553,37 @@
 착불이에요=Is it cash on delivery?
 리뷰 남길게요=I'll leave a review
 별 다섯 개 줄게요=I'll give you five stars
+
+# --- 대화 21: 인사·축하·사과·부탁 (2026-11-13) ---
+생일 축하해=Happy birthday
+결혼 축하해요=Congratulations on your wedding
+졸업 축하해=Congratulations on your graduation
+합격 축하해=Congratulations on passing
+승진 축하드려요=Congratulations on your promotion
+메리 크리스마스=Merry Christmas
+즐거운 송크란 보내세요=Happy Songkran
+명절 잘 보내세요=Have a happy holiday
+새해 복 많이 받아=Happy New Year
+건강하세요=Stay healthy
+행운을 빌어=Good luck
+여행 잘 다녀와=Have a good trip
+조심히 들어가세요=Get home safely
+초대해 줘서 고마워=Thank you for inviting me
+와 줘서 고마워=Thank you for coming
+기다려 줘서 고마워=Thank you for waiting
+늦어서 죄송합니다=I'm sorry for being late
+연락 못 해서 미안해=Sorry I couldn't contact you
+답장 늦어서 미안해=Sorry for the late reply
+불편을 드려 죄송합니다=I'm sorry for the inconvenience
+제 실수예요=It's my mistake
+다시는 안 그럴게=I won't do it again
+부탁이 있어요=I have a favor to ask
+부탁 하나만 해도 돼=Can I ask you a favor?
+도와줄 수 있어=Can you help me?
+도와줘서 고마워=Thanks for helping me
+신세 많이 졌어요=I owe you a lot
+이 은혜 잊지 않을게요=I will never forget your kindness
+천천히 하세요=Take your time
+편하게 하세요=Make yourself comfortable
+맛있게 드세요=Enjoy your meal
+많이 드세요=Please eat a lot

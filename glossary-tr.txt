@@ -16510,3 +16510,37 @@
 착불이에요=Teslimatta nakit mi?
 리뷰 남길게요=Bir inceleme bırakacağım
 별 다섯 개 줄게요=Sana beş yıldız vereceğim
+
+# --- 대화 21: 인사·축하·사과·부탁 (2026-11-13) ---
+생일 축하해=Doğum günün kutlu olsun
+결혼 축하해요=Düğününüz için tebrikler
+졸업 축하해=Mezuniyetini tebrik ederim
+합격 축하해=Geçtiğiniz için tebrikler
+승진 축하드려요=Terfiiniz için tebrikler
+메리 크리스마스=Mutlu Noeller
+즐거운 송크란 보내세요=Mutlu Songkran
+명절 잘 보내세요=Mutlu bir tatil geçirin
+새해 복 많이 받아=Yeni yılın kutlu olsun
+건강하세요=Sağlıklı kalın
+행운을 빌어=İyi şanlar
+여행 잘 다녀와=İyi yolculuklar
+조심히 들어가세요=Güvenli bir şekilde eve dönün
+초대해 줘서 고마워=Beni davet ettiğin için teşekkür ederim
+와 줘서 고마워=Geldiğiniz için teşekkür ederim
+기다려 줘서 고마워=Beklediğiniz için teşekkür ederiz
+늦어서 죄송합니다=geciktiğim için üzgünüm
+연락 못 해서 미안해=Üzgünüm seninle iletişime geçemedim
+답장 늦어서 미안해=Geç cevap için özür dilerim
+불편을 드려 죄송합니다=rahatsızlıktan dolayı özür dilerim
+제 실수예요=Bu benim hatam
+다시는 안 그럴게=Bunu bir daha yapmayacağım
+부탁이 있어요=bir iyilik isteyeceğim
+부탁 하나만 해도 돼=Senden bir iyilik isteyebilir miyim?
+도와줄 수 있어=Bana yardım eder misiniz?
+도와줘서 고마워=Bana yardım ettiğin için teşekkürler
+신세 많이 졌어요=sana çok şey borçluyum
+이 은혜 잊지 않을게요=İyiliğini asla unutmayacağım
+천천히 하세요=Acele etmeyin
+편하게 하세요=Kendinizi rahat ettirin
+맛있게 드세요=Afiyet olsun
+많이 드세요=Lütfen çok ye

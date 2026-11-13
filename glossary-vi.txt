@@ -40188,3 +40188,37 @@
 착불이에요=Có phải là tiền mặt khi giao hàng?
 리뷰 남길게요=Tôi sẽ để lại đánh giá
 별 다섯 개 줄게요=Tôi sẽ cho bạn năm sao
+
+# --- 대화 21: 인사·축하·사과·부탁 (2026-11-13) ---
+생일 축하해=Chúc mừng sinh nhật
+결혼 축하해요=Chúc mừng đám cưới của bạn
+졸업 축하해=Chúc mừng bạn đã tốt nghiệp
+합격 축하해=Chúc mừng bạn đã vượt qua
+승진 축하드려요=Chúc mừng bạn đã thăng chức
+메리 크리스마스=Giáng sinh vui vẻ
+즐거운 송크란 보내세요=Chúc mừng Songkran
+명절 잘 보내세요=Chúc bạn có một kỳ nghỉ lễ vui vẻ
+새해 복 많이 받아=CHÚC MỪNG NĂM MỚI
+건강하세요=Giữ sức khỏe
+행운을 빌어=Chúc may mắn
+여행 잘 다녀와=Chúc bạn có một chuyến đi vui vẻ
+조심히 들어가세요=Về nhà an toàn
+초대해 줘서 고마워=Cảm ơn bạn đã mời tôi
+와 줘서 고마워=Cảm ơn bạn đã đến
+기다려 줘서 고마워=Cảm ơn bạn đã chờ đợi
+늦어서 죄송합니다=Tôi xin lỗi vì đã đến muộn
+연락 못 해서 미안해=Xin lỗi tôi không thể liên lạc với bạn
+답장 늦어서 미안해=Xin lỗi vì trả lời muộn
+불편을 드려 죄송합니다=Tôi xin lỗi vì sự bất tiện này
+제 실수예요=Đó là lỗi của tôi
+다시는 안 그럴게=Tôi sẽ không làm điều đó nữa
+부탁이 있어요=Tôi có chuyện muốn nhờ
+부탁 하나만 해도 돼=Tôi có thể nhờ bạn một việc được không?
+도와줄 수 있어=Bạn có thể giúp tôi được không?
+도와줘서 고마워=Cảm ơn vì đã giúp tôi
+신세 많이 졌어요=Tôi nợ bạn rất nhiều
+이 은혜 잊지 않을게요=Tôi sẽ không bao giờ quên lòng tốt của bạn
+천천히 하세요=Hãy dành thời gian của bạn
+편하게 하세요=Làm cho mình thoải mái
+맛있게 드세요=Thưởng thức bữa ăn của bạn
+많이 드세요=Hãy ăn thật nhiều nhé

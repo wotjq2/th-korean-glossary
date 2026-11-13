@@ -46807,3 +46807,37 @@
 착불이에요=Est-ce du paiement à la livraison ?
 리뷰 남길게요=je vais laisser un avis
 별 다섯 개 줄게요=je te donnerai cinq étoiles
+
+# --- 대화 21: 인사·축하·사과·부탁 (2026-11-13) ---
+생일 축하해=Joyeux anniversaire
+결혼 축하해요=Félicitations pour votre mariage
+졸업 축하해=Félicitations pour votre diplôme
+합격 축하해=Félicitations pour votre passage
+승진 축하드려요=Félicitations pour votre promotion
+메리 크리스마스=Joyeux noël
+즐거운 송크란 보내세요=Joyeux Songkran
+명절 잘 보내세요=Passez de bonnes vacances
+새해 복 많이 받아=Bonne année
+건강하세요=Restez en bonne santé
+행운을 빌어=Bonne chance
+여행 잘 다녀와=Bon voyage
+조심히 들어가세요=Rentrez chez vous en toute sécurité
+초대해 줘서 고마워=Merci de m'avoir invité
+와 줘서 고마워=Merci d'être venu
+기다려 줘서 고마워=Merci d'avoir attendu
+늦어서 죄송합니다=Je suis désolé d'être en retard
+연락 못 해서 미안해=Désolé, je n'ai pas pu vous contacter
+답장 늦어서 미안해=Désolé pour la réponse tardive
+불편을 드려 죄송합니다=Je suis désolé pour le désagrément
+제 실수예요=C'est mon erreur
+다시는 안 그럴게=je ne le ferai plus
+부탁이 있어요=J'ai une faveur à demander
+부탁 하나만 해도 돼=Puis-je vous demander une faveur ?
+도와줄 수 있어=Pouvez-vous m'aider?
+도와줘서 고마워=Merci de m'avoir aidé
+신세 많이 졌어요=je te dois beaucoup
+이 은혜 잊지 않을게요=Je n'oublierai jamais ta gentillesse
+천천히 하세요=Prenez votre temps
+편하게 하세요=Installez-vous confortablement
+맛있게 드세요=Bon appétit
+많이 드세요=S'il te plaît, mange beaucoup

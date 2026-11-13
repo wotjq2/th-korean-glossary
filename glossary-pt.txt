@@ -21386,3 +21386,37 @@
 착불이에요=É dinheiro na entrega?
 리뷰 남길게요=vou deixar um comentário
 별 다섯 개 줄게요=vou te dar cinco estrelas
+
+# --- 대화 21: 인사·축하·사과·부탁 (2026-11-13) ---
+생일 축하해=Feliz aniversário
+결혼 축하해요=Parabéns pelo seu casamento
+졸업 축하해=Parabéns pela sua formatura
+합격 축하해=Parabéns pela passagem
+승진 축하드려요=Parabéns pela sua promoção
+메리 크리스마스=Feliz Natal
+즐거운 송크란 보내세요=Feliz Songkran
+명절 잘 보내세요=Tenha um feliz feriado
+새해 복 많이 받아=Feliz Ano Novo
+건강하세요=Mantenha-se saudável
+행운을 빌어=Boa sorte
+여행 잘 다녀와=Tenha uma boa viagem
+조심히 들어가세요=Chegue em casa com segurança
+초대해 줘서 고마워=Obrigado por me convidar
+와 줘서 고마워=Obrigado por ter vindo
+기다려 줘서 고마워=Obrigado por esperar
+늦어서 죄송합니다=Me desculpe por estar atrasado
+연락 못 해서 미안해=Desculpe, não consegui entrar em contato com você
+답장 늦어서 미안해=Desculpe pela resposta tardia
+불편을 드려 죄송합니다=Sinto muito pelo inconveniente
+제 실수예요=É meu erro
+다시는 안 그럴게=Eu não farei isso de novo
+부탁이 있어요=Eu tenho um favor a pedir
+부탁 하나만 해도 돼=Posso te pedir um favor?
+도와줄 수 있어=Pode me ajudar?
+도와줘서 고마워=Obrigado por me ajudar
+신세 많이 졌어요=Eu devo muito a você
+이 은혜 잊지 않을게요=Eu nunca esquecerei sua gentileza
+천천히 하세요=Sem pressa
+편하게 하세요=Fique confortável
+맛있게 드세요=Desfrute de sua refeição
+많이 드세요=Por favor coma muito
