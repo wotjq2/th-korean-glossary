@@ -17360,3 +17360,15 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 오늘 너무 습하다=Bugün hava çok nemli
 하늘이 맑다=Gökyüzü açık
 선크림 발라=Güneş kremi sürün
+
+# --- 대화 60: 미용 2·네일·마사지 (2026-11-13) ---
+발마사지 받고 싶어요=Ayak masajı istiyorum
+한 시간에 얼마예요=Bir saat için ne kadar?
+좀 더 세게 해 주세요=Biraz daha sert lütfen
+좀 더 약하게 해 주세요=Biraz daha yumuşak lütfen
+거기 아파요=O nokta acıyor
+너무 시원해요=Bu çok iyi hissettiriyor
+젤 네일 하고 싶어요=Jel tırnak istiyorum
+눈썹 정리해 주세요=Lütfen kaşlarımı kes
+앞머리 잘라 주세요=Lütfen kaküllerimi kes
+팁 드릴게요=İşte sana bir ipucu

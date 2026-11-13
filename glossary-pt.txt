@@ -22236,3 +22236,15 @@ IT 쪽에서 일해요=Eu trabalho em TI
 오늘 너무 습하다=Está tão úmido hoje
 하늘이 맑다=O céu está claro
 선크림 발라=Coloque protetor solar
+
+# --- 대화 60: 미용 2·네일·마사지 (2026-11-13) ---
+발마사지 받고 싶어요=Eu gostaria de uma massagem nos pés
+한 시간에 얼마예요=Quanto custa uma hora?
+좀 더 세게 해 주세요=Um pouco mais difícil, por favor
+좀 더 약하게 해 주세요=Um pouco mais suave, por favor
+거기 아파요=Dói aí
+너무 시원해요=Isso é tão bom
+젤 네일 하고 싶어요=gostaria de unhas de gel
+눈썹 정리해 주세요=Por favor, apare minhas sobrancelhas
+앞머리 잘라 주세요=Por favor, corte minha franja
+팁 드릴게요=Aqui vai uma dica para você

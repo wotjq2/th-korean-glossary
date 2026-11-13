@@ -52404,3 +52404,15 @@ IT 쪽에서 일해요=I work in IT
 오늘 너무 습하다=It's so humid today
 하늘이 맑다=The sky is clear
 선크림 발라=Put on sunscreen
+
+# --- 대화 60: 미용 2·네일·마사지 (2026-11-13) ---
+발마사지 받고 싶어요=I'd like a foot massage
+한 시간에 얼마예요=How much is it for one hour?
+좀 더 세게 해 주세요=A little harder, please
+좀 더 약하게 해 주세요=A little softer, please
+거기 아파요=That spot hurts
+너무 시원해요=That feels so good
+젤 네일 하고 싶어요=I'd like gel nails
+눈썹 정리해 주세요=Please trim my eyebrows
+앞머리 잘라 주세요=Please cut my bangs
+팁 드릴게요=Here's a tip for you
