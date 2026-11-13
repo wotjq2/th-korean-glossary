@@ -47573,3 +47573,19 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 다른 물건이 왔어요=J'ai reçu un article différent
 반품 주소 알려 주세요=S'il vous plaît dites-moi l'adresse de retour
 리뷰 좋게 남길게요=je vais laisser une bonne critique
+
+# --- 대화 54: 초대·손님맞이 (2026-11-13) ---
+우리 집에 놀러 와=Viens chez moi
+집들이 할 거야=J'organise une pendaison de crémaillère
+몇 시까지 가면 돼=À quelle heure dois-je venir ?
+그냥 몸만 와=Viens les mains vides
+어서 와=Bienvenue, entrez
+들어와=Entrez
+신발 여기 벗어=Enlève tes chaussures ici
+편하게 앉아=Asseyez-vous et détendez-vous
+뭐 마실래=Qu'aimeriez-vous boire ?
+배고프지=Tu dois avoir faim, non ?
+많이 먹어=Mangez beaucoup
+집 예쁘다=Votre endroit est magnifique
+벌써 이렇게 됐네 가 봐야겠다=Il se fait tard, je devrais y aller
+조심히 가 또 와=Rentrez chez vous sain et sauf et revenez

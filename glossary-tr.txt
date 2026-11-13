@@ -17276,3 +17276,19 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 다른 물건이 왔어요=Farklı bir ürün geldi
 반품 주소 알려 주세요=Lütfen bana iade adresini söyle
 리뷰 좋게 남길게요=İyi bir inceleme bırakacağım
+
+# --- 대화 54: 초대·손님맞이 (2026-11-13) ---
+우리 집에 놀러 와=Benim evime gel
+집들이 할 거야=Yeni eve taşınma partisi veriyorum
+몇 시까지 가면 돼=Ne zaman gelmeliyim?
+그냥 몸만 와=Bir şey getirme, sadece gel
+어서 와=Hoş geldiniz, içeri gelin
+들어와=Girin
+신발 여기 벗어=Ayakkabılarını burada çıkar
+편하게 앉아=Oturun ve rahatlayın
+뭐 마실래=Ne içmek istersiniz?
+배고프지=Aç olmalısın, değil mi?
+많이 먹어=Çok yemek
+집 예쁘다=Senin yerin çok güzel
+벌써 이렇게 됐네 가 봐야겠다=Geç oldu, gitmeliyim
+조심히 가 또 와=Eve sağ salim dön ve tekrar gel

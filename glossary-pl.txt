@@ -23165,3 +23165,19 @@ IT 쪽에서 일해요=Pracuję w IT
 다른 물건이 왔어요=Otrzymałem inny przedmiot
 반품 주소 알려 주세요=Proszę podać adres zwrotny
 리뷰 좋게 남길게요=Zostawię dobrą recenzję
+
+# --- 대화 54: 초대·손님맞이 (2026-11-13) ---
+우리 집에 놀러 와=Przyjdź do mnie
+집들이 할 거야=Organizuję parapetówkę
+몇 시까지 가면 돼=O której godzinie mam przyjść?
+그냥 몸만 와=Nic nie przynoś, po prostu przyjdź
+어서 와=Witamy, wejdź
+들어와=Proszę wejść
+신발 여기 벗어=Zdejmij buty tutaj
+편하게 앉아=Usiądź i zrelaksuj się
+뭐 마실래=Czego by Pan się napił?
+배고프지=Pewnie jesteś głodny, prawda?
+많이 먹어=Jedz dużo
+집 예쁘다=Twoje miejsce jest piękne
+벌써 이렇게 됐네 가 봐야겠다=Zrobiło się późno, powinienem już iść
+조심히 가 또 와=Wracaj bezpiecznie do domu i przyjdź ponownie

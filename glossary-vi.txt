@@ -40954,3 +40954,19 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 다른 물건이 왔어요=Tôi đã nhận được một mặt hàng khác
 반품 주소 알려 주세요=Xin vui lòng cho tôi biết địa chỉ trả lại
 리뷰 좋게 남길게요=Tôi sẽ để lại một đánh giá tốt
+
+# --- 대화 54: 초대·손님맞이 (2026-11-13) ---
+우리 집에 놀러 와=Hãy đến chỗ tôi
+집들이 할 거야=Tôi đang tổ chức tiệc tân gia
+몇 시까지 가면 돼=Tôi nên đến lúc mấy giờ?
+그냥 몸만 와=Không cần mang gì, cứ đến thôi
+어서 와=Chào mừng, vào đi
+들어와=Vào đi
+신발 여기 벗어=Cởi giày ở đây
+편하게 앉아=Hãy ngồi xuống và thư giãn
+뭐 마실래=Bạn muốn uống gì?
+배고프지=Chắc hẳn bạn đang đói phải không?
+많이 먹어=Ăn nhiều
+집 예쁘다=Chỗ của bạn đẹp lắm
+벌써 이렇게 됐네 가 봐야겠다=Đã muộn rồi, tôi nên đi thôi
+조심히 가 또 와=Về nhà an toàn và trở lại

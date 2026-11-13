@@ -52320,3 +52320,19 @@ IT 쪽에서 일해요=I work in IT
 다른 물건이 왔어요=I received a different item
 반품 주소 알려 주세요=Please tell me the return address
 리뷰 좋게 남길게요=I'll leave a good review
+
+# --- 대화 54: 초대·손님맞이 (2026-11-13) ---
+우리 집에 놀러 와=Come over to my place
+집들이 할 거야=I'm having a housewarming party
+몇 시까지 가면 돼=What time should I come?
+그냥 몸만 와=Don't bring anything, just come
+어서 와=Welcome, come on in
+들어와=Come in
+신발 여기 벗어=Take off your shoes here
+편하게 앉아=Have a seat and relax
+뭐 마실래=What would you like to drink?
+배고프지=You must be hungry, right?
+많이 먹어=Eat a lot
+집 예쁘다=Your place is beautiful
+벌써 이렇게 됐네 가 봐야겠다=It's gotten late, I should get going
+조심히 가 또 와=Get home safe and come again

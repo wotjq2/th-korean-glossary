@@ -38178,3 +38178,19 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 다른 물건이 왔어요=Saya menerima barang yang berbeda
 반품 주소 알려 주세요=Tolong beritahu saya alamat pengirimnya
 리뷰 좋게 남길게요=Saya akan memberikan ulasan yang bagus
+
+# --- 대화 54: 초대·손님맞이 (2026-11-13) ---
+우리 집에 놀러 와=Datanglah ke tempatku
+집들이 할 거야=Aku sedang mengadakan pesta pindah rumah
+몇 시까지 가면 돼=Jam berapa saya harus datang?
+그냥 몸만 와=Nggak usah bawa apa-apa, datang aja
+어서 와=Selamat datang, ayo masuk
+들어와=Datang
+신발 여기 벗어=Lepaskan sepatumu di sini
+편하게 앉아=Silakan duduk dan bersantai
+뭐 마실래=Anda mau minum apa?
+배고프지=Anda pasti lapar, bukan?
+많이 먹어=Makan banyak
+집 예쁘다=Tempatmu indah
+벌써 이렇게 됐네 가 봐야겠다=Ini sudah larut, aku harus segera berangkat
+조심히 가 또 와=Pulang dengan selamat dan datang lagi
