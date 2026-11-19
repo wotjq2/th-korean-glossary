@@ -38344,3 +38344,19 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 물이 깊어요=Apakah airnya dalam?
 파도가 세요=Ombaknya kuat
 해파리 조심해=Hati-hati dengan ubur-ubur
+
+# --- 대화 67: 은행 3 (2026-11-19) ---
+번호표 뽑아야 돼요=Apakah saya perlu mengambil nomor antrian?
+어느 창구로 가야 돼요=Konter mana yang harus saya datangi?
+큰돈을 잔돈으로 바꿔 주세요=Silakan ubah tagihan besar ini menjadi tagihan kecil
+동전으로 바꿔 주세요=Tolong ubah ini menjadi koin
+이 카드 해외에서 쓸 수 있어요=Bisakah saya menggunakan kartu ini di luar negeri?
+카드를 잃어버렸어요=Saya kehilangan kartu saya
+카드 정지해 주세요=Tolong blokir kartu saya
+새 카드는 언제 나와요=Kapan kartu baru akan siap?
+카드 비밀번호를 바꾸고 싶어요=Saya ingin mengubah PIN kartu saya
+어디에 서명하면 돼요=Di mana saya harus menandatanganinya?
+인터넷 뱅킹 신청하고 싶어요=Saya ingin mendaftar perbankan online
+계좌를 해지하고 싶어요=Saya ingin menutup rekening bank saya
+이자가 얼마예요=Berapa tingkat bunganya?
+돈이 두 번 빠져나갔어요=Uang dipotong dari rekening saya dua kali

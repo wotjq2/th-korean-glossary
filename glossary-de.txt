@@ -24379,3 +24379,19 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 물이 깊어요=Ist das Wasser tief?
 파도가 세요=Die Wellen sind stark
 해파리 조심해=Achten Sie auf Quallen
+
+# --- 대화 67: 은행 3 (2026-11-19) ---
+번호표 뽑아야 돼요=Muss ich eine Warteschlangennummer angeben?
+어느 창구로 가야 돼요=Zu welchem Schalter soll ich gehen?
+큰돈을 잔돈으로 바꿔 주세요=Bitte tauschen Sie diesen großen Schein in kleine Scheine um
+동전으로 바꿔 주세요=Bitte tauschen Sie dies in Münzen um
+이 카드 해외에서 쓸 수 있어요=Kann ich diese Karte im Ausland verwenden?
+카드를 잃어버렸어요=Ich habe meine Karte verloren
+카드 정지해 주세요=Bitte sperren Sie meine Karte
+새 카드는 언제 나와요=Wann wird die neue Karte fertig sein?
+카드 비밀번호를 바꾸고 싶어요=Ich möchte meine Karten-PIN ändern
+어디에 서명하면 돼요=Wo soll ich unterschreiben?
+인터넷 뱅킹 신청하고 싶어요=Ich möchte mich für das Online-Banking anmelden
+계좌를 해지하고 싶어요=Ich möchte mein Bankkonto schließen
+이자가 얼마예요=Wie hoch ist der Zinssatz?
+돈이 두 번 빠져나갔어요=Es wurde zweimal Geld von meinem Konto abgebucht

@@ -11194,3 +11194,19 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 물이 깊어요=Adakah air dalam?
 파도가 세요=Ombaknya kuat
 해파리 조심해=Berhati-hati dengan obor-obor
+
+# --- 대화 67: 은행 3 (2026-11-19) ---
+번호표 뽑아야 돼요=Adakah saya perlu mengambil nombor giliran?
+어느 창구로 가야 돼요=Kaunter mana yang harus saya pergi?
+큰돈을 잔돈으로 바꿔 주세요=Sila tukar bil besar ini kepada bil kecil
+동전으로 바꿔 주세요=Sila tukar ini kepada syiling
+이 카드 해외에서 쓸 수 있어요=Bolehkah saya menggunakan kad ini di luar negara?
+카드를 잃어버렸어요=Saya kehilangan kad saya
+카드 정지해 주세요=Tolong sekat kad saya
+새 카드는 언제 나와요=Bilakah kad baharu itu akan siap?
+카드 비밀번호를 바꾸고 싶어요=Saya mahu menukar PIN kad saya
+어디에 서명하면 돼요=Di manakah saya harus menandatangani?
+인터넷 뱅킹 신청하고 싶어요=Saya ingin mendaftar untuk perbankan dalam talian
+계좌를 해지하고 싶어요=Saya mahu menutup akaun bank saya
+이자가 얼마예요=Apakah kadar faedah?
+돈이 두 번 빠져나갔어요=Wang telah ditolak dari akaun saya dua kali

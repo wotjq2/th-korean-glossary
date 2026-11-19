@@ -52486,3 +52486,19 @@ IT 쪽에서 일해요=I work in IT
 물이 깊어요=Is the water deep?
 파도가 세요=The waves are strong
 해파리 조심해=Watch out for jellyfish
+
+# --- 대화 67: 은행 3 (2026-11-19) ---
+번호표 뽑아야 돼요=Do I need to take a queue number?
+어느 창구로 가야 돼요=Which counter should I go to?
+큰돈을 잔돈으로 바꿔 주세요=Please change this large bill into small bills
+동전으로 바꿔 주세요=Please change this into coins
+이 카드 해외에서 쓸 수 있어요=Can I use this card abroad?
+카드를 잃어버렸어요=I lost my card
+카드 정지해 주세요=Please stop my card from being used
+새 카드는 언제 나와요=When will the new card be ready?
+카드 비밀번호를 바꾸고 싶어요=I want to change my card PIN
+어디에 서명하면 돼요=Where should I sign?
+인터넷 뱅킹 신청하고 싶어요=I want to sign up for online banking
+계좌를 해지하고 싶어요=I want to close my bank account
+이자가 얼마예요=What is the interest rate?
+돈이 두 번 빠져나갔어요=Money was deducted from my account twice
