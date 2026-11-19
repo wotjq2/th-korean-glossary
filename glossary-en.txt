@@ -52541,3 +52541,16 @@ IT 쪽에서 일해요=I work in IT
 약은 하루에 몇 번 먹여요=How many times a day should I give the medicine?
 강아지 목욕시켜 주세요=Please give my dog a bath
 고양이 발톱 깎아 주세요=Please trim my cat's claws
+
+# --- 대화 71: 택배·반품 (2026-11-19) ---
+택배 왔어요=Has my package arrived?
+경비실에 맡겨 주세요=Please leave the package at the security office
+내일 다시 배달해 주세요=Please deliver it again tomorrow
+상자가 찌그러져 왔어요=The box arrived crushed
+물건이 깨져 있어요=The item is broken
+부품이 하나 빠졌어요=One part is missing
+반품 신청했어요=I have applied to return the product
+택배 기사님이 가져가요=Will the courier come to collect the parcel?
+포장은 어떻게 해요=How should I pack it?
+환불은 언제 돼요=When will I get my refund?
+착불로 보내도 돼요=Can I send it with the shipping paid by the receiver?

@@ -11249,3 +11249,16 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 약은 하루에 몇 번 먹여요=Berapa kali sehari saya perlu memberi ubat?
 강아지 목욕시켜 주세요=Tolong mandikan anjing saya
 고양이 발톱 깎아 주세요=Tolong potong cakar kucing saya
+
+# --- 대화 71: 택배·반품 (2026-11-19) ---
+택배 왔어요=Adakah bungkusan saya sudah sampai?
+경비실에 맡겨 주세요=Sila tinggalkan bungkusan itu di pejabat keselamatan
+내일 다시 배달해 주세요=Tolong hantar lagi esok
+상자가 찌그러져 왔어요=Kotak itu sampai hancur
+물건이 깨져 있어요=Barang rosak
+부품이 하나 빠졌어요=Satu bahagian hilang
+반품 신청했어요=Saya telah memohon untuk memulangkan produk
+택배 기사님이 가져가요=Adakah kurier akan datang untuk mengambil bungkusan itu?
+포장은 어떻게 해요=Bagaimana saya perlu membungkusnya?
+환불은 언제 돼요=Bilakah saya akan mendapat bayaran balik saya?
+착불로 보내도 돼요=Bolehkah saya menghantarnya dengan penghantaran yang dibayar oleh penerima?

@@ -48012,3 +48012,16 @@ IT 쪽에서 일해요=yo trabajo en TI
 약은 하루에 몇 번 먹여요=¿Cuántas veces al día debo darle el medicamento?
 강아지 목욕시켜 주세요=Por favor, baña a mi perro.
 고양이 발톱 깎아 주세요=Por favor cortale las garras a mi gato
+
+# --- 대화 71: 택배·반품 (2026-11-19) ---
+택배 왔어요=¿Ha llegado mi paquete?
+경비실에 맡겨 주세요=Por favor deje el paquete en la oficina de seguridad.
+내일 다시 배달해 주세요=Por favor entreguelo nuevamente mañana
+상자가 찌그러져 왔어요=La caja llego aplastada
+물건이 깨져 있어요=el articulo esta roto
+부품이 하나 빠졌어요=falta una parte
+반품 신청했어요=He solicitado la devolución del producto.
+택배 기사님이 가져가요=¿Vendrá el mensajero a recoger el paquete?
+포장은 어떻게 해요=¿Cómo debo empacarlo?
+환불은 언제 돼요=¿Cuándo recibiré mi reembolso?
+착불로 보내도 돼요=¿Puedo enviarlo con el envío pagado por el destinatario?

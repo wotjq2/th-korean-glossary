@@ -23386,3 +23386,16 @@ IT 쪽에서 일해요=Pracuję w IT
 약은 하루에 몇 번 먹여요=Ile razy dziennie należy podawać lek?
 강아지 목욕시켜 주세요=Proszę wykąpać mojego psa
 고양이 발톱 깎아 주세요=Proszę o przycięcie pazurów mojego kota
+
+# --- 대화 71: 택배·반품 (2026-11-19) ---
+택배 왔어요=Czy moja paczka dotarła?
+경비실에 맡겨 주세요=Prosimy o pozostawienie paczki w biurze ochrony
+내일 다시 배달해 주세요=Proszę dostarczyć to ponownie jutro
+상자가 찌그러져 왔어요=Pudełko dotarło pogniecione
+물건이 깨져 있어요=Przedmiot jest uszkodzony
+부품이 하나 빠졌어요=Brakuje jednej części
+반품 신청했어요=Złożyłem wniosek o zwrot produktu
+택배 기사님이 가져가요=Czy kurier przyjedzie odebrać przesyłkę?
+포장은 어떻게 해요=Jak mam to zapakować?
+환불은 언제 돼요=Kiedy otrzymam zwrot pieniędzy?
+착불로 보내도 돼요=Czy mogę wysłać przesyłką opłaconą przez odbiorcę?

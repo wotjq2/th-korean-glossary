@@ -24434,3 +24434,16 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 약은 하루에 몇 번 먹여요=Wie oft am Tag sollte ich das Arzneimittel verabreichen?
 강아지 목욕시켜 주세요=Bitte baden Sie meinen Hund
 고양이 발톱 깎아 주세요=Bitte schneiden Sie die Krallen meiner Katze
+
+# --- 대화 71: 택배·반품 (2026-11-19) ---
+택배 왔어요=Ist mein Paket angekommen?
+경비실에 맡겨 주세요=Bitte geben Sie das Paket im Sicherheitsbüro ab
+내일 다시 배달해 주세요=Bitte liefern Sie es morgen noch einmal ab
+상자가 찌그러져 왔어요=Die Kiste kam zerdrückt an
+물건이 깨져 있어요=Der Artikel ist kaputt
+부품이 하나 빠졌어요=Ein Teil fehlt
+반품 신청했어요=Ich habe die Rückgabe des Produkts beantragt
+택배 기사님이 가져가요=Wird der Kurier das Paket abholen?
+포장은 어떻게 해요=Wie soll ich es verpacken?
+환불은 언제 돼요=Wann erhalte ich meine Rückerstattung?
+착불로 보내도 돼요=Kann ich es versenden, wobei die Versandkosten vom Empfänger übernommen werden?

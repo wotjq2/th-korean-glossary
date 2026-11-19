@@ -41175,3 +41175,16 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 약은 하루에 몇 번 먹여요=Tôi nên cho thuốc bao nhiêu lần một ngày?
 강아지 목욕시켜 주세요=Làm ơn cho con chó của tôi tắm
 고양이 발톱 깎아 주세요=Hãy cắt móng vuốt cho con mèo của tôi
+
+# --- 대화 71: 택배·반품 (2026-11-19) ---
+택배 왔어요=Gói hàng của tôi đã đến chưa?
+경비실에 맡겨 주세요=Vui lòng để lại gói hàng tại văn phòng an ninh
+내일 다시 배달해 주세요=Vui lòng giao lại vào ngày mai
+상자가 찌그러져 왔어요=Hộp đến bị nát
+물건이 깨져 있어요=Hàng bị hỏng
+부품이 하나 빠졌어요=Một phần bị thiếu
+반품 신청했어요=Tôi đã yêu cầu trả lại sản phẩm
+택배 기사님이 가져가요=Người đưa thư có đến nhận bưu kiện không?
+포장은 어떻게 해요=Tôi nên đóng gói nó như thế nào?
+환불은 언제 돼요=Khi nào tôi sẽ nhận được tiền hoàn lại?
+착불로 보내도 돼요=Tôi có thể gửi nó với phí vận chuyển do người nhận thanh toán không?

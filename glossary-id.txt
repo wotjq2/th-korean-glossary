@@ -38399,3 +38399,16 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 약은 하루에 몇 번 먹여요=Berapa kali sehari saya harus memberikan obatnya?
 강아지 목욕시켜 주세요=Tolong mandikan anjingku
 고양이 발톱 깎아 주세요=Tolong potong cakar kucingku
+
+# --- 대화 71: 택배·반품 (2026-11-19) ---
+택배 왔어요=Apakah paket saya sudah sampai?
+경비실에 맡겨 주세요=Silakan tinggalkan paket di kantor keamanan
+내일 다시 배달해 주세요=Tolong kirimkan lagi besok
+상자가 찌그러져 왔어요=Kotaknya tiba dalam keadaan hancur
+물건이 깨져 있어요=Barangnya rusak
+부품이 하나 빠졌어요=Ada satu bagian yang hilang
+반품 신청했어요=Saya telah mengajukan permohonan pengembalian produk
+택배 기사님이 가져가요=Akankah kurir datang mengambil parsel?
+포장은 어떻게 해요=Bagaimana cara mengemasnya?
+환불은 언제 돼요=Kapan saya akan mendapatkan pengembalian dana saya?
+착불로 보내도 돼요=Bisakah saya mengirimkannya dengan ongkos kirim yang dibayar oleh penerima?

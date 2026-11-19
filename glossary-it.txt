@@ -20525,3 +20525,16 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 약은 하루에 몇 번 먹여요=Quante volte al giorno devo dare la medicina?
 강아지 목욕시켜 주세요=Per favore, fai il bagno al mio cane
 고양이 발톱 깎아 주세요=Per favore, taglia gli artigli del mio gatto
+
+# --- 대화 71: 택배·반품 (2026-11-19) ---
+택배 왔어요=Il mio pacco è arrivato?
+경비실에 맡겨 주세요=Si prega di lasciare il pacco all'ufficio di sicurezza
+내일 다시 배달해 주세요=Per favore, consegnamelo di nuovo domani
+상자가 찌그러져 왔어요=La scatola è arrivata schiacciata
+물건이 깨져 있어요=L'articolo è rotto
+부품이 하나 빠졌어요=Manca una parte
+반품 신청했어요=Ho richiesto la restituzione del prodotto
+택배 기사님이 가져가요=Il corriere verrà a ritirare il pacco?
+포장은 어떻게 해요=Come devo imballarlo?
+환불은 언제 돼요=Quando riceverò il rimborso?
+착불로 보내도 돼요=Posso inviarlo con la spedizione a carico del destinatario?

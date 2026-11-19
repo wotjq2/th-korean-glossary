@@ -17497,3 +17497,16 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 약은 하루에 몇 번 먹여요=İlacı günde kaç kez vermeliyim?
 강아지 목욕시켜 주세요=Lütfen köpeğime banyo yaptırın
 고양이 발톱 깎아 주세요=Lütfen kedimin pençelerini kesin
+
+# --- 대화 71: 택배·반품 (2026-11-19) ---
+택배 왔어요=Paketim geldi mi?
+경비실에 맡겨 주세요=Lütfen paketi güvenlik ofisine bırakın.
+내일 다시 배달해 주세요=Lütfen yarın tekrar teslim edin
+상자가 찌그러져 왔어요=Kutu ezilmiş halde geldi
+물건이 깨져 있어요=Ürün kırık
+부품이 하나 빠졌어요=Bir kısmı eksik
+반품 신청했어요=Ürünü iade etmek için başvuruda bulundum
+택배 기사님이 가져가요=Kurye paketi almaya gelecek mi?
+포장은 어떻게 해요=Nasıl paketlemeliyim?
+환불은 언제 돼요=Geri ödememi ne zaman alacağım?
+착불로 보내도 돼요=Alıcı ödemeli kargoyla gönderebilir miyim?

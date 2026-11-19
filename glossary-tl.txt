@@ -7250,3 +7250,16 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 약은 하루에 몇 번 먹여요=Ilang beses sa isang araw ko dapat ibigay ang gamot?
 강아지 목욕시켜 주세요=Pakipaligo ang aso ko
 고양이 발톱 깎아 주세요=Mangyaring putulin ang kuko ng aking pusa
+
+# --- 대화 71: 택배·반품 (2026-11-19) ---
+택배 왔어요=Dumating na ba ang package ko?
+경비실에 맡겨 주세요=Mangyaring iwanan ang pakete sa tanggapan ng seguridad
+내일 다시 배달해 주세요=Pakideliver po ulit bukas
+상자가 찌그러져 왔어요=Dumating ang kahon na durog
+물건이 깨져 있어요=Sira ang item
+부품이 하나 빠졌어요=Kulang ang isang bahagi
+반품 신청했어요=Nag-apply ako para ibalik ang produkto
+택배 기사님이 가져가요=Darating ba ang courier para kunin ang parsela?
+포장은 어떻게 해요=Paano ko ito iimpake?
+환불은 언제 돼요=Kailan ko makukuha ang aking refund?
+착불로 보내도 돼요=Maaari ko bang ipadala ito kasama ang pagpapadala na binayaran ng tatanggap?

@@ -47794,3 +47794,16 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 약은 하루에 몇 번 먹여요=Combien de fois par jour dois-je donner le médicament ?
 강아지 목욕시켜 주세요=S'il vous plaît, donnez un bain à mon chien
 고양이 발톱 깎아 주세요=S'il vous plaît, coupez les griffes de mon chat
+
+# --- 대화 71: 택배·반품 (2026-11-19) ---
+택배 왔어요=Mon colis est-il arrivé ?
+경비실에 맡겨 주세요=Veuillez laisser le colis au bureau de sécurité
+내일 다시 배달해 주세요=S'il vous plaît, livrez-le à nouveau demain
+상자가 찌그러져 왔어요=La boîte est arrivée écrasée
+물건이 깨져 있어요=L'article est cassé
+부품이 하나 빠졌어요=Il manque une partie
+반품 신청했어요=J'ai demandé le retour du produit
+택배 기사님이 가져가요=Le coursier viendra-t-il récupérer le colis ?
+포장은 어떻게 해요=Comment dois-je l'emballer ?
+환불은 언제 돼요=Quand vais-je recevoir mon remboursement ?
+착불로 보내도 돼요=Puis-je l'envoyer avec les frais de port payés par le destinataire ?
