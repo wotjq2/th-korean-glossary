@@ -52527,3 +52527,17 @@ IT 쪽에서 일해요=I work in IT
 제 스타일이 아니에요=That person is not my type
 잘 됐으면 좋겠다=I hope it works out
 애프터 신청 받았어=I was asked out on a second date
+
+# --- 대화 70: 반려동물 병원 (2026-11-19) ---
+근처에 동물병원 있어요=Is there an animal hospital nearby?
+강아지가 아파요=My dog is sick
+고양이가 밥을 안 먹어요=My cat is not eating
+강아지가 계속 토해요=My dog keeps vomiting
+고양이가 설사를 해요=My cat has diarrhea
+강아지 예방접종 하러 왔어요=I came to get my dog vaccinated
+중성화 수술 하고 싶어요=I want to get my pet neutered
+우리 강아지는 두 살이에요=My dog is two years old
+강아지 입원해야 돼요=Does my dog need to be hospitalized?
+약은 하루에 몇 번 먹여요=How many times a day should I give the medicine?
+강아지 목욕시켜 주세요=Please give my dog a bath
+고양이 발톱 깎아 주세요=Please trim my cat's claws

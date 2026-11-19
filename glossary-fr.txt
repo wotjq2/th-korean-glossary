@@ -47780,3 +47780,17 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 제 스타일이 아니에요=Cette personne n'est pas mon type
 잘 됐으면 좋겠다=j'espère que ça marchera
 애프터 신청 받았어=On m'a invité à un deuxième rendez-vous
+
+# --- 대화 70: 반려동물 병원 (2026-11-19) ---
+근처에 동물병원 있어요=Y a-t-il un hôpital vétérinaire à proximité ?
+강아지가 아파요=Mon chien est malade
+고양이가 밥을 안 먹어요=Mon chat ne mange pas
+강아지가 계속 토해요=Mon chien n'arrête pas de vomir
+고양이가 설사를 해요=Mon chat a la diarrhée
+강아지 예방접종 하러 왔어요=Je suis venu faire vacciner mon chien
+중성화 수술 하고 싶어요=Je veux faire stériliser mon animal
+우리 강아지는 두 살이에요=Mon chien a deux ans
+강아지 입원해야 돼요=Mon chien doit-il être hospitalisé ?
+약은 하루에 몇 번 먹여요=Combien de fois par jour dois-je donner le médicament ?
+강아지 목욕시켜 주세요=S'il vous plaît, donnez un bain à mon chien
+고양이 발톱 깎아 주세요=S'il vous plaît, coupez les griffes de mon chat

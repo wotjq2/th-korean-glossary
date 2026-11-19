@@ -11235,3 +11235,17 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 제 스타일이 아니에요=Orang itu bukan jenis saya
 잘 됐으면 좋겠다=Saya harap ia berjaya
 애프터 신청 받았어=Saya telah diajak keluar pada tarikh kedua
+
+# --- 대화 70: 반려동물 병원 (2026-11-19) ---
+근처에 동물병원 있어요=Adakah terdapat hospital haiwan berdekatan?
+강아지가 아파요=Anjing saya sakit
+고양이가 밥을 안 먹어요=Kucing saya tidak makan
+강아지가 계속 토해요=Anjing saya terus muntah
+고양이가 설사를 해요=Kucing saya cirit-birit
+강아지 예방접종 하러 왔어요=Saya datang untuk mendapatkan vaksinasi anjing saya
+중성화 수술 하고 싶어요=Saya mahu haiwan peliharaan saya dikebiri
+우리 강아지는 두 살이에요=Anjing saya berumur dua tahun
+강아지 입원해야 돼요=Adakah anjing saya perlu dimasukkan ke hospital?
+약은 하루에 몇 번 먹여요=Berapa kali sehari saya perlu memberi ubat?
+강아지 목욕시켜 주세요=Tolong mandikan anjing saya
+고양이 발톱 깎아 주세요=Tolong potong cakar kucing saya

@@ -23372,3 +23372,17 @@ IT 쪽에서 일해요=Pracuję w IT
 제 스타일이 아니에요=Ta osoba nie jest w moim typie
 잘 됐으면 좋겠다=Mam nadzieję, że to się sprawdzi
 애프터 신청 받았어=Zaproszono mnie na drugą randkę
+
+# --- 대화 70: 반려동물 병원 (2026-11-19) ---
+근처에 동물병원 있어요=Czy w pobliżu jest szpital dla zwierząt?
+강아지가 아파요=Mój pies jest chory
+고양이가 밥을 안 먹어요=Mój kot nie je
+강아지가 계속 토해요=Mój pies ciągle wymiotuje
+고양이가 설사를 해요=Mój kot ma biegunkę
+강아지 예방접종 하러 왔어요=Przyjechałem zaszczepić psa
+중성화 수술 하고 싶어요=Chcę wykastrować mojego zwierzaka
+우리 강아지는 두 살이에요=Mój pies ma dwa lata
+강아지 입원해야 돼요=Czy mój pies wymaga hospitalizacji?
+약은 하루에 몇 번 먹여요=Ile razy dziennie należy podawać lek?
+강아지 목욕시켜 주세요=Proszę wykąpać mojego psa
+고양이 발톱 깎아 주세요=Proszę o przycięcie pazurów mojego kota

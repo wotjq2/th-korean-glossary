@@ -20511,3 +20511,17 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 제 스타일이 아니에요=Quella persona non è il mio tipo
 잘 됐으면 좋겠다=Spero che funzioni
 애프터 신청 받았어=Mi è stato chiesto di uscire per un secondo appuntamento
+
+# --- 대화 70: 반려동물 병원 (2026-11-19) ---
+근처에 동물병원 있어요=C'è un ospedale per animali nelle vicinanze?
+강아지가 아파요=Il mio cane è malato
+고양이가 밥을 안 먹어요=Il mio gatto non mangia
+강아지가 계속 토해요=Il mio cane continua a vomitare
+고양이가 설사를 해요=Il mio gatto ha la diarrea
+강아지 예방접종 하러 왔어요=Sono venuto a far vaccinare il mio cane
+중성화 수술 하고 싶어요=Voglio far castrare il mio animale domestico
+우리 강아지는 두 살이에요=Il mio cane ha due anni
+강아지 입원해야 돼요=Il mio cane deve essere ricoverato in ospedale?
+약은 하루에 몇 번 먹여요=Quante volte al giorno devo dare la medicina?
+강아지 목욕시켜 주세요=Per favore, fai il bagno al mio cane
+고양이 발톱 깎아 주세요=Per favore, taglia gli artigli del mio gatto

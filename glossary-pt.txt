@@ -22359,3 +22359,17 @@ IT 쪽에서 일해요=Eu trabalho em TI
 제 스타일이 아니에요=Essa pessoa não é meu tipo
 잘 됐으면 좋겠다=Espero que dê certo
 애프터 신청 받았어=Fui convidado para um segundo encontro
+
+# --- 대화 70: 반려동물 병원 (2026-11-19) ---
+근처에 동물병원 있어요=Existe um hospital veterinário por perto?
+강아지가 아파요=Meu cachorro está doente
+고양이가 밥을 안 먹어요=Meu gato não está comendo
+강아지가 계속 토해요=Meu cachorro continua vomitando
+고양이가 설사를 해요=Meu gato está com diarréia
+강아지 예방접종 하러 왔어요=Vim vacinar meu cachorro
+중성화 수술 하고 싶어요=Quero castrar meu animal de estimação
+우리 강아지는 두 살이에요=Meu cachorro tem dois anos
+강아지 입원해야 돼요=Meu cachorro precisa ser hospitalizado?
+약은 하루에 몇 번 먹여요=Quantas vezes por dia devo dar o medicamento?
+강아지 목욕시켜 주세요=Por favor, dê banho no meu cachorro
+고양이 발톱 깎아 주세요=Por favor, apare as garras do meu gato

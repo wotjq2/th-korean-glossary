@@ -17483,3 +17483,17 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 제 스타일이 아니에요=O kişi benim tipim değil
 잘 됐으면 좋겠다=umarım işe yarar
 애프터 신청 받았어=İkinci bir randevuya çıkma teklif edildim
+
+# --- 대화 70: 반려동물 병원 (2026-11-19) ---
+근처에 동물병원 있어요=Yakınlarda hayvan hastanesi var mı?
+강아지가 아파요=Köpeğim hasta
+고양이가 밥을 안 먹어요=kedim yemek yemiyor
+강아지가 계속 토해요=Köpeğim kusmaya devam ediyor
+고양이가 설사를 해요=Kedimin ishali var
+강아지 예방접종 하러 왔어요=Köpeğime aşı yaptırmaya geldim
+중성화 수술 하고 싶어요=Evcil hayvanımı kısırlaştırmak istiyorum
+우리 강아지는 두 살이에요=Köpeğim iki yaşında
+강아지 입원해야 돼요=Köpeğimin hastaneye yatırılması gerekiyor mu?
+약은 하루에 몇 번 먹여요=İlacı günde kaç kez vermeliyim?
+강아지 목욕시켜 주세요=Lütfen köpeğime banyo yaptırın
+고양이 발톱 깎아 주세요=Lütfen kedimin pençelerini kesin

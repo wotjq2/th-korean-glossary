@@ -7236,3 +7236,17 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 제 스타일이 아니에요=Hindi ko type ang taong iyon
 잘 됐으면 좋겠다=Sana gumana ito
 애프터 신청 받았어=Inaya ako sa pangalawang date
+
+# --- 대화 70: 반려동물 병원 (2026-11-19) ---
+근처에 동물병원 있어요=Mayroon bang malapit na ospital ng hayop?
+강아지가 아파요=Ang aking aso ay may sakit
+고양이가 밥을 안 먹어요=Hindi kumakain ang pusa ko
+강아지가 계속 토해요=Ang aking aso ay patuloy na nagsusuka
+고양이가 설사를 해요=Nagtatae ang pusa ko
+강아지 예방접종 하러 왔어요=Dumating ako para mabakunahan ang aking aso
+중성화 수술 하고 싶어요=Gusto kong ma-neuter ang aking alaga
+우리 강아지는 두 살이에요=Dalawang taong gulang na ang aso ko
+강아지 입원해야 돼요=Kailangan bang maospital ang aking aso?
+약은 하루에 몇 번 먹여요=Ilang beses sa isang araw ko dapat ibigay ang gamot?
+강아지 목욕시켜 주세요=Pakipaligo ang aso ko
+고양이 발톱 깎아 주세요=Mangyaring putulin ang kuko ng aking pusa
