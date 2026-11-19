@@ -47769,3 +47769,14 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 수건 좀 더 주세요=S'il te plaît, apporte-moi d'autres serviettes
 시트 바꿔 주세요=S'il vous plaît changer les draps
 청소는 안 해도 돼요=Vous n'avez pas besoin de nettoyer aujourd'hui
+
+# --- 대화 69: 소개팅 (2026-11-19) ---
+소개팅 해 볼래=Tu veux que je t'organise un rendez-vous à l'aveugle ?
+어떤 사람이 좋아=Quel genre de personne aimez-vous ?
+오래 기다리셨어요=Vous attendez depuis longtemps ?
+사진보다 실물이 낫네요=Tu es encore plus belle en personne que sur tes photos
+연락처 교환할까요=Devons-nous échanger nos numéros de téléphone ?
+다음에 또 만날래요=Aimeriez-vous vous revoir un jour ?
+제 스타일이 아니에요=Cette personne n'est pas mon type
+잘 됐으면 좋겠다=j'espère que ça marchera
+애프터 신청 받았어=On m'a invité à un deuxième rendez-vous

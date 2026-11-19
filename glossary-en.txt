@@ -52516,3 +52516,14 @@ IT 쪽에서 일해요=I work in IT
 수건 좀 더 주세요=Please bring me some more towels
 시트 바꿔 주세요=Please change the bed sheets
 청소는 안 해도 돼요=You don't need to clean today
+
+# --- 대화 69: 소개팅 (2026-11-19) ---
+소개팅 해 볼래=Do you want me to set you up on a blind date?
+어떤 사람이 좋아=What kind of person do you like?
+오래 기다리셨어요=Have you been waiting long?
+사진보다 실물이 낫네요=You look even better in person than in your photos
+연락처 교환할까요=Shall we exchange phone numbers?
+다음에 또 만날래요=Would you like to meet again sometime?
+제 스타일이 아니에요=That person is not my type
+잘 됐으면 좋겠다=I hope it works out
+애프터 신청 받았어=I was asked out on a second date

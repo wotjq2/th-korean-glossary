@@ -11224,3 +11224,14 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 수건 좀 더 주세요=Tolong bawa saya beberapa tuala lagi
 시트 바꿔 주세요=Sila tukar cadar katil
 청소는 안 해도 돼요=Anda tidak perlu membersihkan hari ini
+
+# --- 대화 69: 소개팅 (2026-11-19) ---
+소개팅 해 볼래=Adakah anda mahu saya menetapkan anda pada tarikh buta?
+어떤 사람이 좋아=Apakah jenis orang yang anda suka?
+오래 기다리셨어요=Adakah anda telah menunggu lama?
+사진보다 실물이 낫네요=Anda kelihatan lebih baik secara peribadi daripada dalam foto anda
+연락처 교환할까요=Bolehkah kita bertukar nombor telefon?
+다음에 또 만날래요=Adakah anda ingin bertemu lagi suatu masa nanti?
+제 스타일이 아니에요=Orang itu bukan jenis saya
+잘 됐으면 좋겠다=Saya harap ia berjaya
+애프터 신청 받았어=Saya telah diajak keluar pada tarikh kedua

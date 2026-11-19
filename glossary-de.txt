@@ -24409,3 +24409,14 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 수건 좀 더 주세요=Bitte bringen Sie mir noch ein paar Handtücher mit
 시트 바꿔 주세요=Bitte wechseln Sie die Bettwäsche
 청소는 안 해도 돼요=Sie müssen heute nicht putzen
+
+# --- 대화 69: 소개팅 (2026-11-19) ---
+소개팅 해 볼래=Möchtest du, dass ich dir ein Blind Date verabrede?
+어떤 사람이 좋아=Was für einen Menschen magst du?
+오래 기다리셨어요=Wartest du schon lange?
+사진보다 실물이 낫네요=Du siehst persönlich noch besser aus als auf deinen Fotos
+연락처 교환할까요=Sollen wir Telefonnummern austauschen?
+다음에 또 만날래요=Möchten Sie sich irgendwann wiedersehen?
+제 스타일이 아니에요=Diese Person ist nicht mein Typ
+잘 됐으면 좋겠다=Ich hoffe, es klappt
+애프터 신청 받았어=Ich wurde zu einem zweiten Date eingeladen

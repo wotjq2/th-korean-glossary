@@ -47987,3 +47987,14 @@ IT 쪽에서 일해요=yo trabajo en TI
 수건 좀 더 주세요=Por favor tráeme más toallas.
 시트 바꿔 주세요=Por favor cambia las sábanas.
 청소는 안 해도 돼요=No necesitas limpiar hoy
+
+# --- 대화 69: 소개팅 (2026-11-19) ---
+소개팅 해 볼래=¿Quieres que te organice una cita a ciegas?
+어떤 사람이 좋아=¿Qué tipo de persona te gusta?
+오래 기다리셨어요=¿Has estado esperando mucho?
+사진보다 실물이 낫네요=Te ves incluso mejor en persona que en tus fotos.
+연락처 교환할까요=¿Intercambiamos números de teléfono?
+다음에 또 만날래요=¿Te gustaría volver a encontrarnos alguna vez?
+제 스타일이 아니에요=esa persona no es mi tipo
+잘 됐으면 좋겠다=espero que funcione
+애프터 신청 받았어=Me invitaron a salir en una segunda cita.

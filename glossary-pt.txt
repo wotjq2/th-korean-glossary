@@ -22348,3 +22348,14 @@ IT 쪽에서 일해요=Eu trabalho em TI
 수건 좀 더 주세요=Por favor, me traga mais algumas toalhas
 시트 바꿔 주세요=Por favor, troque os lençóis da cama
 청소는 안 해도 돼요=Você não precisa limpar hoje
+
+# --- 대화 69: 소개팅 (2026-11-19) ---
+소개팅 해 볼래=Você quer que eu marque um encontro às cegas para você?
+어떤 사람이 좋아=Que tipo de pessoa você gosta?
+오래 기다리셨어요=Você está esperando há muito tempo?
+사진보다 실물이 낫네요=Você fica ainda melhor pessoalmente do que nas fotos
+연락처 교환할까요=Vamos trocar números de telefone?
+다음에 또 만날래요=Você gostaria de se encontrar novamente algum dia?
+제 스타일이 아니에요=Essa pessoa não é meu tipo
+잘 됐으면 좋겠다=Espero que dê certo
+애프터 신청 받았어=Fui convidado para um segundo encontro

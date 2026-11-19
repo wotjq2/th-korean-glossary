@@ -20500,3 +20500,14 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 수건 좀 더 주세요=Per favore, portami altri asciugamani
 시트 바꿔 주세요=Si prega di cambiare le lenzuola
 청소는 안 해도 돼요=Non hai bisogno di pulire oggi
+
+# --- 대화 69: 소개팅 (2026-11-19) ---
+소개팅 해 볼래=Vuoi che ti organizzi un appuntamento al buio?
+어떤 사람이 좋아=Che tipo di persona ti piace?
+오래 기다리셨어요=Stai aspettando da molto?
+사진보다 실물이 낫네요=Stai ancora meglio dal vivo che nelle tue foto
+연락처 교환할까요=Ci scambiamo i numeri di telefono?
+다음에 또 만날래요=Ti piacerebbe incontrarci di nuovo qualche volta?
+제 스타일이 아니에요=Quella persona non è il mio tipo
+잘 됐으면 좋겠다=Spero che funzioni
+애프터 신청 받았어=Mi è stato chiesto di uscire per un secondo appuntamento

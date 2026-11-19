@@ -38374,3 +38374,14 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 수건 좀 더 주세요=Tolong bawakan saya beberapa handuk lagi
 시트 바꿔 주세요=Silakan ganti seprai
 청소는 안 해도 돼요=Anda tidak perlu membersihkannya hari ini
+
+# --- 대화 69: 소개팅 (2026-11-19) ---
+소개팅 해 볼래=Apakah kamu ingin aku menjodohkanmu dengan kencan buta?
+어떤 사람이 좋아=Orang seperti apa yang kamu suka?
+오래 기다리셨어요=Apakah kamu sudah menunggu lama?
+사진보다 실물이 낫네요=Anda terlihat lebih baik secara langsung daripada di foto Anda
+연락처 교환할까요=Bagaimana kalau kita bertukar nomor telepon?
+다음에 또 만날래요=Apakah Anda ingin bertemu lagi suatu saat nanti?
+제 스타일이 아니에요=Orang itu bukan tipeku
+잘 됐으면 좋겠다=Saya harap ini berhasil
+애프터 신청 받았어=Saya diajak kencan kedua

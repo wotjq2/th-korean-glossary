@@ -41150,3 +41150,14 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 수건 좀 더 주세요=Vui lòng mang cho tôi thêm khăn tắm
 시트 바꿔 주세요=Vui lòng thay ga trải giường
 청소는 안 해도 돼요=Bạn không cần phải dọn dẹp ngày hôm nay
+
+# --- 대화 69: 소개팅 (2026-11-19) ---
+소개팅 해 볼래=Bạn có muốn tôi sắp xếp cho bạn một cuộc hẹn hò mù quáng không?
+어떤 사람이 좋아=Bạn thích người như thế nào?
+오래 기다리셨어요=Bạn đã chờ đợi lâu chưa?
+사진보다 실물이 낫네요=Bạn nhìn ngoài đời thậm chí còn đẹp hơn trong ảnh
+연락처 교환할까요=Chúng ta trao đổi số điện thoại nhé?
+다음에 또 만날래요=Bạn có muốn gặp lại vào lúc nào đó không?
+제 스타일이 아니에요=Người đó không phải mẫu người của tôi
+잘 됐으면 좋겠다=Tôi hy vọng nó thành công
+애프터 신청 받았어=Tôi được mời đi chơi vào buổi hẹn hò thứ hai

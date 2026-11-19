@@ -7225,3 +7225,14 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 수건 좀 더 주세요=Dalhan mo pa ako ng mga tuwalya
 시트 바꿔 주세요=Pakipalitan ang bed sheet
 청소는 안 해도 돼요=Hindi mo kailangang maglinis ngayon
+
+# --- 대화 69: 소개팅 (2026-11-19) ---
+소개팅 해 볼래=Gusto mo bang i-set up kita sa isang blind date?
+어떤 사람이 좋아=Anong klaseng tao ang gusto mo?
+오래 기다리셨어요=Matagal ka na bang naghihintay?
+사진보다 실물이 낫네요=Mas maganda ka pa sa personal kaysa sa mga larawan mo
+연락처 교환할까요=Magpalitan ba tayo ng mga numero ng telepono?
+다음에 또 만날래요=Gusto mo bang magkita muli minsan?
+제 스타일이 아니에요=Hindi ko type ang taong iyon
+잘 됐으면 좋겠다=Sana gumana ito
+애프터 신청 받았어=Inaya ako sa pangalawang date

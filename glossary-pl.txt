@@ -23361,3 +23361,14 @@ IT 쪽에서 일해요=Pracuję w IT
 수건 좀 더 주세요=Proszę, przynieś mi więcej ręczników
 시트 바꿔 주세요=Proszę zmienić pościel
 청소는 안 해도 돼요=Nie musisz dzisiaj sprzątać
+
+# --- 대화 69: 소개팅 (2026-11-19) ---
+소개팅 해 볼래=Chcesz, żebym cię umówiła na randkę w ciemno?
+어떤 사람이 좋아=Jaką osobę lubisz?
+오래 기다리셨어요=Długo czekałeś?
+사진보다 실물이 낫네요=Na żywo wyglądasz jeszcze lepiej niż na zdjęciach
+연락처 교환할까요=Wymienimy się numerami telefonów?
+다음에 또 만날래요=Czy chciałbyś się jeszcze kiedyś spotkać?
+제 스타일이 아니에요=Ta osoba nie jest w moim typie
+잘 됐으면 좋겠다=Mam nadzieję, że to się sprawdzi
+애프터 신청 받았어=Zaproszono mnie na drugą randkę

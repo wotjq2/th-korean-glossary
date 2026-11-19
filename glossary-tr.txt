@@ -17472,3 +17472,14 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 수건 좀 더 주세요=Lütfen bana biraz daha havlu getir
 시트 바꿔 주세요=Lütfen çarşafları değiştirin
 청소는 안 해도 돼요=Bugün temizlemenize gerek yok
+
+# --- 대화 69: 소개팅 (2026-11-19) ---
+소개팅 해 볼래=Sana kör randevu ayarlamamı ister misin?
+어떤 사람이 좋아=Ne tür bir insandan hoşlanırsın?
+오래 기다리셨어요=Uzun zamandır mı bekliyordun?
+사진보다 실물이 낫네요=Şahsen fotoğraflarınızda olduğundan daha iyi görünüyorsunuz
+연락처 교환할까요=Telefon numaralarını değiştirelim mi?
+다음에 또 만날래요=Bir ara tekrar buluşmak ister misin?
+제 스타일이 아니에요=O kişi benim tipim değil
+잘 됐으면 좋겠다=umarım işe yarar
+애프터 신청 받았어=İkinci bir randevuya çıkma teklif edildim
