@@ -22,7 +22,7 @@
 - 반영: 브라우저·번역 도우미 모두 1시간 안에 (확장 업데이트·웹스토어 심사 필요 없음)
 - 새 언어: 여기에 파일 하나 + th-korean 저장소 `config.json` 의 그 언어 줄에 `"glossary": "glossary-xx.txt"`
 - 처음 넣은 것(2026-11-04): 21개 언어에 인사·쇼핑·식당·길 묻기 기본 말 62개 — 구글이 한국어에서 바로 옮기면 틀리는 말('깎아 주세요' → 면도, '공항' → 비행기)을 바로잡아 둠. 영어·중국어는 예전 샘플 188줄도 들어 있음
-- 2026-11-18 더한 7개 언어: `glossary-zh-TW.txt`(번체 중국어·대만) `glossary-ms.txt`(말레이어) `glossary-tl.txt`(필리핀어) `glossary-km.txt`(크메르어) `glossary-lo.txt`(라오어) `glossary-my.txt`(미얀마어) `glossary-it.txt`(이탈리아어) — 다른 언어와 같은 기본 말 + 대화 1~66(언어마다 1,750~2,000줄). 영어(번체는 직접 쓴 간체 중국어)에서 구글로 옮긴 뒤 한국어로 되돌려 틀어진 줄을 직접 고쳤음. 기초사전 부분은 아직 없음
+- 2026-11-18 더한 7개 언어: `glossary-zh-TW.txt`(번체 중국어·대만) `glossary-ms.txt`(말레이어) `glossary-tl.txt`(필리핀어) `glossary-km.txt`(크메르어) `glossary-lo.txt`(라오어) `glossary-my.txt`(미얀마어) `glossary-it.txt`(이탈리아어) — 다른 언어와 같은 기본 말 + 대화 1~66(언어마다 1,750~2,000줄). 영어(번체는 직접 쓴 간체 중국어)에서 구글로 옮긴 뒤 한국어로 되돌려 틀어진 줄을 직접 고쳤음. 기초사전에는 이 언어들이 없어서, 사전 부분은 위키낱말사전에서만 채웠음(2026-11-19, 아래)
 
 ## 출처·라이선스
 
@@ -40,6 +40,7 @@
 아래 파일의 `# --- 위키낱말사전 ---` 칸에는 영어판 위키낱말사전(Wiktionary, <https://en.wiktionary.org>)의 번역표에서 가져온 낱말이 들어 있습니다. kaikki.org 의 wiktextract 추출 자료(<https://kaikki.org>, 2026-10-01 덤프)를 썼습니다.
 
 - 새로 채운 언어(전에는 기본 말 62개뿐): `glossary-de.txt` `glossary-pt.txt` `glossary-pl.txt` `glossary-tr.txt` `glossary-he.txt` `glossary-hi.txt` `glossary-bn.txt` `glossary-ur.txt` `glossary-ta.txt` `glossary-te.txt` `glossary-mr.txt` `glossary-yue.txt` — 언어마다 4천~2만 2천 줄
+- 2026-11-19 더한 언어(새 입력 언어 7개, 기초사전에 없는 언어라 사전 칸은 위키뿐): `glossary-zh-TW.txt` 22,619줄(중국어 표의 번체 쪽, 간체만 적힌 456줄은 OpenCC 글자표로 번체로 바꾸고 대만 글꼴(群·灶·為)로 맞춤, 번체가 여럿인 글자가 든 20줄은 뺌) `glossary-it.txt` 18,558 `glossary-ms.txt` 9,282 `glossary-km.txt` 6,416 `glossary-tl.txt` 5,283 `glossary-my.txt` 5,130 `glossary-lo.txt` 4,688. 필리핀어 표에는 위키 편집자가 만든, 실제로 잘 안 쓰는 순수 타갈로그 신조어(피부염=magambalat, 생태학=palamuhayan)가 많아서, 구글로 영어로 되돌린 말이 표의 영어 뜻과 겹치거나 구글(한국어 → 필리핀어)이 같은 값을 내는 줄만 남겼습니다(8,184 → 5,360). 크메르·라오·미얀마 문자 칸에 다른 글자가 섞인 값은 뺐습니다.
 - 기초사전 칸 아래에 덧붙인 언어(기초사전에 없던 한국어만): `glossary-ja.txt` `glossary-zh.txt` `glossary-fr.txt` `glossary-es.txt` `glossary-ru.txt` `glossary-ar.txt` `glossary-en.txt` `glossary-vi.txt` `glossary-id.txt` `glossary-mn.txt`
 - 태국어: `glossary-th-krdict.txt` 의 기초사전 칸 아래에만 넣었습니다(`glossary.txt` 에 있는 한국어와 쇼핑 뜻이 먼저인 함정 말은 뺌). `glossary.txt` 는 그대로입니다.
 - 흔한 말인데 번역표의 뜻이 엇나간 한국어 220여 개는 모든 언어에서 뺐습니다(가자=Gaza, 지난=Jinan, 해주=Haeju, 그린=putting green, 픽업=pickup truck, 괜찮아요=you're welcome 같은 것). 이런 말은 구글 번역으로 갑니다.
