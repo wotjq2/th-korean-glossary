@@ -52502,3 +52502,17 @@ IT 쪽에서 일해요=I work in IT
 계좌를 해지하고 싶어요=I want to close my bank account
 이자가 얼마예요=What is the interest rate?
 돈이 두 번 빠져나갔어요=Money was deducted from my account twice
+
+# --- 대화 68: 세탁·청소 서비스 (2026-11-19) ---
+근처에 빨래방 있어요=Is there a laundromat nearby?
+세탁 맡기고 싶어요=I would like to have my clothes washed
+오늘 저녁까지 돼요=Can it be ready by this evening?
+이건 드라이클리닝 해 주세요=Please send this one to dry cleaning
+이 얼룩 지워져요=Can this stain be removed?
+다림질도 해 주세요=Please iron them too
+옷이 줄어들었어요=My clothes became smaller after washing
+양말 한 짝이 없어요=I can't find one of my socks
+방 청소 좀 해 주세요=Please clean my room
+수건 좀 더 주세요=Please bring me some more towels
+시트 바꿔 주세요=Please change the bed sheets
+청소는 안 해도 돼요=You don't need to clean today

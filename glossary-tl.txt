@@ -7211,3 +7211,17 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 계좌를 해지하고 싶어요=Gusto kong isara ang aking bank account
 이자가 얼마예요=Ano ang rate ng interes?
 돈이 두 번 빠져나갔어요=Dalawang beses na ibinawas ang pera sa aking account
+
+# --- 대화 68: 세탁·청소 서비스 (2026-11-19) ---
+근처에 빨래방 있어요=Mayroon bang malapit na laundromat?
+세탁 맡기고 싶어요=Gusto ko sanang maglaba ng damit ko
+오늘 저녁까지 돼요=Maaari ba itong maging handa sa gabing ito?
+이건 드라이클리닝 해 주세요=Mangyaring ipadala ang isang ito sa dry cleaning
+이 얼룩 지워져요=Maaari bang alisin ang mantsa na ito?
+다림질도 해 주세요=Pakiplantsa din sila
+옷이 줄어들었어요=Lumiit ang damit ko pagkatapos malabhan
+양말 한 짝이 없어요=Nawawala ang isang medyas ko
+방 청소 좀 해 주세요=Linisin mo ang kwarto ko
+수건 좀 더 주세요=Dalhan mo pa ako ng mga tuwalya
+시트 바꿔 주세요=Pakipalitan ang bed sheet
+청소는 안 해도 돼요=Hindi mo kailangang maglinis ngayon

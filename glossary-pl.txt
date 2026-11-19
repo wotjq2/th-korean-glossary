@@ -23347,3 +23347,17 @@ IT 쪽에서 일해요=Pracuję w IT
 계좌를 해지하고 싶어요=Chcę zamknąć swoje konto bankowe
 이자가 얼마예요=Jaka jest stopa procentowa?
 돈이 두 번 빠져나갔어요=Pieniądze zostały pobrane z mojego konta dwa razy
+
+# --- 대화 68: 세탁·청소 서비스 (2026-11-19) ---
+근처에 빨래방 있어요=Czy w pobliżu jest pralnia?
+세탁 맡기고 싶어요=Chciałbym wyprać swoje ubrania
+오늘 저녁까지 돼요=Czy może być gotowy jeszcze dziś wieczorem?
+이건 드라이클리닝 해 주세요=To proszę wyczyścić chemicznie
+이 얼룩 지워져요=Czy można usunąć tę plamę?
+다림질도 해 주세요=Proszę je też wyprasować
+옷이 줄어들었어요=Moje ubrania po praniu stały się mniejsze
+양말 한 짝이 없어요=Nie mogę znaleźć żadnej skarpetki
+방 청소 좀 해 주세요=Proszę posprzątaj mój pokój
+수건 좀 더 주세요=Proszę, przynieś mi więcej ręczników
+시트 바꿔 주세요=Proszę zmienić pościel
+청소는 안 해도 돼요=Nie musisz dzisiaj sprzątać

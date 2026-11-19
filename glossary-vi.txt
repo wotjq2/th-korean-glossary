@@ -41136,3 +41136,17 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 계좌를 해지하고 싶어요=Tôi muốn đóng tài khoản ngân hàng của mình
 이자가 얼마예요=Lãi suất là bao nhiêu?
 돈이 두 번 빠져나갔어요=Tiền đã bị trừ khỏi tài khoản của tôi hai lần
+
+# --- 대화 68: 세탁·청소 서비스 (2026-11-19) ---
+근처에 빨래방 있어요=Có tiệm giặt nào gần đây không?
+세탁 맡기고 싶어요=Tôi muốn giặt quần áo của tôi
+오늘 저녁까지 돼요=Nó có thể sẵn sàng vào tối nay được không?
+이건 드라이클리닝 해 주세요=Vui lòng gửi cái này đi giặt khô
+이 얼룩 지워져요=Vết bẩn này có thể loại bỏ được không?
+다림질도 해 주세요=Ủi giúp tôi luôn nhé
+옷이 줄어들었어요=Quần áo của tôi trở nên nhỏ hơn sau khi giặt
+양말 한 짝이 없어요=Tôi không thể tìm thấy một trong những chiếc tất của mình
+방 청소 좀 해 주세요=Hãy dọn phòng cho tôi
+수건 좀 더 주세요=Vui lòng mang cho tôi thêm khăn tắm
+시트 바꿔 주세요=Vui lòng thay ga trải giường
+청소는 안 해도 돼요=Bạn không cần phải dọn dẹp ngày hôm nay
