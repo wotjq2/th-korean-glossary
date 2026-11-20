@@ -52870,3 +52870,14 @@ IT 쪽에서 일해요=I work in IT
 생일 축하 노래 불러 주자=Let's sing happy birthday
 선물 마음에 들어=Do you like the present?
 최고의 생일이었어=It was the best birthday ever
+
+# --- 대화 98: 면접 (2026-11-20) ---
+면접 보러 왔습니다=I am here for a job interview
+간단히 자기소개 해 주세요=Please briefly introduce yourself
+이 회사에 지원한 이유가 뭐예요=Why did you apply to this company?
+경력이 몇 년이에요=How many years of work experience do you have?
+언제부터 일할 수 있어요=When can you start working?
+희망 연봉이 얼마예요=What is your expected annual salary?
+야근이 많은 편이에요=Do employees often have to work overtime at night?
+결과는 언제 알 수 있어요=When will I know the results?
+합격 연락 받았어요=I got a call telling me that I passed

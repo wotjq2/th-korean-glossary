@@ -17826,3 +17826,14 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 생일 축하 노래 불러 주자=Hadi doğum günün kutlu olsun şarkısını söyleyelim
 선물 마음에 들어=Hediyeyi beğendin mi?
 최고의 생일이었어=Şimdiye kadarki en iyi doğum günüydü
+
+# --- 대화 98: 면접 (2026-11-20) ---
+면접 보러 왔습니다=Bir iş görüşmesi için buradayım
+간단히 자기소개 해 주세요=Lütfen kısaca kendinizi tanıtın
+이 회사에 지원한 이유가 뭐예요=Bu şirkete neden başvurdunuz?
+경력이 몇 년이에요=Kaç yıllık iş tecrübeniz var?
+언제부터 일할 수 있어요=Ne zaman çalışmaya başlayabilirsiniz?
+희망 연봉이 얼마예요=Beklenen yıllık maaşınız nedir?
+야근이 많은 편이에요=Çalışanlar sıklıkla geceleri fazla mesai yapmak zorunda mı kalıyor?
+결과는 언제 알 수 있어요=Sonuçları ne zaman öğreneceğim?
+합격 연락 받았어요=Bana geçtiğimi söyleyen bir telefon aldım

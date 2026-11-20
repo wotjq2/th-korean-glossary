@@ -22702,3 +22702,14 @@ IT 쪽에서 일해요=Eu trabalho em TI
 생일 축하 노래 불러 주자=Vamos cantar parabéns
 선물 마음에 들어=Você gostou do presente?
 최고의 생일이었어=Foi o melhor aniversário de todos
+
+# --- 대화 98: 면접 (2026-11-20) ---
+면접 보러 왔습니다=Estou aqui para uma entrevista de emprego
+간단히 자기소개 해 주세요=Por favor, apresente-se brevemente
+이 회사에 지원한 이유가 뭐예요=Por que você se inscreveu nesta empresa?
+경력이 몇 년이에요=Quantos anos de experiência profissional você tem?
+언제부터 일할 수 있어요=Quando você pode começar a trabalhar?
+희망 연봉이 얼마예요=Qual é o seu salário anual esperado?
+야근이 많은 편이에요=Os funcionários costumam fazer horas extras à noite?
+결과는 언제 알 수 있어요=Quando saberei os resultados?
+합격 연락 받았어요=Recebi uma ligação dizendo que passei

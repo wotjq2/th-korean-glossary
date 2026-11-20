@@ -41504,3 +41504,14 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 생일 축하 노래 불러 주자=Hãy hát chúc mừng sinh nhật
 선물 마음에 들어=Bạn có thích hiện tại không?
 최고의 생일이었어=Đó là sinh nhật tuyệt vời nhất từ trước đến nay
+
+# --- 대화 98: 면접 (2026-11-20) ---
+면접 보러 왔습니다=Tôi đến đây để phỏng vấn việc làm
+간단히 자기소개 해 주세요=Hãy giới thiệu ngắn gọn về bản thân bạn
+이 회사에 지원한 이유가 뭐예요=Tại sao bạn ứng tuyển vào công ty này?
+경력이 몇 년이에요=Bạn có bao nhiêu năm kinh nghiệm làm việc?
+언제부터 일할 수 있어요=Khi nào bạn có thể bắt đầu làm việc?
+희망 연봉이 얼마예요=Mức lương hàng năm mong đợi của bạn là bao nhiêu?
+야근이 많은 편이에요=Nhân viên có thường xuyên phải làm thêm giờ vào ban đêm không?
+결과는 언제 알 수 있어요=Khi nào tôi sẽ biết kết quả?
+합격 연락 받았어요=Tôi nhận được một cuộc gọi thông báo rằng tôi đã đậu

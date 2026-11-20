@@ -48341,3 +48341,14 @@ IT 쪽에서 일해요=yo trabajo en TI
 생일 축하 노래 불러 주자=cantemos feliz cumpleaños
 선물 마음에 들어=¿Te gusta el presente?
 최고의 생일이었어=Fue el mejor cumpleaños de todos.
+
+# --- 대화 98: 면접 (2026-11-20) ---
+면접 보러 왔습니다=Estoy aquí para una entrevista de trabajo.
+간단히 자기소개 해 주세요=Por favor preséntate brevemente
+이 회사에 지원한 이유가 뭐예요=¿Por qué postulaste a esta empresa?
+경력이 몇 년이에요=¿Cuántos años de experiencia laboral tienes?
+언제부터 일할 수 있어요=¿Cuándo puedes empezar a trabajar?
+희망 연봉이 얼마예요=¿Cuál es su salario anual esperado?
+야근이 많은 편이에요=¿Los empleados a menudo tienen que trabajar horas extras por la noche?
+결과는 언제 알 수 있어요=¿Cuándo sabré los resultados?
+합격 연락 받았어요=Recibí una llamada diciéndome que pasé

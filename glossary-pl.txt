@@ -23715,3 +23715,14 @@ IT 쪽에서 일해요=Pracuję w IT
 생일 축하 노래 불러 주자=Zaśpiewajmy „Wszystkiego najlepszego”.
 선물 마음에 들어=Czy podoba Ci się teraźniejszość?
 최고의 생일이었어=To były najlepsze urodziny ever
+
+# --- 대화 98: 면접 (2026-11-20) ---
+면접 보러 왔습니다=Jestem tu na rozmowę kwalifikacyjną
+간단히 자기소개 해 주세요=Proszę krótko się przedstawić
+이 회사에 지원한 이유가 뭐예요=Dlaczego aplikowałeś do tej firmy?
+경력이 몇 년이에요=Ile masz lat doświadczenia zawodowego?
+언제부터 일할 수 있어요=Kiedy możesz zacząć pracować?
+희망 연봉이 얼마예요=Jakie jest Twoje oczekiwane roczne wynagrodzenie?
+야근이 많은 편이에요=Czy pracownicy często muszą pracować w godzinach nadliczbowych w porze nocnej?
+결과는 언제 알 수 있어요=Kiedy poznam wyniki?
+합격 연락 받았어요=Dostałem telefon z informacją, że zdałem

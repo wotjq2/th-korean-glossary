@@ -7577,3 +7577,14 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 생일 축하 노래 불러 주자=Kantahan natin ang happy birthday
 선물 마음에 들어=Gusto mo ba ang kasalukuyan?
 최고의 생일이었어=Ito ang pinakamagandang kaarawan kailanman
+
+# --- 대화 98: 면접 (2026-11-20) ---
+면접 보러 왔습니다=Nandito ako para sa isang job interview
+간단히 자기소개 해 주세요=Mangyaring maikli na ipakilala ang iyong sarili
+이 회사에 지원한 이유가 뭐예요=Bakit ka nag-apply sa kumpanyang ito?
+경력이 몇 년이에요=Ilang taon ka ng karanasan sa trabaho?
+언제부터 일할 수 있어요=Kailan ka maaaring magsimulang magtrabaho?
+희망 연봉이 얼마예요=Ano ang iyong inaasahang taunang suweldo?
+야근이 많은 편이에요=Madalas bang kailangang mag-overtime sa gabi ang mga empleyado?
+결과는 언제 알 수 있어요=Kailan ko malalaman ang mga resulta?
+합격 연락 받았어요=Nakatanggap ako ng tawag na nagsasabing pumasa ako

@@ -11578,3 +11578,14 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 생일 축하 노래 불러 주자=Jom nyanyi selamat hari jadi
 선물 마음에 들어=Adakah anda suka hadiah?
 최고의 생일이었어=Ia adalah hari lahir yang terbaik
+
+# --- 대화 98: 면접 (2026-11-20) ---
+면접 보러 왔습니다=Saya di sini untuk temu duga kerja
+간단히 자기소개 해 주세요=Sila perkenalkan diri anda secara ringkas
+이 회사에 지원한 이유가 뭐예요=Mengapa anda memohon kepada syarikat ini?
+경력이 몇 년이에요=Berapa tahun pengalaman kerja yang anda ada?
+언제부터 일할 수 있어요=Bilakah anda boleh mula bekerja?
+희망 연봉이 얼마예요=Berapakah jangkaan gaji tahunan anda?
+야근이 많은 편이에요=Adakah pekerja sering terpaksa bekerja lebih masa pada waktu malam?
+결과는 언제 알 수 있어요=Bilakah saya akan tahu keputusannya?
+합격 연락 받았어요=Saya mendapat panggilan memberitahu saya bahawa saya lulus

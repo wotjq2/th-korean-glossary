@@ -48123,3 +48123,14 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 생일 축하 노래 불러 주자=Chantons joyeux anniversaire
 선물 마음에 들어=Aimez-vous le présent?
 최고의 생일이었어=C'était le meilleur anniversaire de tous les temps
+
+# --- 대화 98: 면접 (2026-11-20) ---
+면접 보러 왔습니다=je suis ici pour un entretien d'embauche
+간단히 자기소개 해 주세요=Merci de vous présenter brièvement
+이 회사에 지원한 이유가 뭐예요=Pourquoi avez-vous postulé dans cette entreprise ?
+경력이 몇 년이에요=Combien d'années d'expérience professionnelle avez-vous ?
+언제부터 일할 수 있어요=Quand pouvez-vous commencer à travailler ?
+희망 연봉이 얼마예요=Quel est votre salaire annuel attendu ?
+야근이 많은 편이에요=Les salariés doivent-ils souvent effectuer des heures supplémentaires la nuit ?
+결과는 언제 알 수 있어요=Quand connaîtrai-je les résultats ?
+합격 연락 받았어요=J'ai reçu un appel me disant que j'avais réussi
