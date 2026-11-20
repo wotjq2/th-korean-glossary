@@ -48147,3 +48147,16 @@ IT 쪽에서 일해요=yo trabajo en TI
 단체 말고 개인 투어로 하고 싶어요=Quiero un tour privado en lugar de un tour en grupo.
 일몰 보러 가고 싶어요=quiero ir a ver el atardecer
 배멀미 심한 편이에요=Tiendo a marearme fácilmente en los barcos.
+
+# --- 대화 81: 스쿠버 다이빙 (2026-11-20) ---
+체험 다이빙 하고 싶어요=Me gustaría probar un buceo para principiantes.
+다이빙 자격증 있어요=tengo licencia de buceo
+다이빙은 처음이에요=Esta es mi primera vez buceando.
+수영을 못해도 돼요=¿Está bien si no puedo nadar?
+귀가 아파요=me duelen los oidos
+마스크에 물이 들어와요=El agua entra en mi máscara de buceo.
+숨쉬기가 힘들어요=Me cuesta respirar
+천천히 내려가 주세요=Por favor baja lentamente
+올라가고 싶어요=quiero volver a la superficie
+물고기가 진짜 많아요=hay tantos peces
+수중 사진도 찍어 줘요=¿También haces fotos submarinas?

@@ -41310,3 +41310,16 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 단체 말고 개인 투어로 하고 싶어요=Tôi muốn một chuyến du lịch riêng thay vì một chuyến du lịch theo nhóm
 일몰 보러 가고 싶어요=Tôi muốn đi ngắm hoàng hôn
 배멀미 심한 편이에요=Tôi dễ bị say sóng
+
+# --- 대화 81: 스쿠버 다이빙 (2026-11-20) ---
+체험 다이빙 하고 싶어요=Tôi muốn thử lặn biển cho người mới bắt đầu
+다이빙 자격증 있어요=Tôi có giấy phép lặn biển
+다이빙은 처음이에요=Đây là lần đầu tiên tôi lặn biển
+수영을 못해도 돼요=Có ổn không nếu tôi không biết bơi?
+귀가 아파요=Tai tôi đau
+마스크에 물이 들어와요=Nước đang lọt vào mặt nạ lặn của tôi
+숨쉬기가 힘들어요=Thật khó để tôi thở
+천천히 내려가 주세요=Hãy đi xuống từ từ
+올라가고 싶어요=Tôi muốn quay trở lại bề mặt
+물고기가 진짜 많아요=Có rất nhiều cá
+수중 사진도 찍어 줘요=Bạn cũng chụp ảnh dưới nước à?

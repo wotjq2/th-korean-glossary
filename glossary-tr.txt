@@ -17632,3 +17632,16 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 단체 말고 개인 투어로 하고 싶어요=Grup turu yerine özel tur istiyorum
 일몰 보러 가고 싶어요=Gidip gün batımını izlemek istiyorum
 배멀미 심한 편이에요=Teknelerde kolayca hastalanma eğilimindeyim
+
+# --- 대화 81: 스쿠버 다이빙 (2026-11-20) ---
+체험 다이빙 하고 싶어요=Başlangıç seviyesinde tüplü dalışı denemek isterim
+다이빙 자격증 있어요=Tüplü dalış lisansım var
+다이빙은 처음이에요=Bu benim ilk kez tüplü dalışım
+수영을 못해도 돼요=Yüzme bilmesem sorun olur mu?
+귀가 아파요=Kulaklarım ağrıyor
+마스크에 물이 들어와요=Dalış maskeme su giriyor
+숨쉬기가 힘들어요=Nefes almak benim için zor
+천천히 내려가 주세요=Lütfen yavaşça aşağı inin
+올라가고 싶어요=Yüzeye geri dönmek istiyorum
+물고기가 진짜 많아요=O kadar çok balık var ki
+수중 사진도 찍어 줘요=Sualtı fotoğrafları da çekiyor musunuz?

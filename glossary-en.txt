@@ -52676,3 +52676,16 @@ IT 쪽에서 일해요=I work in IT
 단체 말고 개인 투어로 하고 싶어요=I want a private tour instead of a group tour
 일몰 보러 가고 싶어요=I want to go and watch the sunset
 배멀미 심한 편이에요=I tend to feel sick easily on boats
+
+# --- 대화 81: 스쿠버 다이빙 (2026-11-20) ---
+체험 다이빙 하고 싶어요=I would like to try a beginner scuba dive
+다이빙 자격증 있어요=I have a scuba diving license
+다이빙은 처음이에요=This is my first time scuba diving
+수영을 못해도 돼요=Is it okay if I cannot swim?
+귀가 아파요=My ears hurt
+마스크에 물이 들어와요=Water is getting into my diving mask
+숨쉬기가 힘들어요=It is hard for me to breathe
+천천히 내려가 주세요=Please go down slowly
+올라가고 싶어요=I want to go back up to the surface
+물고기가 진짜 많아요=There are so many fish
+수중 사진도 찍어 줘요=Do you take underwater photos too?
