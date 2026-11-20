@@ -38595,3 +38595,15 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 나사 좀 조여 주세요=Tolong kencangkan sekrup kacamata saya
 콘택트렌즈 있어요=Apakah Anda menjual lensa kontak?
 선글라스에 도수 넣을 수 있어요=Bisakah Anda membuat kacamata hitam resep?
+
+# --- 대화 86: 꽃집·화분 (2026-11-20) ---
+이 꽃 이름이 뭐예요=Apa nama bunga ini?
+장미 열 송이 주세요=Tolong beri saya sepuluh mawar
+조화 말고 생화로 주세요=Saya ingin bunga segar, bukan bunga buatan
+꽃이 얼마나 가요=Berapa lama bunga ini akan tetap segar?
+리본에 이름 써 주세요=Silakan tulis nama di pita
+축하 화환 보내고 싶어요=Saya ingin mengirim karangan bunga ucapan selamat
+물은 얼마나 자주 줘요=Seberapa sering saya harus menyiram tanaman ini?
+햇빛이 많이 필요해요=Apakah tanaman ini membutuhkan banyak sinar matahari?
+화분도 같이 팔아요=Apakah Anda menjual pot bunganya juga?
+향기가 좋네요=Baunya sangat enak

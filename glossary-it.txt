@@ -20721,3 +20721,15 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 나사 좀 조여 주세요=Per favore stringi la vite sui miei occhiali
 콘택트렌즈 있어요=Vendi lenti a contatto?
 선글라스에 도수 넣을 수 있어요=È possibile realizzare occhiali da sole graduati?
+
+# --- 대화 86: 꽃집·화분 (2026-11-20) ---
+이 꽃 이름이 뭐예요=Qual è il nome di questo fiore?
+장미 열 송이 주세요=Per favore dammi dieci rose
+조화 말고 생화로 주세요=Voglio fiori freschi, non artificiali
+꽃이 얼마나 가요=Per quanto tempo rimarranno freschi questi fiori?
+리본에 이름 써 주세요=Per favore scrivi un nome sul nastro
+축하 화환 보내고 싶어요=Voglio inviare una ghirlanda di fiori di congratulazioni
+물은 얼마나 자주 줘요=Quanto spesso dovrei annaffiare questa pianta?
+햇빛이 많이 필요해요=Questa pianta ha bisogno di molta luce solare?
+화분도 같이 팔아요=Vendi anche il vaso da fiori?
+향기가 좋네요=Ha un profumo davvero gradevole

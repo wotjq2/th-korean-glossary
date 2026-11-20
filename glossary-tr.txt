@@ -17693,3 +17693,15 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 나사 좀 조여 주세요=Lütfen gözlüğümdeki vidayı sıkın
 콘택트렌즈 있어요=Kontakt lens satıyor musunuz?
 선글라스에 도수 넣을 수 있어요=Reçeteli güneş gözlüğü yapabilir misin?
+
+# --- 대화 86: 꽃집·화분 (2026-11-20) ---
+이 꽃 이름이 뭐예요=Bu çiçeğin adı nedir?
+장미 열 송이 주세요=Lütfen bana on gül ver
+조화 말고 생화로 주세요=Yapay çiçekler değil, taze çiçekler istiyorum
+꽃이 얼마나 가요=Bu çiçekler ne kadar süre taze kalacak?
+리본에 이름 써 주세요=Lütfen kurdeleye bir isim yazın
+축하 화환 보내고 싶어요=Tebrik çiçek çelengi göndermek istiyorum
+물은 얼마나 자주 줘요=Bu bitkiyi ne sıklıkla sulamalıyım?
+햇빛이 많이 필요해요=Bu bitkinin çok fazla güneş ışığına ihtiyacı var mı?
+화분도 같이 팔아요=Saksıyı da satıyor musun?
+향기가 좋네요=Gerçekten güzel kokuyor

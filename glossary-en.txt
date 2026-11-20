@@ -52737,3 +52737,15 @@ IT 쪽에서 일해요=I work in IT
 나사 좀 조여 주세요=Please tighten the screw on my glasses
 콘택트렌즈 있어요=Do you sell contact lenses?
 선글라스에 도수 넣을 수 있어요=Can you make prescription sunglasses?
+
+# --- 대화 86: 꽃집·화분 (2026-11-20) ---
+이 꽃 이름이 뭐예요=What is the name of this flower?
+장미 열 송이 주세요=Please give me ten roses
+조화 말고 생화로 주세요=I want fresh flowers, not artificial ones
+꽃이 얼마나 가요=How long will these flowers stay fresh?
+리본에 이름 써 주세요=Please write a name on the ribbon
+축하 화환 보내고 싶어요=I want to send a congratulatory flower wreath
+물은 얼마나 자주 줘요=How often should I water this plant?
+햇빛이 많이 필요해요=Does this plant need a lot of sunlight?
+화분도 같이 팔아요=Do you sell the flower pot too?
+향기가 좋네요=It smells really nice

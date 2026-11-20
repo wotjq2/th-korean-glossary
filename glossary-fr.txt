@@ -47990,3 +47990,15 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 나사 좀 조여 주세요=S'il te plaît, serre la vis de mes lunettes
 콘택트렌즈 있어요=Vendez-vous des lentilles de contact ?
 선글라스에 도수 넣을 수 있어요=Pouvez-vous fabriquer des lunettes de soleil avec prescription ?
+
+# --- 대화 86: 꽃집·화분 (2026-11-20) ---
+이 꽃 이름이 뭐예요=Quel est le nom de cette fleur ?
+장미 열 송이 주세요=S'il te plaît, donne-moi dix roses
+조화 말고 생화로 주세요=Je veux des fleurs fraîches, pas artificielles
+꽃이 얼마나 가요=Combien de temps ces fleurs resteront-elles fraîches ?
+리본에 이름 써 주세요=Veuillez écrire un nom sur le ruban
+축하 화환 보내고 싶어요=Je veux envoyer une couronne de fleurs de félicitations
+물은 얼마나 자주 줘요=À quelle fréquence dois-je arroser cette plante ?
+햇빛이 많이 필요해요=Cette plante a-t-elle besoin de beaucoup de soleil ?
+화분도 같이 팔아요=Vendez-vous aussi le pot de fleur ?
+향기가 좋네요=Ça sent vraiment bon

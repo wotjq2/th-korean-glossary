@@ -22569,3 +22569,15 @@ IT 쪽에서 일해요=Eu trabalho em TI
 나사 좀 조여 주세요=Por favor, aperte o parafuso dos meus óculos
 콘택트렌즈 있어요=Você vende lentes de contato?
 선글라스에 도수 넣을 수 있어요=Você pode fazer óculos de sol graduados?
+
+# --- 대화 86: 꽃집·화분 (2026-11-20) ---
+이 꽃 이름이 뭐예요=Qual é o nome desta flor?
+장미 열 송이 주세요=Por favor, me dê dez rosas
+조화 말고 생화로 주세요=Quero flores frescas, não artificiais
+꽃이 얼마나 가요=Quanto tempo essas flores permanecerão frescas?
+리본에 이름 써 주세요=Por favor, escreva um nome na fita
+축하 화환 보내고 싶어요=Quero enviar uma guirlanda de flores de felicitações
+물은 얼마나 자주 줘요=Com que frequência devo regar esta planta?
+햇빛이 많이 필요해요=Esta planta precisa de muita luz solar?
+화분도 같이 팔아요=Você vende o vaso de flores também?
+향기가 좋네요=Cheira muito bem

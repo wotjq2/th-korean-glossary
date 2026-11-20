@@ -24630,3 +24630,15 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 나사 좀 조여 주세요=Bitte ziehen Sie die Schraube an meiner Brille fest
 콘택트렌즈 있어요=Verkaufen Sie Kontaktlinsen?
 선글라스에 도수 넣을 수 있어요=Können Sie verschreibungspflichtige Sonnenbrillen herstellen?
+
+# --- 대화 86: 꽃집·화분 (2026-11-20) ---
+이 꽃 이름이 뭐예요=Wie heißt diese Blume?
+장미 열 송이 주세요=Bitte gib mir zehn Rosen
+조화 말고 생화로 주세요=Ich möchte frische Blumen, keine künstlichen
+꽃이 얼마나 가요=Wie lange bleiben diese Blumen frisch?
+리본에 이름 써 주세요=Bitte schreiben Sie einen Namen auf das Band
+축하 화환 보내고 싶어요=Ich möchte einen Glückwunsch-Blumenkranz verschicken
+물은 얼마나 자주 줘요=Wie oft sollte ich diese Pflanze gießen?
+햇빛이 많이 필요해요=Braucht diese Pflanze viel Sonnenlicht?
+화분도 같이 팔아요=Verkaufen Sie den Blumentopf auch?
+향기가 좋네요=Es riecht wirklich gut

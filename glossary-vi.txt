@@ -41371,3 +41371,15 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 나사 좀 조여 주세요=Vui lòng siết chặt vít trên kính của tôi
 콘택트렌즈 있어요=Bạn có bán kính áp tròng không?
 선글라스에 도수 넣을 수 있어요=Bạn có thể làm kính râm theo toa không?
+
+# --- 대화 86: 꽃집·화분 (2026-11-20) ---
+이 꽃 이름이 뭐예요=Tên của loài hoa này là gì?
+장미 열 송이 주세요=Xin hãy tặng tôi mười bông hồng
+조화 말고 생화로 주세요=Tôi muốn hoa tươi, không phải hoa giả
+꽃이 얼마나 가요=Những bông hoa này sẽ tươi được bao lâu?
+리본에 이름 써 주세요=Hãy viết tên lên ruy băng
+축하 화환 보내고 싶어요=Tôi muốn gửi một vòng hoa chúc mừng
+물은 얼마나 자주 줘요=Tôi nên tưới cây này bao lâu một lần?
+햇빛이 많이 필요해요=Cây này có cần nhiều nắng không?
+화분도 같이 팔아요=Bạn có bán chậu hoa không?
+향기가 좋네요=Nó có mùi rất dễ chịu

@@ -48208,3 +48208,15 @@ IT 쪽에서 일해요=yo trabajo en TI
 나사 좀 조여 주세요=Por favor aprieta el tornillo de mis gafas.
 콘택트렌즈 있어요=¿Vendes lentes de contacto?
 선글라스에 도수 넣을 수 있어요=¿Puedes hacer gafas de sol graduadas?
+
+# --- 대화 86: 꽃집·화분 (2026-11-20) ---
+이 꽃 이름이 뭐예요=¿Cómo se llama esta flor?
+장미 열 송이 주세요=Por favor dame diez rosas
+조화 말고 생화로 주세요=Quiero flores frescas, no artificiales.
+꽃이 얼마나 가요=¿Cuánto tiempo permanecerán frescas estas flores?
+리본에 이름 써 주세요=Por favor escribe un nombre en la cinta.
+축하 화환 보내고 싶어요=Quiero enviar una corona de flores de felicitación.
+물은 얼마나 자주 줘요=¿Con qué frecuencia debo regar esta planta?
+햇빛이 많이 필요해요=¿Esta planta necesita mucha luz solar?
+화분도 같이 팔아요=¿Vendes la maceta también?
+향기가 좋네요=Huele muy bien

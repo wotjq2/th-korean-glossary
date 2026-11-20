@@ -7446,3 +7446,15 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 나사 좀 조여 주세요=Paki higpitan ang turnilyo sa salamin ko
 콘택트렌즈 있어요=Nagbebenta ka ba ng contact lens?
 선글라스에 도수 넣을 수 있어요=Maaari ka bang gumawa ng de-resetang salaming pang-araw?
+
+# --- 대화 86: 꽃집·화분 (2026-11-20) ---
+이 꽃 이름이 뭐예요=Ano ang pangalan ng bulaklak na ito?
+장미 열 송이 주세요=Mangyaring bigyan ako ng sampung rosas
+조화 말고 생화로 주세요=Gusto ko ng mga sariwang bulaklak, hindi mga artipisyal
+꽃이 얼마나 가요=Gaano katagal mananatiling sariwa ang mga bulaklak na ito?
+리본에 이름 써 주세요=Mangyaring sumulat ng isang pangalan sa laso
+축하 화환 보내고 싶어요=Gusto kong magpadala ng congratulatory flower wreath
+물은 얼마나 자주 줘요=Gaano kadalas ko dapat didiligan ang halaman na ito?
+햇빛이 많이 필요해요=Kailangan ba ng halamang ito ng maraming sikat ng araw?
+화분도 같이 팔아요=Nagbebenta ka rin ba ng flower pot?
+향기가 좋네요=Mabango talaga
