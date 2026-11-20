@@ -22456,3 +22456,15 @@ IT 쪽에서 일해요=Eu trabalho em TI
 밤에는 진짜 추워=Fica muito frio à noite
 별이 진짜 많다=Há tantas estrelas no céu
 쓰레기는 다 가져가야 돼요=Temos que levar todo o nosso lixo de volta conosco
+
+# --- 대화 77: 사진관·복사 (2026-11-20) ---
+증명사진 찍고 싶어요=Gostaria de tirar uma foto do meu documento de identidade
+여권 사진 크기로 해 주세요=Por favor, faça com que seja do tamanho de uma foto de passaporte
+배경은 흰색으로 해 주세요=Por favor deixe o fundo branco
+보정도 해 주세요=Edite também a foto para torná-la melhor
+한 번만 다시 찍어 주세요=Por favor, tire a foto mais uma vez
+이거 컬러로 인쇄해 주세요=Por favor imprima isso em cores
+흑백으로 복사해 주세요=Por favor, faça uma cópia em preto e branco disto
+스캔해서 이메일로 보내 주세요=Por favor escaneie e envie para mim por e-mail
+코팅도 돼요=Você também pode cobrir o papel com um laminado plástico?
+양면으로 해 주세요=Por favor imprima em ambos os lados do papel

@@ -48095,3 +48095,15 @@ IT 쪽에서 일해요=yo trabajo en TI
 밤에는 진짜 추워=Hace mucho frio por la noche
 별이 진짜 많다=Hay tantas estrellas en el cielo
 쓰레기는 다 가져가야 돼요=Tenemos que llevarnos toda nuestra basura con nosotros.
+
+# --- 대화 77: 사진관·복사 (2026-11-20) ---
+증명사진 찍고 싶어요=Me gustaría que me tomaran una foto de identificación
+여권 사진 크기로 해 주세요=Por favor, hazlo del tamaño de una foto de pasaporte.
+배경은 흰색으로 해 주세요=Por favor haz el fondo blanco
+보정도 해 주세요=Edita también la foto para que se vea mejor.
+한 번만 다시 찍어 주세요=Por favor toma la foto una vez más.
+이거 컬러로 인쇄해 주세요=Por favor imprima esto en color
+흑백으로 복사해 주세요=Por favor haga una copia en blanco y negro de esto.
+스캔해서 이메일로 보내 주세요=Escanéalo y envíamelo por correo electrónico.
+코팅도 돼요=¿También se puede cubrir el papel con un laminado plástico?
+양면으로 해 주세요=Por favor imprímelo en ambas caras del papel.

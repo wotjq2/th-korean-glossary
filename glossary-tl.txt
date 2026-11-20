@@ -7333,3 +7333,15 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 밤에는 진짜 추워=Ang lamig talaga pag gabi
 별이 진짜 많다=Napakaraming bituin sa langit
 쓰레기는 다 가져가야 돼요=Kailangan nating ibalik ang lahat ng ating basura
+
+# --- 대화 77: 사진관·복사 (2026-11-20) ---
+증명사진 찍고 싶어요=Gusto kong kunin ang aking ID na larawan
+여권 사진 크기로 해 주세요=Mangyaring gawin itong kasing laki ng larawan ng pasaporte
+배경은 흰색으로 해 주세요=Mangyaring gawing puti ang background
+보정도 해 주세요=Paki-edit din ang larawan para maging mas maganda
+한 번만 다시 찍어 주세요=Mangyaring kumuha ng litrato ng isa pang beses
+이거 컬러로 인쇄해 주세요=Mangyaring i-print ito sa kulay
+흑백으로 복사해 주세요=Mangyaring gumawa ng black and white na kopya nito
+스캔해서 이메일로 보내 주세요=Mangyaring i-scan ito at ipadala sa akin sa pamamagitan ng email
+코팅도 돼요=Maaari mo ring takpan ang papel ng isang plastic laminate?
+양면으로 해 주세요=Paki-print ito sa magkabilang gilid ng papel

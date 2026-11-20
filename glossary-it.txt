@@ -20608,3 +20608,15 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 밤에는 진짜 추워=Fa davvero freddo di notte
 별이 진짜 많다=Ci sono così tante stelle nel cielo
 쓰레기는 다 가져가야 돼요=Dobbiamo riportare con noi tutta la nostra spazzatura
+
+# --- 대화 77: 사진관·복사 (2026-11-20) ---
+증명사진 찍고 싶어요=Vorrei farmi fare la foto d'identità
+여권 사진 크기로 해 주세요=Si prega di renderlo delle dimensioni di una foto tessera
+배경은 흰색으로 해 주세요=Per favore, rendi lo sfondo bianco
+보정도 해 주세요=Si prega di modificare anche la foto per renderla migliore
+한 번만 다시 찍어 주세요=Per favore, scatta la foto ancora una volta
+이거 컬러로 인쇄해 주세요=Per favore stampalo a colori
+흑백으로 복사해 주세요=Si prega di farne una copia in bianco e nero
+스캔해서 이메일로 보내 주세요=Per favore scansionalo e inviamelo via email
+코팅도 돼요=Si può rivestire la carta anche con un laminato plastico?
+양면으로 해 주세요=Si prega di stamparlo su entrambi i lati del foglio

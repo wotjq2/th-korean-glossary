@@ -11332,3 +11332,15 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 밤에는 진짜 추워=Ia menjadi sangat sejuk pada waktu malam
 별이 진짜 많다=Terdapat begitu banyak bintang di langit
 쓰레기는 다 가져가야 돼요=Kita kena bawa balik semua sampah kita
+
+# --- 대화 77: 사진관·복사 (2026-11-20) ---
+증명사진 찍고 싶어요=Saya ingin mengambil gambar ID saya
+여권 사진 크기로 해 주세요=Sila jadikan saiz gambar pasport
+배경은 흰색으로 해 주세요=Sila jadikan latar belakang putih
+보정도 해 주세요=Sila edit juga foto untuk menjadikannya kelihatan lebih baik
+한 번만 다시 찍어 주세요=Sila ambil gambar sekali lagi
+이거 컬러로 인쇄해 주세요=Sila cetak ini dalam warna
+흑백으로 복사해 주세요=Sila buat salinan hitam putih ini
+스캔해서 이메일로 보내 주세요=Sila imbas dan hantar kepada saya melalui e-mel
+코팅도 돼요=Bolehkah anda juga menutup kertas dengan lamina plastik?
+양면으로 해 주세요=Sila cetak pada kedua-dua belah kertas

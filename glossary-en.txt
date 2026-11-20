@@ -52624,3 +52624,15 @@ IT 쪽에서 일해요=I work in IT
 밤에는 진짜 추워=It gets really cold at night
 별이 진짜 많다=There are so many stars in the sky
 쓰레기는 다 가져가야 돼요=We have to take all our trash back with us
+
+# --- 대화 77: 사진관·복사 (2026-11-20) ---
+증명사진 찍고 싶어요=I would like to get my ID photo taken
+여권 사진 크기로 해 주세요=Please make it the size of a passport photo
+배경은 흰색으로 해 주세요=Please make the background white
+보정도 해 주세요=Please also edit the photo to make it look better
+한 번만 다시 찍어 주세요=Please take the photo one more time
+이거 컬러로 인쇄해 주세요=Please print this in color
+흑백으로 복사해 주세요=Please make a black and white copy of this
+스캔해서 이메일로 보내 주세요=Please scan it and send it to me by email
+코팅도 돼요=Can you also cover the paper with a plastic laminate?
+양면으로 해 주세요=Please print it on both sides of the paper

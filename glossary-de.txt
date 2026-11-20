@@ -24517,3 +24517,15 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 밤에는 진짜 추워=Nachts wird es richtig kalt
 별이 진짜 많다=Es gibt so viele Sterne am Himmel
 쓰레기는 다 가져가야 돼요=Wir müssen unseren ganzen Müll wieder mitnehmen
+
+# --- 대화 77: 사진관·복사 (2026-11-20) ---
+증명사진 찍고 싶어요=Ich möchte mein Ausweisfoto machen lassen
+여권 사진 크기로 해 주세요=Bitte machen Sie es in der Größe eines Passfotos
+배경은 흰색으로 해 주세요=Bitte machen Sie den Hintergrund weiß
+보정도 해 주세요=Bitte bearbeiten Sie auch das Foto, damit es besser aussieht
+한 번만 다시 찍어 주세요=Bitte machen Sie das Foto noch einmal
+이거 컬러로 인쇄해 주세요=Bitte drucken Sie dies in Farbe aus
+흑백으로 복사해 주세요=Bitte fertigen Sie hiervon eine Schwarz-Weiß-Kopie an
+스캔해서 이메일로 보내 주세요=Bitte scannen Sie es ein und senden Sie es mir per E-Mail
+코팅도 돼요=Kann man das Papier auch mit einem Kunststofflaminat überziehen?
+양면으로 해 주세요=Bitte drucken Sie es auf beiden Seiten des Papiers aus
