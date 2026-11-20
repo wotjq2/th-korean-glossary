@@ -17705,3 +17705,14 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 햇빛이 많이 필요해요=Bu bitkinin çok fazla güneş ışığına ihtiyacı var mı?
 화분도 같이 팔아요=Saksıyı da satıyor musun?
 향기가 좋네요=Gerçekten güzel kokuyor
+
+# --- 대화 87: 주차장 (2026-11-20) ---
+주차권 도장 찍어 주세요=Otoparkın ücretsiz olması için lütfen park biletimi damgalayın
+주차 몇 시간 무료예요=Kaç saat ücretsiz otoparktan yararlanabilirim?
+차 좀 빼 주세요=Lütfen arabanı çek
+제 차가 막혀서 못 나가요=Başka bir araba benimkini kapatıyor o yüzden çıkamıyorum
+발레파킹 돼요=Vale park hizmetiniz var mı?
+몇 층에 주차했는지 모르겠어요=Hangi kata park ettiğimi hatırlamıyorum
+주차 딱지 붙었어요=Yasadışı park cezası yedim
+오토바이 어디에 세워요=Motosikletimi nereye park edebilirim?
+출구가 어느 쪽이에요=Çıkış ne tarafta?

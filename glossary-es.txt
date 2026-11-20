@@ -48220,3 +48220,14 @@ IT 쪽에서 일해요=yo trabajo en TI
 햇빛이 많이 필요해요=¿Esta planta necesita mucha luz solar?
 화분도 같이 팔아요=¿Vendes la maceta también?
 향기가 좋네요=Huele muy bien
+
+# --- 대화 87: 주차장 (2026-11-20) ---
+주차권 도장 찍어 주세요=Por favor selle mi ticket de estacionamiento para que el estacionamiento sea gratuito.
+주차 몇 시간 무료예요=¿Cuántas horas de aparcamiento gratuito tengo?
+차 좀 빼 주세요=Por favor mueve tu auto
+제 차가 막혀서 못 나가요=Otro coche bloquea el mío y no puedo salir.
+발레파킹 돼요=¿Tiene servicio de aparcacoches?
+몇 층에 주차했는지 모르겠어요=No recuerdo en qué piso estacioné
+주차 딱지 붙었어요=Me multaron por aparcar ilegalmente
+오토바이 어디에 세워요=¿Dónde puedo aparcar mi moto?
+출구가 어느 쪽이에요=¿Cuál es la salida?

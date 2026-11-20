@@ -7458,3 +7458,14 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 햇빛이 많이 필요해요=Kailangan ba ng halamang ito ng maraming sikat ng araw?
 화분도 같이 팔아요=Nagbebenta ka rin ba ng flower pot?
 향기가 좋네요=Mabango talaga
+
+# --- 대화 87: 주차장 (2026-11-20) ---
+주차권 도장 찍어 주세요=Paki-stamp ang aking parking ticket para libre ang paradahan
+주차 몇 시간 무료예요=Ilang oras ng libreng paradahan ang makukuha ko?
+차 좀 빼 주세요=Pakilipat ang iyong sasakyan
+제 차가 막혀서 못 나가요=May isa pang sasakyan na nakaharang sa akin kaya hindi ako makalabas
+발레파킹 돼요=May valet parking ka ba?
+몇 층에 주차했는지 모르겠어요=Hindi ko matandaan kung saang palapag ako nagpark
+주차 딱지 붙었어요=Nakatanggap ako ng multa para sa illegal parking
+오토바이 어디에 세워요=Saan ko pwedeng iparada ang motor ko?
+출구가 어느 쪽이에요=Aling daan ang labasan?

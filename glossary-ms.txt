@@ -11457,3 +11457,14 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 햇빛이 많이 필요해요=Adakah tumbuhan ini memerlukan banyak cahaya matahari?
 화분도 같이 팔아요=Adakah anda menjual pasu bunga itu juga?
 향기가 좋네요=Sedap betul baunya
+
+# --- 대화 87: 주차장 (2026-11-20) ---
+주차권 도장 찍어 주세요=Sila cop tiket parking saya supaya tempat letak kereta adalah percuma
+주차 몇 시간 무료예요=Berapa jam tempat letak kereta percuma yang saya dapat?
+차 좀 빼 주세요=Tolong alihkan kereta anda
+제 차가 막혀서 못 나가요=Kereta lain menghalang kereta saya jadi saya tidak boleh keluar
+발레파킹 돼요=Adakah anda mempunyai tempat letak kenderaan valet?
+몇 층에 주차했는지 모르겠어요=Saya tidak ingat di tingkat mana saya letak kereta
+주차 딱지 붙었어요=Saya mendapat denda kerana letak kereta haram
+오토바이 어디에 세워요=Di mana saya boleh meletakkan motosikal saya?
+출구가 어느 쪽이에요=Jalan keluar yang mana?
