@@ -22495,3 +22495,16 @@ IT 쪽에서 일해요=Eu trabalho em TI
 다리는 안 해도 돼요=Você não precisa massagear minhas pernas
 마사지 받다가 잠들 뻔했어요=Quase adormeci durante a massagem
 팁은 얼마 주면 돼요=Quanto devo dar de gorjeta?
+
+# --- 대화 80: 투어 예약 (2026-11-20) ---
+내일 섬 투어 자리 있어요=Ainda há vagas para o passeio pela ilha de amanhã?
+호텔로 데리러 와요=Você vai nos buscar no hotel?
+몇 시에 어디서 모여요=A que horas e onde nos encontramos?
+점심도 포함이에요=O almoço também está incluído?
+한국어 가이드 있어요=Existe um guia turístico que fala coreano?
+국립공원 입장료는 따로예요=A taxa de entrada no parque nacional é paga separadamente?
+스노클링 장비도 줘요=Você também fornece equipamento de mergulho com snorkel?
+구명조끼 있어요=Você tem coletes salva-vidas?
+단체 말고 개인 투어로 하고 싶어요=Quero um tour privado em vez de um tour em grupo
+일몰 보러 가고 싶어요=Eu quero ir e ver o pôr do sol
+배멀미 심한 편이에요=Tenho tendência a sentir-me mal facilmente em barcos

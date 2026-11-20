@@ -23508,3 +23508,16 @@ IT 쪽에서 일해요=Pracuję w IT
 다리는 안 해도 돼요=Nie musisz masować moich nóg
 마사지 받다가 잠들 뻔했어요=Prawie zasnąłem podczas masażu
 팁은 얼마 주면 돼요=Ile mam dać jako napiwek?
+
+# --- 대화 80: 투어 예약 (2026-11-20) ---
+내일 섬 투어 자리 있어요=Czy są jeszcze jakieś miejsca na jutrzejszą wycieczkę po wyspie?
+호텔로 데리러 와요=Odbierzesz nas z hotelu?
+몇 시에 어디서 모여요=O której godzinie i gdzie się spotykamy?
+점심도 포함이에요=Czy lunch też jest wliczony w cenę?
+한국어 가이드 있어요=Czy jest przewodnik, który mówi po koreańsku?
+국립공원 입장료는 따로예요=Czy opłata za wstęp do parku narodowego jest płatna osobno?
+스노클링 장비도 줘요=Zapewniasz też sprzęt do nurkowania?
+구명조끼 있어요=Czy masz kamizelki ratunkowe?
+단체 말고 개인 투어로 하고 싶어요=Chcę prywatną wycieczkę zamiast wycieczki grupowej
+일몰 보러 가고 싶어요=Chcę iść i obejrzeć zachód słońca
+배멀미 심한 편이에요=Na łodziach często źle się czuję

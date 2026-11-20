@@ -11371,3 +11371,16 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 다리는 안 해도 돼요=Anda tidak perlu mengurut kaki saya
 마사지 받다가 잠들 뻔했어요=Saya hampir tertidur semasa mengurut
 팁은 얼마 주면 돼요=Berapa banyak yang perlu saya berikan sebagai tip?
+
+# --- 대화 80: 투어 예약 (2026-11-20) ---
+내일 섬 투어 자리 있어요=Adakah terdapat sebarang tempat untuk lawatan pulau esok?
+호텔로 데리러 와요=Adakah anda akan menjemput kami dari hotel?
+몇 시에 어디서 모여요=Pukul berapa dan di mana kita berjumpa?
+점심도 포함이에요=Adakah makan tengah hari termasuk juga?
+한국어 가이드 있어요=Adakah pemandu pelancong yang bercakap bahasa Korea?
+국립공원 입장료는 따로예요=Adakah yuran masuk taman negara dibayar secara berasingan?
+스노클링 장비도 줘요=Adakah anda menyediakan peralatan snorkeling juga?
+구명조끼 있어요=Adakah anda mempunyai jaket keselamatan?
+단체 말고 개인 투어로 하고 싶어요=Saya mahukan lawatan peribadi dan bukannya lawatan berkumpulan
+일몰 보러 가고 싶어요=Saya mahu pergi melihat matahari terbenam
+배멀미 심한 편이에요=Saya cenderung berasa mudah sakit di atas bot

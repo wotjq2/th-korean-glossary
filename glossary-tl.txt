@@ -7372,3 +7372,16 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 다리는 안 해도 돼요=Hindi mo kailangang imasahe ang aking mga binti
 마사지 받다가 잠들 뻔했어요=Halos makatulog ako sa masahe
 팁은 얼마 주면 돼요=Magkano ang dapat kong ibigay bilang tip?
+
+# --- 대화 80: 투어 예약 (2026-11-20) ---
+내일 섬 투어 자리 있어요=May natitira bang mga spot sa island tour bukas?
+호텔로 데리러 와요=Susunduin mo ba kami sa hotel?
+몇 시에 어디서 모여요=Anong oras at saan tayo magkikita?
+점심도 포함이에요=Kasama na rin ba ang tanghalian?
+한국어 가이드 있어요=Mayroon bang tour guide na nagsasalita ng Korean?
+국립공원 입장료는 따로예요=Binabayaran ba nang hiwalay ang entrance fee ng pambansang parke?
+스노클링 장비도 줘요=Nagbibigay ka rin ba ng snorkeling gear?
+구명조끼 있어요=May life jacket ka ba?
+단체 말고 개인 투어로 하고 싶어요=Gusto ko ng private tour sa halip na group tour
+일몰 보러 가고 싶어요=Gusto kong pumunta at panoorin ang paglubog ng araw
+배멀미 심한 편이에요=Madali akong makaramdam ng sakit sa mga bangka

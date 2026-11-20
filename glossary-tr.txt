@@ -17619,3 +17619,16 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 다리는 안 해도 돼요=Bacaklarıma masaj yapmana gerek yok
 마사지 받다가 잠들 뻔했어요=Masaj sırasında neredeyse uykuya daldım
 팁은 얼마 주면 돼요=Bahşiş olarak ne kadar vermeliyim?
+
+# --- 대화 80: 투어 예약 (2026-11-20) ---
+내일 섬 투어 자리 있어요=Yarınki ada turunda yer kaldı mı?
+호텔로 데리러 와요=Bizi otelden alacak mısın?
+몇 시에 어디서 모여요=Saat kaçta ve nerede buluşuyoruz?
+점심도 포함이에요=Öğle yemeği de dahil mi?
+한국어 가이드 있어요=Korece konuşan bir tur rehberi var mı?
+국립공원 입장료는 따로예요=Milli park giriş ücreti ayrıca ödeniyor mu?
+스노클링 장비도 줘요=Şnorkel ekipmanı da sağlıyor musunuz?
+구명조끼 있어요=Can yelekleriniz var mı?
+단체 말고 개인 투어로 하고 싶어요=Grup turu yerine özel tur istiyorum
+일몰 보러 가고 싶어요=Gidip gün batımını izlemek istiyorum
+배멀미 심한 편이에요=Teknelerde kolayca hastalanma eğilimindeyim

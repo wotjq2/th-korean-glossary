@@ -47916,3 +47916,16 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 다리는 안 해도 돼요=Vous n'avez pas besoin de me masser les jambes
 마사지 받다가 잠들 뻔했어요=J'ai failli m'endormir pendant le massage
 팁은 얼마 주면 돼요=Combien dois-je donner comme pourboire ?
+
+# --- 대화 80: 투어 예약 (2026-11-20) ---
+내일 섬 투어 자리 있어요=Reste-t-il des places pour le tour de l'île de demain ?
+호텔로 데리러 와요=Veux-tu nous chercher à l'hôtel ?
+몇 시에 어디서 모여요=A quelle heure et où se retrouve-t-on ?
+점심도 포함이에요=Le déjeuner est-il également inclus ?
+한국어 가이드 있어요=Y a-t-il un guide touristique qui parle coréen ?
+국립공원 입장료는 따로예요=Les frais d'entrée au parc national sont-ils payés séparément ?
+스노클링 장비도 줘요=Fournissez-vous également du matériel de plongée avec tuba ?
+구명조끼 있어요=Avez-vous des gilets de sauvetage ?
+단체 말고 개인 투어로 하고 싶어요=Je veux une visite privée au lieu d'une visite de groupe
+일몰 보러 가고 싶어요=Je veux aller voir le coucher du soleil
+배멀미 심한 편이에요=J'ai tendance à me sentir facilement malade sur les bateaux

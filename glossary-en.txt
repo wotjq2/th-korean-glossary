@@ -52663,3 +52663,16 @@ IT 쪽에서 일해요=I work in IT
 다리는 안 해도 돼요=You do not need to massage my legs
 마사지 받다가 잠들 뻔했어요=I almost fell asleep during the massage
 팁은 얼마 주면 돼요=How much should I give as a tip?
+
+# --- 대화 80: 투어 예약 (2026-11-20) ---
+내일 섬 투어 자리 있어요=Are there any spots left on tomorrow's island tour?
+호텔로 데리러 와요=Will you pick us up from the hotel?
+몇 시에 어디서 모여요=What time and where do we meet?
+점심도 포함이에요=Is lunch included too?
+한국어 가이드 있어요=Is there a tour guide who speaks Korean?
+국립공원 입장료는 따로예요=Is the national park entrance fee paid separately?
+스노클링 장비도 줘요=Do you provide snorkeling gear too?
+구명조끼 있어요=Do you have life jackets?
+단체 말고 개인 투어로 하고 싶어요=I want a private tour instead of a group tour
+일몰 보러 가고 싶어요=I want to go and watch the sunset
+배멀미 심한 편이에요=I tend to feel sick easily on boats
