@@ -7480,3 +7480,15 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 이거 달아요=Matamis ba ang lasa nito?
 섞어서 담아도 돼요=Maaari ba akong maghalo ng iba't ibang uri sa isang bag?
 두 개 사면 더 싸요=Mas mura ba kung dalawa ang bibilhin ko?
+
+# --- 대화 89: 건강검진 (2026-11-20) ---
+건강검진 받고 싶어요=Gusto kong magpa-general health checkup
+검진 패키지 가격표 있어요=Mayroon ka bang listahan ng presyo para sa mga pakete ng pagsusuri?
+전날 밤부터 굶어야 돼요=Kailangan ko bang mag-ayuno mula sa gabi bago?
+물은 마셔도 돼요=Pinapayagan ba akong uminom ng tubig?
+피 뽑는 거 무서워요=Takot ako sa karayom kapag kumukuha ng sample ng dugo ang isang nurse
+소변 검사 컵 어디 있어요=Nasaan ang tasa para sa pagsusuri sa ihi?
+엑스레이 찍어야 돼요=Kailangan ko bang magpa-X-ray?
+결과는 이메일로 받을 수 있어요=Maaari ko bang matanggap ang mga resulta sa pamamagitan ng email?
+결과 설명해 주세요=Pakipaliwanag sa akin ang mga resulta ng aking pagsusulit
+수치가 정상이에요=Nasa normal ba ang mga resulta ng aking pagsusulit?

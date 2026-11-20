@@ -20755,3 +20755,15 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 이거 달아요=Ha un sapore dolce?
 섞어서 담아도 돼요=Posso mescolare tipi diversi in un sacchetto?
 두 개 사면 더 싸요=Costa meno se ne compro due?
+
+# --- 대화 89: 건강검진 (2026-11-20) ---
+건강검진 받고 싶어요=Vorrei fare un controllo sanitario generale
+검진 패키지 가격표 있어요=Avete un listino prezzi per i pacchetti checkup?
+전날 밤부터 굶어야 돼요=È necessario digiunare dalla sera prima?
+물은 마셔도 돼요=Posso bere acqua?
+피 뽑는 거 무서워요=Ho paura dell'ago quando un'infermiera preleva un campione di sangue
+소변 검사 컵 어디 있어요=Dov'è la tazza per l'esame delle urine?
+엑스레이 찍어야 돼요=Ho bisogno di fare una radiografia?
+결과는 이메일로 받을 수 있어요=Posso ricevere i risultati via email?
+결과 설명해 주세요=Per favore, spiegami i risultati del mio test
+수치가 정상이에요=I risultati dei miei test rientrano nell'intervallo normale?

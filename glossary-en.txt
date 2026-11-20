@@ -52771,3 +52771,15 @@ IT 쪽에서 일해요=I work in IT
 이거 달아요=Does this taste sweet?
 섞어서 담아도 돼요=Can I mix different kinds in one bag?
 두 개 사면 더 싸요=Is it cheaper if I buy two?
+
+# --- 대화 89: 건강검진 (2026-11-20) ---
+건강검진 받고 싶어요=I would like to have a general health checkup
+검진 패키지 가격표 있어요=Do you have a price list for checkup packages?
+전날 밤부터 굶어야 돼요=Do I need to fast from the night before?
+물은 마셔도 돼요=Am I allowed to drink water?
+피 뽑는 거 무서워요=I am afraid of the needle when a nurse takes a blood sample
+소변 검사 컵 어디 있어요=Where is the cup for the urine test?
+엑스레이 찍어야 돼요=Do I need to get an X-ray?
+결과는 이메일로 받을 수 있어요=Can I receive the results by email?
+결과 설명해 주세요=Please explain my test results to me
+수치가 정상이에요=Are my test results in the normal range?

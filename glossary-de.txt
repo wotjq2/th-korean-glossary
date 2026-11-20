@@ -24664,3 +24664,15 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 이거 달아요=Schmeckt das süß?
 섞어서 담아도 돼요=Kann ich verschiedene Sorten in einem Beutel mischen?
 두 개 사면 더 싸요=Ist es günstiger, wenn ich zwei kaufe?
+
+# --- 대화 89: 건강검진 (2026-11-20) ---
+건강검진 받고 싶어요=Ich möchte einen allgemeinen Gesundheitscheck machen lassen
+검진 패키지 가격표 있어요=Gibt es eine Preisliste für Checkup-Pakete?
+전날 밤부터 굶어야 돼요=Muss ich am Vorabend fasten?
+물은 마셔도 돼요=Darf ich Wasser trinken?
+피 뽑는 거 무서워요=Ich habe Angst vor der Nadel, wenn eine Krankenschwester eine Blutprobe entnimmt
+소변 검사 컵 어디 있어요=Wo ist der Becher für den Urintest?
+엑스레이 찍어야 돼요=Muss ich eine Röntgenaufnahme machen?
+결과는 이메일로 받을 수 있어요=Kann ich die Ergebnisse per E-Mail erhalten?
+결과 설명해 주세요=Bitte erläutern Sie mir meine Testergebnisse
+수치가 정상이에요=Liegen meine Testergebnisse im Normalbereich?

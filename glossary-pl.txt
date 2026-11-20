@@ -23616,3 +23616,15 @@ IT 쪽에서 일해요=Pracuję w IT
 이거 달아요=Czy to smakuje słodko?
 섞어서 담아도 돼요=Czy mogę mieszać różne rodzaje w jednej torbie?
 두 개 사면 더 싸요=Czy będzie taniej jeśli kupię dwa?
+
+# --- 대화 89: 건강검진 (2026-11-20) ---
+건강검진 받고 싶어요=Chciałbym przejść ogólne badanie stanu zdrowia
+검진 패키지 가격표 있어요=Czy posiadacie Państwo cennik pakietów kontrolnych?
+전날 밤부터 굶어야 돼요=Czy muszę pościć od poprzedniej nocy?
+물은 마셔도 돼요=Czy wolno mi pić wodę?
+피 뽑는 거 무서워요=Boję się igły, gdy pielęgniarka pobiera próbkę krwi
+소변 검사 컵 어디 있어요=Gdzie jest kubek do badania moczu?
+엑스레이 찍어야 돼요=Czy muszę zrobić zdjęcie rentgenowskie?
+결과는 이메일로 받을 수 있어요=Czy mogę otrzymać wyniki e-mailem?
+결과 설명해 주세요=Proszę o wyjaśnienie mi wyników moich badań
+수치가 정상이에요=Czy moje wyniki badań mieszczą się w normie?

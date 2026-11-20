@@ -41405,3 +41405,15 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 이거 달아요=Cái này có vị ngọt không?
 섞어서 담아도 돼요=Tôi có thể trộn nhiều loại khác nhau trong một túi không?
 두 개 사면 더 싸요=Mua 2 cái có rẻ hơn không?
+
+# --- 대화 89: 건강검진 (2026-11-20) ---
+건강검진 받고 싶어요=Tôi muốn được khám sức khỏe tổng quát
+검진 패키지 가격표 있어요=Bạn có bảng giá các gói khám sức khỏe không?
+전날 밤부터 굶어야 돼요=Tôi có cần phải nhịn ăn từ đêm hôm trước không?
+물은 마셔도 돼요=Tôi có được phép uống nước không?
+피 뽑는 거 무서워요=Tôi sợ kim tiêm khi y tá lấy mẫu máu
+소변 검사 컵 어디 있어요=Cốc thử nước tiểu ở đâu?
+엑스레이 찍어야 돼요=Tôi có cần chụp X-quang không?
+결과는 이메일로 받을 수 있어요=Tôi có thể nhận kết quả qua email không?
+결과 설명해 주세요=Hãy giải thích kết quả kiểm tra của tôi cho tôi
+수치가 정상이에요=Kết quả xét nghiệm của tôi có nằm trong phạm vi bình thường không?

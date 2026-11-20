@@ -22603,3 +22603,15 @@ IT 쪽에서 일해요=Eu trabalho em TI
 이거 달아요=Isso tem um gosto doce?
 섞어서 담아도 돼요=Posso misturar tipos diferentes em um saco?
 두 개 사면 더 싸요=É mais barato se eu comprar dois?
+
+# --- 대화 89: 건강검진 (2026-11-20) ---
+건강검진 받고 싶어요=Gostaria de fazer um exame geral de saúde
+검진 패키지 가격표 있어요=Você tem uma lista de preços para pacotes de check-up?
+전날 밤부터 굶어야 돼요=Preciso jejuar desde a noite anterior?
+물은 마셔도 돼요=Posso beber água?
+피 뽑는 거 무서워요=Tenho medo da agulha quando uma enfermeira tira uma amostra de sangue
+소변 검사 컵 어디 있어요=Onde está o copo para o teste de urina?
+엑스레이 찍어야 돼요=Preciso fazer um raio-X?
+결과는 이메일로 받을 수 있어요=Posso receber os resultados por email?
+결과 설명해 주세요=Por favor, explique os resultados do meu teste para mim
+수치가 정상이에요=Os resultados dos meus testes estão na faixa normal?

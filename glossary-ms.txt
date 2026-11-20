@@ -11479,3 +11479,15 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 이거 달아요=Adakah ini rasa manis?
 섞어서 담아도 돼요=Bolehkah saya mencampurkan pelbagai jenis dalam satu beg?
 두 개 사면 더 싸요=Adakah lebih murah jika saya membeli dua?
+
+# --- 대화 89: 건강검진 (2026-11-20) ---
+건강검진 받고 싶어요=Saya ingin membuat pemeriksaan kesihatan am
+검진 패키지 가격표 있어요=Adakah anda mempunyai senarai harga untuk pakej pemeriksaan?
+전날 밤부터 굶어야 돼요=Adakah saya perlu berpuasa dari malam sebelumnya?
+물은 마셔도 돼요=Adakah saya dibenarkan minum air?
+피 뽑는 거 무서워요=Saya takut jarum apabila jururawat mengambil sampel darah
+소변 검사 컵 어디 있어요=Di manakah cawan untuk ujian air kencing?
+엑스레이 찍어야 돼요=Adakah saya perlu mendapatkan X-ray?
+결과는 이메일로 받을 수 있어요=Bolehkah saya menerima keputusan melalui e-mel?
+결과 설명해 주세요=Tolong terangkan keputusan ujian saya kepada saya
+수치가 정상이에요=Adakah keputusan ujian saya dalam julat normal?

@@ -48242,3 +48242,15 @@ IT 쪽에서 일해요=yo trabajo en TI
 이거 달아요=¿Esto tiene un sabor dulce?
 섞어서 담아도 돼요=¿Puedo mezclar diferentes tipos en una bolsa?
 두 개 사면 더 싸요=¿Es más barato si compro dos?
+
+# --- 대화 89: 건강검진 (2026-11-20) ---
+건강검진 받고 싶어요=Me gustaría hacerme un chequeo general de salud.
+검진 패키지 가격표 있어요=¿Tiene una lista de precios para los paquetes de chequeo?
+전날 밤부터 굶어야 돼요=¿Necesito ayunar desde la noche anterior?
+물은 마셔도 돼요=¿Puedo beber agua?
+피 뽑는 거 무서워요=Tengo miedo de la aguja cuando una enfermera me toma una muestra de sangre.
+소변 검사 컵 어디 있어요=¿Dónde está el vaso para el análisis de orina?
+엑스레이 찍어야 돼요=¿Necesito hacerme una radiografía?
+결과는 이메일로 받을 수 있어요=¿Puedo recibir los resultados por correo electrónico?
+결과 설명해 주세요=Por favor explícame los resultados de mi prueba.
+수치가 정상이에요=¿Están los resultados de mis pruebas dentro del rango normal?

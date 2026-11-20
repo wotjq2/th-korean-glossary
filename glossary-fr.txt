@@ -48024,3 +48024,15 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 이거 달아요=Est-ce que ça a un goût sucré ?
 섞어서 담아도 돼요=Puis-je mélanger différentes sortes dans un seul sac ?
 두 개 사면 더 싸요=Est-ce moins cher si j'en achète deux ?
+
+# --- 대화 89: 건강검진 (2026-11-20) ---
+건강검진 받고 싶어요=Je souhaite passer un bilan de santé général
+검진 패키지 가격표 있어요=Avez-vous une liste de prix pour les forfaits de contrôle ?
+전날 밤부터 굶어야 돼요=Dois-je jeûner la veille ?
+물은 마셔도 돼요=Ai-je le droit de boire de l’eau ?
+피 뽑는 거 무서워요=J'ai peur de l'aiguille lorsqu'une infirmière fait un prélèvement de sang
+소변 검사 컵 어디 있어요=Où est le gobelet pour le test d'urine ?
+엑스레이 찍어야 돼요=Dois-je passer une radiographie ?
+결과는 이메일로 받을 수 있어요=Puis-je recevoir les résultats par email ?
+결과 설명해 주세요=Veuillez m'expliquer les résultats de mes tests
+수치가 정상이에요=Les résultats de mes tests sont-ils dans la plage normale ?
