@@ -38441,3 +38441,17 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 음이 너무 높아=Nada lagu ini terlalu tinggi bagi saya
 점수 잘 나왔다=Saya mendapat nilai bagus
 목이 쉬었어=Suaraku menjadi serak
+
+# --- 대화 74: 기념일 선물 (2026-11-20) ---
+우리 사귄 지 백일이야=Hari ini adalah hari ke-100 kami sebagai pasangan
+오늘 우리 일주년이야=Hari ini adalah hari jadi kami yang pertama
+기념일 잊어버렸어=Aku lupa hari jadi kita
+무슨 선물 받고 싶어=Hadiah apa yang ingin Anda terima?
+선물 고르는 거 도와줄래=Bisakah Anda membantu saya memilih hadiah?
+꽃다발 하나 주세요=Tolong beri saya buket bunga
+깜짝 선물이야=Ini adalah hadiah kejutan
+이거 너 주려고 샀어=Aku membeli ini untukmu
+뭘 이런 걸 다=Oh, kamu tidak perlu memberiku apa pun
+마음만 받을게=Terima kasih atas kebaikan Anda, tetapi saya tidak dapat menerima hadiah itu
+반지 사이즈가 어떻게 돼=Berapa ukuran cincinmu?
+저녁 예약해 놨어=Saya telah memesan meja untuk makan malam

@@ -52583,3 +52583,17 @@ IT 쪽에서 일해요=I work in IT
 음이 너무 높아=The notes of this song are too high for me
 점수 잘 나왔다=I got a good score
 목이 쉬었어=My voice has gone hoarse
+
+# --- 대화 74: 기념일 선물 (2026-11-20) ---
+우리 사귄 지 백일이야=Today is our 100th day as a couple
+오늘 우리 일주년이야=Today is our first anniversary
+기념일 잊어버렸어=I forgot our anniversary
+무슨 선물 받고 싶어=What gift would you like to receive?
+선물 고르는 거 도와줄래=Can you help me choose a gift?
+꽃다발 하나 주세요=Please give me a bouquet of flowers
+깜짝 선물이야=It's a surprise gift
+이거 너 주려고 샀어=I bought this for you
+뭘 이런 걸 다=Oh, you didn't have to get me anything
+마음만 받을게=Thank you for your kindness, but I cannot accept the gift
+반지 사이즈가 어떻게 돼=What is your ring size?
+저녁 예약해 놨어=I have reserved a table for dinner

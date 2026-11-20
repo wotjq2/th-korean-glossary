@@ -41217,3 +41217,17 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 음이 너무 높아=Các nốt của bài hát này quá cao đối với tôi
 점수 잘 나왔다=Tôi được điểm tốt
 목이 쉬었어=Giọng tôi đã khàn đi
+
+# --- 대화 74: 기념일 선물 (2026-11-20) ---
+우리 사귄 지 백일이야=Hôm nay là ngày thứ 100 chúng ta yêu nhau
+오늘 우리 일주년이야=Hôm nay là ngày kỷ niệm đầu tiên của chúng tôi
+기념일 잊어버렸어=Tôi quên mất ngày kỷ niệm của chúng ta
+무슨 선물 받고 싶어=Bạn muốn nhận được món quà gì?
+선물 고르는 거 도와줄래=Bạn có thể giúp tôi chọn quà được không?
+꽃다발 하나 주세요=Xin tặng tôi một bó hoa
+깜짝 선물이야=Đó là một món quà bất ngờ
+이거 너 주려고 샀어=Tôi đã mua cái này cho bạn
+뭘 이런 걸 다=Ồ, bạn không cần phải đưa cho tôi bất cứ thứ gì
+마음만 받을게=Cảm ơn lòng tốt của bạn, nhưng tôi không thể nhận món quà
+반지 사이즈가 어떻게 돼=Kích thước nhẫn của bạn là bao nhiêu?
+저녁 예약해 놨어=Tôi đã đặt bàn cho bữa tối

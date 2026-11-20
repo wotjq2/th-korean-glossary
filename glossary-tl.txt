@@ -7292,3 +7292,17 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 음이 너무 높아=Masyadong mataas ang mga nota ng kantang ito para sa akin
 점수 잘 나왔다=Nakakuha ako ng magandang marka
 목이 쉬었어=Namamaos na ang boses ko
+
+# --- 대화 74: 기념일 선물 (2026-11-20) ---
+우리 사귄 지 백일이야=Ngayon ang ika-100 araw namin bilang mag-asawa
+오늘 우리 일주년이야=Ngayon ang aming unang anibersaryo
+기념일 잊어버렸어=Nakalimutan ko anniversary natin
+무슨 선물 받고 싶어=Anong regalo ang gusto mong matanggap?
+선물 고르는 거 도와줄래=Maaari mo ba akong tulungang pumili ng isang regalo?
+꽃다발 하나 주세요=Mangyaring bigyan ako ng isang palumpon ng mga bulaklak
+깜짝 선물이야=Isa itong surprise gift
+이거 너 주려고 샀어=Binili ko ito para sa iyo
+뭘 이런 걸 다=Oh, hindi mo kailangang kumuha ng kahit ano sa akin
+마음만 받을게=Salamat sa iyong kabaitan, ngunit hindi ko matatanggap ang regalo
+반지 사이즈가 어떻게 돼=Ano ang laki ng singsing mo?
+저녁 예약해 놨어=Nagpareserve na ako ng table para sa hapunan

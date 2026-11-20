@@ -20567,3 +20567,17 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 음이 너무 높아=Le note di questa canzone sono troppo alte per me
 점수 잘 나왔다=Ho ottenuto un buon punteggio
 목이 쉬었어=La mia voce è diventata rauca
+
+# --- 대화 74: 기념일 선물 (2026-11-20) ---
+우리 사귄 지 백일이야=Oggi è il nostro centesimo giorno come coppia
+오늘 우리 일주년이야=Oggi è il nostro primo anniversario
+기념일 잊어버렸어=Ho dimenticato il nostro anniversario
+무슨 선물 받고 싶어=Quale regalo vorresti ricevere?
+선물 고르는 거 도와줄래=Potete aiutarmi a scegliere un regalo?
+꽃다발 하나 주세요=Per favore dammi un mazzo di fiori
+깜짝 선물이야=È un regalo a sorpresa
+이거 너 주려고 샀어=Ho comprato questo per te
+뭘 이런 걸 다=Oh, non dovevi comprarmi niente
+마음만 받을게=Grazie per la vostra gentilezza, ma non posso accettare il regalo
+반지 사이즈가 어떻게 돼=Qual è la misura del tuo anello?
+저녁 예약해 놨어=Ho prenotato un tavolo per la cena
