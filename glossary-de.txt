@@ -24730,3 +24730,14 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 행복하게 잘 사세요=Ich wünsche dir ein glückliches Leben
 식장이 어디예요=Wo ist der Hochzeitssaal?
 축의금 봉투 어디 있어요=Wo bekomme ich einen Umschlag für das Geldgeschenk zur Hochzeit?
+
+# --- 대화 95: 장례식 조문 (2026-11-20) ---
+소식 듣고 너무 놀랐어요=Ich war so schockiert, als ich die Nachricht hörte
+갑자기 돌아가셨어요=Der Tod kam so plötzlich
+뭐라고 위로해야 할지 모르겠어요=Ich weiß nicht, was ich sagen soll, um dich zu trösten
+얼마나 상심이 크세요=Ich weiß, wie untröstlich du bist
+장례식장이 어디예요=Wo ist die Trauerhalle?
+검은 옷 입고 가야 돼요=Muss ich schwarze Kleidung tragen?
+조의금은 얼마나 해요=Wie viel Geld soll ich in den Umschlag für die Beerdigung stecken?
+도울 일 있으면 말해 주세요=Bitte lassen Sie mich wissen, ob ich Ihnen helfen kann
+마음이 너무 아파요=Mein Herz schmerzt so sehr

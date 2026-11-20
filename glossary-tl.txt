@@ -7546,3 +7546,14 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 행복하게 잘 사세요=Nais ko sa iyo ng isang masayang buhay
 식장이 어디예요=Saan ang wedding hall?
 축의금 봉투 어디 있어요=Saan ako makakakuha ng isang sobre para sa regalo ng pera sa kasal?
+
+# --- 대화 95: 장례식 조문 (2026-11-20) ---
+소식 듣고 너무 놀랐어요=Laking gulat ko nang marinig ko ang balita
+갑자기 돌아가셨어요=Napakabigla ng kamatayan
+뭐라고 위로해야 할지 모르겠어요=Hindi ko alam kung ano ang sasabihin ko para i-comfort ka
+얼마나 상심이 크세요=Alam ko kung gaano ka heartbroken
+장례식장이 어디예요=Saan ang funeral hall?
+검은 옷 입고 가야 돼요=Kailangan ko bang magsuot ng itim na damit?
+조의금은 얼마나 해요=Magkano ang pera ang dapat kong ilagay sa sobre para sa libing?
+도울 일 있으면 말해 주세요=Mangyaring ipaalam sa akin kung mayroon akong magagawa upang makatulong
+마음이 너무 아파요=Sobrang sakit ng puso ko

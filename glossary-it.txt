@@ -20821,3 +20821,14 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 행복하게 잘 사세요=Ti auguro una vita felice
 식장이 어디예요=Dov'è la sala delle nozze?
 축의금 봉투 어디 있어요=Dove posso trovare una busta per il regalo in denaro per il matrimonio?
+
+# --- 대화 95: 장례식 조문 (2026-11-20) ---
+소식 듣고 너무 놀랐어요=Ero così scioccato quando ho sentito la notizia
+갑자기 돌아가셨어요=La morte è stata così improvvisa
+뭐라고 위로해야 할지 모르겠어요=Non so cosa dirti per consolarti
+얼마나 상심이 크세요=So quanto hai il cuore spezzato
+장례식장이 어디예요=Dov'è la sala funebre?
+검은 옷 입고 가야 돼요=Devo indossare abiti neri?
+조의금은 얼마나 해요=Quanti soldi devo mettere nella busta per il funerale?
+도울 일 있으면 말해 주세요=Per favore fatemi sapere se c'è qualcosa che posso fare per aiutare
+마음이 너무 아파요=Il mio cuore soffre così tanto

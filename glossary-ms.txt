@@ -11545,3 +11545,14 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 행복하게 잘 사세요=Saya doakan awak bahagia
 식장이 어디예요=Di manakah dewan perkahwinan?
 축의금 봉투 어디 있어요=Di mana saya boleh mendapatkan sampul surat untuk hadiah wang perkahwinan?
+
+# --- 대화 95: 장례식 조문 (2026-11-20) ---
+소식 듣고 너무 놀랐어요=Saya sangat terkejut apabila mendengar berita itu
+갑자기 돌아가셨어요=Kematian itu begitu mengejut
+뭐라고 위로해야 할지 모르겠어요=Saya tidak tahu apa yang perlu saya katakan untuk menghiburkan anda
+얼마나 상심이 크세요=Saya tahu betapa patah hati awak
+장례식장이 어디예요=Di manakah dewan pengebumian?
+검은 옷 입고 가야 돼요=Adakah saya perlu memakai pakaian hitam?
+조의금은 얼마나 해요=Berapa banyak wang yang perlu saya masukkan ke dalam sampul surat untuk pengebumian?
+도울 일 있으면 말해 주세요=Sila beritahu saya jika ada apa-apa yang boleh saya lakukan untuk membantu
+마음이 너무 아파요=Hati saya sangat sakit

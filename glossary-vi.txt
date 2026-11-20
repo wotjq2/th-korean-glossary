@@ -41471,3 +41471,14 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 행복하게 잘 사세요=Tôi chúc bạn một cuộc sống hạnh phúc
 식장이 어디예요=Sảnh cưới ở đâu?
 축의금 봉투 어디 있어요=Tôi có thể lấy phong bì đựng tiền mừng đám cưới ở đâu?
+
+# --- 대화 95: 장례식 조문 (2026-11-20) ---
+소식 듣고 너무 놀랐어요=Tôi đã rất sốc khi biết tin
+갑자기 돌아가셨어요=Cái chết quá đột ngột
+뭐라고 위로해야 할지 모르겠어요=Tôi không biết phải nói gì để an ủi bạn
+얼마나 상심이 크세요=Tôi biết trái tim bạn đau khổ thế nào
+장례식장이 어디예요=Nhà tang lễ ở đâu?
+검은 옷 입고 가야 돼요=Tôi có cần mặc quần áo màu đen không?
+조의금은 얼마나 해요=Tôi nên bỏ bao nhiêu tiền vào phong bì cho tang lễ?
+도울 일 있으면 말해 주세요=Vui lòng cho tôi biết nếu tôi có thể giúp được gì
+마음이 너무 아파요=Tim tôi đau quá

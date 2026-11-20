@@ -22669,3 +22669,14 @@ IT 쪽에서 일해요=Eu trabalho em TI
 행복하게 잘 사세요=Desejo a você uma vida feliz
 식장이 어디예요=Onde fica o salão do casamento?
 축의금 봉투 어디 있어요=Onde posso conseguir um envelope para o presente em dinheiro do casamento?
+
+# --- 대화 95: 장례식 조문 (2026-11-20) ---
+소식 듣고 너무 놀랐어요=Fiquei tão chocado quando ouvi a notícia
+갑자기 돌아가셨어요=A morte foi tão repentina
+뭐라고 위로해야 할지 모르겠어요=Não sei o que dizer para te confortar
+얼마나 상심이 크세요=Eu sei o quanto você está com o coração partido
+장례식장이 어디예요=Onde fica a sala funerária?
+검은 옷 입고 가야 돼요=Preciso usar roupas pretas?
+조의금은 얼마나 해요=Quanto dinheiro devo colocar no envelope para o funeral?
+도울 일 있으면 말해 주세요=Por favor, deixe-me saber se há algo que eu possa fazer para ajudar
+마음이 너무 아파요=Meu coração dói tanto

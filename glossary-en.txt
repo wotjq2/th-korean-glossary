@@ -52837,3 +52837,14 @@ IT 쪽에서 일해요=I work in IT
 행복하게 잘 사세요=I wish you a happy life
 식장이 어디예요=Where is the wedding hall?
 축의금 봉투 어디 있어요=Where can I get an envelope for the wedding money gift?
+
+# --- 대화 95: 장례식 조문 (2026-11-20) ---
+소식 듣고 너무 놀랐어요=I was so shocked when I heard the news
+갑자기 돌아가셨어요=The death was so sudden
+뭐라고 위로해야 할지 모르겠어요=I do not know what to say to comfort you
+얼마나 상심이 크세요=I know how heartbroken you are
+장례식장이 어디예요=Where is the funeral hall?
+검은 옷 입고 가야 돼요=Do I need to wear black clothes?
+조의금은 얼마나 해요=How much money should I put in the envelope for the funeral?
+도울 일 있으면 말해 주세요=Please let me know if there is anything I can do to help
+마음이 너무 아파요=My heart aches so much

@@ -38695,3 +38695,14 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 행복하게 잘 사세요=Saya berharap Anda hidup bahagia
 식장이 어디예요=Dimana gedung pernikahannya?
 축의금 봉투 어디 있어요=Dimana saya bisa mendapatkan amplop untuk hadiah uang pernikahan?
+
+# --- 대화 95: 장례식 조문 (2026-11-20) ---
+소식 듣고 너무 놀랐어요=Saya sangat terkejut ketika mendengar berita itu
+갑자기 돌아가셨어요=Kematiannya begitu mendadak
+뭐라고 위로해야 할지 모르겠어요=Saya tidak tahu harus berkata apa untuk menghibur Anda
+얼마나 상심이 크세요=Aku tahu betapa patah hatimu
+장례식장이 어디예요=Dimana ruang pemakamannya?
+검은 옷 입고 가야 돼요=Apakah saya perlu memakai pakaian hitam?
+조의금은 얼마나 해요=Berapa banyak uang yang harus saya masukkan ke dalam amplop untuk pemakaman?
+도울 일 있으면 말해 주세요=Tolong beri tahu saya jika ada yang bisa saya lakukan untuk membantu
+마음이 너무 아파요=Hatiku sangat sakit
