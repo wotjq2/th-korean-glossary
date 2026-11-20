@@ -47965,3 +47965,16 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 너무 힘들어서 쉬고 싶어요=C'est trop dur alors je veux faire une pause
 발차기 다시 보여 주세요=S'il te plaît, montre-moi à nouveau le coup de pied
 경기 보러 가고 싶어요=Je veux aller voir le match
+
+# --- 대화 84: 치과 (2026-11-20) ---
+치과 예약하고 싶어요=Je souhaite prendre rendez-vous chez le dentiste
+찬 거 마시면 이가 시려요=Mes dents sont sensibles quand je bois quelque chose de froid
+잇몸에서 피가 나요=Mes gencives saignent
+스케일링 받고 싶어요=Je souhaite un détartrage dentaire pour enlever le tartre de mes dents
+충치가 있어요=Est-ce que j'ai des caries dentaires ?
+사랑니 뽑아야 돼요=Dois-je me faire arracher une dent de sagesse ?
+마취해 주세요=S'il vous plaît, faites-moi une injection d'anesthésique local
+떼운 게 빠졌어요=L'obturation de ma dent est tombée
+치료 몇 번 받아야 돼요=Combien de fois dois-je venir pour ce traitement ?
+입을 크게 벌려 주세요=S'il te plaît ouvre grand ta bouche
+양치질 어떻게 해야 돼요=Comment dois-je me brosser les dents ?

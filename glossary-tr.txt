@@ -17668,3 +17668,16 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 너무 힘들어서 쉬고 싶어요=Çok zor bu yüzden ara vermek istiyorum
 발차기 다시 보여 주세요=Lütfen bana vuruşu tekrar göster
 경기 보러 가고 싶어요=Gidip maçı izlemek istiyorum
+
+# --- 대화 84: 치과 (2026-11-20) ---
+치과 예약하고 싶어요=Dişçi randevusu almak istiyorum
+찬 거 마시면 이가 시려요=Soğuk bir şey içtiğimde dişlerim hassaslaşıyor
+잇몸에서 피가 나요=Diş etlerim kanıyor
+스케일링 받고 싶어요=Dişlerimdeki tartarın temizlenmesi için diş taşı temizliği yaptırmak istiyorum
+충치가 있어요=Dişimde çürük var mı?
+사랑니 뽑아야 돼요=Yirmilik dişimi çektirmem gerekiyor mu?
+마취해 주세요=Lütfen bana lokal anestezik enjeksiyonu yapın
+떼운 게 빠졌어요=Dişimdeki dolgu düştü
+치료 몇 번 받아야 돼요=Bu tedaviye kaç kez daha gelmem gerekiyor?
+입을 크게 벌려 주세요=Lütfen ağzınızı geniş açın
+양치질 어떻게 해야 돼요=Dişlerimi nasıl fırçalamalıyım?

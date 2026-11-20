@@ -41346,3 +41346,16 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 너무 힘들어서 쉬고 싶어요=Khó quá nên tôi muốn nghỉ ngơi
 발차기 다시 보여 주세요=Hãy cho tôi xem cú đá lần nữa
 경기 보러 가고 싶어요=Tôi muốn đi xem trận đấu
+
+# --- 대화 84: 치과 (2026-11-20) ---
+치과 예약하고 싶어요=Tôi muốn đặt lịch hẹn với nha sĩ
+찬 거 마시면 이가 시려요=Răng tôi nhạy cảm khi uống đồ lạnh
+잇몸에서 피가 나요=Nướu của tôi đang chảy máu
+스케일링 받고 싶어요=Tôi muốn cạo vôi răng để loại bỏ cao răng
+충치가 있어요=Tôi có bị sâu răng không?
+사랑니 뽑아야 돼요=Tôi có cần phải nhổ răng khôn không?
+마취해 주세요=Xin vui lòng tiêm cho tôi một mũi gây tê cục bộ
+떼운 게 빠졌어요=Miếng trám răng của tôi đã rơi ra ngoài
+치료 몇 번 받아야 돼요=Tôi cần phải đến điều trị bao nhiêu lần nữa?
+입을 크게 벌려 주세요=Xin hãy mở rộng miệng ra
+양치질 어떻게 해야 돼요=Tôi nên đánh răng như thế nào?

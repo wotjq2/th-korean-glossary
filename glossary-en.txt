@@ -52712,3 +52712,16 @@ IT 쪽에서 일해요=I work in IT
 너무 힘들어서 쉬고 싶어요=It is too hard so I want to take a break
 발차기 다시 보여 주세요=Please show me the kick again
 경기 보러 가고 싶어요=I want to go and watch the match
+
+# --- 대화 84: 치과 (2026-11-20) ---
+치과 예약하고 싶어요=I would like to make a dentist appointment
+찬 거 마시면 이가 시려요=My teeth are sensitive when I drink something cold
+잇몸에서 피가 나요=My gums are bleeding
+스케일링 받고 싶어요=I would like a dental scaling to remove the tartar from my teeth
+충치가 있어요=Do I have any tooth decay?
+사랑니 뽑아야 돼요=Do I need to have my wisdom tooth pulled out?
+마취해 주세요=Please give me a local anesthetic injection
+떼운 게 빠졌어요=The filling in my tooth has fallen out
+치료 몇 번 받아야 돼요=How many more times do I need to come for this treatment?
+입을 크게 벌려 주세요=Please open your mouth wide
+양치질 어떻게 해야 돼요=How should I brush my teeth?

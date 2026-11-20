@@ -24605,3 +24605,16 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 너무 힘들어서 쉬고 싶어요=Es ist zu schwer, deshalb möchte ich eine Pause machen
 발차기 다시 보여 주세요=Bitte zeig mir den Kick noch einmal
 경기 보러 가고 싶어요=Ich möchte mir das Spiel ansehen
+
+# --- 대화 84: 치과 (2026-11-20) ---
+치과 예약하고 싶어요=Ich möchte einen Zahnarzttermin vereinbaren
+찬 거 마시면 이가 시려요=Meine Zähne reagieren empfindlich, wenn ich etwas Kaltes trinke
+잇몸에서 피가 나요=Mein Zahnfleisch blutet
+스케일링 받고 싶어요=Ich möchte eine Zahnsteinentfernung durchführen lassen, um den Zahnstein von meinen Zähnen zu entfernen
+충치가 있어요=Habe ich Karies?
+사랑니 뽑아야 돼요=Muss ich meinen Weisheitszahn ziehen lassen?
+마취해 주세요=Bitte geben Sie mir eine örtliche Betäubungsspritze
+떼운 게 빠졌어요=Die Füllung in meinem Zahn ist herausgefallen
+치료 몇 번 받아야 돼요=Wie oft muss ich noch zu dieser Behandlung kommen?
+입을 크게 벌려 주세요=Bitte öffnen Sie Ihren Mund weit
+양치질 어떻게 해야 돼요=Wie soll ich meine Zähne putzen?

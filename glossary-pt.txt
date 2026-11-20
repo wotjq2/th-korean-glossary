@@ -22544,3 +22544,16 @@ IT 쪽에서 일해요=Eu trabalho em TI
 너무 힘들어서 쉬고 싶어요=É muito difícil, então quero fazer uma pausa
 발차기 다시 보여 주세요=Por favor, mostre-me o chute novamente
 경기 보러 가고 싶어요=Eu quero ir assistir ao jogo
+
+# --- 대화 84: 치과 (2026-11-20) ---
+치과 예약하고 싶어요=Gostaria de marcar uma consulta no dentista
+찬 거 마시면 이가 시려요=Meus dentes ficam sensíveis quando bebo algo gelado
+잇몸에서 피가 나요=Minhas gengivas estão sangrando
+스케일링 받고 싶어요=Gostaria de uma raspagem dentária para remover o tártaro dos meus dentes
+충치가 있어요=Tenho alguma cárie dentária?
+사랑니 뽑아야 돼요=Preciso arrancar meu dente do siso?
+마취해 주세요=Por favor, me dê uma injeção de anestésico local
+떼운 게 빠졌어요=A obturação do meu dente caiu
+치료 몇 번 받아야 돼요=Quantas vezes mais preciso vir para este tratamento?
+입을 크게 벌려 주세요=Por favor, abra bem a boca
+양치질 어떻게 해야 돼요=Como devo escovar os dentes?

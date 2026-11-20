@@ -38570,3 +38570,16 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 너무 힘들어서 쉬고 싶어요=Ini terlalu sulit jadi saya ingin istirahat
 발차기 다시 보여 주세요=Tolong tunjukkan padaku tendangannya lagi
 경기 보러 가고 싶어요=Saya ingin pergi dan menonton pertandingan
+
+# --- 대화 84: 치과 (2026-11-20) ---
+치과 예약하고 싶어요=Saya ingin membuat janji dengan dokter gigi
+찬 거 마시면 이가 시려요=Gigi saya sensitif ketika saya minum sesuatu yang dingin
+잇몸에서 피가 나요=Gusi saya berdarah
+스케일링 받고 싶어요=Saya ingin melakukan scaling gigi untuk menghilangkan karang gigi pada gigi saya
+충치가 있어요=Apakah saya mengalami kerusakan gigi?
+사랑니 뽑아야 돼요=Apakah saya perlu mencabut gigi bungsu saya?
+마취해 주세요=Tolong beri saya suntikan anestesi lokal
+떼운 게 빠졌어요=Tambalan gigi saya sudah tanggal
+치료 몇 번 받아야 돼요=Berapa kali lagi saya harus datang untuk perawatan ini?
+입을 크게 벌려 주세요=Tolong buka mulutmu lebar-lebar
+양치질 어떻게 해야 돼요=Bagaimana saya harus menyikat gigi?

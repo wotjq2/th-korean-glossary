@@ -23557,3 +23557,16 @@ IT 쪽에서 일해요=Pracuję w IT
 너무 힘들어서 쉬고 싶어요=To zbyt trudne, więc chcę odpocząć
 발차기 다시 보여 주세요=Proszę, pokaż mi jeszcze raz kopnięcie
 경기 보러 가고 싶어요=Chcę pojechać i obejrzeć mecz
+
+# --- 대화 84: 치과 (2026-11-20) ---
+치과 예약하고 싶어요=Chciałbym umówić się na wizytę u dentysty
+찬 거 마시면 이가 시려요=Moje zęby są wrażliwe, gdy piję coś zimnego
+잇몸에서 피가 나요=Moje dziąsła krwawią
+스케일링 받고 싶어요=Chciałabym wykonać skaling stomatologiczny w celu usunięcia kamienia nazębnego
+충치가 있어요=Czy mam próchnicę zębów?
+사랑니 뽑아야 돼요=Czy muszę usunąć ząb mądrości?
+마취해 주세요=Proszę dać mi zastrzyk ze znieczuleniem miejscowym
+떼운 게 빠졌어요=Wypadło mi wypełnienie z zęba
+치료 몇 번 받아야 돼요=Ile jeszcze razy muszę przychodzić na ten zabieg?
+입을 크게 벌려 주세요=Proszę otworzyć szeroko usta
+양치질 어떻게 해야 돼요=Jak powinienem myć zęby?

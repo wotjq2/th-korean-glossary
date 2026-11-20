@@ -7421,3 +7421,16 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 너무 힘들어서 쉬고 싶어요=Masyadong mahirap kaya gusto ko munang magpahinga
 발차기 다시 보여 주세요=Mangyaring ipakita sa akin muli ang sipa
 경기 보러 가고 싶어요=Gusto kong pumunta at manood ng laban
+
+# --- 대화 84: 치과 (2026-11-20) ---
+치과 예약하고 싶어요=Gusto kong gumawa ng appointment sa dentista
+찬 거 마시면 이가 시려요=Ang aking mga ngipin ay sensitibo kapag umiinom ako ng malamig
+잇몸에서 피가 나요=Dumudugo ang gilagid ko
+스케일링 받고 싶어요=Gusto ko ng dental scaling para tanggalin ang tartar sa ngipin ko
+충치가 있어요=Mayroon ba akong anumang pagkabulok ng ngipin?
+사랑니 뽑아야 돼요=Kailangan ko bang bunutin ang wisdom tooth ko?
+마취해 주세요=Pakibigyan ako ng local anesthetic injection
+떼운 게 빠졌어요=Nalaglag ang laman ng ngipin ko
+치료 몇 번 받아야 돼요=Ilang beses ko pa ba kailangang pumunta para sa paggamot na ito?
+입을 크게 벌려 주세요=Mangyaring buksan ang iyong bibig
+양치질 어떻게 해야 돼요=Paano ako magsipilyo ng aking ngipin?
