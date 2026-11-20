@@ -52569,3 +52569,17 @@ IT 쪽에서 일해요=I work in IT
 안약 있어요=Do you have eye drops?
 생리통 약 있어요=Do you have medicine for menstrual cramps?
 물약으로 주세요=Please give me liquid medicine
+
+# --- 대화 73: 노래방 (2026-11-20) ---
+마이크가 안 돼요=The microphone is not working
+마이크 하나 더 주세요=Please give us one more microphone
+시간 연장해 주세요=Please extend our time in the room
+한국 노래도 있어요=Do you have Korean songs too?
+노래 번호 뭐야=What number do I enter for that song?
+네가 먼저 불러=You sing first
+같이 부르자=Let's sing together
+한 곡 더 부르자=Let's sing one more song
+이 노래 진짜 좋아해=I really love this song
+음이 너무 높아=The notes of this song are too high for me
+점수 잘 나왔다=I got a good score
+목이 쉬었어=My voice has gone hoarse

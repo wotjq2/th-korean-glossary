@@ -11277,3 +11277,17 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 안약 있어요=Adakah anda mempunyai ubat titis mata?
 생리통 약 있어요=Adakah anda mempunyai ubat untuk senggugut?
 물약으로 주세요=Tolong beri saya ubat cair
+
+# --- 대화 73: 노래방 (2026-11-20) ---
+마이크가 안 돼요=Mikrofon tidak berfungsi
+마이크 하나 더 주세요=Tolong beri kami satu lagi mikrofon
+시간 연장해 주세요=Tolong panjangkan masa kami di dalam bilik
+한국 노래도 있어요=Adakah anda mempunyai lagu Korea juga?
+노래 번호 뭐야=Apakah nombor yang saya masukkan untuk lagu itu?
+네가 먼저 불러=Awak nyanyi dulu
+같이 부르자=Mari kita menyanyi bersama
+한 곡 더 부르자=Jom nyanyi satu lagu lagi
+이 노래 진짜 좋아해=Saya sangat suka lagu ini
+음이 너무 높아=Nota lagu ini terlalu tinggi untuk saya
+점수 잘 나왔다=Saya mendapat markah yang baik
+목이 쉬었어=Suara saya sudah serak

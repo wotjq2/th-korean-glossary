@@ -20553,3 +20553,17 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 안약 있어요=Hai del collirio?
 생리통 약 있어요=Hai delle medicine per i crampi mestruali?
 물약으로 주세요=Per favore, dammi una medicina liquida
+
+# --- 대화 73: 노래방 (2026-11-20) ---
+마이크가 안 돼요=Il microfono non funziona
+마이크 하나 더 주세요=Per favore, dateci un altro microfono
+시간 연장해 주세요=Per favore, prolunga il nostro tempo nella stanza
+한국 노래도 있어요=Hai anche canzoni coreane?
+노래 번호 뭐야=Che numero devo inserire per quella canzone?
+네가 먼저 불러=Canta tu per primo
+같이 부르자=Cantiamo insieme
+한 곡 더 부르자=Cantiamo un'altra canzone
+이 노래 진짜 좋아해=Adoro questa canzone
+음이 너무 높아=Le note di questa canzone sono troppo alte per me
+점수 잘 나왔다=Ho ottenuto un buon punteggio
+목이 쉬었어=La mia voce è diventata rauca

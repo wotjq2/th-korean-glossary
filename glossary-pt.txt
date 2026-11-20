@@ -22401,3 +22401,17 @@ IT 쪽에서 일해요=Eu trabalho em TI
 안약 있어요=Você tem colírio?
 생리통 약 있어요=Você tem remédio para cólicas menstruais?
 물약으로 주세요=Por favor, me dê remédio líquido
+
+# --- 대화 73: 노래방 (2026-11-20) ---
+마이크가 안 돼요=O microfone não está funcionando
+마이크 하나 더 주세요=Por favor, nos dê mais um microfone
+시간 연장해 주세요=Por favor, estenda nosso tempo no quarto
+한국 노래도 있어요=Você também tem músicas coreanas?
+노래 번호 뭐야=Que número devo inserir para essa música?
+네가 먼저 불러=Você canta primeiro
+같이 부르자=Vamos cantar juntos
+한 곡 더 부르자=Vamos cantar mais uma música
+이 노래 진짜 좋아해=Eu realmente amo essa música
+음이 너무 높아=As notas dessa música são muito altas para mim
+점수 잘 나왔다=Eu consegui uma boa pontuação
+목이 쉬었어=Minha voz ficou rouca

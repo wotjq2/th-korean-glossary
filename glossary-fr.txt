@@ -47822,3 +47822,17 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 안약 있어요=Avez-vous des gouttes pour les yeux ?
 생리통 약 있어요=Avez-vous des médicaments contre les crampes menstruelles ?
 물약으로 주세요=S'il vous plaît, donnez-moi des médicaments liquides
+
+# --- 대화 73: 노래방 (2026-11-20) ---
+마이크가 안 돼요=Le micro ne fonctionne pas
+마이크 하나 더 주세요=S'il vous plaît, donnez-nous un microphone supplémentaire
+시간 연장해 주세요=S'il vous plaît prolonger notre temps dans la salle
+한국 노래도 있어요=Avez-vous aussi des chansons coréennes ?
+노래 번호 뭐야=Quel numéro dois-je saisir pour cette chanson ?
+네가 먼저 불러=Tu chantes en premier
+같이 부르자=Chantons ensemble
+한 곡 더 부르자=Chantons encore une chanson
+이 노래 진짜 좋아해=J'aime vraiment cette chanson
+음이 너무 높아=Les notes de cette chanson sont trop hautes pour moi
+점수 잘 나왔다=j'ai eu un bon score
+목이 쉬었어=Ma voix est devenue rauque

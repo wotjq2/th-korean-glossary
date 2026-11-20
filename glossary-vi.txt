@@ -41203,3 +41203,17 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 안약 있어요=Bạn có thuốc nhỏ mắt không?
 생리통 약 있어요=Bạn có thuốc trị đau bụng kinh không?
 물약으로 주세요=Xin vui lòng cho tôi thuốc lỏng
+
+# --- 대화 73: 노래방 (2026-11-20) ---
+마이크가 안 돼요=Micrô không hoạt động
+마이크 하나 더 주세요=Vui lòng cho chúng tôi thêm một micro nữa
+시간 연장해 주세요=Vui lòng kéo dài thời gian của chúng tôi trong phòng
+한국 노래도 있어요=Bạn cũng có bài hát tiếng Hàn à?
+노래 번호 뭐야=Tôi nhập số nào cho bài hát đó?
+네가 먼저 불러=Bạn hát trước đi
+같이 부르자=Hãy cùng nhau hát
+한 곡 더 부르자=Hãy hát thêm một bài nữa
+이 노래 진짜 좋아해=Tôi thực sự yêu thích bài hát này
+음이 너무 높아=Các nốt của bài hát này quá cao đối với tôi
+점수 잘 나왔다=Tôi được điểm tốt
+목이 쉬었어=Giọng tôi đã khàn đi

@@ -7278,3 +7278,17 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 안약 있어요=May eye drops ka ba?
 생리통 약 있어요=May gamot ka ba sa menstrual cramps?
 물약으로 주세요=Pakibigyan ako ng likidong gamot
+
+# --- 대화 73: 노래방 (2026-11-20) ---
+마이크가 안 돼요=Hindi gumagana ang mikropono
+마이크 하나 더 주세요=Mangyaring bigyan kami ng isa pang mikropono
+시간 연장해 주세요=Paki-extend ang oras namin sa room
+한국 노래도 있어요=May Korean songs ka rin ba?
+노래 번호 뭐야=Anong numero ang ilalagay ko para sa kantang iyon?
+네가 먼저 불러=Kanta ka muna
+같이 부르자=Sabay tayong kumanta
+한 곡 더 부르자=Kanta pa tayo ng isa pang kanta
+이 노래 진짜 좋아해=I really love this song
+음이 너무 높아=Masyadong mataas ang mga nota ng kantang ito para sa akin
+점수 잘 나왔다=Nakakuha ako ng magandang marka
+목이 쉬었어=Namamaos na ang boses ko

@@ -38427,3 +38427,17 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 안약 있어요=Apakah Anda punya obat tetes mata?
 생리통 약 있어요=Apakah Anda punya obat untuk kram menstruasi?
 물약으로 주세요=Tolong beri saya obat cair
+
+# --- 대화 73: 노래방 (2026-11-20) ---
+마이크가 안 돼요=Mikrofon tidak berfungsi
+마이크 하나 더 주세요=Tolong beri kami satu mikrofon lagi
+시간 연장해 주세요=Tolong perpanjang waktu kami di kamar
+한국 노래도 있어요=Apakah kamu juga punya lagu Korea?
+노래 번호 뭐야=Nomor berapa yang saya masukkan untuk lagu itu?
+네가 먼저 불러=Kamu bernyanyi dulu
+같이 부르자=Ayo bernyanyi bersama
+한 곡 더 부르자=Ayo nyanyikan satu lagu lagi
+이 노래 진짜 좋아해=Saya sangat menyukai lagu ini
+음이 너무 높아=Nada lagu ini terlalu tinggi bagi saya
+점수 잘 나왔다=Saya mendapat nilai bagus
+목이 쉬었어=Suaraku menjadi serak

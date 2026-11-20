@@ -17525,3 +17525,17 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 안약 있어요=Göz damlanız var mı?
 생리통 약 있어요=Regl krampları için ilacın var mı?
 물약으로 주세요=Lütfen bana sıvı ilaç ver
+
+# --- 대화 73: 노래방 (2026-11-20) ---
+마이크가 안 돼요=Mikrofon çalışmıyor
+마이크 하나 더 주세요=Lütfen bize bir mikrofon daha verin
+시간 연장해 주세요=Lütfen odadaki süremizi uzatın
+한국 노래도 있어요=Sizin de Kore şarkılarınız var mı?
+노래 번호 뭐야=Bu şarkı için hangi sayıyı girmeliyim?
+네가 먼저 불러=İlk önce sen şarkı söyle
+같이 부르자=Hadi birlikte şarkı söyleyelim
+한 곡 더 부르자=Hadi bir şarkı daha söyleyelim
+이 노래 진짜 좋아해=Bu şarkıyı gerçekten çok seviyorum
+음이 너무 높아=Bu şarkının notaları benim için çok yüksek
+점수 잘 나왔다=İyi bir puan aldım
+목이 쉬었어=sesim kısıldı
