@@ -17848,3 +17848,15 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 수선비 얼마예요=Bu kıyafetleri tamir etmenin maliyeti ne kadar?
 입어 보고 가도 돼요=Ayrılmadan önce kıyafetleri deneyebilir miyim?
 언제 다 돼요=Ne zaman hazır olacak?
+
+# --- 대화 100: 임신·출산 (2026-11-21) ---
+예정일이 언제예요=Bebeğiniz ne zaman doğacak?
+입덧이 심해요=Kötü sabah bulantılarım var
+산부인과 어디예요=Kadın hastalıkları ve doğum kliniği nerede?
+정기 검진 받으러 왔어요=Düzenli hamilelik kontrolüm için geldim
+아기 성별 알 수 있어요=Bebeğin cinsiyetini öğrenebilir miyim?
+진통이 시작됐어요=Doğum sancılarım başladı
+양수가 터졌어요=Amniyotik sıvım sızıyor
+자연분만 하고 싶어요=Doğal doğum yapmak istiyorum
+모유 수유 하고 있어요=bebeğimi emziriyorum
+순산하세요=Umarım sorunsuz ve sorunsuz bir doğum geçirirsiniz

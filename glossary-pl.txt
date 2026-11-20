@@ -23737,3 +23737,15 @@ IT 쪽에서 일해요=Pracuję w IT
 수선비 얼마예요=Ile kosztuje naprawa tych ubrań?
 입어 보고 가도 돼요=Czy mogę przymierzyć ubranie przed wyjściem?
 언제 다 돼요=Kiedy będzie gotowy?
+
+# --- 대화 100: 임신·출산 (2026-11-21) ---
+예정일이 언제예요=Kiedy rodzi się Twoje dziecko?
+입덧이 심해요=Mam poranne mdłości
+산부인과 어디예요=Gdzie jest poradnia położniczo-ginekologiczna?
+정기 검진 받으러 왔어요=Przyszłam na regularne badanie kontrolne w czasie ciąży
+아기 성별 알 수 있어요=Czy mogę poznać płeć dziecka?
+진통이 시작됐어요=Zaczęły się moje bóle porodowe
+양수가 터졌어요=Wycieka mi płyn owodniowy
+자연분만 하고 싶어요=Chcę urodzić naturalnie
+모유 수유 하고 있어요=Karmię piersią moje dziecko
+순산하세요=Mam nadzieję, że będziesz mieć bezpieczny i łatwy poród

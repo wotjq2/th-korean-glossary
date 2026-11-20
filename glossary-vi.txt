@@ -41526,3 +41526,15 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 수선비 얼마예요=Chi phí để sửa những bộ quần áo này là bao nhiêu?
 입어 보고 가도 돼요=Tôi có thể thử quần áo trước khi rời đi không?
 언제 다 돼요=Khi nào nó sẽ sẵn sàng?
+
+# --- 대화 100: 임신·출산 (2026-11-21) ---
+예정일이 언제예요=Khi nào em bé của bạn dự sinh?
+입덧이 심해요=Tôi bị ốm nghén nặng
+산부인과 어디예요=Phòng khám sản phụ khoa ở đâu?
+정기 검진 받으러 왔어요=Tôi đến khám thai định kỳ
+아기 성별 알 수 있어요=Tôi có thể biết được giới tính của em bé không?
+진통이 시작됐어요=Cơn đau chuyển dạ của tôi đã bắt đầu
+양수가 터졌어요=Nước ối của tôi bị rò rỉ
+자연분만 하고 싶어요=Tôi muốn sinh thường
+모유 수유 하고 있어요=Tôi đang cho con bú
+순산하세요=Chúc bạn sinh con an toàn và dễ dàng

@@ -11600,3 +11600,15 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 수선비 얼마예요=Berapakah kos untuk membaiki pakaian ini?
 입어 보고 가도 돼요=Bolehkah saya mencuba pakaian itu sebelum saya pergi?
 언제 다 돼요=Bilakah ia akan siap?
+
+# --- 대화 100: 임신·출산 (2026-11-21) ---
+예정일이 언제예요=Bilakah bayi anda akan lahir?
+입덧이 심해요=Saya mengalami mual pagi yang teruk
+산부인과 어디예요=Dimanakah lokasi klinik obstetrik dan ginekologi?
+정기 검진 받으러 왔어요=Saya datang untuk pemeriksaan kehamilan biasa saya
+아기 성별 알 수 있어요=Bolehkah saya mengetahui jantina bayi tersebut?
+진통이 시작됐어요=Sakit bersalin saya sudah bermula
+양수가 터졌어요=Air ketuban saya bocor
+자연분만 하고 싶어요=Saya ingin melahirkan secara semula jadi
+모유 수유 하고 있어요=Saya sedang menyusukan bayi saya
+순산하세요=Semoga selamat bersalin dan dipermudahkan

@@ -7599,3 +7599,15 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 수선비 얼마예요=Magkano ang gastos sa pag-aayos ng mga damit na ito?
 입어 보고 가도 돼요=Maaari ko bang subukan ang mga damit bago ako umalis?
 언제 다 돼요=Kailan ito magiging handa?
+
+# --- 대화 100: 임신·출산 (2026-11-21) ---
+예정일이 언제예요=Kailan ang iyong sanggol?
+입덧이 심해요=Mayroon akong masamang morning sickness
+산부인과 어디예요=Saan matatagpuan ang lokasyon ng obstetrics and gynecology clinic?
+정기 검진 받으러 왔어요=Dumating ako para sa aking regular na pagsusuri sa pagbubuntis
+아기 성별 알 수 있어요=Maaari ko bang malaman ang kasarian ng sanggol?
+진통이 시작됐어요=Nagsimula na ang mga sakit ng panganganak ko
+양수가 터졌어요=Tumutulo ang amniotic fluid ko
+자연분만 하고 싶어요=Gusto kong magkaroon ng natural na panganganak
+모유 수유 하고 있어요=Pinapapasuso ko ang aking sanggol
+순산하세요=Sana ay magkaroon ka ng ligtas at madaling panganganak

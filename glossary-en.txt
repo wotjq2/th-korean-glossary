@@ -52892,3 +52892,15 @@ IT 쪽에서 일해요=I work in IT
 수선비 얼마예요=How much does it cost to repair these clothes?
 입어 보고 가도 돼요=Can I try the clothes on before I leave?
 언제 다 돼요=When will it be ready?
+
+# --- 대화 100: 임신·출산 (2026-11-21) ---
+예정일이 언제예요=When is your baby due?
+입덧이 심해요=I have bad morning sickness
+산부인과 어디예요=Where is the obstetrics and gynecology clinic?
+정기 검진 받으러 왔어요=I came for my regular pregnancy checkup
+아기 성별 알 수 있어요=Can I find out the sex of the baby?
+진통이 시작됐어요=My labor pains have started
+양수가 터졌어요=My amniotic fluid is leaking
+자연분만 하고 싶어요=I want to have a natural birth
+모유 수유 하고 있어요=I am breastfeeding my baby
+순산하세요=I hope you have a safe and easy childbirth

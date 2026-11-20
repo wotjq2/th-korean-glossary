@@ -48145,3 +48145,15 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 수선비 얼마예요=Combien coûte la réparation de ces vêtements ?
 입어 보고 가도 돼요=Puis-je essayer les vêtements avant de partir ?
 언제 다 돼요=Quand sera-t-il prêt ?
+
+# --- 대화 100: 임신·출산 (2026-11-21) ---
+예정일이 언제예요=Quand votre bébé doit-il accoucher ?
+입덧이 심해요=J'ai de fortes nausées matinales
+산부인과 어디예요=Où se trouve la clinique d'obstétrique et de gynécologie ?
+정기 검진 받으러 왔어요=Je suis venue pour mon examen de grossesse régulier
+아기 성별 알 수 있어요=Puis-je connaître le sexe du bébé ?
+진통이 시작됐어요=Mes douleurs de travail ont commencé
+양수가 터졌어요=Mon liquide amniotique fuit
+자연분만 하고 싶어요=Je veux avoir un accouchement naturel
+모유 수유 하고 있어요=J'allaite mon bébé
+순산하세요=J'espère que vous aurez un accouchement sûr et facile

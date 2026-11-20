@@ -22724,3 +22724,15 @@ IT 쪽에서 일해요=Eu trabalho em TI
 수선비 얼마예요=Quanto custa consertar essas roupas?
 입어 보고 가도 돼요=Posso experimentar as roupas antes de sair?
 언제 다 돼요=Quando estará pronto?
+
+# --- 대화 100: 임신·출산 (2026-11-21) ---
+예정일이 언제예요=Quando é o nascimento do seu bebê?
+입덧이 심해요=Estou com um forte enjôo matinal
+산부인과 어디예요=Onde fica a clínica de obstetrícia e ginecologia?
+정기 검진 받으러 왔어요=Eu vim para meu exame regular de gravidez
+아기 성별 알 수 있어요=Posso descobrir o sexo do bebê?
+진통이 시작됐어요=Minhas dores de parto começaram
+양수가 터졌어요=Meu líquido amniótico está vazando
+자연분만 하고 싶어요=Eu quero ter um parto natural
+모유 수유 하고 있어요=Estou amamentando meu bebê
+순산하세요=Espero que você tenha um parto seguro e fácil
