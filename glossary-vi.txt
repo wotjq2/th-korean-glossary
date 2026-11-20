@@ -41515,3 +41515,14 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 야근이 많은 편이에요=Nhân viên có thường xuyên phải làm thêm giờ vào ban đêm không?
 결과는 언제 알 수 있어요=Khi nào tôi sẽ biết kết quả?
 합격 연락 받았어요=Tôi nhận được một cuộc gọi thông báo rằng tôi đã đậu
+
+# --- 대화 99: 옷 수선 (2026-11-20) ---
+바지 기장 줄여 주세요=Hãy rút ngắn chiều dài của chiếc quần này
+허리 좀 줄여 주세요=Vui lòng làm cho eo của chiếc quần này nhỏ hơn một chút
+소매 좀 짧게 해 주세요=Hãy làm cho tay áo ngắn hơn một chút
+단추가 떨어졌어요=Một chiếc cúc rơi khỏi áo tôi
+지퍼가 고장 났어요=Dây kéo bị hỏng
+여기 찢어졌어요=Vải ở đây bị rách
+수선비 얼마예요=Chi phí để sửa những bộ quần áo này là bao nhiêu?
+입어 보고 가도 돼요=Tôi có thể thử quần áo trước khi rời đi không?
+언제 다 돼요=Khi nào nó sẽ sẵn sàng?

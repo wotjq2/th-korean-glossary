@@ -24774,3 +24774,14 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 야근이 많은 편이에요=Müssen Mitarbeiter nachts oft Überstunden machen?
 결과는 언제 알 수 있어요=Wann erfahre ich die Ergebnisse?
 합격 연락 받았어요=Ich erhielt einen Anruf, der mir mitteilte, dass ich bestanden habe
+
+# --- 대화 99: 옷 수선 (2026-11-20) ---
+바지 기장 줄여 주세요=Bitte kürzen Sie die Länge dieser Hose
+허리 좀 줄여 주세요=Bitte machen Sie die Taille dieser Hose etwas kleiner
+소매 좀 짧게 해 주세요=Bitte machen Sie die Ärmel etwas kürzer
+단추가 떨어졌어요=Ein Knopf fiel von meinem Hemd
+지퍼가 고장 났어요=Der Reißverschluss ist kaputt
+여기 찢어졌어요=Hier ist der Stoff gerissen
+수선비 얼마예요=Wie viel kostet die Reparatur dieser Kleidung?
+입어 보고 가도 돼요=Kann ich die Kleidung vor meiner Abreise anprobieren?
+언제 다 돼요=Wann wird es fertig sein?

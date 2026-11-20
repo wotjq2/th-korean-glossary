@@ -11589,3 +11589,14 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 야근이 많은 편이에요=Adakah pekerja sering terpaksa bekerja lebih masa pada waktu malam?
 결과는 언제 알 수 있어요=Bilakah saya akan tahu keputusannya?
 합격 연락 받았어요=Saya mendapat panggilan memberitahu saya bahawa saya lulus
+
+# --- 대화 99: 옷 수선 (2026-11-20) ---
+바지 기장 줄여 주세요=Sila pendekkan panjang seluar ini
+허리 좀 줄여 주세요=Sila kecilkan sedikit pinggang seluar ini
+소매 좀 짧게 해 주세요=Sila buat lengan pendek sedikit
+단추가 떨어졌어요=Satu butang jatuh dari baju saya
+지퍼가 고장 났어요=Zip rosak
+여기 찢어졌어요=Kain koyak di sini
+수선비 얼마예요=Berapakah kos untuk membaiki pakaian ini?
+입어 보고 가도 돼요=Bolehkah saya mencuba pakaian itu sebelum saya pergi?
+언제 다 돼요=Bilakah ia akan siap?

@@ -7588,3 +7588,14 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 야근이 많은 편이에요=Madalas bang kailangang mag-overtime sa gabi ang mga empleyado?
 결과는 언제 알 수 있어요=Kailan ko malalaman ang mga resulta?
 합격 연락 받았어요=Nakatanggap ako ng tawag na nagsasabing pumasa ako
+
+# --- 대화 99: 옷 수선 (2026-11-20) ---
+바지 기장 줄여 주세요=Mangyaring paikliin ang haba ng mga pantalong ito
+허리 좀 줄여 주세요=Mangyaring gawing mas maliit ang baywang ng pantalong ito
+소매 좀 짧게 해 주세요=Mangyaring gawing mas maikli ng kaunti ang mga manggas
+단추가 떨어졌어요=May nahulog na butones sa shirt ko
+지퍼가 고장 났어요=Sira ang zipper
+여기 찢어졌어요=Punit ang tela dito
+수선비 얼마예요=Magkano ang gastos sa pag-aayos ng mga damit na ito?
+입어 보고 가도 돼요=Maaari ko bang subukan ang mga damit bago ako umalis?
+언제 다 돼요=Kailan ito magiging handa?

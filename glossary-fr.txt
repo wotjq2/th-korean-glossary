@@ -48134,3 +48134,14 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 야근이 많은 편이에요=Les salariés doivent-ils souvent effectuer des heures supplémentaires la nuit ?
 결과는 언제 알 수 있어요=Quand connaîtrai-je les résultats ?
 합격 연락 받았어요=J'ai reçu un appel me disant que j'avais réussi
+
+# --- 대화 99: 옷 수선 (2026-11-20) ---
+바지 기장 줄여 주세요=Veuillez raccourcir la longueur de ce pantalon
+허리 좀 줄여 주세요=Veuillez réduire un peu la taille de ce pantalon.
+소매 좀 짧게 해 주세요=Veuillez raccourcir un peu les manches
+단추가 떨어졌어요=Un bouton est tombé de ma chemise
+지퍼가 고장 났어요=La fermeture éclair est cassée
+여기 찢어졌어요=Le tissu est déchiré ici
+수선비 얼마예요=Combien coûte la réparation de ces vêtements ?
+입어 보고 가도 돼요=Puis-je essayer les vêtements avant de partir ?
+언제 다 돼요=Quand sera-t-il prêt ?

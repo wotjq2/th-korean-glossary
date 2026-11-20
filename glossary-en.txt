@@ -52881,3 +52881,14 @@ IT 쪽에서 일해요=I work in IT
 야근이 많은 편이에요=Do employees often have to work overtime at night?
 결과는 언제 알 수 있어요=When will I know the results?
 합격 연락 받았어요=I got a call telling me that I passed
+
+# --- 대화 99: 옷 수선 (2026-11-20) ---
+바지 기장 줄여 주세요=Please shorten the length of these pants
+허리 좀 줄여 주세요=Please make the waist of these pants a little smaller
+소매 좀 짧게 해 주세요=Please make the sleeves a little shorter
+단추가 떨어졌어요=A button fell off my shirt
+지퍼가 고장 났어요=The zipper is broken
+여기 찢어졌어요=The fabric is torn here
+수선비 얼마예요=How much does it cost to repair these clothes?
+입어 보고 가도 돼요=Can I try the clothes on before I leave?
+언제 다 돼요=When will it be ready?

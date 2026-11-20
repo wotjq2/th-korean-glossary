@@ -17837,3 +17837,14 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 야근이 많은 편이에요=Çalışanlar sıklıkla geceleri fazla mesai yapmak zorunda mı kalıyor?
 결과는 언제 알 수 있어요=Sonuçları ne zaman öğreneceğim?
 합격 연락 받았어요=Bana geçtiğimi söyleyen bir telefon aldım
+
+# --- 대화 99: 옷 수선 (2026-11-20) ---
+바지 기장 줄여 주세요=Lütfen bu pantolonun uzunluğunu kısaltın
+허리 좀 줄여 주세요=Lütfen bu pantolonun belini biraz daha küçük yapın
+소매 좀 짧게 해 주세요=Lütfen kolları biraz daha kısa yapın
+단추가 떨어졌어요=Gömleğimin düğmesi düştü
+지퍼가 고장 났어요=Fermuar kırık
+여기 찢어졌어요=Kumaş burada yırtılmış
+수선비 얼마예요=Bu kıyafetleri tamir etmenin maliyeti ne kadar?
+입어 보고 가도 돼요=Ayrılmadan önce kıyafetleri deneyebilir miyim?
+언제 다 돼요=Ne zaman hazır olacak?

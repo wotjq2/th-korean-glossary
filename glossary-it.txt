@@ -20865,3 +20865,14 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 야근이 많은 편이에요=I dipendenti devono spesso fare straordinari di notte?
 결과는 언제 알 수 있어요=Quando conoscerò i risultati?
 합격 연락 받았어요=Ho ricevuto una chiamata che mi diceva che ero passato
+
+# --- 대화 99: 옷 수선 (2026-11-20) ---
+바지 기장 줄여 주세요=Si prega di accorciare la lunghezza di questi pantaloni
+허리 좀 줄여 주세요=Per favore, riduci leggermente la vita di questi pantaloni
+소매 좀 짧게 해 주세요=Per favore, accorciate leggermente le maniche
+단추가 떨어졌어요=Mi è caduto un bottone dalla camicia
+지퍼가 고장 났어요=La cerniera è rotta
+여기 찢어졌어요=Il tessuto è strappato qui
+수선비 얼마예요=Quanto costa riparare questi vestiti?
+입어 보고 가도 돼요=Posso provare i vestiti prima di partire?
+언제 다 돼요=Quando sarà pronto?

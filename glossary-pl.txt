@@ -23726,3 +23726,14 @@ IT 쪽에서 일해요=Pracuję w IT
 야근이 많은 편이에요=Czy pracownicy często muszą pracować w godzinach nadliczbowych w porze nocnej?
 결과는 언제 알 수 있어요=Kiedy poznam wyniki?
 합격 연락 받았어요=Dostałem telefon z informacją, że zdałem
+
+# --- 대화 99: 옷 수선 (2026-11-20) ---
+바지 기장 줄여 주세요=Proszę skrócić długość tych spodni
+허리 좀 줄여 주세요=Proszę zmniejszyć talię tych spodni
+소매 좀 짧게 해 주세요=Proszę skrócić rękawy
+단추가 떨어졌어요=Guzik spadł z mojej koszuli
+지퍼가 고장 났어요=Zamek błyskawiczny jest zepsuty
+여기 찢어졌어요=Tkanina jest tutaj rozdarta
+수선비 얼마예요=Ile kosztuje naprawa tych ubrań?
+입어 보고 가도 돼요=Czy mogę przymierzyć ubranie przed wyjściem?
+언제 다 돼요=Kiedy będzie gotowy?
