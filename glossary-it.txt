@@ -20843,3 +20843,14 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 화장실 써도 돼=Posso usare il tuo bagno?
 음식 진짜 맛있다 네가 다 했어=Il cibo è davvero buono, hai preparato tutto?
 늦었다 이제 가 볼게=Si sta facendo tardi, dovrei andare
+
+# --- 대화 97: 생일 파티 (2026-11-20) ---
+내일 내 생일이야=Domani è il mio compleanno
+생일 파티 할 거야=Sto per fare una festa di compleanno
+촛불 꺼=Spegni le candeline
+소원 빌어=Esprimere un desiderio
+무슨 소원 빌었어=Che desiderio hai espresso?
+케이크 자르자=Tagliamo la torta
+생일 축하 노래 불러 주자=Cantiamo buon compleanno
+선물 마음에 들어=Ti piace il presente?
+최고의 생일이었어=È stato il miglior compleanno di sempre

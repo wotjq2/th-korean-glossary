@@ -17815,3 +17815,14 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 화장실 써도 돼=Banyonuzu kullanabilir miyim?
 음식 진짜 맛있다 네가 다 했어=Yemekler gerçekten çok güzel, hepsini sen mi yaptın?
 늦었다 이제 가 볼게=Geç oldu, gitmeliyim
+
+# --- 대화 97: 생일 파티 (2026-11-20) ---
+내일 내 생일이야=Yarın benim doğum günüm
+생일 파티 할 거야=Doğum günü partisi yapacağım
+촛불 꺼=Mumları üfle
+소원 빌어=Bir dilek tut
+무슨 소원 빌었어=Hangi dilek tuttun?
+케이크 자르자=Hadi pastayı keselim
+생일 축하 노래 불러 주자=Hadi doğum günün kutlu olsun şarkısını söyleyelim
+선물 마음에 들어=Hediyeyi beğendin mi?
+최고의 생일이었어=Şimdiye kadarki en iyi doğum günüydü

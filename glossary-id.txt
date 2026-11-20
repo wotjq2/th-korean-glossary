@@ -38717,3 +38717,13 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 화장실 써도 돼=Bolehkah aku menggunakan kamar mandimu?
 음식 진짜 맛있다 네가 다 했어=Makanannya sangat enak, apakah kamu membuat semuanya?
 늦었다 이제 가 볼게=Ini sudah larut, aku harus segera berangkat
+
+# --- 대화 97: 생일 파티 (2026-11-20) ---
+내일 내 생일이야=Besok adalah hari ulang tahunku
+생일 파티 할 거야=Saya akan mengadakan pesta ulang tahun
+촛불 꺼=Tiup lilinnya
+소원 빌어=Buatlah sebuah keinginan
+케이크 자르자=Ayo potong kuenya
+생일 축하 노래 불러 주자=Mari kita bernyanyi selamat ulang tahun
+선물 마음에 들어=Apakah kamu menyukai masa kini?
+최고의 생일이었어=Itu adalah ulang tahun terbaik yang pernah ada

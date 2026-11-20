@@ -11567,3 +11567,14 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 화장실 써도 돼=Bolehkah saya menggunakan bilik air anda?
 음식 진짜 맛있다 네가 다 했어=Makanannya sangat sedap, adakah anda membuat semuanya?
 늦었다 이제 가 볼게=Hari sudah lewat, saya patut pergi
+
+# --- 대화 97: 생일 파티 (2026-11-20) ---
+내일 내 생일이야=Esok hari jadi saya
+생일 파티 할 거야=Saya akan mengadakan majlis hari jadi
+촛불 꺼=Tiup lilin
+소원 빌어=Buat hajat
+무슨 소원 빌었어=Apakah keinginan yang anda buat?
+케이크 자르자=Jom potong kek
+생일 축하 노래 불러 주자=Jom nyanyi selamat hari jadi
+선물 마음에 들어=Adakah anda suka hadiah?
+최고의 생일이었어=Ia adalah hari lahir yang terbaik

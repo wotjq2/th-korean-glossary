@@ -48330,3 +48330,14 @@ IT 쪽에서 일해요=yo trabajo en TI
 화장실 써도 돼=¿Puedo usar tu baño?
 음식 진짜 맛있다 네가 다 했어=La comida es muy buena, ¿la hiciste toda?
 늦었다 이제 가 볼게=Se hace tarde, debería irme.
+
+# --- 대화 97: 생일 파티 (2026-11-20) ---
+내일 내 생일이야=mañana es mi cumpleaños
+생일 파티 할 거야=voy a tener una fiesta de cumpleaños
+촛불 꺼=apaga las velas
+소원 빌어=pide un deseo
+무슨 소원 빌었어=¿Qué deseo pediste?
+케이크 자르자=vamos a cortar el pastel
+생일 축하 노래 불러 주자=cantemos feliz cumpleaños
+선물 마음에 들어=¿Te gusta el presente?
+최고의 생일이었어=Fue el mejor cumpleaños de todos.

@@ -52859,3 +52859,14 @@ IT 쪽에서 일해요=I work in IT
 화장실 써도 돼=Can I use your bathroom?
 음식 진짜 맛있다 네가 다 했어=The food is really good, did you make it all?
 늦었다 이제 가 볼게=It is getting late, I should get going
+
+# --- 대화 97: 생일 파티 (2026-11-20) ---
+내일 내 생일이야=Tomorrow is my birthday
+생일 파티 할 거야=I am going to have a birthday party
+촛불 꺼=Blow out the candles
+소원 빌어=Make a wish
+무슨 소원 빌었어=What wish did you make?
+케이크 자르자=Let's cut the cake
+생일 축하 노래 불러 주자=Let's sing happy birthday
+선물 마음에 들어=Do you like the present?
+최고의 생일이었어=It was the best birthday ever

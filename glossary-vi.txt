@@ -41493,3 +41493,14 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 화장실 써도 돼=Tôi có thể sử dụng phòng tắm của bạn được không?
 음식 진짜 맛있다 네가 다 했어=Đồ ăn ngon lắm, bạn làm hết à?
 늦었다 이제 가 볼게=Cũng muộn rồi, tôi phải đi thôi
+
+# --- 대화 97: 생일 파티 (2026-11-20) ---
+내일 내 생일이야=Ngày mai là sinh nhật của tôi
+생일 파티 할 거야=Tôi sắp tổ chức một bữa tiệc sinh nhật
+촛불 꺼=Thổi tắt nến
+소원 빌어=Thực hiện một điều ước
+무슨 소원 빌었어=Bạn đã thực hiện điều ước gì?
+케이크 자르자=Hãy cắt bánh nào
+생일 축하 노래 불러 주자=Hãy hát chúc mừng sinh nhật
+선물 마음에 들어=Bạn có thích hiện tại không?
+최고의 생일이었어=Đó là sinh nhật tuyệt vời nhất từ trước đến nay

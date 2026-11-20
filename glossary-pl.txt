@@ -23704,3 +23704,14 @@ IT 쪽에서 일해요=Pracuję w IT
 화장실 써도 돼=Czy mogę skorzystać z twojej łazienki?
 음식 진짜 맛있다 네가 다 했어=Jedzenie jest naprawdę dobre. Zrobiłeś wszystko?
 늦었다 이제 가 볼게=Robi się późno, muszę już iść
+
+# --- 대화 97: 생일 파티 (2026-11-20) ---
+내일 내 생일이야=Jutro są moje urodziny
+생일 파티 할 거야=Mam zamiar urządzić przyjęcie urodzinowe
+촛불 꺼=Zdmuchnij świece
+소원 빌어=Złóż życzenie
+무슨 소원 빌었어=Jakie życzenie wypowiedziałeś?
+케이크 자르자=Pokrójmy ciasto
+생일 축하 노래 불러 주자=Zaśpiewajmy „Wszystkiego najlepszego”.
+선물 마음에 들어=Czy podoba Ci się teraźniejszość?
+최고의 생일이었어=To były najlepsze urodziny ever

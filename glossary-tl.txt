@@ -7568,3 +7568,12 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 화장실 써도 돼=Maaari ko bang gamitin ang iyong banyo?
 음식 진짜 맛있다 네가 다 했어=Ang sarap talaga ng pagkain, ginawa mo ba lahat?
 늦었다 이제 가 볼게=Gabi na, kailangan ko nang umalis
+
+# --- 대화 97: 생일 파티 (2026-11-20) ---
+내일 내 생일이야=Bukas ay ang aking kaarawan
+생일 파티 할 거야=Magkakaroon ako ng birthday party
+촛불 꺼=Hipan ang mga kandila
+케이크 자르자=Maghiwa tayo ng cake
+생일 축하 노래 불러 주자=Kantahan natin ang happy birthday
+선물 마음에 들어=Gusto mo ba ang kasalukuyan?
+최고의 생일이었어=Ito ang pinakamagandang kaarawan kailanman

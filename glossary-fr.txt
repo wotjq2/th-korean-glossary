@@ -48112,3 +48112,14 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 화장실 써도 돼=Puis-je utiliser votre salle de bain ?
 음식 진짜 맛있다 네가 다 했어=La nourriture est vraiment bonne, avez-vous tout préparé ?
 늦었다 이제 가 볼게=Il se fait tard, je devrais y aller
+
+# --- 대화 97: 생일 파티 (2026-11-20) ---
+내일 내 생일이야=Demain c'est mon anniversaire
+생일 파티 할 거야=je vais organiser une fête d'anniversaire
+촛불 꺼=Soufflez les bougies
+소원 빌어=Faire un vœu
+무슨 소원 빌었어=Quel vœu avez-vous fait ?
+케이크 자르자=Coupeons le gâteau
+생일 축하 노래 불러 주자=Chantons joyeux anniversaire
+선물 마음에 들어=Aimez-vous le présent?
+최고의 생일이었어=C'était le meilleur anniversaire de tous les temps
