@@ -23399,3 +23399,18 @@ IT 쪽에서 일해요=Pracuję w IT
 포장은 어떻게 해요=Jak mam to zapakować?
 환불은 언제 돼요=Kiedy otrzymam zwrot pieniędzy?
 착불로 보내도 돼요=Czy mogę wysłać przesyłką opłaconą przez odbiorcę?
+
+# --- 대화 72: 약국 2 (2026-11-20) ---
+처방전 없이 살 수 있어요=Czy mogę kupić ten lek bez recepty?
+졸리지 않은 약 있어요=Czy masz lek, który nie powoduje senności?
+이 약 먹으면 졸려요=Czy ten lek powoduje senność?
+아이가 먹어도 되는 약이에요=Czy ten lek jest bezpieczny dla dzieci?
+멀미약 있어요=Czy masz tabletki na chorobę lokomocyjną?
+모기 물린 데 바르는 약 있어요=Czy masz krem na ukąszenia komarów?
+상처에 바르는 연고 주세요=Proszę o maść na ranę
+한 번에 몇 알 먹어요=Ile tabletek powinienem zażyć na raz?
+이 약이랑 같이 먹어도 돼요=Czy mogę to brać razem z tym lekiem?
+공복에 먹어도 돼요=Czy mogę to wziąć na pusty żołądek?
+안약 있어요=Czy masz krople do oczu?
+생리통 약 있어요=Czy masz lekarstwo na bóle menstruacyjne?
+물약으로 주세요=Proszę, podaj mi płynne lekarstwo

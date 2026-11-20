@@ -41188,3 +41188,18 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 포장은 어떻게 해요=Tôi nên đóng gói nó như thế nào?
 환불은 언제 돼요=Khi nào tôi sẽ nhận được tiền hoàn lại?
 착불로 보내도 돼요=Tôi có thể gửi nó với phí vận chuyển do người nhận thanh toán không?
+
+# --- 대화 72: 약국 2 (2026-11-20) ---
+처방전 없이 살 수 있어요=Tôi có thể mua thuốc này mà không cần toa bác sĩ không?
+졸리지 않은 약 있어요=Bạn có loại thuốc nào không gây buồn ngủ không?
+이 약 먹으면 졸려요=Thuốc này có làm tôi buồn ngủ không?
+아이가 먹어도 되는 약이에요=Thuốc này có an toàn cho trẻ em dùng không?
+멀미약 있어요=Bạn có thuốc chống say tàu xe không?
+모기 물린 데 바르는 약 있어요=Bạn có kem bôi muỗi đốt không?
+상처에 바르는 연고 주세요=Xin vui lòng cho tôi một loại thuốc mỡ để bôi lên vết thương
+한 번에 몇 알 먹어요=Tôi nên uống bao nhiêu viên một lần?
+이 약이랑 같이 먹어도 돼요=Tôi có thể dùng nó cùng với thuốc này không?
+공복에 먹어도 돼요=Tôi có thể uống nó khi bụng đói không?
+안약 있어요=Bạn có thuốc nhỏ mắt không?
+생리통 약 있어요=Bạn có thuốc trị đau bụng kinh không?
+물약으로 주세요=Xin vui lòng cho tôi thuốc lỏng

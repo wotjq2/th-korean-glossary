@@ -38412,3 +38412,18 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 포장은 어떻게 해요=Bagaimana cara mengemasnya?
 환불은 언제 돼요=Kapan saya akan mendapatkan pengembalian dana saya?
 착불로 보내도 돼요=Bisakah saya mengirimkannya dengan ongkos kirim yang dibayar oleh penerima?
+
+# --- 대화 72: 약국 2 (2026-11-20) ---
+처방전 없이 살 수 있어요=Bisakah saya membeli obat ini tanpa resep dokter?
+졸리지 않은 약 있어요=Apakah Anda punya obat yang tidak menyebabkan kantuk?
+이 약 먹으면 졸려요=Apakah obat ini akan membuat saya mengantuk?
+아이가 먹어도 되는 약이에요=Apakah obat ini aman dikonsumsi anak-anak?
+멀미약 있어요=Apakah Anda punya pil mabuk perjalanan?
+모기 물린 데 바르는 약 있어요=Apakah Anda punya krim untuk mengobati gigitan nyamuk?
+상처에 바르는 연고 주세요=Tolong beri saya salep untuk mengoleskan luka
+한 번에 몇 알 먹어요=Berapa banyak pil yang harus saya minum sekaligus?
+이 약이랑 같이 먹어도 돼요=Bolehkah saya meminumnya bersamaan dengan obat ini?
+공복에 먹어도 돼요=Bisakah saya meminumnya saat perut kosong?
+안약 있어요=Apakah Anda punya obat tetes mata?
+생리통 약 있어요=Apakah Anda punya obat untuk kram menstruasi?
+물약으로 주세요=Tolong beri saya obat cair

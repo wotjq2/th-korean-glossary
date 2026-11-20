@@ -52554,3 +52554,18 @@ IT 쪽에서 일해요=I work in IT
 포장은 어떻게 해요=How should I pack it?
 환불은 언제 돼요=When will I get my refund?
 착불로 보내도 돼요=Can I send it with the shipping paid by the receiver?
+
+# --- 대화 72: 약국 2 (2026-11-20) ---
+처방전 없이 살 수 있어요=Can I buy this medicine without a prescription?
+졸리지 않은 약 있어요=Do you have a medicine that will not cause drowsiness?
+이 약 먹으면 졸려요=Will this medicine make me sleepy?
+아이가 먹어도 되는 약이에요=Is this medicine safe for children to take?
+멀미약 있어요=Do you have motion sickness pills?
+모기 물린 데 바르는 약 있어요=Do you have a cream to put on mosquito bites?
+상처에 바르는 연고 주세요=Please give me an ointment to put on a wound
+한 번에 몇 알 먹어요=How many pills should I take at one time?
+이 약이랑 같이 먹어도 돼요=Can I take it together with this medicine?
+공복에 먹어도 돼요=Can I take it on an empty stomach?
+안약 있어요=Do you have eye drops?
+생리통 약 있어요=Do you have medicine for menstrual cramps?
+물약으로 주세요=Please give me liquid medicine

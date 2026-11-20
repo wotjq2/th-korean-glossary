@@ -47807,3 +47807,18 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 포장은 어떻게 해요=Comment dois-je l'emballer ?
 환불은 언제 돼요=Quand vais-je recevoir mon remboursement ?
 착불로 보내도 돼요=Puis-je l'envoyer avec les frais de port payés par le destinataire ?
+
+# --- 대화 72: 약국 2 (2026-11-20) ---
+처방전 없이 살 수 있어요=Puis-je acheter ce médicament sans ordonnance ?
+졸리지 않은 약 있어요=Avez-vous un médicament qui ne provoque pas de somnolence ?
+이 약 먹으면 졸려요=Ce médicament va-t-il me rendre somnolent ?
+아이가 먹어도 되는 약이에요=Ce médicament est-il sans danger pour les enfants ?
+멀미약 있어요=Avez-vous des pilules contre le mal des transports ?
+모기 물린 데 바르는 약 있어요=Avez-vous une crème à mettre sur les piqûres de moustiques ?
+상처에 바르는 연고 주세요=S'il te plaît, donne-moi une pommade à mettre sur une plaie
+한 번에 몇 알 먹어요=Combien de comprimés dois-je prendre en même temps ?
+이 약이랑 같이 먹어도 돼요=Puis-je le prendre avec ce médicament ?
+공복에 먹어도 돼요=Puis-je le prendre à jeun ?
+안약 있어요=Avez-vous des gouttes pour les yeux ?
+생리통 약 있어요=Avez-vous des médicaments contre les crampes menstruelles ?
+물약으로 주세요=S'il vous plaît, donnez-moi des médicaments liquides

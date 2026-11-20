@@ -11262,3 +11262,18 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 포장은 어떻게 해요=Bagaimana saya perlu membungkusnya?
 환불은 언제 돼요=Bilakah saya akan mendapat bayaran balik saya?
 착불로 보내도 돼요=Bolehkah saya menghantarnya dengan penghantaran yang dibayar oleh penerima?
+
+# --- 대화 72: 약국 2 (2026-11-20) ---
+처방전 없이 살 수 있어요=Bolehkah saya membeli ubat ini tanpa preskripsi?
+졸리지 않은 약 있어요=Adakah anda mempunyai ubat yang tidak akan menyebabkan rasa mengantuk?
+이 약 먹으면 졸려요=Adakah ubat ini akan membuatkan saya mengantuk?
+아이가 먹어도 되는 약이에요=Adakah ubat ini selamat untuk diambil oleh kanak-kanak?
+멀미약 있어요=Ada ubat mabuk perjalanan?
+모기 물린 데 바르는 약 있어요=Adakah anda mempunyai krim untuk digunakan pada gigitan nyamuk?
+상처에 바르는 연고 주세요=Tolong berikan saya salap untuk meletakkan pada luka
+한 번에 몇 알 먹어요=Berapa banyak pil yang perlu saya ambil pada satu masa?
+이 약이랑 같이 먹어도 돼요=Bolehkah saya mengambilnya bersama-sama dengan ubat ini?
+공복에 먹어도 돼요=Bolehkah saya mengambilnya semasa perut kosong?
+안약 있어요=Adakah anda mempunyai ubat titis mata?
+생리통 약 있어요=Adakah anda mempunyai ubat untuk senggugut?
+물약으로 주세요=Tolong beri saya ubat cair

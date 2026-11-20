@@ -7263,3 +7263,18 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 포장은 어떻게 해요=Paano ko ito iimpake?
 환불은 언제 돼요=Kailan ko makukuha ang aking refund?
 착불로 보내도 돼요=Maaari ko bang ipadala ito kasama ang pagpapadala na binayaran ng tatanggap?
+
+# --- 대화 72: 약국 2 (2026-11-20) ---
+처방전 없이 살 수 있어요=Maaari ba akong bumili ng gamot na ito nang walang reseta?
+졸리지 않은 약 있어요=Mayroon ka bang gamot na hindi magdudulot ng antok?
+이 약 먹으면 졸려요=Matutulog ba ako ng gamot na ito?
+아이가 먹어도 되는 약이에요=Ligtas bang inumin ng mga bata ang gamot na ito?
+멀미약 있어요=May motion sickness pills ka ba?
+모기 물린 데 바르는 약 있어요=Mayroon ka bang cream na ilalagay sa kagat ng lamok?
+상처에 바르는 연고 주세요=Mangyaring bigyan ako ng isang pamahid upang ilagay sa isang sugat
+한 번에 몇 알 먹어요=Ilang tabletas ang dapat kong inumin sa isang pagkakataon?
+이 약이랑 같이 먹어도 돼요=Maaari ko bang inumin ito kasama ng gamot na ito?
+공복에 먹어도 돼요=Maaari ko bang inumin ito nang walang laman ang tiyan?
+안약 있어요=May eye drops ka ba?
+생리통 약 있어요=May gamot ka ba sa menstrual cramps?
+물약으로 주세요=Pakibigyan ako ng likidong gamot

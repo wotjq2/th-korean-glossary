@@ -20538,3 +20538,18 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 포장은 어떻게 해요=Come devo imballarlo?
 환불은 언제 돼요=Quando riceverò il rimborso?
 착불로 보내도 돼요=Posso inviarlo con la spedizione a carico del destinatario?
+
+# --- 대화 72: 약국 2 (2026-11-20) ---
+처방전 없이 살 수 있어요=Posso acquistare questo medicinale senza prescrizione medica?
+졸리지 않은 약 있어요=Avete una medicina che non causi sonnolenza?
+이 약 먹으면 졸려요=Questa medicina mi farà dormire?
+아이가 먹어도 되는 약이에요=Questo medicinale è sicuro da assumere per i bambini?
+멀미약 있어요=Hai pillole per la chinetosi?
+모기 물린 데 바르는 약 있어요=Hai una crema da mettere sulle punture di zanzara?
+상처에 바르는 연고 주세요=Per favore, dammi un unguento da applicare su una ferita
+한 번에 몇 알 먹어요=Quante pillole dovrei prendere in una volta?
+이 약이랑 같이 먹어도 돼요=Posso prenderlo insieme a questo medicinale?
+공복에 먹어도 돼요=Posso assumerlo a stomaco vuoto?
+안약 있어요=Hai del collirio?
+생리통 약 있어요=Hai delle medicine per i crampi mestruali?
+물약으로 주세요=Per favore, dammi una medicina liquida

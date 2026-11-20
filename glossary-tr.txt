@@ -17510,3 +17510,18 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 포장은 어떻게 해요=Nasıl paketlemeliyim?
 환불은 언제 돼요=Geri ödememi ne zaman alacağım?
 착불로 보내도 돼요=Alıcı ödemeli kargoyla gönderebilir miyim?
+
+# --- 대화 72: 약국 2 (2026-11-20) ---
+처방전 없이 살 수 있어요=Bu ilacı reçetesiz satın alabilir miyim?
+졸리지 않은 약 있어요=Uyuşukluk yaratmayacak bir ilacınız var mı?
+이 약 먹으면 졸려요=Bu ilaç uykumu getirir mi?
+아이가 먹어도 되는 약이에요=Bu ilacı çocukların alması güvenli midir?
+멀미약 있어요=Hareket hastalığı haplarınız var mı?
+모기 물린 데 바르는 약 있어요=Sivrisinek ısırıklarına sürecek kremin var mı?
+상처에 바르는 연고 주세요=Lütfen bana yaraya sürmem için bir merhem ver
+한 번에 몇 알 먹어요=Bir seferde kaç hap almalıyım?
+이 약이랑 같이 먹어도 돼요=Bu ilaçla birlikte alabilir miyim?
+공복에 먹어도 돼요=Aç karnına alabilir miyim?
+안약 있어요=Göz damlanız var mı?
+생리통 약 있어요=Regl krampları için ilacın var mı?
+물약으로 주세요=Lütfen bana sıvı ilaç ver
