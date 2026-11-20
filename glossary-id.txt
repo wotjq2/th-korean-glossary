@@ -38542,7 +38542,6 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 수영을 못해도 돼요=Apakah tidak apa-apa jika saya tidak bisa berenang?
 귀가 아파요=Telingaku sakit
 마스크에 물이 들어와요=Air masuk ke dalam masker selam saya
-숨쉬기가 힘들어요=Sulit bagiku untuk bernapas
 천천히 내려가 주세요=Silakan turun perlahan
 올라가고 싶어요=Saya ingin kembali ke permukaan
 물고기가 진짜 많아요=Ada banyak sekali ikan

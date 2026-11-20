@@ -11392,7 +11392,6 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 수영을 못해도 돼요=Tidak mengapa jika saya tidak boleh berenang?
 귀가 아파요=Telinga saya sakit
 마스크에 물이 들어와요=Air masuk ke dalam topeng selam saya
-숨쉬기가 힘들어요=Sukar untuk saya bernafas
 천천히 내려가 주세요=Tolong turun perlahan-lahan
 올라가고 싶어요=Saya mahu naik semula ke permukaan
 물고기가 진짜 많아요=Terdapat begitu banyak ikan

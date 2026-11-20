@@ -23529,7 +23529,6 @@ IT 쪽에서 일해요=Pracuję w IT
 수영을 못해도 돼요=Czy to w porządku, jeśli nie umiem pływać?
 귀가 아파요=Bolą mnie uszy
 마스크에 물이 들어와요=Woda dostaje się do mojej maski do nurkowania
-숨쉬기가 힘들어요=Trudno mi oddychać
 천천히 내려가 주세요=Proszę, zejdź powoli na dół
 올라가고 싶어요=Chcę wrócić na powierzchnię
 물고기가 진짜 많아요=Jest tak wiele ryb

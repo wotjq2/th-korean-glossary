@@ -17640,7 +17640,6 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 수영을 못해도 돼요=Yüzme bilmesem sorun olur mu?
 귀가 아파요=Kulaklarım ağrıyor
 마스크에 물이 들어와요=Dalış maskeme su giriyor
-숨쉬기가 힘들어요=Nefes almak benim için zor
 천천히 내려가 주세요=Lütfen yavaşça aşağı inin
 올라가고 싶어요=Yüzeye geri dönmek istiyorum
 물고기가 진짜 많아요=O kadar çok balık var ki

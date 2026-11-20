@@ -20668,7 +20668,6 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 수영을 못해도 돼요=Va bene se non so nuotare?
 귀가 아파요=Mi fanno male le orecchie
 마스크에 물이 들어와요=L'acqua sta entrando nella mia maschera da sub
-숨쉬기가 힘들어요=È difficile per me respirare
 천천히 내려가 주세요=Per favore, scendi lentamente
 올라가고 싶어요=Voglio tornare in superficie
 물고기가 진짜 많아요=Ci sono così tanti pesci

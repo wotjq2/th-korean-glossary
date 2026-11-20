@@ -41318,7 +41318,6 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 수영을 못해도 돼요=Có ổn không nếu tôi không biết bơi?
 귀가 아파요=Tai tôi đau
 마스크에 물이 들어와요=Nước đang lọt vào mặt nạ lặn của tôi
-숨쉬기가 힘들어요=Thật khó để tôi thở
 천천히 내려가 주세요=Hãy đi xuống từ từ
 올라가고 싶어요=Tôi muốn quay trở lại bề mặt
 물고기가 진짜 많아요=Có rất nhiều cá

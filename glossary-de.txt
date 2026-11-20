@@ -24577,7 +24577,6 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 수영을 못해도 돼요=Ist es in Ordnung, wenn ich nicht schwimmen kann?
 귀가 아파요=Meine Ohren tun weh
 마스크에 물이 들어와요=Wasser dringt in meine Tauchmaske ein
-숨쉬기가 힘들어요=Das Atmen fällt mir schwer
 천천히 내려가 주세요=Bitte gehen Sie langsam nach unten
 올라가고 싶어요=Ich möchte wieder an die Oberfläche
 물고기가 진짜 많아요=Es gibt so viele Fische

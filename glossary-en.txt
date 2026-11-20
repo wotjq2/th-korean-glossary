@@ -52684,7 +52684,6 @@ IT 쪽에서 일해요=I work in IT
 수영을 못해도 돼요=Is it okay if I cannot swim?
 귀가 아파요=My ears hurt
 마스크에 물이 들어와요=Water is getting into my diving mask
-숨쉬기가 힘들어요=It is hard for me to breathe
 천천히 내려가 주세요=Please go down slowly
 올라가고 싶어요=I want to go back up to the surface
 물고기가 진짜 많아요=There are so many fish
