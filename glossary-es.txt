@@ -48121,3 +48121,16 @@ IT 쪽에서 일해요=yo trabajo en TI
 다음 홀로 가요=Vayamos al siguiente hoyo de golf.
 오늘 공이 잘 맞네=Estoy golpeando bien la pelota de golf hoy.
 캐디 팁은 얼마 줘요=¿Cuánto debo darle propina al caddie de golf?
+
+# --- 대화 79: 마사지 2 (2026-11-20) ---
+타이 마사지 한 시간에 얼마예요=¿Cuánto cuesta un masaje tailandés de una hora?
+지금 바로 마사지 받을 수 있어요=¿Puedo recibir un masaje ahora mismo?
+오일 마사지로 해 주세요=Me gustaría un masaje con aceite, por favor.
+두 시간 코스로 할게요=Tomaré el masaje de dos horas.
+여자 마사지사로 해 주세요=Me gustaría una masajista mujer, por favor.
+커플룸 있어요=¿Tiene una sala de masajes para parejas?
+옷 갈아입어야 돼요=¿Necesito cambiarme de ropa?
+어깨 위주로 해 주세요=Por favor concéntrate principalmente en mis hombros.
+다리는 안 해도 돼요=No necesitas masajear mis piernas.
+마사지 받다가 잠들 뻔했어요=Casi me quedo dormido durante el masaje.
+팁은 얼마 주면 돼요=¿Cuánto debo dar de propina?

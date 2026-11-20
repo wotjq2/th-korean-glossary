@@ -7359,3 +7359,16 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 다음 홀로 가요=Pumunta tayo sa susunod na golf hole
 오늘 공이 잘 맞네=Mahusay akong natamaan ang bola ng golf ngayon
 캐디 팁은 얼마 줘요=Magkano ang dapat kong tip sa golf caddie?
+
+# --- 대화 79: 마사지 2 (2026-11-20) ---
+타이 마사지 한 시간에 얼마예요=Magkano ang isang oras na Thai massage?
+지금 바로 마사지 받을 수 있어요=Maaari ba akong magpamasahe ngayon?
+오일 마사지로 해 주세요=Gusto ko ng oil massage, pakiusap
+두 시간 코스로 할게요=Kukunin ko ang dalawang oras na masahe
+여자 마사지사로 해 주세요=Gusto ko ng isang babaeng massage therapist, mangyaring
+커플룸 있어요=Mayroon ka bang massage room para sa mga mag-asawa?
+옷 갈아입어야 돼요=Kailangan ko bang magpalit ng damit?
+어깨 위주로 해 주세요=Mangyaring tumutok karamihan sa aking mga balikat
+다리는 안 해도 돼요=Hindi mo kailangang imasahe ang aking mga binti
+마사지 받다가 잠들 뻔했어요=Halos makatulog ako sa masahe
+팁은 얼마 주면 돼요=Magkano ang dapat kong ibigay bilang tip?

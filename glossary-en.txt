@@ -52650,3 +52650,16 @@ IT 쪽에서 일해요=I work in IT
 다음 홀로 가요=Let's go to the next golf hole
 오늘 공이 잘 맞네=I'm hitting the golf ball well today
 캐디 팁은 얼마 줘요=How much should I tip the golf caddie?
+
+# --- 대화 79: 마사지 2 (2026-11-20) ---
+타이 마사지 한 시간에 얼마예요=How much is a one-hour Thai massage?
+지금 바로 마사지 받을 수 있어요=Can I get a massage right now?
+오일 마사지로 해 주세요=I would like an oil massage, please
+두 시간 코스로 할게요=I will take the two-hour massage
+여자 마사지사로 해 주세요=I would like a female massage therapist, please
+커플룸 있어요=Do you have a massage room for couples?
+옷 갈아입어야 돼요=Do I need to change my clothes?
+어깨 위주로 해 주세요=Please focus mostly on my shoulders
+다리는 안 해도 돼요=You do not need to massage my legs
+마사지 받다가 잠들 뻔했어요=I almost fell asleep during the massage
+팁은 얼마 주면 돼요=How much should I give as a tip?

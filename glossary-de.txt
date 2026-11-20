@@ -24543,3 +24543,16 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 다음 홀로 가요=Auf geht's zum nächsten Golfloch
 오늘 공이 잘 맞네=Ich treffe den Golfball heute gut
 캐디 팁은 얼마 줘요=Wie viel Trinkgeld sollte ich dem Golf-Caddie geben?
+
+# --- 대화 79: 마사지 2 (2026-11-20) ---
+타이 마사지 한 시간에 얼마예요=Wie viel kostet eine einstündige Thai-Massage?
+지금 바로 마사지 받을 수 있어요=Kann ich jetzt eine Massage bekommen?
+오일 마사지로 해 주세요=Ich möchte bitte eine Ölmassage
+두 시간 코스로 할게요=Ich werde die zweistündige Massage machen
+여자 마사지사로 해 주세요=Ich hätte gerne eine Massagetherapeutin
+커플룸 있어요=Haben Sie einen Massageraum für Paare?
+옷 갈아입어야 돼요=Muss ich mich umziehen?
+어깨 위주로 해 주세요=Bitte konzentrieren Sie sich hauptsächlich auf meine Schultern
+다리는 안 해도 돼요=Du brauchst meine Beine nicht zu massieren
+마사지 받다가 잠들 뻔했어요=Während der Massage bin ich fast eingeschlafen
+팁은 얼마 주면 돼요=Wie viel Trinkgeld soll ich geben?

@@ -23495,3 +23495,16 @@ IT 쪽에서 일해요=Pracuję w IT
 다음 홀로 가요=Przejdźmy do następnego dołka golfowego
 오늘 공이 잘 맞네=Dzisiaj dobrze uderzam piłeczkę golfową
 캐디 팁은 얼마 줘요=Ile powinienem przechylić wózek golfowy?
+
+# --- 대화 79: 마사지 2 (2026-11-20) ---
+타이 마사지 한 시간에 얼마예요=Ile kosztuje godzinny masaż tajski?
+지금 바로 마사지 받을 수 있어요=Czy mogę teraz skorzystać z masażu?
+오일 마사지로 해 주세요=Proszę o masaż olejkiem
+두 시간 코스로 할게요=Wezmę dwugodzinny masaż
+여자 마사지사로 해 주세요=Poproszę kobietę-masażystkę
+커플룸 있어요=Masz gabinet masażu dla par?
+옷 갈아입어야 돼요=Czy muszę zmienić ubranie?
+어깨 위주로 해 주세요=Proszę skupić się głównie na moich ramionach
+다리는 안 해도 돼요=Nie musisz masować moich nóg
+마사지 받다가 잠들 뻔했어요=Prawie zasnąłem podczas masażu
+팁은 얼마 주면 돼요=Ile mam dać jako napiwek?

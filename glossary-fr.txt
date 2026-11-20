@@ -47903,3 +47903,16 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 다음 홀로 가요=Allons au prochain trou de golf
 오늘 공이 잘 맞네=Je frappe bien la balle de golf aujourd'hui
 캐디 팁은 얼마 줘요=Quel pourboire dois-je donner au cadet de golf ?
+
+# --- 대화 79: 마사지 2 (2026-11-20) ---
+타이 마사지 한 시간에 얼마예요=Combien coûte un massage thaïlandais d'une heure ?
+지금 바로 마사지 받을 수 있어요=Puis-je me faire masser maintenant ?
+오일 마사지로 해 주세요=Je voudrais un massage à l'huile, s'il vous plaît
+두 시간 코스로 할게요=Je vais prendre le massage de deux heures
+여자 마사지사로 해 주세요=J'aimerais une massothérapeute, s'il vous plaît
+커플룸 있어요=Avez-vous une salle de massage pour les couples ?
+옷 갈아입어야 돼요=Dois-je changer de vêtements ?
+어깨 위주로 해 주세요=S'il te plaît, concentre-toi principalement sur mes épaules
+다리는 안 해도 돼요=Vous n'avez pas besoin de me masser les jambes
+마사지 받다가 잠들 뻔했어요=J'ai failli m'endormir pendant le massage
+팁은 얼마 주면 돼요=Combien dois-je donner comme pourboire ?

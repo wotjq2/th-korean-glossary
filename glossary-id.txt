@@ -38508,3 +38508,16 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 다음 홀로 가요=Ayo pergi ke lubang golf berikutnya
 오늘 공이 잘 맞네=Saya memukul bola golf dengan baik hari ini
 캐디 팁은 얼마 줘요=Berapa banyak saya harus memberi tip kepada caddy golf?
+
+# --- 대화 79: 마사지 2 (2026-11-20) ---
+타이 마사지 한 시간에 얼마예요=Berapa biaya pijat ala Thai selama satu jam?
+지금 바로 마사지 받을 수 있어요=Bolehkah saya dipijat sekarang?
+오일 마사지로 해 주세요=Saya ingin pijat minyak
+두 시간 코스로 할게요=Saya akan melakukan pijatan dua jam
+여자 마사지사로 해 주세요=Saya ingin terapis pijat wanita
+커플룸 있어요=Apakah Anda memiliki ruang pijat untuk pasangan?
+옷 갈아입어야 돼요=Apakah saya perlu mengganti pakaian saya?
+어깨 위주로 해 주세요=Harap fokus sebagian besar pada bahu saya
+다리는 안 해도 돼요=Anda tidak perlu memijat kaki saya
+마사지 받다가 잠들 뻔했어요=Saya hampir tertidur saat dipijat
+팁은 얼마 주면 돼요=Berapa banyak yang harus saya berikan sebagai tip?
