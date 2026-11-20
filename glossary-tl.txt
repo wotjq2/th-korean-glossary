@@ -7420,4 +7420,4 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 개인 레슨은 얼마예요=Magkano ang private lesson?
 너무 힘들어서 쉬고 싶어요=Masyadong mahirap kaya gusto ko munang magpahinga
 발차기 다시 보여 주세요=Mangyaring ipakita sa akin muli ang sipa
-경기 보러 가고 싶어요=Gusto kong pumunta at manood ng laban ng Muay Thai
+경기 보러 가고 싶어요=Gusto kong pumunta at manood ng laban

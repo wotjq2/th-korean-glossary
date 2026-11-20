@@ -23556,4 +23556,4 @@ IT 쪽에서 일해요=Pracuję w IT
 개인 레슨은 얼마예요=Ile kosztuje lekcja prywatna?
 너무 힘들어서 쉬고 싶어요=To zbyt trudne, więc chcę odpocząć
 발차기 다시 보여 주세요=Proszę, pokaż mi jeszcze raz kopnięcie
-경기 보러 가고 싶어요=Chcę iść i obejrzeć walkę Muay Thai
+경기 보러 가고 싶어요=Chcę pojechać i obejrzeć mecz

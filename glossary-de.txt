@@ -24604,4 +24604,4 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 개인 레슨은 얼마예요=Wie viel kostet eine Privatstunde?
 너무 힘들어서 쉬고 싶어요=Es ist zu schwer, deshalb möchte ich eine Pause machen
 발차기 다시 보여 주세요=Bitte zeig mir den Kick noch einmal
-경기 보러 가고 싶어요=Ich möchte mir einen Muay-Thai-Kampf ansehen
+경기 보러 가고 싶어요=Ich möchte mir das Spiel ansehen

@@ -17667,4 +17667,4 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 개인 레슨은 얼마예요=Özel ders ne kadar?
 너무 힘들어서 쉬고 싶어요=Çok zor bu yüzden ara vermek istiyorum
 발차기 다시 보여 주세요=Lütfen bana vuruşu tekrar göster
-경기 보러 가고 싶어요=Gidip Muay Thai dövüşünü izlemek istiyorum
+경기 보러 가고 싶어요=Gidip maçı izlemek istiyorum

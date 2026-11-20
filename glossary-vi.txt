@@ -41345,4 +41345,4 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 개인 레슨은 얼마예요=Một bài học riêng là bao nhiêu?
 너무 힘들어서 쉬고 싶어요=Khó quá nên tôi muốn nghỉ ngơi
 발차기 다시 보여 주세요=Hãy cho tôi xem cú đá lần nữa
-경기 보러 가고 싶어요=Tôi muốn đi xem một trận đấu Muay Thái
+경기 보러 가고 싶어요=Tôi muốn đi xem trận đấu

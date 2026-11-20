@@ -11419,4 +11419,4 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 개인 레슨은 얼마예요=Berapa harga pelajaran persendirian?
 너무 힘들어서 쉬고 싶어요=Ia terlalu sukar jadi saya ingin berehat
 발차기 다시 보여 주세요=Tolong tunjukkan sepakan itu sekali lagi
-경기 보러 가고 싶어요=Saya mahu pergi menonton perlawanan Muay Thai
+경기 보러 가고 싶어요=Saya mahu pergi dan menonton perlawanan itu
