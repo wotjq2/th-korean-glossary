@@ -23671,3 +23671,14 @@ IT 쪽에서 일해요=Pracuję w IT
 가방 맡길 데 있어요=Czy jest miejsce, gdzie mogę zostawić torbę?
 응원봉 어디서 사요=Gdzie kupić latarkę na koncert?
 분위기 최고였어=Atmosfera była niesamowita
+
+# --- 대화 94: 결혼식 하객 (2026-11-20) ---
+청첩장 받았어=Dostałem zaproszenie na ślub
+결혼식이 몇 시예요=O której godzinie jest ceremonia ślubna?
+신랑 쪽 하객이에요=Jestem gościem pana młodego
+신부 쪽 하객이에요=Jestem gościem panny młodej
+신부가 정말 예뻐요=Panna młoda wygląda naprawdę pięknie
+두 분 정말 잘 어울려요=Wy dwoje wyglądacie razem idealnie
+행복하게 잘 사세요=Życzę ci szczęśliwego życia
+식장이 어디예요=Gdzie jest sala weselna?
+축의금 봉투 어디 있어요=Gdzie mogę dostać kopertę na prezent ślubny?

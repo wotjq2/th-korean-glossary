@@ -48079,3 +48079,14 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 가방 맡길 데 있어요=Y a-t-il un endroit où je peux laisser mon sac ?
 응원봉 어디서 사요=Où puis-je acheter un bâton lumineux pour le concert ?
 분위기 최고였어=L'atmosphère était incroyable
+
+# --- 대화 94: 결혼식 하객 (2026-11-20) ---
+청첩장 받았어=J'ai reçu une invitation de mariage
+결혼식이 몇 시예요=A quelle heure est la cérémonie de mariage ?
+신랑 쪽 하객이에요=Je suis un invité du marié
+신부 쪽 하객이에요=je suis l'invité de la mariée
+신부가 정말 예뻐요=La mariée est vraiment magnifique
+두 분 정말 잘 어울려요=Vous êtes tous les deux parfaits ensemble
+행복하게 잘 사세요=je te souhaite une vie heureuse
+식장이 어디예요=Où est la salle des mariages ?
+축의금 봉투 어디 있어요=Où puis-je obtenir une enveloppe pour le cadeau en argent du mariage ?

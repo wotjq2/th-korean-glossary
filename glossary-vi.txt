@@ -41460,3 +41460,14 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 가방 맡길 데 있어요=Có nơi nào tôi có thể để túi của mình không?
 응원봉 어디서 사요=Tôi có thể mua lightstick cho concert ở đâu?
 분위기 최고였어=Bầu không khí thật tuyệt vời
+
+# --- 대화 94: 결혼식 하객 (2026-11-20) ---
+청첩장 받았어=Tôi nhận được thiệp mời đám cưới
+결혼식이 몇 시예요=Lễ cưới diễn ra vào lúc mấy giờ?
+신랑 쪽 하객이에요=Tôi là khách của chú rể
+신부 쪽 하객이에요=Tôi là khách của cô dâu
+신부가 정말 예뻐요=Cô dâu trông thật xinh đẹp
+두 분 정말 잘 어울려요=Hai bạn trông thật hoàn hảo khi ở bên nhau
+행복하게 잘 사세요=Tôi chúc bạn một cuộc sống hạnh phúc
+식장이 어디예요=Sảnh cưới ở đâu?
+축의금 봉투 어디 있어요=Tôi có thể lấy phong bì đựng tiền mừng đám cưới ở đâu?

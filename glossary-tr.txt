@@ -17782,3 +17782,14 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 가방 맡길 데 있어요=Çantamı bırakabileceğim bir yer var mı?
 응원봉 어디서 사요=Konser için ışık çubuğunu nereden satın alabilirim?
 분위기 최고였어=Atmosfer muhteşemdi
+
+# --- 대화 94: 결혼식 하객 (2026-11-20) ---
+청첩장 받았어=Düğün davetiyesi aldım
+결혼식이 몇 시예요=Düğün töreni saat kaçta?
+신랑 쪽 하객이에요=Ben damadın misafiriyim
+신부 쪽 하객이에요=Ben gelinin misafiriyim
+신부가 정말 예뻐요=Gelin gerçekten çok güzel görünüyor
+두 분 정말 잘 어울려요=İkiniz birlikte mükemmel görünüyorsunuz
+행복하게 잘 사세요=sana mutlu bir hayat diliyorum
+식장이 어디예요=Düğün salonu nerede?
+축의금 봉투 어디 있어요=Düğün parası hediyesi için nereden zarf alabilirim?

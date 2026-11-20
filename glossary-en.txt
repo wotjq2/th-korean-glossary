@@ -52826,3 +52826,14 @@ IT 쪽에서 일해요=I work in IT
 가방 맡길 데 있어요=Is there a place where I can leave my bag?
 응원봉 어디서 사요=Where can I buy a light stick for the concert?
 분위기 최고였어=The atmosphere was amazing
+
+# --- 대화 94: 결혼식 하객 (2026-11-20) ---
+청첩장 받았어=I got a wedding invitation
+결혼식이 몇 시예요=What time is the wedding ceremony?
+신랑 쪽 하객이에요=I am a guest of the groom
+신부 쪽 하객이에요=I am a guest of the bride
+신부가 정말 예뻐요=The bride looks really beautiful
+두 분 정말 잘 어울려요=The two of you look perfect together
+행복하게 잘 사세요=I wish you a happy life
+식장이 어디예요=Where is the wedding hall?
+축의금 봉투 어디 있어요=Where can I get an envelope for the wedding money gift?

@@ -7535,3 +7535,14 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 가방 맡길 데 있어요=Mayroon bang lugar kung saan maaari kong iwanan ang aking bag?
 응원봉 어디서 사요=Saan ako makakabili ng light stick para sa concert?
 분위기 최고였어=Ang kapaligiran ay kamangha-manghang
+
+# --- 대화 94: 결혼식 하객 (2026-11-20) ---
+청첩장 받았어=Nakakuha ako ng wedding invitation
+결혼식이 몇 시예요=Anong oras ang seremonya ng kasal?
+신랑 쪽 하객이에요=Guest ako ng nobyo
+신부 쪽 하객이에요=Guest ako ng nobya
+신부가 정말 예뻐요=Ang ganda talaga ng bride
+두 분 정말 잘 어울려요=Mukhang perpekto kayong dalawa
+행복하게 잘 사세요=Nais ko sa iyo ng isang masayang buhay
+식장이 어디예요=Saan ang wedding hall?
+축의금 봉투 어디 있어요=Saan ako makakakuha ng isang sobre para sa regalo ng pera sa kasal?

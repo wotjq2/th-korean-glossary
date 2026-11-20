@@ -11534,3 +11534,14 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 가방 맡길 데 있어요=Adakah terdapat tempat di mana saya boleh meninggalkan beg saya?
 응원봉 어디서 사요=Di manakah saya boleh membeli tongkat cahaya untuk konsert itu?
 분위기 최고였어=Suasana sangat mengagumkan
+
+# --- 대화 94: 결혼식 하객 (2026-11-20) ---
+청첩장 받았어=Saya mendapat jemputan perkahwinan
+결혼식이 몇 시예요=Majlis perkahwinan pukul berapa?
+신랑 쪽 하객이에요=Saya tetamu pengantin lelaki
+신부 쪽 하객이에요=Saya tetamu pengantin perempuan
+신부가 정말 예뻐요=Pengantin perempuan kelihatan sangat cantik
+두 분 정말 잘 어울려요=Anda berdua kelihatan sempurna bersama
+행복하게 잘 사세요=Saya doakan awak bahagia
+식장이 어디예요=Di manakah dewan perkahwinan?
+축의금 봉투 어디 있어요=Di mana saya boleh mendapatkan sampul surat untuk hadiah wang perkahwinan?

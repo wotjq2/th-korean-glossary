@@ -38684,3 +38684,14 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 가방 맡길 데 있어요=Apakah ada tempat di mana saya bisa meninggalkan tas saya?
 응원봉 어디서 사요=Di mana saya bisa membeli light stick untuk konser?
 분위기 최고였어=Suasananya luar biasa
+
+# --- 대화 94: 결혼식 하객 (2026-11-20) ---
+청첩장 받았어=Saya mendapat undangan pernikahan
+결혼식이 몇 시예요=Jam berapa upacara pernikahannya?
+신랑 쪽 하객이에요=Saya adalah tamu mempelai pria
+신부 쪽 하객이에요=Saya adalah tamu pengantin wanita
+신부가 정말 예뻐요=Pengantin wanita terlihat sangat cantik
+두 분 정말 잘 어울려요=Kalian berdua terlihat sempurna bersama
+행복하게 잘 사세요=Saya berharap Anda hidup bahagia
+식장이 어디예요=Dimana gedung pernikahannya?
+축의금 봉투 어디 있어요=Dimana saya bisa mendapatkan amplop untuk hadiah uang pernikahan?
