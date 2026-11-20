@@ -52795,3 +52795,12 @@ IT 쪽에서 일해요=I work in IT
 한 달 수강료가 얼마예요=How much is the tuition for one month?
 수업 빠지면 보강해 줘요=If I miss a class, can I make it up later?
 학생 비자도 받을 수 있어요=Can I also get a student visa through you?
+
+# --- 대화 91: 중고 거래 (2026-11-20) ---
+아직 안 팔렸어요=Is it still available for sale?
+직접 만나서 거래하고 싶어요=I would like to meet in person to make the exchange
+고장 난 데는 없어요=Is there anything broken on it?
+사진 더 보내 줄 수 있어요=Can you send me more photos of it?
+가격 조금만 내려 줄 수 있어요=Could you lower the price a little?
+어디서 만날까요=Where should we meet?
+먼저 물건 확인하고 돈 드릴게요=I will check the item first and then pay you

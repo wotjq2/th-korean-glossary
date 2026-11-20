@@ -48266,3 +48266,12 @@ IT 쪽에서 일해요=yo trabajo en TI
 한 달 수강료가 얼마예요=¿Cuánto cuesta la matrícula por un mes?
 수업 빠지면 보강해 줘요=Si pierdo una clase, ¿puedo recuperarla más tarde?
 학생 비자도 받을 수 있어요=¿Puedo obtener también una visa de estudiante a través de ustedes?
+
+# --- 대화 91: 중고 거래 (2026-11-20) ---
+아직 안 팔렸어요=¿Aún está disponible para la venta?
+직접 만나서 거래하고 싶어요=Me gustaría conocerme en persona para hacer el intercambio.
+고장 난 데는 없어요=¿Tiene algo roto?
+사진 더 보내 줄 수 있어요=¿Puedes enviarme más fotos del mismo?
+가격 조금만 내려 줄 수 있어요=¿Podrías bajar un poco el precio?
+어디서 만날까요=¿Dónde deberíamos encontrarnos?
+먼저 물건 확인하고 돈 드릴게요=Primero comprobaré el artículo y luego te pagaré.

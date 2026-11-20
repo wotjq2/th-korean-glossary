@@ -20779,3 +20779,12 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 한 달 수강료가 얼마예요=Quanto costa la retta per un mese?
 수업 빠지면 보강해 줘요=Se perdo una lezione, posso recuperarla più tardi?
 학생 비자도 받을 수 있어요=Posso ottenere un visto per studenti anche tramite voi?
+
+# --- 대화 91: 중고 거래 (2026-11-20) ---
+아직 안 팔렸어요=È ancora disponibile per la vendita?
+직접 만나서 거래하고 싶어요=Vorrei incontrarci di persona per effettuare lo scambio
+고장 난 데는 없어요=C'è qualcosa di rotto sopra?
+사진 더 보내 줄 수 있어요=Puoi mandarmi altre foto?
+가격 조금만 내려 줄 수 있어요=Potresti abbassare un po' il prezzo?
+어디서 만날까요=Dove dovremmo incontrarci?
+먼저 물건 확인하고 돈 드릴게요=Prima controllerò l'articolo e poi ti pagherò

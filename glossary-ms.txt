@@ -11503,3 +11503,12 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 한 달 수강료가 얼마예요=Berapa kos tuisyen untuk sebulan?
 수업 빠지면 보강해 줘요=Jika saya terlepas kelas, bolehkah saya menebusnya kemudian?
 학생 비자도 받을 수 있어요=Bolehkah saya juga mendapatkan visa pelajar melalui anda?
+
+# --- 대화 91: 중고 거래 (2026-11-20) ---
+아직 안 팔렸어요=Adakah ia masih boleh dijual?
+직접 만나서 거래하고 싶어요=Saya ingin bertemu secara peribadi untuk membuat pertukaran
+고장 난 데는 없어요=Adakah terdapat apa-apa yang rosak padanya?
+사진 더 보내 줄 수 있어요=Bolehkah anda menghantar saya lebih banyak fotonya?
+가격 조금만 내려 줄 수 있어요=Bolehkah anda menurunkan harga sedikit?
+어디서 만날까요=Di mana kita harus bertemu?
+먼저 물건 확인하고 돈 드릴게요=Saya akan menyemak barang itu dahulu dan kemudian membayar anda

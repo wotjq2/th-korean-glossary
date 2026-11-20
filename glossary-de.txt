@@ -24688,3 +24688,12 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 한 달 수강료가 얼마예요=Wie hoch sind die Studiengebühren für einen Monat?
 수업 빠지면 보강해 줘요=Wenn ich einen Kurs verpasse, kann ich ihn später nachholen?
 학생 비자도 받을 수 있어요=Kann ich über Sie auch ein Studentenvisum bekommen?
+
+# --- 대화 91: 중고 거래 (2026-11-20) ---
+아직 안 팔렸어요=Steht es noch zum Verkauf?
+직접 만나서 거래하고 싶어요=Ich würde mich gerne persönlich treffen, um den Austausch zu ermöglichen
+고장 난 데는 없어요=Ist daran etwas kaputt?
+사진 더 보내 줄 수 있어요=Kannst du mir mehr Fotos davon schicken?
+가격 조금만 내려 줄 수 있어요=Könnten Sie den Preis etwas senken?
+어디서 만날까요=Wo sollen wir uns treffen?
+먼저 물건 확인하고 돈 드릴게요=Ich prüfe den Artikel zunächst und bezahle dann

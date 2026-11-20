@@ -7504,3 +7504,12 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 한 달 수강료가 얼마예요=Magkano ang tuition sa isang buwan?
 수업 빠지면 보강해 줘요=Kung lumiban ako sa isang klase, maaari ba akong bumawi mamaya?
 학생 비자도 받을 수 있어요=Maaari din ba akong makakuha ng student visa sa pamamagitan mo?
+
+# --- 대화 91: 중고 거래 (2026-11-20) ---
+아직 안 팔렸어요=Available pa po ba ito for sale?
+직접 만나서 거래하고 싶어요=Gusto kong makipagkita sa personal para makipagpalitan
+고장 난 데는 없어요=May sira ba dito?
+사진 더 보내 줄 수 있어요=Maaari mo bang padalhan ako ng higit pang mga larawan nito?
+가격 조금만 내려 줄 수 있어요=Maaari mo bang babaan ng kaunti ang presyo?
+어디서 만날까요=Saan tayo dapat magkita?
+먼저 물건 확인하고 돈 드릴게요=Susuriin ko muna ang item at pagkatapos ay babayaran kita
