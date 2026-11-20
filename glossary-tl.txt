@@ -7345,3 +7345,17 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 스캔해서 이메일로 보내 주세요=Mangyaring i-scan ito at ipadala sa akin sa pamamagitan ng email
 코팅도 돼요=Maaari mo ring takpan ang papel ng isang plastic laminate?
 양면으로 해 주세요=Paki-print ito sa magkabilang gilid ng papel
+
+# --- 대화 78: 골프 (2026-11-20) ---
+내일 오전 티타임 예약하고 싶어요=Gusto kong mag-book ng oras ng golf tee para bukas ng umaga
+그린피가 얼마예요=Magkano ang halaga para maglaro ng isang round ng golf dito?
+캐디피는 따로예요=Ang caddy fee ba ay sinisingil nang hiwalay?
+골프채 빌릴 수 있어요=Maaari ba akong magrenta ng isang set ng mga golf club?
+카트 타고 가도 돼요=Maaari ba tayong sumakay sa isang golf cart?
+공이 어디로 갔어요=Saan napunta ang golf ball ko?
+공 잃어버렸어요=Nawala ang golf ball ko
+그린까지 몇 미터 남았어요=Ilang metro ito sa butas?
+그린이 빨라요=Mabilis na gumulong ang bola sa putting green na ito
+다음 홀로 가요=Pumunta tayo sa susunod na golf hole
+오늘 공이 잘 맞네=Mahusay akong natamaan ang bola ng golf ngayon
+캐디 팁은 얼마 줘요=Magkano ang dapat kong tip sa golf caddie?

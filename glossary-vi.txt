@@ -41270,3 +41270,17 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 스캔해서 이메일로 보내 주세요=Bạn scan rồi gửi qua email cho mình nhé
 코팅도 돼요=Bạn cũng có thể phủ giấy bằng một tấm nhựa mỏng không?
 양면으로 해 주세요=Vui lòng in nó trên cả hai mặt của tờ giấy
+
+# --- 대화 78: 골프 (2026-11-20) ---
+내일 오전 티타임 예약하고 싶어요=Tôi muốn đặt lịch chơi gôn vào sáng mai
+그린피가 얼마예요=Chơi một vòng golf ở đây tốn bao nhiêu tiền?
+캐디피는 따로예요=Phí caddie có được tính riêng không?
+골프채 빌릴 수 있어요=Tôi có thể thuê một bộ gậy chơi gôn không?
+카트 타고 가도 돼요=Chúng ta có thể đi xe golf được không?
+공이 어디로 갔어요=Quả bóng golf của tôi đã đi đâu?
+공 잃어버렸어요=Tôi bị mất quả bóng gôn
+그린까지 몇 미터 남았어요=Từ đây tới hố bao nhiêu mét?
+그린이 빨라요=Bóng lăn nhanh trên khu lỗ gôn này
+다음 홀로 가요=Chúng ta hãy đến lỗ golf tiếp theo
+오늘 공이 잘 맞네=Hôm nay tôi đánh bóng gôn tốt lắm
+캐디 팁은 얼마 줘요=Tôi nên boa bao nhiêu cho caddie chơi gôn?

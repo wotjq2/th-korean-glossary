@@ -23481,3 +23481,17 @@ IT 쪽에서 일해요=Pracuję w IT
 스캔해서 이메일로 보내 주세요=Proszę zeskanować go i przesłać mi na maila
 코팅도 돼요=Czy można również pokryć papier laminatem z tworzywa sztucznego?
 양면으로 해 주세요=Proszę wydrukować go po obu stronach papieru
+
+# --- 대화 78: 골프 (2026-11-20) ---
+내일 오전 티타임 예약하고 싶어요=Chciałbym zarezerwować grę w golfa na jutro rano
+그린피가 얼마예요=Ile kosztuje gra w golfa tutaj?
+캐디피는 따로예요=Czy opłata za caddy jest pobierana osobno?
+골프채 빌릴 수 있어요=Czy mogę wypożyczyć zestaw kijów golfowych?
+카트 타고 가도 돼요=Czy możemy jeździć wózkiem golfowym?
+공이 어디로 갔어요=Gdzie podziała się moja piłka golfowa?
+공 잃어버렸어요=Zgubiłem piłeczkę golfową
+그린까지 몇 미터 남았어요=Ile metrów jest do dziury?
+그린이 빨라요=Piłka toczy się szybko na tym greenie
+다음 홀로 가요=Przejdźmy do następnego dołka golfowego
+오늘 공이 잘 맞네=Dzisiaj dobrze uderzam piłeczkę golfową
+캐디 팁은 얼마 줘요=Ile powinienem przechylić wózek golfowy?

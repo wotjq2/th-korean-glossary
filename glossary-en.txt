@@ -52636,3 +52636,17 @@ IT 쪽에서 일해요=I work in IT
 스캔해서 이메일로 보내 주세요=Please scan it and send it to me by email
 코팅도 돼요=Can you also cover the paper with a plastic laminate?
 양면으로 해 주세요=Please print it on both sides of the paper
+
+# --- 대화 78: 골프 (2026-11-20) ---
+내일 오전 티타임 예약하고 싶어요=I would like to book a golf tee time for tomorrow morning
+그린피가 얼마예요=How much does it cost to play a round of golf here?
+캐디피는 따로예요=Is the caddie fee charged separately?
+골프채 빌릴 수 있어요=Can I rent a set of golf clubs?
+카트 타고 가도 돼요=Can we ride in a golf cart?
+공이 어디로 갔어요=Where did my golf ball go?
+공 잃어버렸어요=I lost my golf ball
+그린까지 몇 미터 남았어요=How many meters is it to the hole?
+그린이 빨라요=The ball rolls fast on this putting green
+다음 홀로 가요=Let's go to the next golf hole
+오늘 공이 잘 맞네=I'm hitting the golf ball well today
+캐디 팁은 얼마 줘요=How much should I tip the golf caddie?

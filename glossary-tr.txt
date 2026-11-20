@@ -17592,3 +17592,17 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 스캔해서 이메일로 보내 주세요=Lütfen tarayın ve bana e-postayla gönderin
 코팅도 돼요=Kağıdı plastik laminatla da kaplayabilir misiniz?
 양면으로 해 주세요=Lütfen kağıdın her iki yüzüne de yazdırın
+
+# --- 대화 78: 골프 (2026-11-20) ---
+내일 오전 티타임 예약하고 싶어요=Yarın sabah için golf sahası rezervasyonu yaptırmak istiyorum
+그린피가 얼마예요=Burada bir tur golf oynamanın maliyeti ne kadar?
+캐디피는 따로예요=Caddy ücreti ayrıca ücretlendiriliyor mu?
+골프채 빌릴 수 있어요=Bir dizi golf sopası kiralayabilir miyim?
+카트 타고 가도 돼요=Golf arabasına binebilir miyiz?
+공이 어디로 갔어요=Golf topum nereye gitti?
+공 잃어버렸어요=Golf topumu kaybettim
+그린까지 몇 미터 남았어요=Deliğe kaç metre var?
+그린이 빨라요=Bu green üzerinde top hızlı yuvarlanıyor
+다음 홀로 가요=Hadi bir sonraki golf deliğine gidelim
+오늘 공이 잘 맞네=Bugün golf topuna iyi vuruyorum
+캐디 팁은 얼마 줘요=Golf arabasına ne kadar bahşiş vermeliyim?

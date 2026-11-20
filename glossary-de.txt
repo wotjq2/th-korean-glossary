@@ -24529,3 +24529,17 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 스캔해서 이메일로 보내 주세요=Bitte scannen Sie es ein und senden Sie es mir per E-Mail
 코팅도 돼요=Kann man das Papier auch mit einem Kunststofflaminat überziehen?
 양면으로 해 주세요=Bitte drucken Sie es auf beiden Seiten des Papiers aus
+
+# --- 대화 78: 골프 (2026-11-20) ---
+내일 오전 티타임 예약하고 싶어요=Ich möchte für morgen Vormittag eine Golf-Abschlagszeit buchen
+그린피가 얼마예요=Wie viel kostet es, hier eine Runde Golf zu spielen?
+캐디피는 따로예요=Wird die Caddy-Gebühr separat berechnet?
+골프채 빌릴 수 있어요=Kann ich einen Satz Golfschläger mieten?
+카트 타고 가도 돼요=Können wir in einem Golfwagen fahren?
+공이 어디로 갔어요=Wo ist mein Golfball geblieben?
+공 잃어버렸어요=Ich habe meinen Golfball verloren
+그린까지 몇 미터 남았어요=Wie viele Meter sind es bis zum Loch?
+그린이 빨라요=Auf diesem Putting Green rollt der Ball schnell
+다음 홀로 가요=Auf geht's zum nächsten Golfloch
+오늘 공이 잘 맞네=Ich treffe den Golfball heute gut
+캐디 팁은 얼마 줘요=Wie viel Trinkgeld sollte ich dem Golf-Caddie geben?

@@ -48107,3 +48107,17 @@ IT 쪽에서 일해요=yo trabajo en TI
 스캔해서 이메일로 보내 주세요=Escanéalo y envíamelo por correo electrónico.
 코팅도 돼요=¿También se puede cubrir el papel con un laminado plástico?
 양면으로 해 주세요=Por favor imprímelo en ambas caras del papel.
+
+# --- 대화 78: 골프 (2026-11-20) ---
+내일 오전 티타임 예약하고 싶어요=Me gustaría reservar una hora de salida de golf para mañana por la mañana.
+그린피가 얼마예요=¿Cuánto cuesta jugar una partida de golf aquí?
+캐디피는 따로예요=¿La tarifa del caddie se cobra por separado?
+골프채 빌릴 수 있어요=¿Puedo alquilar un juego de palos de golf?
+카트 타고 가도 돼요=¿Podemos viajar en un carrito de golf?
+공이 어디로 갔어요=¿A dónde fue mi pelota de golf?
+공 잃어버렸어요=perdí mi pelota de golf
+그린까지 몇 미터 남았어요=¿Cuantos metros hay hasta el hoyo?
+그린이 빨라요=La pelota rueda rápido en este green.
+다음 홀로 가요=Vayamos al siguiente hoyo de golf.
+오늘 공이 잘 맞네=Estoy golpeando bien la pelota de golf hoy.
+캐디 팁은 얼마 줘요=¿Cuánto debo darle propina al caddie de golf?

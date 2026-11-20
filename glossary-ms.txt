@@ -11344,3 +11344,17 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 스캔해서 이메일로 보내 주세요=Sila imbas dan hantar kepada saya melalui e-mel
 코팅도 돼요=Bolehkah anda juga menutup kertas dengan lamina plastik?
 양면으로 해 주세요=Sila cetak pada kedua-dua belah kertas
+
+# --- 대화 78: 골프 (2026-11-20) ---
+내일 오전 티타임 예약하고 싶어요=Saya ingin menempah masa tee golf untuk pagi esok
+그린피가 얼마예요=Berapakah kos untuk bermain satu pusingan golf di sini?
+캐디피는 따로예요=Adakah bayaran caddy dikenakan secara berasingan?
+골프채 빌릴 수 있어요=Bolehkah saya menyewa satu set kayu golf?
+카트 타고 가도 돼요=Bolehkah kita menaiki kereta golf?
+공이 어디로 갔어요=Ke mana perginya bola golf saya?
+공 잃어버렸어요=Saya kehilangan bola golf saya
+그린까지 몇 미터 남았어요=Berapa meter ke lubang itu?
+그린이 빨라요=Bola bergolek dengan pantas pada putting green ini
+다음 홀로 가요=Mari pergi ke lubang golf seterusnya
+오늘 공이 잘 맞네=Saya memukul bola golf dengan baik hari ini
+캐디 팁은 얼마 줘요=Berapa banyak yang perlu saya berikan kepada caddy golf?

@@ -20620,3 +20620,17 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 스캔해서 이메일로 보내 주세요=Per favore scansionalo e inviamelo via email
 코팅도 돼요=Si può rivestire la carta anche con un laminato plastico?
 양면으로 해 주세요=Si prega di stamparlo su entrambi i lati del foglio
+
+# --- 대화 78: 골프 (2026-11-20) ---
+내일 오전 티타임 예약하고 싶어요=Vorrei prenotare un tee time di golf per domani mattina
+그린피가 얼마예요=Quanto costa giocare una partita a golf qui?
+캐디피는 따로예요=La tariffa del caddy viene addebitata separatamente?
+골프채 빌릴 수 있어요=Posso noleggiare un set di mazze da golf?
+카트 타고 가도 돼요=Possiamo viaggiare su un carrello da golf?
+공이 어디로 갔어요=Dov'è finita la mia pallina da golf?
+공 잃어버렸어요=Ho perso la pallina da golf
+그린까지 몇 미터 남았어요=Quanti metri mancano al buco?
+그린이 빨라요=La palla rotola velocemente su questo putting green
+다음 홀로 가요=Andiamo alla prossima buca da golf
+오늘 공이 잘 맞네=Colpisco bene la pallina da golf oggi
+캐디 팁은 얼마 줘요=Quanto devo mancia al caddie da golf?
