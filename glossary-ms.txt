@@ -11468,3 +11468,14 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 주차 딱지 붙었어요=Saya mendapat denda kerana letak kereta haram
 오토바이 어디에 세워요=Di mana saya boleh meletakkan motosikal saya?
 출구가 어느 쪽이에요=Jalan keluar yang mana?
+
+# --- 대화 88: 과일·생선 가게 (2026-11-20) ---
+이거 오늘 들어온 거예요=Adakah ini dihantar ke kedai hari ini?
+잘 익은 걸로 골라 주세요=Sila pilih buah yang sudah masak dan sedia untuk dimakan
+내일 먹을 거예요=Saya akan makan esok
+껍질 까 주세요=Tolong kupas kulit untuk saya
+먹기 좋게 잘라 주세요=Sila potong menjadi kepingan bersaiz gigitan
+생선 손질해 주세요=Sila keluarkan sisik dan bahagian dalam ikan
+이거 달아요=Adakah ini rasa manis?
+섞어서 담아도 돼요=Bolehkah saya mencampurkan pelbagai jenis dalam satu beg?
+두 개 사면 더 싸요=Adakah lebih murah jika saya membeli dua?

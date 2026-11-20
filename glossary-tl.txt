@@ -7469,3 +7469,15 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 주차 딱지 붙었어요=Nakatanggap ako ng multa para sa illegal parking
 오토바이 어디에 세워요=Saan ko pwedeng iparada ang motor ko?
 출구가 어느 쪽이에요=Aling daan ang labasan?
+
+# --- 대화 88: 과일·생선 가게 (2026-11-20) ---
+이거 오늘 들어온 거예요=Nadeliver ba ito sa shop ngayon?
+잘 익은 걸로 골라 주세요=Mangyaring pumili ng prutas na hinog at handa nang kainin
+내일 먹을 거예요=Bukas na lang ako kakain nito
+껍질 까 주세요=Pakibalatan ang balat para sa akin
+먹기 좋게 잘라 주세요=Mangyaring i-cut ito sa kagat-laki ng mga piraso
+생선 손질해 주세요=Mangyaring alisin ang mga kaliskis at ang loob ng isda
+맛봐도 돼요=Pwede ba akong matikman?
+이거 달아요=Matamis ba ang lasa nito?
+섞어서 담아도 돼요=Maaari ba akong maghalo ng iba't ibang uri sa isang bag?
+두 개 사면 더 싸요=Mas mura ba kung dalawa ang bibilhin ko?

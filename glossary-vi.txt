@@ -41394,3 +41394,15 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 주차 딱지 붙었어요=Tôi bị phạt vì đỗ xe trái phép
 오토바이 어디에 세워요=Tôi có thể đỗ xe máy ở đâu?
 출구가 어느 쪽이에요=Lối ra nào?
+
+# --- 대화 88: 과일·생선 가게 (2026-11-20) ---
+이거 오늘 들어온 거예요=Hôm nay cái này đã được giao đến cửa hàng chưa?
+잘 익은 걸로 골라 주세요=Vui lòng chọn trái cây chín và sẵn sàng để ăn
+내일 먹을 거예요=Ngày mai tôi sẽ ăn nó
+껍질 까 주세요=Hãy lột da ra cho tôi
+먹기 좋게 잘라 주세요=Hãy cắt nó thành miếng vừa ăn
+생선 손질해 주세요=Hãy loại bỏ vảy và nội tạng của cá
+맛봐도 돼요=Tôi có thể nếm thử được không?
+이거 달아요=Cái này có vị ngọt không?
+섞어서 담아도 돼요=Tôi có thể trộn nhiều loại khác nhau trong một túi không?
+두 개 사면 더 싸요=Mua 2 cái có rẻ hơn không?

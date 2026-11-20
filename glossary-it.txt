@@ -20744,3 +20744,15 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 주차 딱지 붙었어요=Ho ricevuto una multa per parcheggio abusivo
 오토바이 어디에 세워요=Dove posso parcheggiare la mia moto?
 출구가 어느 쪽이에요=Da che parte è l'uscita?
+
+# --- 대화 88: 과일·생선 가게 (2026-11-20) ---
+이거 오늘 들어온 거예요=È stato consegnato al negozio oggi?
+잘 익은 걸로 골라 주세요=Scegli frutta matura e pronta da mangiare
+내일 먹을 거예요=Lo mangerò domani
+껍질 까 주세요=Per favore, toglimi la pelle
+먹기 좋게 잘라 주세요=Per favore tagliatelo a pezzetti
+생선 손질해 주세요=Si prega di rimuovere le squame e le interiora del pesce
+맛봐도 돼요=Posso avere un assaggio?
+이거 달아요=Ha un sapore dolce?
+섞어서 담아도 돼요=Posso mescolare tipi diversi in un sacchetto?
+두 개 사면 더 싸요=Costa meno se ne compro due?

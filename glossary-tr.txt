@@ -17716,3 +17716,15 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 주차 딱지 붙었어요=Yasadışı park cezası yedim
 오토바이 어디에 세워요=Motosikletimi nereye park edebilirim?
 출구가 어느 쪽이에요=Çıkış ne tarafta?
+
+# --- 대화 88: 과일·생선 가게 (2026-11-20) ---
+이거 오늘 들어온 거예요=Bu bugün mağazaya teslim edildi mi?
+잘 익은 걸로 골라 주세요=Lütfen olgun ve yemeye hazır meyveleri seçin
+내일 먹을 거예요=yarın yiyeceğim
+껍질 까 주세요=Lütfen benim için derisini soyun
+먹기 좋게 잘라 주세요=Lütfen ısırık büyüklüğünde parçalar halinde kesin
+생선 손질해 주세요=Lütfen balığın pullarını ve içini çıkarın.
+맛봐도 돼요=Tadına bakabilir miyim?
+이거 달아요=Bunun tadı tatlı mı?
+섞어서 담아도 돼요=Farklı türleri tek bir torbada karıştırabilir miyim?
+두 개 사면 더 싸요=İki tane alsam daha mı ucuz olur?

@@ -22592,3 +22592,14 @@ IT 쪽에서 일해요=Eu trabalho em TI
 주차 딱지 붙었어요=Recebi uma multa por estacionamento ilegal
 오토바이 어디에 세워요=Onde posso estacionar minha moto?
 출구가 어느 쪽이에요=Qual é o caminho da saída?
+
+# --- 대화 88: 과일·생선 가게 (2026-11-20) ---
+이거 오늘 들어온 거예요=Isso foi entregue na loja hoje?
+잘 익은 걸로 골라 주세요=Escolha frutas maduras e prontas para comer
+내일 먹을 거예요=vou comer amanhã
+껍질 까 주세요=Por favor, tire a pele para mim
+먹기 좋게 잘라 주세요=Por favor, corte-o em pedaços pequenos
+생선 손질해 주세요=Por favor, remova as escamas e o interior do peixe
+이거 달아요=Isso tem um gosto doce?
+섞어서 담아도 돼요=Posso misturar tipos diferentes em um saco?
+두 개 사면 더 싸요=É mais barato se eu comprar dois?

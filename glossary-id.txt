@@ -38618,3 +38618,15 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 주차 딱지 붙었어요=Saya mendapat denda karena parkir liar
 오토바이 어디에 세워요=Dimana saya bisa memarkir sepeda motor saya?
 출구가 어느 쪽이에요=Jalan keluarnya ke arah mana?
+
+# --- 대화 88: 과일·생선 가게 (2026-11-20) ---
+이거 오늘 들어온 거예요=Apakah ini dikirim ke toko hari ini?
+잘 익은 걸로 골라 주세요=Silakan pilih buah yang sudah matang dan siap disantap
+내일 먹을 거예요=Saya akan memakannya besok
+껍질 까 주세요=Tolong kupas kulitnya untukku
+먹기 좋게 잘라 주세요=Silakan potong menjadi potongan-potongan kecil
+생선 손질해 주세요=Silakan buang sisik dan bagian dalam ikannya
+맛봐도 돼요=Bolehkah saya mencicipinya?
+이거 달아요=Apakah ini terasa manis?
+섞어서 담아도 돼요=Bisakah saya mencampur berbagai jenis dalam satu tas?
+두 개 사면 더 싸요=Apakah lebih murah jika saya membeli dua?
