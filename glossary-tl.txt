@@ -7611,3 +7611,14 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 자연분만 하고 싶어요=Gusto kong magkaroon ng natural na panganganak
 모유 수유 하고 있어요=Pinapapasuso ko ang aking sanggol
 순산하세요=Sana ay magkaroon ka ng ligtas at madaling panganganak
+
+# --- 대화 101: 은퇴 생활 (2026-11-21) ---
+작년에 은퇴했어요=Nagretiro ako noong nakaraang taon
+은퇴하고 태국에서 살고 있어요=Ako ay nagretiro na at nakatira sa Thailand
+은퇴 비자 받으려면 뭐가 필요해요=Ano ang kailangan ko para makakuha ng retirement visa?
+연금으로 생활해요=Nabubuhay ako sa aking pensiyon
+매달 생활비가 얼마나 들어요=Magkano ang gastos upang manirahan dito bawat buwan?
+여기 의료비가 싸요=Mura ba magpatingin sa doktor dito?
+요즘 시간이 많아요=Marami akong libreng oras ngayon
+손주가 보고 싶어요=Miss ko na mga apo ko
+같이 산책할 친구가 있으면 좋겠어요=Sana may kaibigan akong makakasama sa paglalakad

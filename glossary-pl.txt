@@ -23749,3 +23749,14 @@ IT 쪽에서 일해요=Pracuję w IT
 자연분만 하고 싶어요=Chcę urodzić naturalnie
 모유 수유 하고 있어요=Karmię piersią moje dziecko
 순산하세요=Mam nadzieję, że będziesz mieć bezpieczny i łatwy poród
+
+# --- 대화 101: 은퇴 생활 (2026-11-21) ---
+작년에 은퇴했어요=W zeszłym roku przeszedłem na emeryturę
+은퇴하고 태국에서 살고 있어요=Jestem na emeryturze i mieszkam w Tajlandii
+은퇴 비자 받으려면 뭐가 필요해요=Czego potrzebuję, aby otrzymać wizę emerytalną?
+연금으로 생활해요=Żyję z emerytury
+매달 생활비가 얼마나 들어요=Ile kosztuje tu życie co miesiąc?
+여기 의료비가 싸요=Czy wizyta u lekarza jest tu tania?
+요즘 시간이 많아요=Obecnie mam dużo wolnego czasu
+손주가 보고 싶어요=Tęsknię za moimi wnukami
+같이 산책할 친구가 있으면 좋겠어요=Chciałabym mieć przyjaciela, z którym mogłabym chodzić na spacery

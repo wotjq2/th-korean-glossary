@@ -38761,3 +38761,14 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 자연분만 하고 싶어요=Saya ingin melahirkan secara alami
 모유 수유 하고 있어요=Saya sedang menyusui bayi saya
 순산하세요=Saya harap Anda memiliki persalinan yang aman dan mudah
+
+# --- 대화 101: 은퇴 생활 (2026-11-21) ---
+작년에 은퇴했어요=Saya pensiun tahun lalu
+은퇴하고 태국에서 살고 있어요=Saya sudah pensiun dan tinggal di Thailand
+은퇴 비자 받으려면 뭐가 필요해요=Apa yang saya perlukan untuk mendapatkan visa pensiun?
+연금으로 생활해요=Saya hidup dari uang pensiun saya
+매달 생활비가 얼마나 들어요=Berapa biaya tinggal di sini setiap bulannya?
+여기 의료비가 싸요=Apakah berobat ke dokter di sini murah?
+요즘 시간이 많아요=Saya punya banyak waktu luang hari ini
+손주가 보고 싶어요=Saya rindu cucu-cucu saya
+같이 산책할 친구가 있으면 좋겠어요=Aku berharap aku punya teman untuk diajak jalan-jalan

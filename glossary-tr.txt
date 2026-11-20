@@ -17860,3 +17860,14 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 자연분만 하고 싶어요=Doğal doğum yapmak istiyorum
 모유 수유 하고 있어요=bebeğimi emziriyorum
 순산하세요=Umarım sorunsuz ve sorunsuz bir doğum geçirirsiniz
+
+# --- 대화 101: 은퇴 생활 (2026-11-21) ---
+작년에 은퇴했어요=Geçen yıl emekli oldum
+은퇴하고 태국에서 살고 있어요=Emekliyim ve Tayland'da yaşıyorum
+은퇴 비자 받으려면 뭐가 필요해요=Emeklilik vizesi almak için neye ihtiyacım var?
+연금으로 생활해요=Emekli maaşımla yaşıyorum
+매달 생활비가 얼마나 들어요=Burada yaşamanın aylık maliyeti ne kadar?
+여기 의료비가 싸요=Burada doktora gitmek ucuz mu?
+요즘 시간이 많아요=Bu aralar çok boş zamanım var
+손주가 보고 싶어요=Torunlarımı özledim
+같이 산책할 친구가 있으면 좋겠어요=Keşke birlikte yürüyüşe çıkabileceğim bir arkadaşım olsaydı

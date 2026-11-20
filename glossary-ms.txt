@@ -11612,3 +11612,14 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 자연분만 하고 싶어요=Saya ingin melahirkan secara semula jadi
 모유 수유 하고 있어요=Saya sedang menyusukan bayi saya
 순산하세요=Semoga selamat bersalin dan dipermudahkan
+
+# --- 대화 101: 은퇴 생활 (2026-11-21) ---
+작년에 은퇴했어요=Saya bersara tahun lepas
+은퇴하고 태국에서 살고 있어요=Saya sudah bersara dan tinggal di Thailand
+은퇴 비자 받으려면 뭐가 필요해요=Apakah yang saya perlukan untuk mendapatkan visa persaraan?
+연금으로 생활해요=Saya hidup dengan pencen saya
+매달 생활비가 얼마나 들어요=Berapakah kos untuk tinggal di sini setiap bulan?
+여기 의료비가 싸요=Adakah murah untuk berjumpa doktor di sini?
+요즘 시간이 많아요=Saya mempunyai banyak masa lapang hari ini
+손주가 보고 싶어요=Saya rindukan anak cucu saya
+같이 산책할 친구가 있으면 좋겠어요=Saya harap saya ada kawan untuk berjalan-jalan

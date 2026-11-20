@@ -52904,3 +52904,14 @@ IT 쪽에서 일해요=I work in IT
 자연분만 하고 싶어요=I want to have a natural birth
 모유 수유 하고 있어요=I am breastfeeding my baby
 순산하세요=I hope you have a safe and easy childbirth
+
+# --- 대화 101: 은퇴 생활 (2026-11-21) ---
+작년에 은퇴했어요=I retired last year
+은퇴하고 태국에서 살고 있어요=I am retired and living in Thailand
+은퇴 비자 받으려면 뭐가 필요해요=What do I need to get a retirement visa?
+연금으로 생활해요=I live on my pension
+매달 생활비가 얼마나 들어요=How much does it cost to live here each month?
+여기 의료비가 싸요=Is it cheap to see a doctor here?
+요즘 시간이 많아요=I have a lot of free time these days
+손주가 보고 싶어요=I miss my grandchildren
+같이 산책할 친구가 있으면 좋겠어요=I wish I had a friend to go for walks with

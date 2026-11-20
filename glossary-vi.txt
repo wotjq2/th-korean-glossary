@@ -41538,3 +41538,14 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 자연분만 하고 싶어요=Tôi muốn sinh thường
 모유 수유 하고 있어요=Tôi đang cho con bú
 순산하세요=Chúc bạn sinh con an toàn và dễ dàng
+
+# --- 대화 101: 은퇴 생활 (2026-11-21) ---
+작년에 은퇴했어요=Tôi đã nghỉ hưu năm ngoái
+은퇴하고 태국에서 살고 있어요=Tôi đã nghỉ hưu và sống ở Thái Lan
+은퇴 비자 받으려면 뭐가 필요해요=Tôi cần những gì để có được thị thực nghỉ hưu?
+연금으로 생활해요=Tôi sống bằng lương hưu của mình
+매달 생활비가 얼마나 들어요=Sống ở đây mỗi tháng tốn bao nhiêu tiền?
+여기 의료비가 싸요=Đi khám bác sĩ ở đây có rẻ không?
+요즘 시간이 많아요=dạo này tôi có nhiều thời gian rảnh
+손주가 보고 싶어요=Tôi nhớ các cháu của tôi
+같이 산책할 친구가 있으면 좋겠어요=Ước gì có một người bạn để đi dạo cùng

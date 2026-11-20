@@ -48157,3 +48157,14 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 자연분만 하고 싶어요=Je veux avoir un accouchement naturel
 모유 수유 하고 있어요=J'allaite mon bébé
 순산하세요=J'espère que vous aurez un accouchement sûr et facile
+
+# --- 대화 101: 은퇴 생활 (2026-11-21) ---
+작년에 은퇴했어요=J'ai pris ma retraite l'année dernière
+은퇴하고 태국에서 살고 있어요=Je suis retraité et vis en Thaïlande
+은퇴 비자 받으려면 뭐가 필요해요=De quoi ai-je besoin pour obtenir un visa de retraite ?
+연금으로 생활해요=Je vis de ma pension
+매달 생활비가 얼마나 들어요=Combien ça coûte de vivre ici chaque mois ?
+여기 의료비가 싸요=Est-ce bon marché de consulter un médecin ici ?
+요즘 시간이 많아요=J'ai beaucoup de temps libre ces jours-ci
+손주가 보고 싶어요=Mes petits-enfants me manquent
+같이 산책할 친구가 있으면 좋겠어요=J'aurais aimé avoir un ami avec qui faire une promenade
