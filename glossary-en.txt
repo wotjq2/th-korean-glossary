@@ -52688,3 +52688,16 @@ IT 쪽에서 일해요=I work in IT
 올라가고 싶어요=I want to go back up to the surface
 물고기가 진짜 많아요=There are so many fish
 수중 사진도 찍어 줘요=Do you take underwater photos too?
+
+# --- 대화 82: 쿠킹 클래스 (2026-11-20) ---
+쿠킹 클래스 예약하고 싶어요=I would like to book a cooking class
+몇 가지 요리를 배워요=How many dishes will we learn to cook?
+시장도 같이 가요=Do we also go to the market together?
+고수는 빼고 만들어도 돼요=Can I make it without cilantro?
+이거 다음에 넣어요=Do I add this next?
+불을 얼마나 세게 해요=How high should the heat be?
+이거 얼마나 볶아요=How long do I stir-fry this?
+맛 좀 봐 주세요=Please taste this for me
+너무 짜게 됐어요=It turned out too salty
+레시피 받을 수 있어요=Can I get a copy of the recipe?
+집에서도 만들어 볼게요=I will try making it at home too

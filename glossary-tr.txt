@@ -17644,3 +17644,16 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 올라가고 싶어요=Yüzeye geri dönmek istiyorum
 물고기가 진짜 많아요=O kadar çok balık var ki
 수중 사진도 찍어 줘요=Sualtı fotoğrafları da çekiyor musunuz?
+
+# --- 대화 82: 쿠킹 클래스 (2026-11-20) ---
+쿠킹 클래스 예약하고 싶어요=Aşçılık kursuna rezervasyon yaptırmak istiyorum
+몇 가지 요리를 배워요=Kaç yemek pişirmeyi öğreneceğiz?
+시장도 같이 가요=Biz de birlikte pazara mı gidiyoruz?
+고수는 빼고 만들어도 돼요=Kişniş olmadan yapabilir miyim?
+이거 다음에 넣어요=Daha sonra bunu ekleyeyim mi?
+불을 얼마나 세게 해요=Isı ne kadar yüksek olmalı?
+이거 얼마나 볶아요=Bunu ne kadar süre karıştırarak kızartacağım?
+맛 좀 봐 주세요=Lütfen bunu benim için tat
+너무 짜게 됐어요=Çok tuzlu çıktı
+레시피 받을 수 있어요=Tarifin bir kopyasını alabilir miyim?
+집에서도 만들어 볼게요=Ben de evde yapmayı deneyeceğim

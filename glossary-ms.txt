@@ -11396,3 +11396,16 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 올라가고 싶어요=Saya mahu naik semula ke permukaan
 물고기가 진짜 많아요=Terdapat begitu banyak ikan
 수중 사진도 찍어 줘요=Adakah anda juga mengambil gambar dalam air?
+
+# --- 대화 82: 쿠킹 클래스 (2026-11-20) ---
+쿠킹 클래스 예약하고 싶어요=Saya ingin menempah kelas memasak
+몇 가지 요리를 배워요=Berapa banyak hidangan yang akan kita pelajari untuk memasak?
+시장도 같이 가요=Adakah kita juga pergi ke pasar bersama-sama?
+고수는 빼고 만들어도 돼요=Bolehkah saya membuatnya tanpa ketumbar?
+이거 다음에 넣어요=Adakah saya menambah ini seterusnya?
+불을 얼마나 세게 해요=Berapa tinggi sepatutnya kepanasan?
+이거 얼마나 볶아요=Berapa lama saya perlu menumis ini?
+맛 좀 봐 주세요=Sila rasa ini untuk saya
+너무 짜게 됐어요=Ternyata terlalu masin
+레시피 받을 수 있어요=Bolehkah saya mendapatkan salinan resipi?
+집에서도 만들어 볼게요=Saya akan cuba membuatnya di rumah juga

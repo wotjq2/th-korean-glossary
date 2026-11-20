@@ -41322,3 +41322,16 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 올라가고 싶어요=Tôi muốn quay trở lại bề mặt
 물고기가 진짜 많아요=Có rất nhiều cá
 수중 사진도 찍어 줘요=Bạn cũng chụp ảnh dưới nước à?
+
+# --- 대화 82: 쿠킹 클래스 (2026-11-20) ---
+쿠킹 클래스 예약하고 싶어요=Tôi muốn đăng ký một lớp học nấu ăn
+몇 가지 요리를 배워요=Chúng ta sẽ học nấu bao nhiêu món ăn?
+시장도 같이 가요=Chúng ta cũng đi chợ cùng nhau nhé?
+고수는 빼고 만들어도 돼요=Tôi có thể làm nó mà không cần rau mùi không?
+이거 다음에 넣어요=Tôi có thêm cái này tiếp theo không?
+불을 얼마나 세게 해요=Nhiệt độ nên cao đến mức nào?
+이거 얼마나 볶아요=Tôi xào món này trong bao lâu?
+맛 좀 봐 주세요=Hãy nếm thử cái này cho tôi
+너무 짜게 됐어요=Hoá ra mặn quá
+레시피 받을 수 있어요=Tôi có thể lấy một bản sao của công thức không?
+집에서도 만들어 볼게요=Tôi cũng sẽ thử làm nó ở nhà

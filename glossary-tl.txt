@@ -7397,3 +7397,16 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 올라가고 싶어요=Gusto kong bumalik sa ibabaw
 물고기가 진짜 많아요=Napakaraming isda
 수중 사진도 찍어 줘요=Kumukuha rin ba kayo ng mga larawan sa ilalim ng dagat?
+
+# --- 대화 82: 쿠킹 클래스 (2026-11-20) ---
+쿠킹 클래스 예약하고 싶어요=Gusto kong mag-book ng cooking class
+몇 가지 요리를 배워요=Ilang ulam ang matututunan nating lutuin?
+시장도 같이 가요=Sabay din ba tayong mamalengke?
+고수는 빼고 만들어도 돼요=Maaari ko bang gawin ito nang walang cilantro?
+이거 다음에 넣어요=Idadagdag ko ba ito sa susunod?
+불을 얼마나 세게 해요=Gaano dapat kataas ang init?
+이거 얼마나 볶아요=Gaano katagal ko i-stir-fry ito?
+맛 좀 봐 주세요=Pakitikim ito para sa akin
+너무 짜게 됐어요=Ito ay naging masyadong maalat
+레시피 받을 수 있어요=Maaari ba akong makakuha ng kopya ng recipe?
+집에서도 만들어 볼게요=Susubukan ko ring gawin ito sa bahay

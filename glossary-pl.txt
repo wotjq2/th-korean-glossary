@@ -23533,3 +23533,16 @@ IT 쪽에서 일해요=Pracuję w IT
 올라가고 싶어요=Chcę wrócić na powierzchnię
 물고기가 진짜 많아요=Jest tak wiele ryb
 수중 사진도 찍어 줘요=Czy robisz też zdjęcia pod wodą?
+
+# --- 대화 82: 쿠킹 클래스 (2026-11-20) ---
+쿠킹 클래스 예약하고 싶어요=Chciałbym zarezerwować lekcję gotowania
+몇 가지 요리를 배워요=Ile potraw nauczymy się gotować?
+시장도 같이 가요=Czy my też pójdziemy razem na rynek?
+고수는 빼고 만들어도 돼요=Czy mogę zrobić bez kolendry?
+이거 다음에 넣어요=Czy mam to dodać jako następne?
+불을 얼마나 세게 해요=Jak wysoka powinna być temperatura?
+이거 얼마나 볶아요=Jak długo mam to smażyć?
+맛 좀 봐 주세요=Proszę, posmakuj tego dla mnie
+너무 짜게 됐어요=Okazało się zbyt słone
+레시피 받을 수 있어요=Czy mogę otrzymać kopię przepisu?
+집에서도 만들어 볼게요=Spróbuję też zrobić w domu
