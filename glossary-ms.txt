@@ -11523,3 +11523,14 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 기부하고 싶어요=Saya ingin membuat sumbangan
 안 쓰는 옷 기부해도 돼요=Bolehkah saya menderma pakaian yang tidak lagi saya gunakan?
 영수증 발급돼요=Bolehkah anda mengeluarkan resit?
+
+# --- 대화 93: 공연·콘서트 (2026-11-20) ---
+남은 좌석 있어요=Adakah terdapat sebarang tempat duduk untuk persembahan itu?
+무대 가까운 자리로 주세요=Tolong beri saya tempat duduk berdekatan dengan pentas
+모바일 티켓도 돼요=Bolehkah saya menggunakan tiket mudah alih?
+공연 몇 시간 해요=Berapa lama tayangannya?
+중간에 쉬는 시간 있어요=Adakah terdapat rehat semasa persembahan?
+사진 찍어도 되는 공연이에요=Adakah fotografi dibenarkan semasa pertunjukan ini?
+가방 맡길 데 있어요=Adakah terdapat tempat di mana saya boleh meninggalkan beg saya?
+응원봉 어디서 사요=Di manakah saya boleh membeli tongkat cahaya untuk konsert itu?
+분위기 최고였어=Suasana sangat mengagumkan

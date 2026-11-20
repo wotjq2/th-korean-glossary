@@ -17771,3 +17771,14 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 기부하고 싶어요=bağış yapmak istiyorum
 안 쓰는 옷 기부해도 돼요=Artık kullanmadığım kıyafetleri bağışlayabilir miyim?
 영수증 발급돼요=Makbuz verebilir misiniz?
+
+# --- 대화 93: 공연·콘서트 (2026-11-20) ---
+남은 좌석 있어요=Gösteri için yer kaldı mı?
+무대 가까운 자리로 주세요=Lütfen bana sahneye yakın koltuklar verin
+모바일 티켓도 돼요=Mobil bilet kullanabilir miyim?
+공연 몇 시간 해요=Gösteri ne kadar sürüyor?
+중간에 쉬는 시간 있어요=Gösteri sırasında ara veriliyor mu?
+사진 찍어도 되는 공연이에요=Bu gösteri sırasında fotoğraf çekmeye izin veriliyor mu?
+가방 맡길 데 있어요=Çantamı bırakabileceğim bir yer var mı?
+응원봉 어디서 사요=Konser için ışık çubuğunu nereden satın alabilirim?
+분위기 최고였어=Atmosfer muhteşemdi

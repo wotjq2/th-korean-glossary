@@ -22647,3 +22647,14 @@ IT 쪽에서 일해요=Eu trabalho em TI
 기부하고 싶어요=Gostaria de fazer uma doação
 안 쓰는 옷 기부해도 돼요=Posso doar roupas que não uso mais?
 영수증 발급돼요=Você pode emitir um recibo?
+
+# --- 대화 93: 공연·콘서트 (2026-11-20) ---
+남은 좌석 있어요=Ainda há vagas para o show?
+무대 가까운 자리로 주세요=Por favor, me dê lugares perto do palco
+모바일 티켓도 돼요=Posso usar um ticket móvel?
+공연 몇 시간 해요=Quanto tempo dura o show?
+중간에 쉬는 시간 있어요=Há intervalo durante o show?
+사진 찍어도 되는 공연이에요=A fotografia é permitida durante este show?
+가방 맡길 데 있어요=Existe algum lugar onde eu possa deixar minha bolsa?
+응원봉 어디서 사요=Onde posso comprar um light stick para o show?
+분위기 최고였어=A atmosfera era incrível

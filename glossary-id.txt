@@ -38673,3 +38673,14 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 기부하고 싶어요=Saya ingin memberikan sumbangan
 안 쓰는 옷 기부해도 돼요=Bisakah saya mendonasikan pakaian yang sudah tidak saya gunakan lagi?
 영수증 발급돼요=Bisakah Anda mengeluarkan tanda terima?
+
+# --- 대화 93: 공연·콘서트 (2026-11-20) ---
+남은 좌석 있어요=Apakah masih ada kursi tersisa untuk pertunjukan?
+무대 가까운 자리로 주세요=Tolong beri saya tempat duduk dekat panggung
+모바일 티켓도 돼요=Bisakah saya menggunakan tiket seluler?
+공연 몇 시간 해요=Berapa lama pertunjukannya?
+중간에 쉬는 시간 있어요=Apakah ada jeda selama pertunjukan?
+사진 찍어도 되는 공연이에요=Apakah fotografi diperbolehkan selama pertunjukan ini?
+가방 맡길 데 있어요=Apakah ada tempat di mana saya bisa meninggalkan tas saya?
+응원봉 어디서 사요=Di mana saya bisa membeli light stick untuk konser?
+분위기 최고였어=Suasananya luar biasa

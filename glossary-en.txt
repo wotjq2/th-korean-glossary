@@ -52815,3 +52815,14 @@ IT 쪽에서 일해요=I work in IT
 기부하고 싶어요=I would like to make a donation
 안 쓰는 옷 기부해도 돼요=Can I donate clothes that I no longer use?
 영수증 발급돼요=Can you issue a receipt?
+
+# --- 대화 93: 공연·콘서트 (2026-11-20) ---
+남은 좌석 있어요=Are there any seats left for the show?
+무대 가까운 자리로 주세요=Please give me seats close to the stage
+모바일 티켓도 돼요=Can I use a mobile ticket?
+공연 몇 시간 해요=How long is the show?
+중간에 쉬는 시간 있어요=Is there an intermission during the show?
+사진 찍어도 되는 공연이에요=Is photography allowed during this show?
+가방 맡길 데 있어요=Is there a place where I can leave my bag?
+응원봉 어디서 사요=Where can I buy a light stick for the concert?
+분위기 최고였어=The atmosphere was amazing

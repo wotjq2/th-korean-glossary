@@ -20799,3 +20799,14 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 기부하고 싶어요=Vorrei fare una donazione
 안 쓰는 옷 기부해도 돼요=Posso donare i vestiti che non uso più?
 영수증 발급돼요=Puoi rilasciare una ricevuta?
+
+# --- 대화 93: 공연·콘서트 (2026-11-20) ---
+남은 좌석 있어요=Ci sono posti liberi per lo spettacolo?
+무대 가까운 자리로 주세요=Per favore, datemi dei posti vicino al palco
+모바일 티켓도 돼요=Posso utilizzare un biglietto mobile?
+공연 몇 시간 해요=Quanto dura lo spettacolo?
+중간에 쉬는 시간 있어요=C'è un intervallo durante lo spettacolo?
+사진 찍어도 되는 공연이에요=È consentito fotografare durante questo spettacolo?
+가방 맡길 데 있어요=C'è un posto dove posso lasciare la mia borsa?
+응원봉 어디서 사요=Dove posso acquistare un bastoncino luminoso per il concerto?
+분위기 최고였어=L'atmosfera era fantastica

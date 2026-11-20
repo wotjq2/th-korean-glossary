@@ -41449,3 +41449,14 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 기부하고 싶어요=Tôi muốn quyên góp
 안 쓰는 옷 기부해도 돼요=Tôi có thể tặng quần áo mà tôi không còn sử dụng nữa không?
 영수증 발급돼요=Có xuất biên lai được không?
+
+# --- 대화 93: 공연·콘서트 (2026-11-20) ---
+남은 좌석 있어요=Còn chỗ ngồi nào cho buổi diễn không?
+무대 가까운 자리로 주세요=Xin vui lòng cho tôi chỗ ngồi gần sân khấu
+모바일 티켓도 돼요=Tôi có thể sử dụng vé di động không?
+공연 몇 시간 해요=Buổi diễn kéo dài bao lâu?
+중간에 쉬는 시간 있어요=Có giờ nghỉ giữa buổi diễn không?
+사진 찍어도 되는 공연이에요=Có được phép chụp ảnh trong buổi diễn này không?
+가방 맡길 데 있어요=Có nơi nào tôi có thể để túi của mình không?
+응원봉 어디서 사요=Tôi có thể mua lightstick cho concert ở đâu?
+분위기 최고였어=Bầu không khí thật tuyệt vời
