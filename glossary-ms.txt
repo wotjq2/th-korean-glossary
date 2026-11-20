@@ -11409,3 +11409,14 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 너무 짜게 됐어요=Ternyata terlalu masin
 레시피 받을 수 있어요=Bolehkah saya mendapatkan salinan resipi?
 집에서도 만들어 볼게요=Saya akan cuba membuatnya di rumah juga
+
+# --- 대화 83: 무에타이 체육관 (2026-11-20) ---
+무에타이 배우고 싶어요=Saya ingin belajar Muay Thai
+초보자 수업 있어요=Adakah anda mempunyai kelas untuk pemula?
+한 번만 수업 들어도 돼요=Bolehkah saya mengambil satu kelas sahaja?
+글러브 빌려줘요=Adakah anda meminjamkan sarung tangan tinju?
+붕대 감는 법 알려 주세요=Tolong tunjukkan saya cara membalut tangan saya
+개인 레슨은 얼마예요=Berapa harga pelajaran persendirian?
+너무 힘들어서 쉬고 싶어요=Ia terlalu sukar jadi saya ingin berehat
+발차기 다시 보여 주세요=Tolong tunjukkan sepakan itu sekali lagi
+경기 보러 가고 싶어요=Saya mahu pergi menonton perlawanan Muay Thai

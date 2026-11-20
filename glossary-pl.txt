@@ -23546,3 +23546,14 @@ IT 쪽에서 일해요=Pracuję w IT
 너무 짜게 됐어요=Okazało się zbyt słone
 레시피 받을 수 있어요=Czy mogę otrzymać kopię przepisu?
 집에서도 만들어 볼게요=Spróbuję też zrobić w domu
+
+# --- 대화 83: 무에타이 체육관 (2026-11-20) ---
+무에타이 배우고 싶어요=Chcę nauczyć się Muay Thai
+초보자 수업 있어요=Czy prowadzicie zajęcia dla początkujących?
+한 번만 수업 들어도 돼요=Czy mogę zapisać się tylko na jedne zajęcia?
+글러브 빌려줘요=Pożyczasz rękawice bokserskie?
+붕대 감는 법 알려 주세요=Proszę, pokaż mi, jak owinąć ręce
+개인 레슨은 얼마예요=Ile kosztuje lekcja prywatna?
+너무 힘들어서 쉬고 싶어요=To zbyt trudne, więc chcę odpocząć
+발차기 다시 보여 주세요=Proszę, pokaż mi jeszcze raz kopnięcie
+경기 보러 가고 싶어요=Chcę iść i obejrzeć walkę Muay Thai

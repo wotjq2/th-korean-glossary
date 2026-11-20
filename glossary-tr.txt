@@ -17657,3 +17657,14 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 너무 짜게 됐어요=Çok tuzlu çıktı
 레시피 받을 수 있어요=Tarifin bir kopyasını alabilir miyim?
 집에서도 만들어 볼게요=Ben de evde yapmayı deneyeceğim
+
+# --- 대화 83: 무에타이 체육관 (2026-11-20) ---
+무에타이 배우고 싶어요=Muay Thai öğrenmek istiyorum
+초보자 수업 있어요=Yeni başlayanlar için dersleriniz var mı?
+한 번만 수업 들어도 돼요=Sadece bir ders alabilir miyim?
+글러브 빌려줘요=Boks eldivenlerini ödünç verir misin?
+붕대 감는 법 알려 주세요=Lütfen bana ellerimi nasıl saracağımı göster
+개인 레슨은 얼마예요=Özel ders ne kadar?
+너무 힘들어서 쉬고 싶어요=Çok zor bu yüzden ara vermek istiyorum
+발차기 다시 보여 주세요=Lütfen bana vuruşu tekrar göster
+경기 보러 가고 싶어요=Gidip Muay Thai dövüşünü izlemek istiyorum

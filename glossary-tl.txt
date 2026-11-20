@@ -7410,3 +7410,14 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 너무 짜게 됐어요=Ito ay naging masyadong maalat
 레시피 받을 수 있어요=Maaari ba akong makakuha ng kopya ng recipe?
 집에서도 만들어 볼게요=Susubukan ko ring gawin ito sa bahay
+
+# --- 대화 83: 무에타이 체육관 (2026-11-20) ---
+무에타이 배우고 싶어요=Gusto kong matuto ng Muay Thai
+초보자 수업 있어요=Mayroon ka bang mga klase para sa mga nagsisimula?
+한 번만 수업 들어도 돼요=Pwede bang isang klase lang?
+글러브 빌려줘요=Nagpahiram ka ba ng boxing gloves?
+붕대 감는 법 알려 주세요=Mangyaring ipakita sa akin kung paano balutin ang aking mga kamay
+개인 레슨은 얼마예요=Magkano ang private lesson?
+너무 힘들어서 쉬고 싶어요=Masyadong mahirap kaya gusto ko munang magpahinga
+발차기 다시 보여 주세요=Mangyaring ipakita sa akin muli ang sipa
+경기 보러 가고 싶어요=Gusto kong pumunta at manood ng laban ng Muay Thai

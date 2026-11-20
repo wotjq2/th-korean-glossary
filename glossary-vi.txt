@@ -41335,3 +41335,14 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 너무 짜게 됐어요=Hoá ra mặn quá
 레시피 받을 수 있어요=Tôi có thể lấy một bản sao của công thức không?
 집에서도 만들어 볼게요=Tôi cũng sẽ thử làm nó ở nhà
+
+# --- 대화 83: 무에타이 체육관 (2026-11-20) ---
+무에타이 배우고 싶어요=Tôi muốn học Muay Thái
+초보자 수업 있어요=Bạn có lớp dành cho người mới bắt đầu không?
+한 번만 수업 들어도 돼요=Tôi có thể chỉ học một lớp được không?
+글러브 빌려줘요=Bạn có cho mượn găng tay đấm bốc không?
+붕대 감는 법 알려 주세요=Hãy chỉ cho tôi cách quấn tay
+개인 레슨은 얼마예요=Một bài học riêng là bao nhiêu?
+너무 힘들어서 쉬고 싶어요=Khó quá nên tôi muốn nghỉ ngơi
+발차기 다시 보여 주세요=Hãy cho tôi xem cú đá lần nữa
+경기 보러 가고 싶어요=Tôi muốn đi xem một trận đấu Muay Thái

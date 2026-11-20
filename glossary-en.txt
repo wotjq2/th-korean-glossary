@@ -52701,3 +52701,14 @@ IT 쪽에서 일해요=I work in IT
 너무 짜게 됐어요=It turned out too salty
 레시피 받을 수 있어요=Can I get a copy of the recipe?
 집에서도 만들어 볼게요=I will try making it at home too
+
+# --- 대화 83: 무에타이 체육관 (2026-11-20) ---
+무에타이 배우고 싶어요=I want to learn Muay Thai
+초보자 수업 있어요=Do you have classes for beginners?
+한 번만 수업 들어도 돼요=Can I take just one class?
+글러브 빌려줘요=Do you lend boxing gloves?
+붕대 감는 법 알려 주세요=Please show me how to wrap my hands
+개인 레슨은 얼마예요=How much is a private lesson?
+너무 힘들어서 쉬고 싶어요=It is too hard so I want to take a break
+발차기 다시 보여 주세요=Please show me the kick again
+경기 보러 가고 싶어요=I want to go and watch a Muay Thai fight
