@@ -48068,3 +48068,17 @@ IT 쪽에서 일해요=yo trabajo en TI
 마음만 받을게=Gracias por su amabilidad, pero no puedo aceptar el regalo.
 반지 사이즈가 어떻게 돼=¿Cuál es tu talla de anillo?
 저녁 예약해 놨어=He reservado una mesa para cenar.
+
+# --- 대화 75: 렌터카 (2026-11-20) ---
+하루 빌리는 데 얼마예요=¿Cuánto cuesta alquilar por un día?
+오토 차 있어요=¿Tienes un coche con transmisión automática?
+기름 가득 채워서 반납해야 돼요=¿Tengo que devolver el coche con el depósito lleno de combustible?
+흠집은 원래 있었어요=Ese rasguño ya estaba allí antes.
+차 사진 찍어 둘게요=Tomaré fotos del auto para mantener un registro.
+반납은 몇 시까지 해야 돼요=¿A qué hora tengo que devolver el coche?
+다른 지점에 반납해도 돼요=¿Puedo devolver el coche en otra sucursal?
+완전 자차로 해 주세요=Por favor dame un seguro de cobertura total para el auto.
+운전자 추가할 수 있어요=¿Puedo agregar otro controlador?
+차가 시동이 안 걸려요=El auto no arranca
+경고등이 켜졌어요=Se ha encendido un testigo en el coche
+헬멧도 빌려 주세요=Por favor prestame un casco también

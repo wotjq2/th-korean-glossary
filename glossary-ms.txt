@@ -11305,3 +11305,17 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 마음만 받을게=Terima kasih atas kebaikan anda, tetapi saya tidak dapat menerima hadiah itu
 반지 사이즈가 어떻게 돼=Apakah saiz cincin anda?
 저녁 예약해 놨어=Saya telah menempah meja untuk makan malam
+
+# --- 대화 75: 렌터카 (2026-11-20) ---
+하루 빌리는 데 얼마예요=Berapakah kos sewa untuk satu hari?
+오토 차 있어요=Adakah anda mempunyai kereta dengan transmisi automatik?
+기름 가득 채워서 반납해야 돼요=Adakah saya perlu memulangkan kereta dengan tangki penuh minyak?
+흠집은 원래 있었어요=Goresan itu sudah ada sebelum ini
+차 사진 찍어 둘게요=Saya akan mengambil gambar kereta untuk menyimpan rekod
+반납은 몇 시까지 해야 돼요=Pada pukul berapa saya perlu memulangkan kereta itu?
+다른 지점에 반납해도 돼요=Bolehkah saya memulangkan kereta di cawangan lain?
+완전 자차로 해 주세요=Tolong beri saya insurans perlindungan penuh untuk kereta itu
+운전자 추가할 수 있어요=Bolehkah saya menambah pemandu lain?
+차가 시동이 안 걸려요=Kereta tidak akan dihidupkan
+경고등이 켜졌어요=Lampu amaran telah menyala di dalam kereta
+헬멧도 빌려 주세요=Tolong pinjamkan saya topi keledar juga
