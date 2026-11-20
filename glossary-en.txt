@@ -52804,3 +52804,14 @@ IT 쪽에서 일해요=I work in IT
 가격 조금만 내려 줄 수 있어요=Could you lower the price a little?
 어디서 만날까요=Where should we meet?
 먼저 물건 확인하고 돈 드릴게요=I will check the item first and then pay you
+
+# --- 대화 92: 헌혈·봉사 (2026-11-20) ---
+헌혈하고 싶어요=I would like to donate blood
+외국인도 헌혈할 수 있어요=Can foreigners donate blood too?
+헌혈하고 나서 어지러워요=I feel dizzy after donating blood
+봉사 활동 하고 싶어요=I want to do volunteer work
+자원봉사자 모집해요=Are you looking for volunteers?
+뭘 도와드리면 될까요=What can I help you with?
+기부하고 싶어요=I would like to make a donation
+안 쓰는 옷 기부해도 돼요=Can I donate clothes that I no longer use?
+영수증 발급돼요=Can you issue a receipt?

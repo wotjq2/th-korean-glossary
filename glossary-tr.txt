@@ -17760,3 +17760,14 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 가격 조금만 내려 줄 수 있어요=Fiyatı biraz indirebilir misiniz?
 어디서 만날까요=Nerede buluşmalıyız?
 먼저 물건 확인하고 돈 드릴게요=Önce ürünü kontrol edeceğim, sonra size ödeme yapacağım
+
+# --- 대화 92: 헌혈·봉사 (2026-11-20) ---
+헌혈하고 싶어요=Kan bağışlamak istiyorum
+외국인도 헌혈할 수 있어요=Yabancılar da kan bağışında bulunabilir mi?
+헌혈하고 나서 어지러워요=Kan bağışladıktan sonra başım dönüyor
+봉사 활동 하고 싶어요=Gönüllü işler yapmak istiyorum
+자원봉사자 모집해요=Gönüllü mü arıyorsunuz?
+뭘 도와드리면 될까요=Size ne konuda yardımcı olabilirim?
+기부하고 싶어요=bağış yapmak istiyorum
+안 쓰는 옷 기부해도 돼요=Artık kullanmadığım kıyafetleri bağışlayabilir miyim?
+영수증 발급돼요=Makbuz verebilir misiniz?

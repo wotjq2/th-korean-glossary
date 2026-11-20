@@ -41438,3 +41438,14 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 가격 조금만 내려 줄 수 있어요=Bạn có thể giảm giá một chút được không?
 어디서 만날까요=Chúng ta nên gặp nhau ở đâu?
 먼저 물건 확인하고 돈 드릴게요=Mình sẽ kiểm tra hàng trước rồi thanh toán cho bạn
+
+# --- 대화 92: 헌혈·봉사 (2026-11-20) ---
+헌혈하고 싶어요=Tôi muốn hiến máu
+외국인도 헌혈할 수 있어요=Người nước ngoài cũng có thể hiến máu?
+헌혈하고 나서 어지러워요=Tôi cảm thấy chóng mặt sau khi hiến máu
+봉사 활동 하고 싶어요=Tôi muốn làm công việc tình nguyện
+자원봉사자 모집해요=Bạn đang tìm kiếm tình nguyện viên?
+뭘 도와드리면 될까요=Tôi có thể giúp gì cho bạn?
+기부하고 싶어요=Tôi muốn quyên góp
+안 쓰는 옷 기부해도 돼요=Tôi có thể tặng quần áo mà tôi không còn sử dụng nữa không?
+영수증 발급돼요=Có xuất biên lai được không?

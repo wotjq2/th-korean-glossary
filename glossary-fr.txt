@@ -48057,3 +48057,14 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 가격 조금만 내려 줄 수 있어요=Pourriez-vous baisser un peu le prix ?
 어디서 만날까요=Où devrions-nous nous rencontrer ?
 먼저 물건 확인하고 돈 드릴게요=Je vais d'abord vérifier l'article et ensuite vous payer
+
+# --- 대화 92: 헌혈·봉사 (2026-11-20) ---
+헌혈하고 싶어요=Je voudrais donner du sang
+외국인도 헌혈할 수 있어요=Les étrangers peuvent-ils aussi donner du sang ?
+헌혈하고 나서 어지러워요=J'ai des vertiges après avoir donné du sang
+봉사 활동 하고 싶어요=Je veux faire du bénévolat
+자원봉사자 모집해요=Vous recherchez des bénévoles ?
+뭘 도와드리면 될까요=En quoi puis-je vous aider ?
+기부하고 싶어요=Je souhaite faire un don
+안 쓰는 옷 기부해도 돼요=Puis-je donner des vêtements que je n’utilise plus ?
+영수증 발급돼요=Pouvez-vous délivrer un reçu ?

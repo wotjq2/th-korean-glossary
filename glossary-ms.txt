@@ -11512,3 +11512,14 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 가격 조금만 내려 줄 수 있어요=Bolehkah anda menurunkan harga sedikit?
 어디서 만날까요=Di mana kita harus bertemu?
 먼저 물건 확인하고 돈 드릴게요=Saya akan menyemak barang itu dahulu dan kemudian membayar anda
+
+# --- 대화 92: 헌혈·봉사 (2026-11-20) ---
+헌혈하고 싶어요=Saya ingin menderma darah
+외국인도 헌혈할 수 있어요=Bolehkah warga asing menderma darah juga?
+헌혈하고 나서 어지러워요=Saya berasa pening selepas menderma darah
+봉사 활동 하고 싶어요=Saya nak buat kerja sukarela
+자원봉사자 모집해요=Adakah anda sedang mencari sukarelawan?
+뭘 도와드리면 될까요=Apa yang boleh saya bantu?
+기부하고 싶어요=Saya ingin membuat sumbangan
+안 쓰는 옷 기부해도 돼요=Bolehkah saya menderma pakaian yang tidak lagi saya gunakan?
+영수증 발급돼요=Bolehkah anda mengeluarkan resit?

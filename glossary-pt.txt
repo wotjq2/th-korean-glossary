@@ -22636,3 +22636,14 @@ IT 쪽에서 일해요=Eu trabalho em TI
 가격 조금만 내려 줄 수 있어요=Você poderia baixar um pouco o preço?
 어디서 만날까요=Onde devemos nos encontrar?
 먼저 물건 확인하고 돈 드릴게요=Vou verificar o item primeiro e depois pagar
+
+# --- 대화 92: 헌혈·봉사 (2026-11-20) ---
+헌혈하고 싶어요=Eu gostaria de doar sangue
+외국인도 헌혈할 수 있어요=Estrangeiros também podem doar sangue?
+헌혈하고 나서 어지러워요=Sinto tontura depois de doar sangue
+봉사 활동 하고 싶어요=Quero fazer trabalho voluntário
+자원봉사자 모집해요=Você está procurando voluntários?
+뭘 도와드리면 될까요=Em que posso ajudá-lo?
+기부하고 싶어요=Gostaria de fazer uma doação
+안 쓰는 옷 기부해도 돼요=Posso doar roupas que não uso mais?
+영수증 발급돼요=Você pode emitir um recibo?

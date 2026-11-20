@@ -24697,3 +24697,14 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 가격 조금만 내려 줄 수 있어요=Könnten Sie den Preis etwas senken?
 어디서 만날까요=Wo sollen wir uns treffen?
 먼저 물건 확인하고 돈 드릴게요=Ich prüfe den Artikel zunächst und bezahle dann
+
+# --- 대화 92: 헌혈·봉사 (2026-11-20) ---
+헌혈하고 싶어요=Ich möchte Blut spenden
+외국인도 헌혈할 수 있어요=Können auch Ausländer Blut spenden?
+헌혈하고 나서 어지러워요=Mir ist nach der Blutspende schwindelig
+봉사 활동 하고 싶어요=Ich möchte mich ehrenamtlich engagieren
+자원봉사자 모집해요=Suchen Sie Freiwillige?
+뭘 도와드리면 될까요=Wobei kann ich Ihnen helfen?
+기부하고 싶어요=Ich möchte eine Spende tätigen
+안 쓰는 옷 기부해도 돼요=Kann ich Kleidung spenden, die ich nicht mehr benutze?
+영수증 발급돼요=Können Sie eine Quittung ausstellen?
