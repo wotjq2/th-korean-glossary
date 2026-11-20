@@ -23456,3 +23456,16 @@ IT 쪽에서 일해요=Pracuję w IT
 차가 시동이 안 걸려요=Samochód nie uruchomi się
 경고등이 켜졌어요=W samochodzie zapaliła się kontrolka
 헬멧도 빌려 주세요=Proszę, pożycz mi też kask
+
+# --- 대화 76: 캠핑 (2026-11-20) ---
+텐트 자리 남아 있어요=Czy są jeszcze jakieś pola namiotowe pod namiot?
+텐트 치는 거 도와줄래=Pomożesz mi rozbić namiot?
+여기서 불 피워도 돼요=Czy można tu rozpalić ognisko?
+장작은 어디서 사요=Gdzie mogę kupić drewno opałowe?
+침낭 빌릴 수 있어요=Czy mogę wypożyczyć śpiwór?
+고기는 내가 구울게=Będę grillować mięso
+모기향 피워 줘=Proszę zapalić cewkę na komary
+물 좀 끓여 줄래=Czy możesz zagotować dla mnie trochę wody?
+밤에는 진짜 추워=W nocy robi się naprawdę zimno
+별이 진짜 많다=Na niebie jest tak wiele gwiazd
+쓰레기는 다 가져가야 돼요=Musimy zabrać ze sobą wszystkie śmieci

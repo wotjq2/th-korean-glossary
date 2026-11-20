@@ -24504,3 +24504,16 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 차가 시동이 안 걸려요=Das Auto startet nicht
 경고등이 켜졌어요=Im Auto ist eine Warnleuchte angegangen
 헬멧도 빌려 주세요=Bitte leih mir auch einen Helm
+
+# --- 대화 76: 캠핑 (2026-11-20) ---
+텐트 자리 남아 있어요=Gibt es noch Campingplätze für ein Zelt?
+텐트 치는 거 도와줄래=Können Sie mir beim Aufbau des Zeltes helfen?
+여기서 불 피워도 돼요=Darf man hier ein Lagerfeuer machen?
+장작은 어디서 사요=Wo kann ich Brennholz kaufen?
+침낭 빌릴 수 있어요=Kann ich einen Schlafsack mieten?
+고기는 내가 구울게=Ich werde das Fleisch grillen
+모기향 피워 줘=Bitte zünden Sie eine Mückenspirale an
+물 좀 끓여 줄래=Kannst du etwas Wasser für mich kochen?
+밤에는 진짜 추워=Nachts wird es richtig kalt
+별이 진짜 많다=Es gibt so viele Sterne am Himmel
+쓰레기는 다 가져가야 돼요=Wir müssen unseren ganzen Müll wieder mitnehmen

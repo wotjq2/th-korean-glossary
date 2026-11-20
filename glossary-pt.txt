@@ -22443,3 +22443,16 @@ IT 쪽에서 일해요=Eu trabalho em TI
 차가 시동이 안 걸려요=O carro não pega
 경고등이 켜졌어요=Uma luz de advertência acendeu no carro
 헬멧도 빌려 주세요=Por favor me empreste um capacete também
+
+# --- 대화 76: 캠핑 (2026-11-20) ---
+텐트 자리 남아 있어요=Ainda sobrou algum acampamento para uma barraca?
+텐트 치는 거 도와줄래=Você pode me ajudar a montar a barraca?
+여기서 불 피워도 돼요=Posso fazer uma fogueira aqui?
+장작은 어디서 사요=Onde posso comprar lenha?
+침낭 빌릴 수 있어요=Posso alugar um saco de dormir?
+고기는 내가 구울게=vou grelhar a carne
+모기향 피워 줘=Por favor, acenda uma bobina de mosquito
+물 좀 끓여 줄래=Você pode ferver um pouco de água para mim?
+밤에는 진짜 추워=Fica muito frio à noite
+별이 진짜 많다=Há tantas estrelas no céu
+쓰레기는 다 가져가야 돼요=Temos que levar todo o nosso lixo de volta conosco

@@ -11319,3 +11319,16 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 차가 시동이 안 걸려요=Kereta tidak akan dihidupkan
 경고등이 켜졌어요=Lampu amaran telah menyala di dalam kereta
 헬멧도 빌려 주세요=Tolong pinjamkan saya topi keledar juga
+
+# --- 대화 76: 캠핑 (2026-11-20) ---
+텐트 자리 남아 있어요=Adakah terdapat tapak perkhemahan yang tinggal untuk khemah?
+텐트 치는 거 도와줄래=Bolehkah anda membantu saya memasang khemah?
+여기서 불 피워도 돼요=Adakah boleh membuat unggun api di sini?
+장작은 어디서 사요=Di mana saya boleh membeli kayu api?
+침낭 빌릴 수 있어요=Bolehkah saya menyewa beg tidur?
+고기는 내가 구울게=Saya akan memanggang daging
+모기향 피워 줘=Tolong nyalakan ubat nyamuk
+물 좀 끓여 줄래=Boleh awak masak air untuk saya?
+밤에는 진짜 추워=Ia menjadi sangat sejuk pada waktu malam
+별이 진짜 많다=Terdapat begitu banyak bintang di langit
+쓰레기는 다 가져가야 돼요=Kita kena bawa balik semua sampah kita

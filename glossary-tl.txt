@@ -7320,3 +7320,16 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 차가 시동이 안 걸려요=Hindi magsisimula ang sasakyan
 경고등이 켜졌어요=Isang ilaw ng babala ang bumukas sa sasakyan
 헬멧도 빌려 주세요=Pahiram din ako ng helmet
+
+# --- 대화 76: 캠핑 (2026-11-20) ---
+텐트 자리 남아 있어요=Mayroon bang natitirang mga campsite para sa isang tolda?
+텐트 치는 거 도와줄래=Maaari mo ba akong tulungang magtayo ng tent?
+여기서 불 피워도 돼요=Okay lang bang gumawa ng campfire dito?
+장작은 어디서 사요=Saan ako makakabili ng panggatong?
+침낭 빌릴 수 있어요=Pwede ba akong magrenta ng sleeping bag?
+고기는 내가 구울게=Mag-iihaw ako ng karne
+모기향 피워 줘=Magsindi ng mosquito coil
+물 좀 끓여 줄래=Maaari mo ba akong pakuluan ng tubig?
+밤에는 진짜 추워=Ang lamig talaga pag gabi
+별이 진짜 많다=Napakaraming bituin sa langit
+쓰레기는 다 가져가야 돼요=Kailangan nating ibalik ang lahat ng ating basura

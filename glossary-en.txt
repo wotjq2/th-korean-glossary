@@ -52611,3 +52611,16 @@ IT 쪽에서 일해요=I work in IT
 차가 시동이 안 걸려요=The car will not start
 경고등이 켜졌어요=A warning light has come on in the car
 헬멧도 빌려 주세요=Please lend me a helmet too
+
+# --- 대화 76: 캠핑 (2026-11-20) ---
+텐트 자리 남아 있어요=Are there any campsites left for a tent?
+텐트 치는 거 도와줄래=Can you help me put up the tent?
+여기서 불 피워도 돼요=Is it okay to make a campfire here?
+장작은 어디서 사요=Where can I buy firewood?
+침낭 빌릴 수 있어요=Can I rent a sleeping bag?
+고기는 내가 구울게=I will grill the meat
+모기향 피워 줘=Please light a mosquito coil
+물 좀 끓여 줄래=Can you boil some water for me?
+밤에는 진짜 추워=It gets really cold at night
+별이 진짜 많다=There are so many stars in the sky
+쓰레기는 다 가져가야 돼요=We have to take all our trash back with us
