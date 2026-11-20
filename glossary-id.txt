@@ -38706,3 +38706,14 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 조의금은 얼마나 해요=Berapa banyak uang yang harus saya masukkan ke dalam amplop untuk pemakaman?
 도울 일 있으면 말해 주세요=Tolong beri tahu saya jika ada yang bisa saya lakukan untuk membantu
 마음이 너무 아파요=Hatiku sangat sakit
+
+# --- 대화 96: 집들이 (2026-11-20) ---
+집들이 선물로 뭐가 좋을까=Hadiah pindah rumah apa yang bagus?
+집이 정말 넓다=Rumahmu sungguh luas
+인테리어 직접 했어=Apakah Anda mendekorasi tempat itu sendiri?
+전망이 좋다=Pemandangan dari sini sangat bagus
+집 구경 시켜 줄게=Biarkan saya mengajak Anda berkeliling rumah
+여기 이사 온 지 얼마나 됐어=Berapa lama Anda pindah ke sini?
+화장실 써도 돼=Bolehkah aku menggunakan kamar mandimu?
+음식 진짜 맛있다 네가 다 했어=Makanannya sangat enak, apakah kamu membuat semuanya?
+늦었다 이제 가 볼게=Ini sudah larut, aku harus segera berangkat

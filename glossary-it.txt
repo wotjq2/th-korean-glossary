@@ -20832,3 +20832,14 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 조의금은 얼마나 해요=Quanti soldi devo mettere nella busta per il funerale?
 도울 일 있으면 말해 주세요=Per favore fatemi sapere se c'è qualcosa che posso fare per aiutare
 마음이 너무 아파요=Il mio cuore soffre così tanto
+
+# --- 대화 96: 집들이 (2026-11-20) ---
+집들이 선물로 뭐가 좋을까=Quale sarebbe un buon regalo per l'inaugurazione della casa?
+집이 정말 넓다=La tua casa è davvero spaziosa
+인테리어 직접 했어=Hai decorato tu stesso il posto?
+전망이 좋다=La vista da qui è fantastica
+집 구경 시켜 줄게=Lascia che ti mostri la casa
+여기 이사 온 지 얼마나 됐어=Quanto tempo fa ti sei trasferito qui?
+화장실 써도 돼=Posso usare il tuo bagno?
+음식 진짜 맛있다 네가 다 했어=Il cibo è davvero buono, hai preparato tutto?
+늦었다 이제 가 볼게=Si sta facendo tardi, dovrei andare

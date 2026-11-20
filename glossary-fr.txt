@@ -48101,3 +48101,14 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 조의금은 얼마나 해요=Combien d'argent dois-je mettre dans l'enveloppe pour les funérailles ?
 도울 일 있으면 말해 주세요=S'il vous plaît laissez-moi savoir si je peux faire quelque chose pour vous aider
 마음이 너무 아파요=Mon cœur me fait tellement mal
+
+# --- 대화 96: 집들이 (2026-11-20) ---
+집들이 선물로 뭐가 좋을까=Quel serait un bon cadeau de pendaison de crémaillère ?
+집이 정말 넓다=Votre maison est vraiment spacieuse
+인테리어 직접 했어=Avez-vous décoré le lieu vous-même ?
+전망이 좋다=La vue d'ici est superbe
+집 구경 시켜 줄게=Laisse-moi te faire visiter la maison
+여기 이사 온 지 얼마나 됐어=Il y a combien de temps avez-vous emménagé ici ?
+화장실 써도 돼=Puis-je utiliser votre salle de bain ?
+음식 진짜 맛있다 네가 다 했어=La nourriture est vraiment bonne, avez-vous tout préparé ?
+늦었다 이제 가 볼게=Il se fait tard, je devrais y aller

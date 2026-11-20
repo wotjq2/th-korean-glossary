@@ -17804,3 +17804,14 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 조의금은 얼마나 해요=Cenaze için zarfa ne kadar para koymalıyım?
 도울 일 있으면 말해 주세요=Yardım etmek için yapabileceğim bir şey varsa lütfen bana bildirin
 마음이 너무 아파요=Kalbim çok ağrıyor
+
+# --- 대화 96: 집들이 (2026-11-20) ---
+집들이 선물로 뭐가 좋을까=İyi bir yeni eve taşınma hediyesi ne olabilir?
+집이 정말 넓다=Eviniz gerçekten geniş
+인테리어 직접 했어=Mekanı kendin mi dekore ettin?
+전망이 좋다=Buradan manzara harika
+집 구경 시켜 줄게=Sana evin etrafını gezdireyim
+여기 이사 온 지 얼마나 됐어=Buraya ne kadar zaman önce taşındın?
+화장실 써도 돼=Banyonuzu kullanabilir miyim?
+음식 진짜 맛있다 네가 다 했어=Yemekler gerçekten çok güzel, hepsini sen mi yaptın?
+늦었다 이제 가 볼게=Geç oldu, gitmeliyim

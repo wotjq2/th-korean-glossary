@@ -41482,3 +41482,14 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 조의금은 얼마나 해요=Tôi nên bỏ bao nhiêu tiền vào phong bì cho tang lễ?
 도울 일 있으면 말해 주세요=Vui lòng cho tôi biết nếu tôi có thể giúp được gì
 마음이 너무 아파요=Tim tôi đau quá
+
+# --- 대화 96: 집들이 (2026-11-20) ---
+집들이 선물로 뭐가 좋을까=Món quà tân gia nào sẽ phù hợp?
+집이 정말 넓다=Nhà bạn rộng rãi thật
+인테리어 직접 했어=Bạn đã tự mình trang trí nơi này à?
+전망이 좋다=Tầm nhìn từ đây thật tuyệt
+집 구경 시켜 줄게=Để tôi dẫn bạn đi tham quan ngôi nhà
+여기 이사 온 지 얼마나 됐어=Bạn chuyển đến đây bao lâu rồi?
+화장실 써도 돼=Tôi có thể sử dụng phòng tắm của bạn được không?
+음식 진짜 맛있다 네가 다 했어=Đồ ăn ngon lắm, bạn làm hết à?
+늦었다 이제 가 볼게=Cũng muộn rồi, tôi phải đi thôi

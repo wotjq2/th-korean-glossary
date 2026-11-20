@@ -52848,3 +52848,14 @@ IT 쪽에서 일해요=I work in IT
 조의금은 얼마나 해요=How much money should I put in the envelope for the funeral?
 도울 일 있으면 말해 주세요=Please let me know if there is anything I can do to help
 마음이 너무 아파요=My heart aches so much
+
+# --- 대화 96: 집들이 (2026-11-20) ---
+집들이 선물로 뭐가 좋을까=What would be a good housewarming gift?
+집이 정말 넓다=Your home is really spacious
+인테리어 직접 했어=Did you decorate the place yourself?
+전망이 좋다=The view from here is great
+집 구경 시켜 줄게=Let me show you around the house
+여기 이사 온 지 얼마나 됐어=How long ago did you move in here?
+화장실 써도 돼=Can I use your bathroom?
+음식 진짜 맛있다 네가 다 했어=The food is really good, did you make it all?
+늦었다 이제 가 볼게=It is getting late, I should get going

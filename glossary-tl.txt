@@ -7557,3 +7557,14 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 조의금은 얼마나 해요=Magkano ang pera ang dapat kong ilagay sa sobre para sa libing?
 도울 일 있으면 말해 주세요=Mangyaring ipaalam sa akin kung mayroon akong magagawa upang makatulong
 마음이 너무 아파요=Sobrang sakit ng puso ko
+
+# --- 대화 96: 집들이 (2026-11-20) ---
+집들이 선물로 뭐가 좋을까=Ano ang magandang regalo sa housewarming?
+집이 정말 넓다=Ang lawak talaga ng bahay mo
+인테리어 직접 했어=Ikaw ba mismo ang nagdecorate ng lugar?
+전망이 좋다=Ang ganda ng view mula dito
+집 구경 시켜 줄게=Hayaan mong ipakita ko sa iyo ang paligid ng bahay
+여기 이사 온 지 얼마나 됐어=Gaano katagal ka lumipat dito?
+화장실 써도 돼=Maaari ko bang gamitin ang iyong banyo?
+음식 진짜 맛있다 네가 다 했어=Ang sarap talaga ng pagkain, ginawa mo ba lahat?
+늦었다 이제 가 볼게=Gabi na, kailangan ko nang umalis

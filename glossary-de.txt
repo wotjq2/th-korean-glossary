@@ -24741,3 +24741,14 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 조의금은 얼마나 해요=Wie viel Geld soll ich in den Umschlag für die Beerdigung stecken?
 도울 일 있으면 말해 주세요=Bitte lassen Sie mich wissen, ob ich Ihnen helfen kann
 마음이 너무 아파요=Mein Herz schmerzt so sehr
+
+# --- 대화 96: 집들이 (2026-11-20) ---
+집들이 선물로 뭐가 좋을까=Was wäre ein gutes Einweihungsgeschenk?
+집이 정말 넓다=Ihr Zuhause ist wirklich geräumig
+인테리어 직접 했어=Haben Sie den Ort selbst dekoriert?
+전망이 좋다=Die Aussicht von hier ist großartig
+집 구경 시켜 줄게=Ich zeige Ihnen das Haus
+여기 이사 온 지 얼마나 됐어=Wie lange ist es her, dass Sie hier eingezogen sind?
+화장실 써도 돼=Kann ich Ihr Badezimmer benutzen?
+음식 진짜 맛있다 네가 다 했어=Das Essen ist wirklich gut, hast du alles gemacht?
+늦었다 이제 가 볼게=Es wird schon spät, ich sollte los
