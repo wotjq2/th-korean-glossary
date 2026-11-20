@@ -7492,3 +7492,15 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 결과는 이메일로 받을 수 있어요=Maaari ko bang matanggap ang mga resulta sa pamamagitan ng email?
 결과 설명해 주세요=Pakipaliwanag sa akin ang mga resulta ng aking pagsusulit
 수치가 정상이에요=Nasa normal ba ang mga resulta ng aking pagsusulit?
+
+# --- 대화 90: 어학원 등록 (2026-11-20) ---
+태국어 학원 다니고 싶어요=Gusto kong pumasok sa isang paaralan ng wikang Thai
+레벨 테스트 봐야 돼요=Kailangan ko bang kumuha ng placement test?
+일주일에 몇 번 수업해요=Ilang klase ang mayroon bawat linggo?
+한 반에 몇 명이에요=Ilang estudyante ang nasa isang klase?
+교재비는 따로예요=Hiwalay ba ang bayad sa textbook?
+저녁반 있어요=May klase ka ba sa gabi?
+온라인 수업도 돼요=May online class ka din ba?
+한 달 수강료가 얼마예요=Magkano ang tuition sa isang buwan?
+수업 빠지면 보강해 줘요=Kung lumiban ako sa isang klase, maaari ba akong bumawi mamaya?
+학생 비자도 받을 수 있어요=Maaari din ba akong makakuha ng student visa sa pamamagitan mo?

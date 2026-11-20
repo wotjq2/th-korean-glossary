@@ -48254,3 +48254,15 @@ IT 쪽에서 일해요=yo trabajo en TI
 결과는 이메일로 받을 수 있어요=¿Puedo recibir los resultados por correo electrónico?
 결과 설명해 주세요=Por favor explícame los resultados de mi prueba.
 수치가 정상이에요=¿Están los resultados de mis pruebas dentro del rango normal?
+
+# --- 대화 90: 어학원 등록 (2026-11-20) ---
+태국어 학원 다니고 싶어요=Quiero asistir a una escuela de idioma tailandés.
+레벨 테스트 봐야 돼요=¿Necesito hacer una prueba de nivel?
+일주일에 몇 번 수업해요=¿Cuántas clases hay por semana?
+한 반에 몇 명이에요=¿Cuántos estudiantes hay en una clase?
+교재비는 따로예요=¿La tarifa del libro de texto está separada?
+저녁반 있어요=¿Tienes clases nocturnas?
+온라인 수업도 돼요=¿También tienes clases en línea?
+한 달 수강료가 얼마예요=¿Cuánto cuesta la matrícula por un mes?
+수업 빠지면 보강해 줘요=Si pierdo una clase, ¿puedo recuperarla más tarde?
+학생 비자도 받을 수 있어요=¿Puedo obtener también una visa de estudiante a través de ustedes?

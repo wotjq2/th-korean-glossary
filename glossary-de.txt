@@ -24676,3 +24676,15 @@ IT 쪽에서 일해요=Ich arbeite in der IT
 결과는 이메일로 받을 수 있어요=Kann ich die Ergebnisse per E-Mail erhalten?
 결과 설명해 주세요=Bitte erläutern Sie mir meine Testergebnisse
 수치가 정상이에요=Liegen meine Testergebnisse im Normalbereich?
+
+# --- 대화 90: 어학원 등록 (2026-11-20) ---
+태국어 학원 다니고 싶어요=Ich möchte eine Thai-Sprachschule besuchen
+레벨 테스트 봐야 돼요=Muss ich einen Einstufungstest machen?
+일주일에 몇 번 수업해요=Wie viele Unterrichtsstunden gibt es pro Woche?
+한 반에 몇 명이에요=Wie viele Schüler sind in einer Klasse?
+교재비는 따로예요=Ist die Lehrbuchgebühr separat?
+저녁반 있어요=Gibt es Abendkurse?
+온라인 수업도 돼요=Bieten Sie auch Online-Kurse an?
+한 달 수강료가 얼마예요=Wie hoch sind die Studiengebühren für einen Monat?
+수업 빠지면 보강해 줘요=Wenn ich einen Kurs verpasse, kann ich ihn später nachholen?
+학생 비자도 받을 수 있어요=Kann ich über Sie auch ein Studentenvisum bekommen?
