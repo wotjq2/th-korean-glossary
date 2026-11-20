@@ -48021,7 +48021,6 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 껍질 까 주세요=S'il te plaît, enlève la peau pour moi
 먹기 좋게 잘라 주세요=Veuillez le couper en petits morceaux
 생선 손질해 주세요=Veuillez retirer les écailles et l'intérieur du poisson
-맛봐도 돼요=Puis-je avoir un avant-goût ?
 이거 달아요=Est-ce que ça a un goût sucré ?
 섞어서 담아도 돼요=Puis-je mélanger différentes sortes dans un seul sac ?
 두 개 사면 더 싸요=Est-ce moins cher si j'en achète deux ?

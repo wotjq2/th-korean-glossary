@@ -17724,7 +17724,6 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 껍질 까 주세요=Lütfen benim için derisini soyun
 먹기 좋게 잘라 주세요=Lütfen ısırık büyüklüğünde parçalar halinde kesin
 생선 손질해 주세요=Lütfen balığın pullarını ve içini çıkarın.
-맛봐도 돼요=Tadına bakabilir miyim?
 이거 달아요=Bunun tadı tatlı mı?
 섞어서 담아도 돼요=Farklı türleri tek bir torbada karıştırabilir miyim?
 두 개 사면 더 싸요=İki tane alsam daha mı ucuz olur?

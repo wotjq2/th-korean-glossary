@@ -52768,7 +52768,6 @@ IT 쪽에서 일해요=I work in IT
 껍질 까 주세요=Please peel the skin off for me
 먹기 좋게 잘라 주세요=Please cut it into bite-sized pieces
 생선 손질해 주세요=Please remove the scales and the insides of the fish
-맛봐도 돼요=Can I have a taste?
 이거 달아요=Does this taste sweet?
 섞어서 담아도 돼요=Can I mix different kinds in one bag?
 두 개 사면 더 싸요=Is it cheaper if I buy two?

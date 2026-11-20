@@ -23613,7 +23613,6 @@ IT 쪽에서 일해요=Pracuję w IT
 껍질 까 주세요=Proszę, obierz dla mnie skórę
 먹기 좋게 잘라 주세요=Proszę pokroić na kawałki wielkości kęsa
 생선 손질해 주세요=Proszę usunąć łuski i wnętrze ryby
-맛봐도 돼요=Czy mogę spróbować?
 이거 달아요=Czy to smakuje słodko?
 섞어서 담아도 돼요=Czy mogę mieszać różne rodzaje w jednej torbie?
 두 개 사면 더 싸요=Czy będzie taniej jeśli kupię dwa?
