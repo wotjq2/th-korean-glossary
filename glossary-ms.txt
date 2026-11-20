@@ -11433,3 +11433,15 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 치료 몇 번 받아야 돼요=Berapa kali lagi saya perlu datang untuk rawatan ini?
 입을 크게 벌려 주세요=Sila buka mulut anda luas-luas
 양치질 어떻게 해야 돼요=Bagaimana saya harus memberus gigi saya?
+
+# --- 대화 85: 안경점 (2026-11-20) ---
+안경 맞추고 싶어요=Saya ingin membuat sepasang cermin mata baru
+시력 검사 해 주세요=Tolong periksa penglihatan saya
+안경테 좀 보여 주세요=Tolong tunjukkan saya beberapa bingkai cermin mata
+렌즈는 얇게 해 주세요=Sila buat kanta nipis
+오늘 찾을 수 있어요=Adakah ia akan siap hari ini?
+안경이 자꾸 흘러내려요=Cermin mata saya terus meluncur ke hidung
+안경다리가 부러졌어요=Lengan cermin mata saya patah
+나사 좀 조여 주세요=Tolong ketatkan skru pada cermin mata saya
+콘택트렌즈 있어요=Adakah anda menjual kanta sentuh?
+선글라스에 도수 넣을 수 있어요=Bolehkah anda membuat cermin mata hitam preskripsi?

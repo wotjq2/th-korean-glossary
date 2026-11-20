@@ -48196,3 +48196,15 @@ IT 쪽에서 일해요=yo trabajo en TI
 치료 몇 번 받아야 돼요=¿Cuántas veces más necesito venir para este tratamiento?
 입을 크게 벌려 주세요=Por favor abre bien la boca
 양치질 어떻게 해야 돼요=¿Cómo debo cepillarme los dientes?
+
+# --- 대화 85: 안경점 (2026-11-20) ---
+안경 맞추고 싶어요=Me gustaría que me hicieran un par de gafas nuevas.
+시력 검사 해 주세요=Por favor revisa mi vista
+안경테 좀 보여 주세요=Por favor muéstrame algunos marcos de anteojos.
+렌즈는 얇게 해 주세요=Por favor, haz las lentes delgadas.
+오늘 찾을 수 있어요=¿Estará listo hoy?
+안경이 자꾸 흘러내려요=Mis gafas siguen deslizándose por mi nariz
+안경다리가 부러졌어요=La patilla de mis gafas está rota.
+나사 좀 조여 주세요=Por favor aprieta el tornillo de mis gafas.
+콘택트렌즈 있어요=¿Vendes lentes de contacto?
+선글라스에 도수 넣을 수 있어요=¿Puedes hacer gafas de sol graduadas?

@@ -47978,3 +47978,15 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 치료 몇 번 받아야 돼요=Combien de fois dois-je venir pour ce traitement ?
 입을 크게 벌려 주세요=S'il te plaît ouvre grand ta bouche
 양치질 어떻게 해야 돼요=Comment dois-je me brosser les dents ?
+
+# --- 대화 85: 안경점 (2026-11-20) ---
+안경 맞추고 싶어요=J'aimerais faire fabriquer une nouvelle paire de lunettes
+시력 검사 해 주세요=S'il te plaît, vérifie ma vue
+안경테 좀 보여 주세요=S'il vous plaît, montrez-moi des montures de lunettes
+렌즈는 얇게 해 주세요=Veuillez rendre les lentilles fines
+오늘 찾을 수 있어요=Sera-t-il prêt aujourd'hui ?
+안경이 자꾸 흘러내려요=Mes lunettes continuent de glisser sur mon nez
+안경다리가 부러졌어요=La branche de mes lunettes est cassée
+나사 좀 조여 주세요=S'il te plaît, serre la vis de mes lunettes
+콘택트렌즈 있어요=Vendez-vous des lentilles de contact ?
+선글라스에 도수 넣을 수 있어요=Pouvez-vous fabriquer des lunettes de soleil avec prescription ?

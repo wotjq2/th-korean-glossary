@@ -41359,3 +41359,15 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 치료 몇 번 받아야 돼요=Tôi cần phải đến điều trị bao nhiêu lần nữa?
 입을 크게 벌려 주세요=Xin hãy mở rộng miệng ra
 양치질 어떻게 해야 돼요=Tôi nên đánh răng như thế nào?
+
+# --- 대화 85: 안경점 (2026-11-20) ---
+안경 맞추고 싶어요=Tôi muốn làm một cặp kính mới
+시력 검사 해 주세요=Hãy kiểm tra thị lực của tôi
+안경테 좀 보여 주세요=Vui lòng cho tôi xem một số gọng kính
+렌즈는 얇게 해 주세요=Hãy làm cho ống kính mỏng
+오늘 찾을 수 있어요=Nó sẽ sẵn sàng ngày hôm nay chứ?
+안경이 자꾸 흘러내려요=Kính của tôi cứ trượt xuống mũi
+안경다리가 부러졌어요=Tay kính của tôi bị gãy rồi
+나사 좀 조여 주세요=Vui lòng siết chặt vít trên kính của tôi
+콘택트렌즈 있어요=Bạn có bán kính áp tròng không?
+선글라스에 도수 넣을 수 있어요=Bạn có thể làm kính râm theo toa không?

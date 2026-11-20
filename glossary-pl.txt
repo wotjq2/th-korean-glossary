@@ -23570,3 +23570,15 @@ IT 쪽에서 일해요=Pracuję w IT
 치료 몇 번 받아야 돼요=Ile jeszcze razy muszę przychodzić na ten zabieg?
 입을 크게 벌려 주세요=Proszę otworzyć szeroko usta
 양치질 어떻게 해야 돼요=Jak powinienem myć zęby?
+
+# --- 대화 85: 안경점 (2026-11-20) ---
+안경 맞추고 싶어요=Chciałbym zamówić sobie nową parę okularów
+시력 검사 해 주세요=Proszę sprawdzić mój wzrok
+안경테 좀 보여 주세요=Proszę o pokazanie oprawek do okularów
+렌즈는 얇게 해 주세요=Proszę, aby soczewki były cienkie
+오늘 찾을 수 있어요=Czy dzisiaj będzie gotowy?
+안경이 자꾸 흘러내려요=Okulary ciągle zsuwają mi się z nosa
+안경다리가 부러졌어요=Ramię moich okularów jest złamane
+나사 좀 조여 주세요=Proszę dokręcić śrubę na moich okularach
+콘택트렌즈 있어요=Czy sprzedajesz soczewki kontaktowe?
+선글라스에 도수 넣을 수 있어요=Czy możesz zrobić okulary przeciwsłoneczne na receptę?

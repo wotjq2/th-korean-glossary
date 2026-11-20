@@ -52725,3 +52725,15 @@ IT 쪽에서 일해요=I work in IT
 치료 몇 번 받아야 돼요=How many more times do I need to come for this treatment?
 입을 크게 벌려 주세요=Please open your mouth wide
 양치질 어떻게 해야 돼요=How should I brush my teeth?
+
+# --- 대화 85: 안경점 (2026-11-20) ---
+안경 맞추고 싶어요=I would like to get a new pair of glasses made
+시력 검사 해 주세요=Please check my eyesight
+안경테 좀 보여 주세요=Please show me some eyeglass frames
+렌즈는 얇게 해 주세요=Please make the lenses thin
+오늘 찾을 수 있어요=Will it be ready today?
+안경이 자꾸 흘러내려요=My glasses keep sliding down my nose
+안경다리가 부러졌어요=The arm of my glasses is broken
+나사 좀 조여 주세요=Please tighten the screw on my glasses
+콘택트렌즈 있어요=Do you sell contact lenses?
+선글라스에 도수 넣을 수 있어요=Can you make prescription sunglasses?

@@ -20709,3 +20709,15 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 치료 몇 번 받아야 돼요=Quante altre volte devo venire per questo trattamento?
 입을 크게 벌려 주세요=Per favore, apri bene la bocca
 양치질 어떻게 해야 돼요=Come dovrei lavarmi i denti?
+
+# --- 대화 85: 안경점 (2026-11-20) ---
+안경 맞추고 싶어요=Vorrei farmi realizzare un nuovo paio di occhiali
+시력 검사 해 주세요=Per favore, controlla la mia vista
+안경테 좀 보여 주세요=Per favore, mostrami delle montature per occhiali
+렌즈는 얇게 해 주세요=Si prega di rendere le lenti sottili
+오늘 찾을 수 있어요=Sarà pronto oggi?
+안경이 자꾸 흘러내려요=Gli occhiali continuano a scivolarmi giù dal naso
+안경다리가 부러졌어요=La stanghetta dei miei occhiali è rotta
+나사 좀 조여 주세요=Per favore stringi la vite sui miei occhiali
+콘택트렌즈 있어요=Vendi lenti a contatto?
+선글라스에 도수 넣을 수 있어요=È possibile realizzare occhiali da sole graduati?

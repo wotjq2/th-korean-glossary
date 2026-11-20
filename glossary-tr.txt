@@ -17681,3 +17681,15 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 치료 몇 번 받아야 돼요=Bu tedaviye kaç kez daha gelmem gerekiyor?
 입을 크게 벌려 주세요=Lütfen ağzınızı geniş açın
 양치질 어떻게 해야 돼요=Dişlerimi nasıl fırçalamalıyım?
+
+# --- 대화 85: 안경점 (2026-11-20) ---
+안경 맞추고 싶어요=Yeni bir gözlük yaptırmak istiyorum
+시력 검사 해 주세요=Lütfen göz yeteneğimi kontrol edin
+안경테 좀 보여 주세요=Lütfen bana birkaç gözlük çerçevesi göster
+렌즈는 얇게 해 주세요=Lütfen lensleri ince yapın
+오늘 찾을 수 있어요=Bugün hazır olacak mı?
+안경이 자꾸 흘러내려요=Gözlüklerim sürekli burnumdan aşağı kayıyor
+안경다리가 부러졌어요=Gözlüğümün kolu kırıldı
+나사 좀 조여 주세요=Lütfen gözlüğümdeki vidayı sıkın
+콘택트렌즈 있어요=Kontakt lens satıyor musunuz?
+선글라스에 도수 넣을 수 있어요=Reçeteli güneş gözlüğü yapabilir misin?
