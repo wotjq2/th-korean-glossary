@@ -7649,3 +7649,16 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 유리 두드리지 마세요=Mangyaring huwag kumatok sa salamin
 사파리 버스는 어디서 타요=Saan ako makakasakay sa safari bus?
 호랑이가 자고 있어요=Natutulog ang tigre
+
+# --- 대화 104: 스키장 (2026-11-22) ---
+스키 장비 빌리고 싶어요=Gusto kong magrenta ng kagamitan sa ski
+리프트권 하루짜리 얼마예요=Magkano ang isang araw na ticket para sa ski lift?
+스키 처음 타 봐요=First time kong mag-ski
+초보자 슬로프는 어디예요=Nasaan ang ski slope para sa mga nagsisimula?
+스키 강습 받고 싶어요=Gusto kong kumuha ng ski lesson
+스키 부츠가 너무 꽉 껴요=Masyadong masikip ang ski boots na ito
+스노보드도 빌릴 수 있어요=Maaari din ba akong magrenta ng snowboard?
+넘어져서 다리를 다쳤어요=Natumba ako at sumakit ang paa ko
+스키 고글 어디서 사요=Saan ako makakabili ng ski goggles?
+눈이 많이 와서 리프트가 멈췄어요=Huminto ang ski lift dahil sa mabigat na snow
+스키 장비 반납은 어디서 해요=Saan ko ibabalik ang ski equipment?

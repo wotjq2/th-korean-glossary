@@ -48195,3 +48195,16 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 유리 두드리지 마세요=S'il vous plaît, ne frappez pas sur le verre
 사파리 버스는 어디서 타요=Où puis-je monter dans le bus safari ?
 호랑이가 자고 있어요=Le tigre dort
+
+# --- 대화 104: 스키장 (2026-11-22) ---
+스키 장비 빌리고 싶어요=Je souhaite louer du matériel de ski
+리프트권 하루짜리 얼마예요=Combien coûte un ticket journalier pour les remontées mécaniques ?
+스키 처음 타 봐요=c'est la première fois que je skie
+초보자 슬로프는 어디예요=Où est la piste de ski pour débutants ?
+스키 강습 받고 싶어요=Je veux prendre un cours de ski
+스키 부츠가 너무 꽉 껴요=Ces chaussures de ski sont trop serrées
+스노보드도 빌릴 수 있어요=Puis-je également louer un snowboard ?
+넘어져서 다리를 다쳤어요=Je suis tombé et je me suis blessé à la jambe
+스키 고글 어디서 사요=Où puis-je acheter des lunettes de ski ?
+눈이 많이 와서 리프트가 멈췄어요=Les remontées mécaniques arrêtées à cause de fortes chutes de neige
+스키 장비 반납은 어디서 해요=Où rendre le matériel de ski ?

@@ -11650,3 +11650,16 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 유리 두드리지 마세요=Tolong jangan ketuk kaca
 사파리 버스는 어디서 타요=Di mana saya boleh menaiki bas safari?
 호랑이가 자고 있어요=Harimau sedang tidur
+
+# --- 대화 104: 스키장 (2026-11-22) ---
+스키 장비 빌리고 싶어요=Saya ingin menyewa peralatan ski
+리프트권 하루짜리 얼마예요=Berapakah harga tiket sehari untuk lif ski?
+스키 처음 타 봐요=Ini adalah kali pertama saya bermain ski
+초보자 슬로프는 어디예요=Di manakah cerun ski untuk pemula?
+스키 강습 받고 싶어요=Saya mahu mengambil pelajaran ski
+스키 부츠가 너무 꽉 껴요=Kasut ski ini terlalu ketat
+스노보드도 빌릴 수 있어요=Bolehkah saya juga menyewa papan salji?
+넘어져서 다리를 다쳤어요=Saya jatuh dan sakit kaki saya
+스키 고글 어디서 사요=Di mana saya boleh membeli cermin mata ski?
+눈이 많이 와서 리프트가 멈췄어요=Lif ski berhenti kerana salji tebal
+스키 장비 반납은 어디서 해요=Di manakah saya boleh memulangkan peralatan ski?

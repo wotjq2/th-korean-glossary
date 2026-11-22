@@ -17898,3 +17898,16 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 유리 두드리지 마세요=Lütfen cama vurmayın
 사파리 버스는 어디서 타요=Safari otobüsüne nereden binebilirim?
 호랑이가 자고 있어요=Kaplan uyuyor
+
+# --- 대화 104: 스키장 (2026-11-22) ---
+스키 장비 빌리고 싶어요=Kayak ekipmanı kiralamak istiyorum
+리프트권 하루짜리 얼마예요=Telesiyej için bir günlük bilet ne kadar?
+스키 처음 타 봐요=Bu benim ilk kayak deneyimim
+초보자 슬로프는 어디예요=Yeni başlayanlar için kayak pisti nerede?
+스키 강습 받고 싶어요=Kayak dersi almak istiyorum
+스키 부츠가 너무 꽉 껴요=Bu kayak botları çok dar
+스노보드도 빌릴 수 있어요=Ayrıca snowboard kiralayabilir miyim?
+넘어져서 다리를 다쳤어요=Düştüm ve bacağımı incittim
+스키 고글 어디서 사요=Kayak gözlüklerini nereden satın alabilirim?
+눈이 많이 와서 리프트가 멈췄어요=Yoğun kar nedeniyle kayak teleferiği durdu
+스키 장비 반납은 어디서 해요=Kayak ekipmanını nereye iade edebilirim?
