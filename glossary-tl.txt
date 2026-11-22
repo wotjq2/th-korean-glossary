@@ -7622,3 +7622,17 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 요즘 시간이 많아요=Marami akong libreng oras ngayon
 손주가 보고 싶어요=Miss ko na mga apo ko
 같이 산책할 친구가 있으면 좋겠어요=Sana may kaibigan akong makakasama sa paglalakad
+
+# --- 대화 102: 자전거 대여·수리 (2026-11-22) ---
+자전거 빌리고 싶어요=Gusto kong magrenta ng bisikleta
+자전거 하루 빌리는 데 얼마예요=Magkano ang magrenta ng bisikleta para sa isang araw?
+자전거 타이어에 바람이 빠졌어요=Walang hangin ang gulong ng bisikleta ko
+자전거 체인이 빠졌어요=Natanggal ang kadena sa bisikleta ko
+자전거 브레이크가 잘 안 들어요=Ang preno ng aking bisikleta ay hindi gumagana nang maayos
+안장 좀 낮춰 주세요=Pakibaba ng kaunti ang upuan ng bisikleta
+자전거 헬멧도 빌릴 수 있어요=Maaari din ba akong magrenta ng helmet ng bisikleta?
+자전거 자물쇠 있어요=Mayroon ka bang lock ng bisikleta?
+자전거 도로가 어디 있어요=Saan ang bicycle lane?
+자전거 고쳐 주실 수 있어요=Maaari mo bang ayusin ang aking bisikleta?
+자전거 타이어에 바람 좀 넣어 주세요=Mangyaring mag-pump ng hangin sa gulong ng aking bisikleta
+자전거 기어가 잘 안 바뀌어요=Ang mga gear sa aking bisikleta ay hindi maayos na lumilipat

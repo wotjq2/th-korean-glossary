@@ -17871,3 +17871,17 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 요즘 시간이 많아요=Bu aralar çok boş zamanım var
 손주가 보고 싶어요=Torunlarımı özledim
 같이 산책할 친구가 있으면 좋겠어요=Keşke birlikte yürüyüşe çıkabileceğim bir arkadaşım olsaydı
+
+# --- 대화 102: 자전거 대여·수리 (2026-11-22) ---
+자전거 빌리고 싶어요=Bisiklet kiralamak istiyorum
+자전거 하루 빌리는 데 얼마예요=Bir günlük bisiklet kiralamanın maliyeti ne kadar?
+자전거 타이어에 바람이 빠졌어요=Bisiklet lastiğimin içinde hava yok
+자전거 체인이 빠졌어요=Zincir bisikletimden çıktı
+자전거 브레이크가 잘 안 들어요=Bisikletimin frenleri iyi çalışmıyor
+안장 좀 낮춰 주세요=Lütfen bisiklet koltuğunu biraz indirin
+자전거 헬멧도 빌릴 수 있어요=Bisiklet kaskı da kiralayabilir miyim?
+자전거 자물쇠 있어요=Bisiklet kilidiniz var mı?
+자전거 도로가 어디 있어요=Bisiklet yolu nerede?
+자전거 고쳐 주실 수 있어요=Bisikletimi tamir edebilir misin?
+자전거 타이어에 바람 좀 넣어 주세요=Lütfen bisiklet lastiğime biraz hava pompalayın
+자전거 기어가 잘 안 바뀌어요=Bisikletimdeki vitesler düzgün şekilde değişmiyor

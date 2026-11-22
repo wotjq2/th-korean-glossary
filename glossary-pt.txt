@@ -22747,3 +22747,17 @@ IT 쪽에서 일해요=Eu trabalho em TI
 요즘 시간이 많아요=Tenho muito tempo livre hoje em dia
 손주가 보고 싶어요=Sinto falta dos meus netos
 같이 산책할 친구가 있으면 좋겠어요=Eu gostaria de ter um amigo para passear
+
+# --- 대화 102: 자전거 대여·수리 (2026-11-22) ---
+자전거 빌리고 싶어요=Eu gostaria de alugar uma bicicleta
+자전거 하루 빌리는 데 얼마예요=Quanto custa alugar uma bicicleta por um dia?
+자전거 타이어에 바람이 빠졌어요=O pneu da minha bicicleta não tem ar
+자전거 체인이 빠졌어요=A corrente saiu da minha bicicleta
+자전거 브레이크가 잘 안 들어요=Os freios da minha bicicleta não estão funcionando bem
+안장 좀 낮춰 주세요=Por favor abaixe um pouco o assento da bicicleta
+자전거 헬멧도 빌릴 수 있어요=Também posso alugar um capacete de bicicleta?
+자전거 자물쇠 있어요=Você tem cadeado para bicicleta?
+자전거 도로가 어디 있어요=Onde fica a ciclovia?
+자전거 고쳐 주실 수 있어요=Você pode consertar minha bicicleta?
+자전거 타이어에 바람 좀 넣어 주세요=Por favor, bombeie um pouco de ar no pneu da minha bicicleta
+자전거 기어가 잘 안 바뀌어요=As marchas da minha bicicleta não mudam corretamente

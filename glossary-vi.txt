@@ -41549,3 +41549,17 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 요즘 시간이 많아요=dạo này tôi có nhiều thời gian rảnh
 손주가 보고 싶어요=Tôi nhớ các cháu của tôi
 같이 산책할 친구가 있으면 좋겠어요=Ước gì có một người bạn để đi dạo cùng
+
+# --- 대화 102: 자전거 대여·수리 (2026-11-22) ---
+자전거 빌리고 싶어요=Tôi muốn thuê một chiếc xe đạp
+자전거 하루 빌리는 데 얼마예요=Giá thuê xe đạp một ngày là bao nhiêu?
+자전거 타이어에 바람이 빠졌어요=Lốp xe đạp của tôi không có hơi trong đó
+자전거 체인이 빠졌어요=Dây xích tuột khỏi xe đạp của tôi
+자전거 브레이크가 잘 안 들어요=Phanh trên xe đạp của tôi không hoạt động tốt
+안장 좀 낮춰 주세요=Hãy hạ yên xe đạp xuống một chút
+자전거 헬멧도 빌릴 수 있어요=Tôi cũng có thể thuê mũ bảo hiểm xe đạp được không?
+자전거 자물쇠 있어요=Bạn có khóa xe đạp không?
+자전거 도로가 어디 있어요=Làn đường dành cho xe đạp ở đâu?
+자전거 고쳐 주실 수 있어요=Bạn có thể sửa xe đạp của tôi được không?
+자전거 타이어에 바람 좀 넣어 주세요=Làm ơn bơm chút không khí vào lốp xe đạp của tôi
+자전거 기어가 잘 안 바뀌어요=Bánh răng trên xe đạp của tôi không chuyển số đúng cách

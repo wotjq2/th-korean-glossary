@@ -38772,3 +38772,17 @@ IT 쪽에서 일해요=Saya bekerja di bidang TI
 요즘 시간이 많아요=Saya punya banyak waktu luang hari ini
 손주가 보고 싶어요=Saya rindu cucu-cucu saya
 같이 산책할 친구가 있으면 좋겠어요=Aku berharap aku punya teman untuk diajak jalan-jalan
+
+# --- 대화 102: 자전거 대여·수리 (2026-11-22) ---
+자전거 빌리고 싶어요=Saya ingin menyewa sepeda
+자전거 하루 빌리는 데 얼마예요=Berapa biaya sewa sepeda sehari?
+자전거 타이어에 바람이 빠졌어요=Ban sepeda saya tidak ada udara di dalamnya
+자전거 체인이 빠졌어요=Rantai itu terlepas dari sepedaku
+자전거 브레이크가 잘 안 들어요=Rem sepeda saya tidak berfungsi dengan baik
+안장 좀 낮춰 주세요=Tolong turunkan sedikit jok sepeda
+자전거 헬멧도 빌릴 수 있어요=Bisakah saya juga menyewa helm sepeda?
+자전거 자물쇠 있어요=Apakah Anda memiliki kunci sepeda?
+자전거 도로가 어디 있어요=Dimana jalur sepedanya?
+자전거 고쳐 주실 수 있어요=Bisakah Anda memperbaiki sepeda saya?
+자전거 타이어에 바람 좀 넣어 주세요=Tolong pompa udara ke ban sepeda saya
+자전거 기어가 잘 안 바뀌어요=Roda gigi sepeda saya tidak berpindah dengan benar

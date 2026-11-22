@@ -48168,3 +48168,17 @@ IT 쪽에서 일해요=Je travaille dans l'informatique
 요즘 시간이 많아요=J'ai beaucoup de temps libre ces jours-ci
 손주가 보고 싶어요=Mes petits-enfants me manquent
 같이 산책할 친구가 있으면 좋겠어요=J'aurais aimé avoir un ami avec qui faire une promenade
+
+# --- 대화 102: 자전거 대여·수리 (2026-11-22) ---
+자전거 빌리고 싶어요=Je voudrais louer un vélo
+자전거 하루 빌리는 데 얼마예요=Combien coûte la location d'un vélo à la journée ?
+자전거 타이어에 바람이 빠졌어요=Mon pneu de vélo n'a pas d'air dedans
+자전거 체인이 빠졌어요=La chaîne s'est détachée de mon vélo
+자전거 브레이크가 잘 안 들어요=Les freins de mon vélo ne fonctionnent pas bien
+안장 좀 낮춰 주세요=Veuillez abaisser un peu la selle du vélo
+자전거 헬멧도 빌릴 수 있어요=Puis-je également louer un casque de vélo ?
+자전거 자물쇠 있어요=Avez-vous un cadenas à vélo ?
+자전거 도로가 어디 있어요=Où est la piste cyclable ?
+자전거 고쳐 주실 수 있어요=Pouvez-vous réparer mon vélo ?
+자전거 타이어에 바람 좀 넣어 주세요=S'il vous plaît, pompez un peu d'air dans mon pneu de vélo
+자전거 기어가 잘 안 바뀌어요=Les vitesses de mon vélo ne passent pas correctement
