@@ -41589,3 +41589,16 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 스키 고글 어디서 사요=Tôi có thể mua kính trượt tuyết ở đâu?
 눈이 많이 와서 리프트가 멈췄어요=Thang máy trượt tuyết dừng lại vì tuyết dày
 스키 장비 반납은 어디서 해요=Tôi có thể trả lại thiết bị trượt tuyết ở đâu?
+
+# --- 대화 105: 낚시 (2026-11-22) ---
+낚시하러 가고 싶어요=Tôi muốn đi câu cá
+낚싯대 빌릴 수 있어요=Tôi có thể thuê cần câu được không?
+낚시 미끼는 어디서 사요=Mua mồi câu cá ở đâu?
+여기서 낚시해도 돼요=Ở đây có được phép câu cá không?
+낚싯배 예약하고 싶어요=Tôi muốn đặt một chuyến đi trên thuyền đánh cá
+오늘 무슨 고기가 잘 잡혀요=Hôm nay chúng ta có thể câu được loại cá nào?
+한 마리도 못 잡았어요=Tôi không bắt được một con cá nào
+큰 물고기 잡았어요=Tôi đã câu được một con cá lớn
+잡은 물고기 요리해 주실 수 있어요=Bạn có thể nấu món cá tôi bắt được không?
+낚싯줄이 엉켰어요=Dây câu của tôi bị rối
+물고기가 물었어요=Một con cá cắn câu

@@ -23800,3 +23800,16 @@ IT 쪽에서 일해요=Pracuję w IT
 스키 고글 어디서 사요=Gdzie mogę kupić gogle narciarskie?
 눈이 많이 와서 리프트가 멈췄어요=Wyciąg narciarski zatrzymał się z powodu obfitych opadów śniegu
 스키 장비 반납은 어디서 해요=Gdzie zwrócić sprzęt narciarski?
+
+# --- 대화 105: 낚시 (2026-11-22) ---
+낚시하러 가고 싶어요=Chcę iść na ryby
+낚싯대 빌릴 수 있어요=Czy mogę wypożyczyć wędkę?
+낚시 미끼는 어디서 사요=Gdzie mogę kupić przynętę wędkarską?
+여기서 낚시해도 돼요=Czy można tu łowić ryby?
+낚싯배 예약하고 싶어요=Chciałbym zarezerwować rejs łodzią rybacką
+오늘 무슨 고기가 잘 잡혀요=Jakie ryby możemy dzisiaj złowić?
+한 마리도 못 잡았어요=Nie złowiłem ani jednej ryby
+큰 물고기 잡았어요=Złapałem dużą rybę
+잡은 물고기 요리해 주실 수 있어요=Czy możesz ugotować złowioną przeze mnie rybę?
+낚싯줄이 엉켰어요=Moja żyłka jest splątana
+물고기가 물었어요=Ryba ugryzła haczyk

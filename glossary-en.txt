@@ -52955,3 +52955,16 @@ IT 쪽에서 일해요=I work in IT
 스키 고글 어디서 사요=Where can I buy ski goggles?
 눈이 많이 와서 리프트가 멈췄어요=The ski lift stopped because of heavy snow
 스키 장비 반납은 어디서 해요=Where do I return the ski equipment?
+
+# --- 대화 105: 낚시 (2026-11-22) ---
+낚시하러 가고 싶어요=I want to go fishing
+낚싯대 빌릴 수 있어요=Can I rent a fishing rod?
+낚시 미끼는 어디서 사요=Where can I buy fishing bait?
+여기서 낚시해도 돼요=Is fishing allowed here?
+낚싯배 예약하고 싶어요=I would like to reserve a trip on a fishing boat
+오늘 무슨 고기가 잘 잡혀요=What kind of fish can we catch today?
+한 마리도 못 잡았어요=I did not catch a single fish
+큰 물고기 잡았어요=I caught a big fish
+잡은 물고기 요리해 주실 수 있어요=Can you cook the fish I caught?
+낚싯줄이 엉켰어요=My fishing line is tangled
+물고기가 물었어요=A fish bit the hook

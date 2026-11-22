@@ -17911,3 +17911,16 @@ IT 쪽에서 일해요=BT'de çalışıyorum
 스키 고글 어디서 사요=Kayak gözlüklerini nereden satın alabilirim?
 눈이 많이 와서 리프트가 멈췄어요=Yoğun kar nedeniyle kayak teleferiği durdu
 스키 장비 반납은 어디서 해요=Kayak ekipmanını nereye iade edebilirim?
+
+# --- 대화 105: 낚시 (2026-11-22) ---
+낚시하러 가고 싶어요=balığa gitmek istiyorum
+낚싯대 빌릴 수 있어요=Olta kiralayabilir miyim?
+낚시 미끼는 어디서 사요=Balıkçılık yemi nereden satın alabilirim?
+여기서 낚시해도 돼요=Burada balık tutmak serbest mi?
+낚싯배 예약하고 싶어요=Bir balıkçı teknesinde gezi rezervasyonu yaptırmak istiyorum
+오늘 무슨 고기가 잘 잡혀요=Bugün ne tür balık yakalayabiliriz?
+한 마리도 못 잡았어요=Bir tek balık bile yakalayamadım
+큰 물고기 잡았어요=Büyük bir balık yakaladım
+잡은 물고기 요리해 주실 수 있어요=Tuttuğum balığı pişirebilir misin?
+낚싯줄이 엉켰어요=Oltam karışmış
+물고기가 물었어요=Bir balık kancayı ısırdı

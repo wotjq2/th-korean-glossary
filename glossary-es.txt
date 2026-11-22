@@ -48426,3 +48426,16 @@ IT 쪽에서 일해요=yo trabajo en TI
 스키 고글 어디서 사요=¿Dónde puedo comprar gafas de esquí?
 눈이 많이 와서 리프트가 멈췄어요=El remonte se detuvo debido a la fuerte nevada
 스키 장비 반납은 어디서 해요=¿Dónde devuelvo el material de esquí?
+
+# --- 대화 105: 낚시 (2026-11-22) ---
+낚시하러 가고 싶어요=quiero ir a pescar
+낚싯대 빌릴 수 있어요=¿Puedo alquilar una caña de pescar?
+낚시 미끼는 어디서 사요=¿Dónde puedo comprar cebo de pesca?
+여기서 낚시해도 돼요=Se permite la pesca aquí?
+낚싯배 예약하고 싶어요=Me gustaría reservar un viaje en un barco de pesca.
+오늘 무슨 고기가 잘 잡혀요=¿Qué tipo de peces podemos pescar hoy?
+한 마리도 못 잡았어요=no pesqué ni un solo pez
+큰 물고기 잡았어요=pesqué un pez grande
+잡은 물고기 요리해 주실 수 있어요=¿Puedes cocinar el pescado que pesqué?
+낚싯줄이 엉켰어요=Mi hilo de pescar está enredado
+물고기가 물었어요=Un pez mordió el anzuelo
