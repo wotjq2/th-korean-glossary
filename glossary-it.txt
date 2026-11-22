@@ -20913,3 +20913,16 @@ IT 쪽에서 일해요=Lavoro nel settore informatico
 자전거 고쳐 주실 수 있어요=Puoi riparare la mia bicicletta?
 자전거 타이어에 바람 좀 넣어 주세요=Per favore, pompa un po' d'aria nel copertone della mia bicicletta
 자전거 기어가 잘 안 바뀌어요=Le marce della mia bicicletta non cambiano correttamente
+
+# --- 대화 103: 동물원 (2026-11-22) ---
+동물원 입장료가 얼마예요=Quanto costa l'ingresso allo zoo?
+동물원 몇 시에 문 닫아요=A che ora chiude lo zoo?
+판다는 어디서 볼 수 있어요=Dove posso vedere i panda?
+동물한테 먹이 줘도 돼요=È giusto dare cibo agli animali?
+동물 먹이는 어디서 사요=Dove posso acquistare il cibo per gli animali?
+기린한테 먹이 주는 체험 하고 싶어요=Voglio provare a dare da mangiare alle giraffe
+코끼리 쇼는 몇 시에 해요=A che ora c'è lo spettacolo degli elefanti?
+아이들이 동물을 정말 좋아해요=I bambini adorano davvero gli animali
+유리 두드리지 마세요=Per favore non bussare al vetro
+사파리 버스는 어디서 타요=Dove salgo sul bus safari?
+호랑이가 자고 있어요=La tigre sta dormendo

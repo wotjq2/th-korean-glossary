@@ -48400,3 +48400,16 @@ IT 쪽에서 일해요=yo trabajo en TI
 자전거 고쳐 주실 수 있어요=¿Puedes reparar mi bicicleta?
 자전거 타이어에 바람 좀 넣어 주세요=Por favor, bombea un poco de aire a la llanta de mi bicicleta.
 자전거 기어가 잘 안 바뀌어요=Las marchas de mi bicicleta no cambian correctamente
+
+# --- 대화 103: 동물원 (2026-11-22) ---
+동물원 입장료가 얼마예요=¿Cuánto cuesta la entrada al zoológico?
+동물원 몇 시에 문 닫아요=¿A qué hora cierra el zoológico?
+판다는 어디서 볼 수 있어요=¿Dónde puedo ver los pandas?
+동물한테 먹이 줘도 돼요=¿Está bien darles comida a los animales?
+동물 먹이는 어디서 사요=¿Dónde puedo comprar comida para los animales?
+기린한테 먹이 주는 체험 하고 싶어요=Quiero intentar darles comida a las jirafas.
+코끼리 쇼는 몇 시에 해요=¿A qué hora es el espectáculo de elefantes?
+아이들이 동물을 정말 좋아해요=A los niños les encantan los animales.
+유리 두드리지 마세요=Por favor no golpees el cristal.
+사파리 버스는 어디서 타요=¿Dónde subo al autobús del safari?
+호랑이가 자고 있어요=el tigre esta durmiendo

@@ -7636,3 +7636,16 @@ IT 쪽에서 일해요=Nagtatrabaho ako sa IT
 자전거 고쳐 주실 수 있어요=Maaari mo bang ayusin ang aking bisikleta?
 자전거 타이어에 바람 좀 넣어 주세요=Mangyaring mag-pump ng hangin sa gulong ng aking bisikleta
 자전거 기어가 잘 안 바뀌어요=Ang mga gear sa aking bisikleta ay hindi maayos na lumilipat
+
+# --- 대화 103: 동물원 (2026-11-22) ---
+동물원 입장료가 얼마예요=Magkano ang entrance fee para sa zoo?
+동물원 몇 시에 문 닫아요=Anong oras nagsasara ang zoo?
+판다는 어디서 볼 수 있어요=Saan ko makikita ang mga panda?
+동물한테 먹이 줘도 돼요=Okay lang bang bigyan ng pagkain ang mga hayop?
+동물 먹이는 어디서 사요=Saan ako makakabili ng pagkain para sa mga hayop?
+기린한테 먹이 주는 체험 하고 싶어요=Gusto kong subukang bigyan ng pagkain ang mga giraffe
+코끼리 쇼는 몇 시에 해요=Anong oras ang palabas ng elepante?
+아이들이 동물을 정말 좋아해요=Ang mga bata ay talagang mahilig sa mga hayop
+유리 두드리지 마세요=Mangyaring huwag kumatok sa salamin
+사파리 버스는 어디서 타요=Saan ako makakasakay sa safari bus?
+호랑이가 자고 있어요=Natutulog ang tigre

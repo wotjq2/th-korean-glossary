@@ -23774,3 +23774,16 @@ IT 쪽에서 일해요=Pracuję w IT
 자전거 고쳐 주실 수 있어요=Czy możesz naprawić mój rower?
 자전거 타이어에 바람 좀 넣어 주세요=Proszę, wpompuj trochę powietrza do opony mojego roweru
 자전거 기어가 잘 안 바뀌어요=Przerzutki w moim rowerze nie przełączają się prawidłowo
+
+# --- 대화 103: 동물원 (2026-11-22) ---
+동물원 입장료가 얼마예요=Ile kosztuje wstęp do zoo?
+동물원 몇 시에 문 닫아요=O której godzinie zoo jest zamknięte?
+판다는 어디서 볼 수 있어요=Gdzie mogę zobaczyć pandy?
+동물한테 먹이 줘도 돼요=Czy można dawać zwierzętom jedzenie?
+동물 먹이는 어디서 사요=Gdzie mogę kupić karmę dla zwierząt?
+기린한테 먹이 주는 체험 하고 싶어요=Chcę spróbować dać jedzenie żyrafom
+코끼리 쇼는 몇 시에 해요=O której godzinie jest pokaz słoni?
+아이들이 동물을 정말 좋아해요=Dzieci naprawdę kochają zwierzęta
+유리 두드리지 마세요=Proszę nie pukać w szybę
+사파리 버스는 어디서 타요=Gdzie wsiądę do autobusu safari?
+호랑이가 자고 있어요=Tygrys śpi

@@ -52929,3 +52929,16 @@ IT 쪽에서 일해요=I work in IT
 자전거 고쳐 주실 수 있어요=Can you repair my bicycle?
 자전거 타이어에 바람 좀 넣어 주세요=Please pump some air into my bicycle tire
 자전거 기어가 잘 안 바뀌어요=The gears on my bicycle do not shift properly
+
+# --- 대화 103: 동물원 (2026-11-22) ---
+동물원 입장료가 얼마예요=How much is the entrance fee for the zoo?
+동물원 몇 시에 문 닫아요=What time does the zoo close?
+판다는 어디서 볼 수 있어요=Where can I see the pandas?
+동물한테 먹이 줘도 돼요=Is it okay to give food to the animals?
+동물 먹이는 어디서 사요=Where can I buy food for the animals?
+기린한테 먹이 주는 체험 하고 싶어요=I want to try giving food to the giraffes
+코끼리 쇼는 몇 시에 해요=What time is the elephant show?
+아이들이 동물을 정말 좋아해요=The children really love animals
+유리 두드리지 마세요=Please do not knock on the glass
+사파리 버스는 어디서 타요=Where do I get on the safari bus?
+호랑이가 자고 있어요=The tiger is sleeping

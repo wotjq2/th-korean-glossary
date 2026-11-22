@@ -41563,3 +41563,16 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 자전거 고쳐 주실 수 있어요=Bạn có thể sửa xe đạp của tôi được không?
 자전거 타이어에 바람 좀 넣어 주세요=Làm ơn bơm chút không khí vào lốp xe đạp của tôi
 자전거 기어가 잘 안 바뀌어요=Bánh răng trên xe đạp của tôi không chuyển số đúng cách
+
+# --- 대화 103: 동물원 (2026-11-22) ---
+동물원 입장료가 얼마예요=Giá vé vào vườn thú là bao nhiêu?
+동물원 몇 시에 문 닫아요=Vườn thú đóng cửa lúc mấy giờ?
+판다는 어디서 볼 수 있어요=Tôi có thể nhìn thấy gấu trúc ở đâu?
+동물한테 먹이 줘도 돼요=Có thể cho động vật thức ăn được không?
+동물 먹이는 어디서 사요=Mua thức ăn cho động vật ở đâu?
+기린한테 먹이 주는 체험 하고 싶어요=Tôi muốn thử đưa thức ăn cho hươu cao cổ
+코끼리 쇼는 몇 시에 해요=Buổi biểu diễn voi diễn ra vào lúc mấy giờ?
+아이들이 동물을 정말 좋아해요=Trẻ em thực sự yêu động vật
+유리 두드리지 마세요=Xin đừng gõ vào kính
+사파리 버스는 어디서 타요=Tôi có thể lên xe buýt safari ở đâu?
+호랑이가 자고 있어요=Con hổ đang ngủ
