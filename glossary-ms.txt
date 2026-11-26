@@ -962,7 +962,7 @@
 깡패=gengster
 깨지기 쉬운=rapuh
 깨진=pecah
-꺼져=berhambus!
+꺼져=Berambus!
 꺼져 버려=pergi mampus
 꼬끼오=kukurukuk
 꼬끼오 꼬꼬=kukurukuk
@@ -12873,7 +12873,7 @@ IT 쪽에서 일해요=Saya bekerja dalam IT
 나도 너랑 같은 처지야=Saya berada dalam keadaan yang sama dengan anda.
 우리는 다 같은 처지에 있지 않는다=Kita semua tidak berada dalam situasi yang sama.
 단 하나의 진실은 현실이다=Satu-satunya kebenaran adalah realiti.
-꺼져=fuck off!
+꺼져=Berambus!
 내 인생 개 같다=Persetankan hidup saya!
 그 망할 문 닫아라=Tutup pintu sialan!
 오늘은 존나 춥다=Hari ini sejuk.
