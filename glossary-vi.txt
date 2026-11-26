@@ -39305,7 +39305,7 @@
 ㅜㅜ=😢
 ㅠㅠㅠ=😭
 ㅇㅇ=vâng
-ㅇㅋ=ĐƯỢC RỒI
+ㅇㅋ=Được rồi
 ㄱㅅ=Cảm ơn
 ㅈㅅ=Xin lỗi
 ㄴㄴ=không không
@@ -40198,7 +40198,7 @@
 메리 크리스마스=Giáng sinh vui vẻ
 즐거운 송크란 보내세요=Chúc mừng Songkran
 명절 잘 보내세요=Chúc bạn có một kỳ nghỉ lễ vui vẻ
-새해 복 많이 받아=CHÚC MỪNG NĂM MỚI
+새해 복 많이 받아=Chúc mừng năm mới
 건강하세요=Giữ sức khỏe
 행운을 빌어=Chúc may mắn
 여행 잘 다녀와=Chúc bạn có một chuyến đi vui vẻ
@@ -45129,7 +45129,7 @@ IT 쪽에서 일해요=Tôi làm việc trong lĩnh vực CNTT
 그는 금방 올 것이다=Anh ấy sẽ đến sớm thôi.
 나는 일하는 것이 좋다=Tôi thích làm việc.
 어떻게 감히 그럴 수가=Sao mày dám!
-어떻게 그럴 수가 있어=Sao mày dám!
+어떻게 그럴 수가 있어=Sao bạn có thể làm vậy?
 당신은 마침내 취직에 성공했다=Cuối cùng bạn đã thành công trong việc xin được việc làm.
 너 드디어 취직 성공했구나=Cuối cùng bạn đã thành công trong việc xin được việc làm.
 그가 침대에 누워있는 것을 알았다=Tôi tìm thấy anh ấy đang nằm trên giường.
