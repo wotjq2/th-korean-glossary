@@ -24,6 +24,7 @@
 환전하고 싶어요=Me gustaría cambiar dinero
 송금하고 싶어요=Me gustaría enviar dinero
 금방 갈게=Estaré ahí pronto
+결혼했어요=Estoy casada.
 여행 가고 싶어=Quiero irme de viaje
 갇혔어요=Estoy encerrada
 길을 잃었어=Estoy perdida
@@ -98,6 +99,7 @@
 좀 놀랐어요=Estoy un poco sorprendida.
 혼자 살거야=Voy a vivir sola.
 나는 유죄 판결을 받았다=Fui condenada.
+지금 바빠=Estoy ocupada ahora.
 나는 인도 사람이 아니야=No soy india.
 난 혼자서 가야해=Tengo que ir sola.
 난 이 셔츠는 사지 않겠어=No compraré esta camiseta.
@@ -112,6 +114,7 @@
 너무 피곤해서 생각을 못 하겠어=Estoy demasiado cansada para pensar.
 조금 피곤한 기분이야=Me siento un poco cansada.
 난 혼자서 먹는 것을 싫어해=Odio comer sola.
+혼자서 일해=Trabajo sola.
 난 다시 혼자가 되고 싶지 않아=No quiero volver a estar sola.
 창피함은 안 느꼈어=No me sentí avergonzada.
 나는 바보같이 굴었어=Actué como una tonta.
@@ -151,10 +154,12 @@
 나는 조금 혼란스럽다=Estoy un poco confundida.
 좀 헷갈리네요=Estoy un poco confundida.
 나는 변호사다=Soy abogada.
+여기 나 혼자에요=Estoy sola aquí.
 나는 더 이상 영감을 받지 못한다=Ya no estoy inspirada.
 나는 그가 언제 올지 잘 모르겠다=No estoy segura de cuándo vendrá.
 제가 내겠습니다=Yo pago.
 나는 자원했다=Me ofrecí voluntaria.
+오늘 바빠=Estoy ocupada hoy.
 나는 늙지 않았다=No soy vieja.
 잠들었다=Me quedé dormida.
 나는 내 아이들에게 감사한다=Estoy agradecida con mis hijos.

@@ -17,6 +17,7 @@
 차였어=Sono stata scaricata
 대학생이에요=Sono una studentessa universitaria
 졸업했어요=Mi sono laureata
+결혼했어요=Sono sposata.
 운동하고 왔어=Sono appena tornata dall'allenamento
 콘서트 표 샀어=Ho comprato i biglietti per il concerto
 소매치기를 당했어요=Sono stata borseggiata
@@ -24,7 +25,9 @@
 사기당했어요=Sono stata truffata
 90일 신고하러 왔어요=Sono venuta per fare il mio rapporto di 90 giorni
 배부르게 먹었어=Ho mangiato finché non ero sazia
+머리 잘랐어=Mi sono tagliata i capelli.
 아이 데리러 왔어요=Sono venuta a prendere mio figlio
+양치했어=Mi sono lavata i denti.
 취했어=Sono ubriaca
 안 취했어=Non sono ubriaca
 아파서 못 가=Non posso andare perché sono malata
@@ -66,6 +69,7 @@
 나 유괴 당한 적 있어=Sono stata rapita.
 난 지난 금요일부터 아파서 누워있어=Sono a letto malata da venerdì scorso.
 충격이야=Sono scioccata.
+가게에 갔어요=Sono andata al negozio.
 긴장돼요=Sono nervosa.
 떨려요=Sono nervosa.
 나는 1960년에 태어났다=Sono nata nel 1960.
@@ -78,6 +82,7 @@
 쉬고 싶어요=Voglio riposarmi.
 쉬고 싶다=Voglio riposarmi.
 나는 체계적이지 못하다=Sono disorganizzata.
+지금 바빠=Sono occupata adesso.
 택시로 안 왔어=Non sono venuta in taxi.
 이보다 더 좋았던 적이 없다=Non mi sono mai sentita così bene.
 나는 인도 사람이 아니야=Non sono indiana.
@@ -99,6 +104,7 @@
 춤추는 것은 질렸어=Sono stanca di ballare.
 너무 피곤해서 생각을 못 하겠어=Sono troppo stanca per pensare.
 조금 피곤한 기분이야=Mi sento un po' stanca.
+혼자서 일해=Lavoro da sola.
 난 가난했었어=Ero povera.
 난 일곱 시에 일어났어=Mi sono alzata alle sette.
 난 코드를 간신히 해독했어=Sono riuscita a decifrare il codice.
@@ -131,12 +137,13 @@
 힘들지 않다=Non sono stanca.
 나는 은행에 갔다=Sono andata in banca.
 틀림없어=Ne sono assolutamente sicura!
+빨간불에 멈췄어=Mi sono fermata al semaforo rosso.
 나는 요리를 잘한다=Sono brava a cucinare.
 나는 조금 혼란스럽다=Sono un po' confusa.
 좀 헷갈리네요=Sono un po' confusa.
 나중에 다시 돌아오겠습니다=Torno più tardi.
+여기 나 혼자에요=Sono sola qui.
 나는 더 이상 영감을 받지 못한다=Non sono più ispirata.
-나는 그를 처음 봤다=Non l'avevo mai visto prima.
 나에게 응급처치가 필요하다=Ho bisogno del primo soccorso.
 응급처치를 원해요=Ho bisogno del primo soccorso.
 응급처치를 해 주세요=Ho bisogno del primo soccorso.
@@ -144,7 +151,6 @@
 나는 지난 월요일에 결석했다=Lunedì scorso non sono andata a scuola.
 나는 자원했다=Mi sono offerta volontaria.
 나는 그에게 그것을 설명했다=Gliel'ho spiegato.
-나 정말 살쪘어=Sono estremamente grassa.
 나는 지난 밤에 도착했다=Sono arrivata ieri sera.
 나는 오스트레일리아로 돌아갔었다=Sono tornata in Australia.
 나는 늙지 않았다=Non sono vecchia.
@@ -187,6 +193,8 @@
 나는 러시아 사람이에요=Sono russa.
 저는 우크라이나 사람이에요=Sono ucraina.
 나는 우크라이나 사람이에요=Sono ucraina.
+학생이에요=Sono una studentessa.
+학생이야=Sono una studentessa.
 이집트 사람이에요=Sono egiziana.
 저는 이집트 사람입니다=Sono egiziana.
 나는 이집트 사람이에요=Sono egiziana.

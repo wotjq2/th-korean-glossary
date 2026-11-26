@@ -4,6 +4,7 @@
 # === 여자 말투 — 아래는 직접 고른 말 ===
 모르겠어=Je ne suis pas sûre
 부럽다=je suis envieuse
+일어났어=Je me suis réveillée.
 피곤해=Je suis fatiguée
 배불러=je suis rassasiée
 바빠=je suis occupée
@@ -15,6 +16,7 @@
 미안해 내가 잘못했어=Je suis désolée, c'était de ma faute
 질투 나=je suis jalouse
 대학생이에요=Je suis étudiante à l'université
+결혼했어요=Je suis mariée.
 길을 잃었어=je suis perdue
 90일 신고하러 왔어요=Je suis venue faire mon rapport des 90 jours
 늦어서 죄송합니다=Je suis désolée d'être en retard
@@ -53,6 +55,7 @@
 저는 학생이 아닙니다=Je ne suis pas étudiante.
 저는 학생이에요=Je suis étudiante.
 난 거의 죽을 뻔 했다=J'ai failli être tuée.
+난 정말 부끄러웠다=J’étais vraiment gênée.
 오늘은 너무 바빴어=J’étais très occupée aujourd’hui.
 언어 공부하는 것을 좋아합니다=J’aime apprendre les langues.
 지금은 바빠서 못 가=Je suis trop occupée pour y aller.
@@ -67,6 +70,7 @@
 우연히 옛날 친구를 만났어=J'ai rencontré une vieille amie par hasard.
 나 유괴 당한 적 있어=J'ai été kidnappée.
 충격이야=Je suis choquée.
+가게에 갔어요=Je suis allée au magasin.
 죄송하지만, 무슨 말인지 모르겠어요=Je suis désolée, mais je ne comprends pas.
 죄송하지만, 이해하지 못하겠어요=Je suis désolée, mais je ne comprends pas.
 미안하지만, 모르겠어=Je suis désolée, mais je ne comprends pas.
@@ -83,6 +87,7 @@
 혼자 살거야=Je vais vivre seule.
 나는 유죄 판결을 받았다=J’ai été condamnée.
 나는 체계적이지 못하다=Je suis désorganisée.
+지금 바빠=Je suis occupée maintenant.
 택시로 안 왔어=Je ne suis pas venue en taxi.
 죄송하지만 못하겠어요=Je suis désolée, mais je ne peux pas.
 이보다 더 좋았던 적이 없다=Je ne me suis jamais sentie aussi bien.
@@ -104,6 +109,7 @@
 조금 피곤한 기분이야=Je me sens un peu fatiguée.
 나는 비참하고 불행했어=J’étais malheureuse et malheureuse.
 난 혼자서 먹는 것을 싫어해=Je déteste manger seule.
+혼자서 일해=Je travaille seule.
 난 다시 혼자가 되고 싶지 않아=Je ne veux plus être seule.
 창피함은 안 느꼈어=Je ne me sentais pas gênée.
 나는 행복해지고 싶어=Je veux être heureuse.
@@ -148,17 +154,19 @@
 힘들지 않다=Je ne suis pas fatiguée.
 나는 은행에 갔다=Je suis allée à la banque.
 틀림없어=J'en suis absolument sûre !
+빨간불에 멈췄어=Je me suis arrêtée au feu rouge.
 나는 어제 그곳에 갔다=J'y suis allée hier.
 나는 요리를 잘한다=Je suis bonne en cuisine.
 나는 조금 혼란스럽다=Je suis un peu confuse.
 좀 헷갈리네요=Je suis un peu confuse.
 나는 변호사다=Je suis avocate.
+여기 나 혼자에요=Je suis seule ici.
 나도 캐나다 사람이에요=Je suis canadienne aussi.
 나는 더 이상 영감을 받지 못한다=Je ne suis plus inspirée.
 나는 지난 월요일에 등교하지 않았다=Je ne suis pas allée à l'école lundi dernier.
 나는 지난 월요일에 결석했다=Je ne suis pas allée à l'école lundi dernier.
 나는 자원했다=Je me suis portée volontaire.
-나 정말 살쪘어=Je suis extrêmement grosse.
+오늘 바빠=Je suis occupée aujourd'hui.
 나는 지난 밤에 도착했다=Je suis arrivée hier soir.
 나는 오스트레일리아로 돌아갔었다=Je suis retournée en Australie.
 나는 춤 추는 게 너무 좋다=J'aime danser.
@@ -202,6 +210,8 @@
 나는 한국 사람이에요=Je suis coréenne.
 저는 우크라이나 사람이에요=Je suis ukrainienne.
 나는 우크라이나 사람이에요=Je suis ukrainienne.
+학생이에요=Je suis étudiante.
+학생이야=Je suis étudiante.
 이집트 사람이에요=Je suis égyptienne.
 저는 이집트 사람입니다=Je suis égyptienne.
 나는 이집트 사람이에요=Je suis égyptienne.

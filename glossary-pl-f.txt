@@ -5,6 +5,7 @@
 길을 잃었어요=Zgubiłam się
 부럽다=Jestem zazdrosna
 아직 안 먹었어=Jeszcze nie jadłam
+일어났어=Obudziłam się.
 피곤해=Jestem zmęczona
 졸려=Jestem śpiąca
 예약하고 싶어요=Chciałabym dokonać rezerwacji
@@ -23,8 +24,10 @@
 송금하고 싶어요=Chciałabym wysłać pieniądze
 돈 보냈어=Wysłałam pieniądze
 이해 못 했어=Nie zrozumiałam
+숙제 했어=Odrobiłam pracę domową.
 시험 붙었어=Zdałam egzamin
 대학생이에요=Jestem studentką uniwersytetu
+가스 잠갔어=Wyłączyłam gaz.
 콘서트 표 샀어=Kupiłam bilety na koncert
 지갑을 잃어버렸어요=Zgubiłam portfel
 휴대폰을 잃어버렸어요=Zgubiłam telefon
@@ -38,8 +41,11 @@
 주소를 잘못 썼어요=Napisałam zły adres
 반품하고 싶어요=Chciałabym to zwrócić
 교환하고 싶어요=Chciałabym to wymienić
+살 빠졌어=Schudłam.
+앱 깔았어=Zainstalowałam aplikację.
 삭제했어=Usunęłam to
 실수로 지웠어=Usunęłam to przez pomyłkę
+양치했어=Umyłam zęby.
 취했어=Jestem pijana
 아파서 못 가=Nie mogę iść, bo jestem chora
 일부러 그런 거 아니야=Nie zrobiłam tego celowo
@@ -130,6 +136,7 @@
 나는 해야할 일을 했다=Zrobiłam, co trzeba było zrobić.
 죄책감이 들어=Czuję się winna.
 나 유괴 당한 적 있어=Zostałam porwana.
+고양이 사료 샀어=Kupiłam karmę dla kotów.
 충격이야=Jestem zszokowana.
 난 잘못한 거 없어=Nie zrobiłam nic złego.
 예약해 뒀어요=Zrobiłam rezerwację.
@@ -153,6 +160,7 @@
 다 끝냈어=Skończyłam pracę.
 병에서 코르크를 뺄 수 없었어=Nie mogłam wyciągnąć korka z butelki.
 그 때는 꽤 어렸었는데=Byłam wtedy dość młoda.
+밥은 시켰어요=Zamówiłam jedzenie.
 여름에 돈 많이 벌었어요=Latem zarobiłam dużo pieniędzy.
 저는 먹은 것이 없습니다=Nic nie jadłam.
 이보다 더 좋았던 적이 없다=Nigdy nie czułam się tak dobrze.
@@ -161,6 +169,7 @@
 나는 기절했어=Zemdlałam.
 나는 웃었어=Roześmiałam się.
 나는 늦잠잤어=Zaspałam.
+확실해=Jestem pewna.
 너무 실망했어=Byłam bardzo rozczarowana.
 나는 해외에 가고 싶었어=Chciałam wyjechać za granicę.
 나 약혼했어=Zaręczyłam się.
@@ -185,6 +194,7 @@
 난 아주 고립된 기분이었어=Poczułam się bardzo odizolowana.
 난 소외감을 느꼈어=Poczułam się wykluczona.
 조금 피곤한 기분이야=Czuję się trochę zmęczona.
+혼자서 일해=Pracuję sama.
 창피함은 안 느꼈어=Nie czułam się zawstydzona.
 나는 바보같이 굴었어=Zachowałam się jak głupiec.
 나는 쿨하게 보이려고 노력했어=Starałam się zachowywać fajnie.
@@ -199,7 +209,6 @@
 난 그 사람을 저기서 봤어=Widziałam go tam.
 나는 많이 배웠어=Wiele się nauczyłam.
 나는 스키타는 법을 배우고 싶어=Chciałabym nauczyć się jeździć na nartach.
-내 경험상 그들은 신뢰할 수 있어=Nauczyłam się im ufać.
 기타 치는 법을 배우고 싶어=Chcę nauczyć się gry na gitarze.
 난 곧 수영하는 법을 알게 되었어=Wkrótce nauczyłam się pływać.
 난 가난했었어=Kiedyś byłam biedna.
@@ -240,11 +249,14 @@
 교사입니다=Jestem nauczycielką.
 비싼 중국식당에 초대받았어요=Zostałam zaproszona do drogiej chińskiej restauracji.
 저는 미국인이 아니에요=Nie jestem Amerykanką.
+감기에 걸렸어요=Przeziębiłam się.
 윙윙거리는 소리가 들렸어=Usłyszałam brzęczący dźwięk.
 마음이 편안하다=Czuję się zrelaksowana.
 이 사진 일주일 전에 찍었어=Zrobiłam to zdjęcie tydzień temu.
 내가 날 수 있다면 좋을 텐데=Chciałabym umieć latać.
 나는 경찰을 불렀다=Zadzwoniłam na policję.
+그 남자를 전에 본 적이 있어=Widziałam już tego mężczyznę.
+그가 그들을 찾았대=Słyszałam, że je znalazł.
 내가 직접 먹을 것을 샀다=Kupiłam sobie coś do jedzenia.
 나는 이것을 사고 싶다=Chciałabym to kupić.
 나는 골프를 쳤다=Grałam w golfa.
@@ -256,6 +268,7 @@
 나는 선생님이 아니다=Nie jestem nauczycielką.
 나는 내 형제에게 사전을 주었다=Dałam bratu słownik.
 힘들지 않다=Nie jestem zmęczona.
+어제 일식 봤어=Wczoraj widziałam zaćmienie.
 나는 복종해야 한다=Muszę być posłuszna.
 나는 꽃을 샀다=Kupiłam kwiaty.
 나는 록이 좋다=Lubię rock.
@@ -267,6 +280,7 @@
 틀림없어=Jestem tego absolutnie pewna!
 나는 며칠 동안 뉴욕에 있었다=Byłam w Nowym Jorku przez kilka dni.
 그가 침대에 누워있는 것을 알았다=Znalazłam go leżącego na łóżku.
+빨간불에 멈췄어=Zatrzymałam się na czerwonym świetle.
 이 배우는 처음 들어본다=Nigdy nie słyszałam o tym aktorze.
 봤지만 아무것도 안 보였다=Patrzyłam, ale nic nie widziałam.
 나는 창문 밖을 내다보았다=Wyjrzałam przez okno.
@@ -278,8 +292,9 @@
 예약을 변경하고 싶습니다=Chciałabym zmienić rezerwację.
 나는 내 계획을 포기해야 했다=Musiałam zrezygnować ze swojego planu.
 나는 이 자전거를 공짜로 얻었다=Dostałam ten rower za darmo.
+여기 나 혼자에요=Jestem tu sama.
 나는 더 이상 영감을 받지 못한다=Nie jestem już zainspirowana.
-나는 그를 처음 봤다=Nigdy wcześniej go nie widziałam.
+나는 그를 처음 봤다=Widziałam go po raz pierwszy.
 나는 샤워를 했다=Wzięłam prysznic.
 나는 잠을 잘 잤다=Dobrze spałam.
 렌트비를 내는 것을 깜빡했다=Zapomniałam zapłacić czynsz.
@@ -291,7 +306,6 @@
 전화 통화를 좀 하고 싶었다=Chciałam wykonać kilka telefonów.
 내가 졌다=Przegrałam.
 나는 그에게 그것을 설명했다=Wyjaśniłam mu to.
-나 정말 살쪘어=Jestem wyjątkowo gruba.
 나는 불을 켰다=Włączyłam światło.
 나는 내 안경을 잃어버렸다=Zgubiłam okulary.
 돌아가지 않겠다=Nie wrócę.
@@ -301,6 +315,8 @@
 나는 베이컨의 냄새를 맡았다=Poczułam zapach bekonu.
 나는 2분 차이로 열차를 놓쳤다=Spóźniłam się na pociąg o dwie minuty.
 나는 몇 분 전에 그녀를 보았다=Widziałam ją kilka minut temu.
+설거지 했어=Zmyłam naczynia.
+난 그만두겠어=Rzuciłam.
 나는 전화했다=Zadzwoniłam.
 나는 경찰에게 말하지 않았다=Nie rozmawiałam z policją.
 실수를 몇 가지 저질렀다=Popełniłam kilka błędów.
@@ -329,11 +345,16 @@
 교토에서 태어났다=Urodziłam się w Kioto.
 1980년에 태어났습니다=Urodziłam się w 1980 roku.
 1980년에 태어났어요=Urodziłam się w 1980 roku.
+핸드폰을 깜빡했어요=Zapomniałam telefonu.
+핸드폰을 깜빡했어=Zapomniałam telefonu.
 저는 러시아 사람입니다=Jestem Rosjanką.
 나는 러시아 사람이에요=Jestem Rosjanką.
+학생이에요=Jestem studentką.
+학생이야=Jestem studentką.
 이집트 사람이에요=Jestem Egipcjanką.
 저는 이집트 사람입니다=Jestem Egipcjanką.
 나는 이집트 사람이에요=Jestem Egipcjanką.
+낮잠은 자주 자=Często robię sobie drzemkę.
 이 책을 막 읽기 시작했어요=Właśnie zaczęłam czytać tę książkę.
 저는 1980년생입니다=Urodziłam się w 1980 roku.
 저, 그만 두겠습니다=Rzuciłam.
@@ -353,3 +374,4 @@
 음식에 소금 좀 넣고있어요=Dodaję sól do jedzenia.
 지난 석 달 간 많이 배웠습니다=Wiele się nauczyłam przez ostatnie trzy miesiące.
 어제 마을에서 돌아왔어=Wczoraj wróciłam ze wsi.
+방 청소하라고 시켰어=Kazałam im posprzątać pokój.

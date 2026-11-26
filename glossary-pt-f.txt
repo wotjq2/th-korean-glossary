@@ -34,6 +34,7 @@
 난 계란이 싫어=Eu não gosto de ovo.
 지금 바빠요=Estou ocupada agora.
 나는 의사가 아닙니다=Eu não sou médica.
+난 정말 부끄러웠다=Fiquei muito envergonhada.
 오늘은 너무 바빴어=Eu estava muito ocupada hoje.
 난 6시 반에 돌아올 거야=Volto às seis e meia.
 나는 이 편지를 그에게 쓰고 있어=Estou escrevendo essa carta para ele.
@@ -48,6 +49,7 @@
 좀 놀랐어요=Estou meio surpresa.
 세상이 싫어요=Eu odeio esse mundo.
 나는 유죄 판결을 받았다=Eu fui condenada.
+지금 바빠=Estou ocupada agora.
 나는 인도 사람이 아니야=Eu não sou indiana.
 나는 혼나고 싶지 않았어=Eu não queria ser punida.
 너무 실망했어=Fiquei muito decepcionada.
@@ -64,6 +66,7 @@
 너무 피곤해서 생각을 못 하겠어=Estou cansada demais para pensar.
 조금 피곤한 기분이야=Estou me sentindo um pouco cansada.
 난 혼자서 먹는 것을 싫어해=Eu odeio comer sozinha.
+혼자서 일해=Eu trabalho sozinha.
 난 쿠키도 안 좋아해=Eu também não gosto de biscoito.
 나는 바보같이 굴었어=Eu agi como uma idiota.
 난 거미 안 무서워=Não tenho medo de aranha.
@@ -83,6 +86,7 @@
 내가 너무 늙었나 봐=Aparentemente estou muito velha.
 난 춤을 추기엔 너무 늙었어=Estou muito velha para dançar.
 난 저런 옷을 입기엔 너무 늙었어=Estou muito velha para usar algo assim.
+케이크 굽는 거 좋아해=Eu gosto de fazer bolo.
 저는 한국어를 한국에서 배웠어요=Aprendi coreano na Coreia.
 저는 한국에서 살고 있어요=Eu moro na Coreia.
 비싼 중국식당에 초대받았어요=Fui convidada para um restaurante chinês caro.
@@ -92,9 +96,10 @@
 알 것 같습니다=Acho que entendi.
 나는 조금 혼란스럽다=Estou um pouco confusa.
 좀 헷갈리네요=Estou um pouco confusa.
+여기 나 혼자에요=Estou sozinha aqui.
 나는 더 이상 영감을 받지 못한다=Não estou mais inspirada.
 제가 내겠습니다=Eu pago.
-나 정말 살쪘어=Estou extremamente gorda.
+오늘 바빠=Estou ocupada hoje.
 나는 아름답다=Eu sou linda.
 나는 거의 준비되었다=Estou quase pronta.
 물 한잔 주세요=Eu gostaria de um copo d'água, por favor.
@@ -114,6 +119,8 @@
 나는 이집트 사람이에요=Eu sou egípcia.
 이 책을 막 읽기 시작했어요=Acabei de começar a ler esse livro.
 이 책, 추천이야=Eu recomendo esse livro.
+애니메이션을 봐요=Eu assisto anime.
+애니메이션 봐=Eu assisto anime.
 배부릅니다=Estou cheia.
 배가 불러요=Estou cheia.
 배가 부릅니다=Estou cheia.
